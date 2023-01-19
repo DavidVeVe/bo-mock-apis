@@ -1,0 +1,13 @@
+{
+    "54597": {
+        "metrics": {
+            "bce": 337.8789,
+            "pct_ab_ce": 10.7488
+        },
+        "metricsSummary": {
+            "volume": 67.5956,
+            "complexity": 32.1333,
+            "interrelatedness": 0.2711
+        }
+    }
+}

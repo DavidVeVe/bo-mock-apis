@@ -1,0 +1,53 @@
+{
+  "facet": {
+    "configuration": {
+      "organizationIds": [],
+      "projectIds": []
+    }
+  },
+  "table": {
+    "userModeConfig": {
+      "organization": false,
+      "projectName": false,
+      "collectionName": false,
+      "infraTypeName": false,
+      "instanceUrl": false,
+      "instanceName": false,
+      "componentName": false,
+      "integratorName": false,
+      "scheduleIntervalPeriod": false,
+      "scheduleStartDate": false,
+      "createdBy": false,
+      "createdOn": false,
+      "lastUpdateBy": false,
+      "updatedOn": false,
+      "status": false,
+      "requestsCount": false,
+      "healthIndicator": false,
+      "firstExtractionDate": false,
+      "lastExtractionDate": false,
+      "lastValidationDate": false,
+      "lastValidationStatusCode": false
+    },
+    "mode": "userMode",
+    "activeFilters": {
+      "organization": [],
+      "projectName": "",
+      "collectionName": "",
+      "infraTypeName": [],
+      "instanceUrl": "",
+      "instanceName": "",
+      "componentName": "",
+      "integratorName": "",
+      "scheduleIntervalPeriod": "",
+      "createdBy": 	"",
+      "lastUpdateBy": "",
+      "status": []
+    },
+    "sorting": {
+      "column": "",
+      "mode": ""
+    }
+  }
+}
+

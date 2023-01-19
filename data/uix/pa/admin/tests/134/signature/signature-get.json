@@ -1,0 +1,20 @@
+[
+	{
+		"sessionId": 1421,
+		"signature": [
+			{
+				"date": 1566466261,
+				"fingerprint": "24c863fda1875f174c6b1fa448ccc089",
+				"location": "Lviv",
+				"additionalInfo": {
+					"userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/76.0.3809.100 Chrome/76.0.3809.100 Safari/537.36",
+					"operatingSystem": "Linux x86_64",
+					"language": "en-US",
+					"timezone": "-180"
+				},
+				"consoleOpened": false,
+				"terminated": null
+			}
+		]
+	}
+]

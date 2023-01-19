@@ -1,0 +1,362 @@
+{
+  "linesTotal": 2,
+  "successfullyValidated": 0,
+  "messageKey": "USERS.VALIDATE.FAIL",
+  "data": [
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nanda@apache.org",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "40",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "Kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    },
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nandakumar131@gmail.com",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "200",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    },
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nandakumar131@gmail.com",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "200",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    },
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nandakumar131@gmail.com",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "200",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    },
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nandakumar131@gmail.com",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "200",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    },
+    {
+      "Employer": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "First Name": {
+        "value": "Nanda",
+        "state": "valid"
+      },
+      "Rank": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Login": {
+        "value": "nandakumar131@gmail.com",
+        "state": "invalid",
+        "message": "Login not available in the system"
+      },
+      "City": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Segment": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Role": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Billing Rate [Per Hour / Day]": {
+        "value": "200",
+        "state": "valid"
+      },
+      "UID": {
+        "value": "test",
+        "state": "valid"
+      },
+      "Employment Status": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Country": {
+        "value": "Not Provided",
+        "state": "valid"
+      },
+      "Anonymized": {
+        "value": "false",
+        "state": "valid"
+      },
+      "Last Name": {
+        "value": "kumar",
+        "state": "valid"
+      },
+      "Employee Type": {
+        "value": "Not Provided",
+        "state": "valid"
+      }
+    }
+  ],
+  "csvRootWarning": "Mass Consolidation detected"
+}

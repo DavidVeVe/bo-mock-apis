@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Sprint 1",
+        "collectionId": 54584,
+        "created": "2018-01-29",
+        "type": "by_user",
+        "id": 368095,
+        "startDate": "2017-03-01",
+        "endDate": "2017-03-31"
+    },
+    {
+        "name": "Demo",
+        "collectionId": 54598,
+        "created": "2018-02-08",
+        "type": "by_user",
+        "id": 376217,
+        "startDate": "2018-01-01",
+        "endDate": "2018-02-08"
+    },
+    {
+        "name": "Mobile Banking App Sprint 2",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440873,
+        "startDate": "2017-01-01",
+        "endDate": "2017-03-31"
+    },
+    {
+        "name": "Mobile Banking App Sprint 1",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440874,
+        "startDate": "2017-04-01",
+        "endDate": "2017-06-30"
+    },
+    {
+        "name": "Direct Debit Sprint 2",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440875,
+        "startDate": "2017-07-01",
+        "endDate": "2017-09-30"
+    },
+    {
+        "name": "Direct Debit Sprint 1 ",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440876,
+        "startDate": "2017-10-01",
+        "endDate": "2017-12-31"
+    },
+    {
+        "name": "Imaging Processing Sprint 2",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440877,
+        "startDate": "2018-01-01",
+        "endDate": "2018-03-31"
+    },
+    {
+        "name": "Imaging processing Sprint 1",
+        "collectionId": 54598,
+        "created": "2018-04-18",
+        "type": "by_user",
+        "id": 440878,
+        "startDate": "2019-06-10",
+        "endDate": "2019-06-10"
+    },
+    {
+        "name": "test Sanity",
+        "collectionId": 54584,
+        "created": "2019-02-22",
+        "type": "by_user",
+        "id": 1030730,
+        "startDate": "2019-02-12",
+        "endDate": "2019-02-28"
+    },
+    {
+        "name": "UIXFE-557-8",
+        "collectionId": 126038,
+        "created": "2019-03-01",
+        "type": "by_user",
+        "id": 1030786,
+        "startDate": "2019-03-01",
+        "endDate": "2019-03-01"
+    },
+    {
+        "name": "UIXFE-557-10",
+        "collectionId": 126038,
+        "created": "2019-03-01",
+        "type": "by_user",
+        "id": 1030788,
+        "startDate": "2019-03-01",
+        "endDate": "2019-03-01"
+    },
+    {
+        "name": "adsfsad",
+        "collectionId": 127874,
+        "created": "2019-04-03",
+        "type": "by_user",
+        "id": 1030859,
+        "startDate": "2019-04-19",
+        "endDate": "2019-04-30"
+    },
+    {
+        "name": "adsfsad",
+        "collectionId": 127874,
+        "created": "2019-04-03",
+        "type": "by_user",
+        "id": 1030860,
+        "startDate": "2019-04-19",
+        "endDate": "2019-04-30"
+    }
+]

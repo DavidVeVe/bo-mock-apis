@@ -1,0 +1,34 @@
+[
+    {
+        "paUserId": 1,
+		"email": "testUser1@bointegration.com",
+		"firstName": "Test User 1",
+		"secondName": "Integration Test",
+		"jobTitle":	"Integration Test User",
+		"paTeamIds": [212121]
+    },
+    {
+        "paUserId": 2,
+		"email": "testUser2@bointegration.com",
+		"firstName": "Test User 2",
+		"secondName": "Integration Test",
+		"jobTitle":	"",
+		"paTeamIds": [212121]
+    },
+    {
+        "paUserId": 3,
+		"email": "testUser3@bointegration.com",
+		"firstName": "Test User 3",
+		"secondName": "Integration Test",
+		"jobTitle":	"",
+		"paTeamIds": [212121]
+    },
+    {
+        "paUserId": 4,
+		"email": "testUser4@bointegration.com",
+		"firstName": "Test User 4",
+		"secondName": "Integration Test",
+		"jobTitle":	"Integration Test User",
+		"paTeamIds": [212121]
+    }
+]

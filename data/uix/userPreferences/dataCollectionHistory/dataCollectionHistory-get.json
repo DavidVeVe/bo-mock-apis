@@ -1,0 +1,43 @@
+{
+  "facet": {
+    "configuration": {
+      "organizationIds": [
+        65,
+        250
+      ],
+      "projectIds": []
+    },
+    "dateRange": {
+      "dateFilter": "lastUpdate",
+      "standard": "Past month"
+    }
+  },
+  "table": {
+    "displayedColumns": {
+      "organizationName": true,
+      "projectName": true,
+      "collectionName": false,
+      "infraTypeName": false,
+      "instanceURL": false,
+      "instanceName": false,
+      "errorCode": false,
+      "startDate": false,
+      "endDate": false,
+      "lastUpdate": false,
+      "integratorName": false,
+      "integratorStatus": false,
+      "runResult": true,
+      "retryCount": false,
+      "acquisitionMode": false,
+      "dataSourceStatus": false,
+      "requestId": true
+    },
+    "activeFilters": {
+      "runResultStatus": "Failed"
+    },
+    "sorting": {
+      "column": "RequestId",
+      "mode": "descend"
+    }
+  }
+}

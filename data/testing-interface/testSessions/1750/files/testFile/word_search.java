@@ -1,0 +1,1 @@
+String[] fruits = ["Banana", "Orange", "Apple"];

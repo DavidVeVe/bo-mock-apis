@@ -1,0 +1,16 @@
+{
+  "taskId": 2497,
+  "active": true,
+  "name": "Query: Simple",
+  "language": "SQL",
+  "description": "<p>Write a query which returns the number of orders ever made from United States of America</p>",
+  "openedFilesList": [
+    "queries_demo.sql"
+  ],
+  "allowedFileExtensions": [
+    "sql"
+  ],
+  "spentTime": 3,
+  "timeLimit": 1200,
+  "requiresCompilation": false
+}

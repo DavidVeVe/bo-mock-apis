@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "name": "compute",
+    "description": "The extent to which code consumes CPU compared to other possible solutions to the same requirement."
+  },
+  {
+    "id": 1,
+    "name": "correctness",
+    "description": "Does the implementation produce the correct output for a range of carefully selected inputs."
+  },
+  {
+    "id": 3,
+    "name": "robustness",
+    "description": "The tolerance of a solution to corner cases that may lead to unstable solutions or failure to complete a calculation. One example might be to consider whether it works well for pathological inputs (e.g. sorted arrays for quicksort, or really large floating point numbers)."
+  },
+  {
+    "id": 5,
+    "name": "memtotal",
+    "description": "The extent to which code consumes RAM."
+  }
+]

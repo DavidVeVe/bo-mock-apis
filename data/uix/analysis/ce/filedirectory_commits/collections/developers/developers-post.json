@@ -1,0 +1,1788 @@
+{
+  "54597": {
+    "129793": {
+      "metrics": {
+        "ce_hours": 84.66,
+        "ab_ce_hours": 4.8,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "543752": {
+      "metrics": {
+        "ce_hours": 0.37,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "543753": {
+      "metrics": {
+        "ce_hours": 1.83,
+        "ab_ce_hours": 0.34,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130050": {
+      "metrics": {
+        "ce_hours": 1.4,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130562": {
+      "metrics": {
+        "ce_hours": 2.11,
+        "ab_ce_hours": 0.26,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "458242": {
+      "metrics": {
+        "ce_hours": 0.09,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "126727": {
+      "metrics": {
+        "ce_hours": 6.17,
+        "ab_ce_hours": 0.18,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130310": {
+      "metrics": {
+        "ce_hours": 11.59,
+        "ab_ce_hours": 0.75,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "509711": {
+      "metrics": {
+        "ce_hours": 22.2,
+        "ab_ce_hours": 2.35,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "509710": {
+      "metrics": {
+        "ce_hours": 0.85,
+        "ab_ce_hours": 0.08,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130315": {
+      "metrics": {
+        "ce_hours": 78.37,
+        "ab_ce_hours": 10.95,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130316": {
+      "metrics": {
+        "ce_hours": 0.71,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "254738": {
+      "metrics": {
+        "ce_hours": 212.73,
+        "ab_ce_hours": 21.93,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "144151": {
+      "metrics": {
+        "ce_hours": 5.23,
+        "ab_ce_hours": 0.5,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "509713": {
+      "metrics": {
+        "ce_hours": 3.67,
+        "ab_ce_hours": 0.61,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "509712": {
+      "metrics": {
+        "ce_hours": 5.15,
+        "ab_ce_hours": 0.72,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129818": {
+      "metrics": {
+        "ce_hours": 13.23,
+        "ab_ce_hours": 1.39,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "508441": {
+      "metrics": {
+        "ce_hours": 1.66,
+        "ab_ce_hours": 0.14,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130593": {
+      "metrics": {
+        "ce_hours": 7.13,
+        "ab_ce_hours": 0.27,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "362788": {
+      "metrics": {
+        "ce_hours": 89.78,
+        "ab_ce_hours": 10.52,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129827": {
+      "metrics": {
+        "ce_hours": 49.89,
+        "ab_ce_hours": 5.09,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "273441": {
+      "metrics": {
+        "ce_hours": 19.29,
+        "ab_ce_hours": 1.2,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "228907": {
+      "metrics": {
+        "ce_hours": 13.63,
+        "ab_ce_hours": 1.43,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "531490": {
+      "metrics": {
+        "ce_hours": 1.3,
+        "ab_ce_hours": 0.17,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "533026": {
+      "metrics": {
+        "ce_hours": 1.19,
+        "ab_ce_hours": 0.14,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129834": {
+      "metrics": {
+        "ce_hours": 56.97,
+        "ab_ce_hours": 5.18,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "334126": {
+      "metrics": {
+        "ce_hours": 13.31,
+        "ab_ce_hours": 1.1,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "416299": {
+      "metrics": {
+        "ce_hours": 3.38,
+        "ab_ce_hours": 0.24,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "456756": {
+      "metrics": {
+        "ce_hours": 0.43,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "194097": {
+      "metrics": {
+        "ce_hours": 3.36,
+        "ab_ce_hours": 0.55,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130361": {
+      "metrics": {
+        "ce_hours": 3.26,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "508222": {
+      "metrics": {
+        "ce_hours": 0.79,
+        "ab_ce_hours": 0.04,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129850": {
+      "metrics": {
+        "ce_hours": 136.54,
+        "ab_ce_hours": 15.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "463419": {
+      "metrics": {
+        "ce_hours": 2.15,
+        "ab_ce_hours": 0.35,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "470843": {
+      "metrics": {
+        "ce_hours": 0.76,
+        "ab_ce_hours": 0.06,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "470842": {
+      "metrics": {
+        "ce_hours": 3.03,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "453944": {
+      "metrics": {
+        "ce_hours": 1.26,
+        "ab_ce_hours": 0.07,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "453945": {
+      "metrics": {
+        "ce_hours": 1.16,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "464199": {
+      "metrics": {
+        "ce_hours": 1.86,
+        "ab_ce_hours": 0.27,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "451140": {
+      "metrics": {
+        "ce_hours": 30.0,
+        "ab_ce_hours": 3.15,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130114": {
+      "metrics": {
+        "ce_hours": 0.84,
+        "ab_ce_hours": 0.05,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "541260": {
+      "metrics": {
+        "ce_hours": 2.11,
+        "ab_ce_hours": 0.23,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "542796": {
+      "metrics": {
+        "ce_hours": 0.78,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "451139": {
+      "metrics": {
+        "ce_hours": 11.07,
+        "ab_ce_hours": 2.7,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "456512": {
+      "metrics": {
+        "ce_hours": 0.88,
+        "ab_ce_hours": 0.08,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129865": {
+      "metrics": {
+        "ce_hours": 3.07,
+        "ab_ce_hours": 0.36,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "137547": {
+      "metrics": {
+        "ce_hours": 3.71,
+        "ab_ce_hours": 0.19,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "144462": {
+      "metrics": {
+        "ce_hours": 3.5,
+        "ab_ce_hours": 0.3,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "256847": {
+      "metrics": {
+        "ce_hours": 3.11,
+        "ab_ce_hours": 0.44,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130636": {
+      "metrics": {
+        "ce_hours": 11.99,
+        "ab_ce_hours": 1.84,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "413780": {
+      "metrics": {
+        "ce_hours": 73.87,
+        "ab_ce_hours": 13.33,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "454228": {
+      "metrics": {
+        "ce_hours": 18.91,
+        "ab_ce_hours": 2.96,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "413781": {
+      "metrics": {
+        "ce_hours": 2.1,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "413779": {
+      "metrics": {
+        "ce_hours": 24.76,
+        "ab_ce_hours": 2.85,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130647": {
+      "metrics": {
+        "ce_hours": 3.92,
+        "ab_ce_hours": 0.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "538206": {
+      "metrics": {
+        "ce_hours": 9.41,
+        "ab_ce_hours": 1.05,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "405073": {
+      "metrics": {
+        "ce_hours": 10.47,
+        "ab_ce_hours": 1.37,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "319583": {
+      "metrics": {
+        "ce_hours": 0.5,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130652": {
+      "metrics": {
+        "ce_hours": 15.4,
+        "ab_ce_hours": 1.33,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "463961": {
+      "metrics": {
+        "ce_hours": 6.59,
+        "ab_ce_hours": 0.97,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "463960": {
+      "metrics": {
+        "ce_hours": 0.77,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "246114": {
+      "metrics": {
+        "ce_hours": 209.57,
+        "ab_ce_hours": 22.56,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "142945": {
+      "metrics": {
+        "ce_hours": 2.95,
+        "ab_ce_hours": 0.46,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130660": {
+      "metrics": {
+        "ce_hours": 72.42,
+        "ab_ce_hours": 7.85,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130150": {
+      "metrics": {
+        "ce_hours": 36.5,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129641": {
+      "metrics": {
+        "ce_hours": 9.27,
+        "ab_ce_hours": 1.52,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "511599": {
+      "metrics": {
+        "ce_hours": 0.0,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130667": {
+      "metrics": {
+        "ce_hours": 10.98,
+        "ab_ce_hours": 1.62,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "462445": {
+      "metrics": {
+        "ce_hours": 0.94,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "209774": {
+      "metrics": {
+        "ce_hours": 9.23,
+        "ab_ce_hours": 0.65,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "184428": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "140653": {
+      "metrics": {
+        "ce_hours": 2.15,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "309099": {
+      "metrics": {
+        "ce_hours": 21.6,
+        "ab_ce_hours": 2.29,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "137072": {
+      "metrics": {
+        "ce_hours": 0.4,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "444276": {
+      "metrics": {
+        "ce_hours": 21.32,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129906": {
+      "metrics": {
+        "ce_hours": 2.16,
+        "ab_ce_hours": 0.36,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "474996": {
+      "metrics": {
+        "ce_hours": 4.37,
+        "ab_ce_hours": 0.32,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "444275": {
+      "metrics": {
+        "ce_hours": 0.03,
+        "ab_ce_hours": 0.0,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "178042": {
+      "metrics": {
+        "ce_hours": 140.73,
+        "ab_ce_hours": 11.44,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438150": {
+      "metrics": {
+        "ce_hours": 0.14,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "467335": {
+      "metrics": {
+        "ce_hours": 3.45,
+        "ab_ce_hours": 0.31,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "138627": {
+      "metrics": {
+        "ce_hours": 18.35,
+        "ab_ce_hours": 2.77,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438151": {
+      "metrics": {
+        "ce_hours": 2.62,
+        "ab_ce_hours": 0.22,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129666": {
+      "metrics": {
+        "ce_hours": 91.19,
+        "ab_ce_hours": 8.21,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "524684": {
+      "metrics": {
+        "ce_hours": 4.15,
+        "ab_ce_hours": 0.65,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438147": {
+      "metrics": {
+        "ce_hours": 315.38,
+        "ab_ce_hours": 13.63,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "211589": {
+      "metrics": {
+        "ce_hours": 79.53,
+        "ab_ce_hours": 8.61,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438145": {
+      "metrics": {
+        "ce_hours": 164.24,
+        "ab_ce_hours": 16.59,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "485760": {
+      "metrics": {
+        "ce_hours": 9.71,
+        "ab_ce_hours": 0.86,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438156": {
+      "metrics": {
+        "ce_hours": 23.72,
+        "ab_ce_hours": 3.52,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "540546": {
+      "metrics": {
+        "ce_hours": 4.23,
+        "ab_ce_hours": 0.68,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129678": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "467336": {
+      "metrics": {
+        "ce_hours": 3.39,
+        "ab_ce_hours": 0.8,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "459671": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129680": {
+      "metrics": {
+        "ce_hours": 257.35,
+        "ab_ce_hours": 21.57,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "164499": {
+      "metrics": {
+        "ce_hours": 17.8,
+        "ab_ce_hours": 2.02,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "470165": {
+      "metrics": {
+        "ce_hours": 3.94,
+        "ab_ce_hours": 0.61,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "541850": {
+      "metrics": {
+        "ce_hours": 5.08,
+        "ab_ce_hours": 0.4,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130706": {
+      "metrics": {
+        "ce_hours": 63.3,
+        "ab_ce_hours": 11.32,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "438418": {
+      "metrics": {
+        "ce_hours": 0.51,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130455": {
+      "metrics": {
+        "ce_hours": 2.72,
+        "ab_ce_hours": 0.37,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "413584": {
+      "metrics": {
+        "ce_hours": 1.73,
+        "ab_ce_hours": 0.28,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "451984": {
+      "metrics": {
+        "ce_hours": 4.66,
+        "ab_ce_hours": 0.11,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "210074": {
+      "metrics": {
+        "ce_hours": 6.14,
+        "ab_ce_hours": 0.61,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "455832": {
+      "metrics": {
+        "ce_hours": 12.3,
+        "ab_ce_hours": 1.47,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "455833": {
+      "metrics": {
+        "ce_hours": 3.17,
+        "ab_ce_hours": 0.32,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129697": {
+      "metrics": {
+        "ce_hours": 64.77,
+        "ab_ce_hours": 7.76,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130465": {
+      "metrics": {
+        "ce_hours": 95.33,
+        "ab_ce_hours": 7.04,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "521127": {
+      "metrics": {
+        "ce_hours": 1.34,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129699": {
+      "metrics": {
+        "ce_hours": 12.47,
+        "ab_ce_hours": 1.7,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "162464": {
+      "metrics": {
+        "ce_hours": 4.4,
+        "ab_ce_hours": 0.3,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130213": {
+      "metrics": {
+        "ce_hours": 332.86,
+        "ab_ce_hours": 34.44,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130468": {
+      "metrics": {
+        "ce_hours": 28.38,
+        "ab_ce_hours": 4.85,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130214": {
+      "metrics": {
+        "ce_hours": 107.13,
+        "ab_ce_hours": 16.1,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130470": {
+      "metrics": {
+        "ce_hours": 18.17,
+        "ab_ce_hours": 1.0,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "456364": {
+      "metrics": {
+        "ce_hours": 7.44,
+        "ab_ce_hours": 0.85,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457644": {
+      "metrics": {
+        "ce_hours": 0.3,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "462253": {
+      "metrics": {
+        "ce_hours": 1.82,
+        "ab_ce_hours": 0.11,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457645": {
+      "metrics": {
+        "ce_hours": 1.41,
+        "ab_ce_hours": 0.15,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457642": {
+      "metrics": {
+        "ce_hours": 0.61,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "521899": {
+      "metrics": {
+        "ce_hours": 0.51,
+        "ab_ce_hours": 0.03,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457643": {
+      "metrics": {
+        "ce_hours": 8.4,
+        "ab_ce_hours": 1.42,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "310187": {
+      "metrics": {
+        "ce_hours": 18.74,
+        "ab_ce_hours": 2.06,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457641": {
+      "metrics": {
+        "ce_hours": 0.95,
+        "ab_ce_hours": 0.01,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130229": {
+      "metrics": {
+        "ce_hours": 95.25,
+        "ab_ce_hours": 11.81,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130231": {
+      "metrics": {
+        "ce_hours": 36.87,
+        "ab_ce_hours": 2.55,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "501680": {
+      "metrics": {
+        "ce_hours": 1.96,
+        "ab_ce_hours": 0.29,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "265405": {
+      "metrics": {
+        "ce_hours": 322.73,
+        "ab_ce_hours": 44.76,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "399292": {
+      "metrics": {
+        "ce_hours": 4.42,
+        "ab_ce_hours": 0.43,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "471484": {
+      "metrics": {
+        "ce_hours": 14.02,
+        "ab_ce_hours": 1.74,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130749": {
+      "metrics": {
+        "ce_hours": 34.0,
+        "ab_ce_hours": 2.2,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "178879": {
+      "metrics": {
+        "ce_hours": 7.59,
+        "ab_ce_hours": 0.65,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "518328": {
+      "metrics": {
+        "ce_hours": 7.08,
+        "ab_ce_hours": 0.82,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "458690": {
+      "metrics": {
+        "ce_hours": 13.98,
+        "ab_ce_hours": 2.68,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "458947": {
+      "metrics": {
+        "ce_hours": 14.15,
+        "ab_ce_hours": 2.27,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "469187": {
+      "metrics": {
+        "ce_hours": 5.19,
+        "ab_ce_hours": 0.36,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "194501": {
+      "metrics": {
+        "ce_hours": 31.24,
+        "ab_ce_hours": 3.06,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "213960": {
+      "metrics": {
+        "ce_hours": 39.93,
+        "ab_ce_hours": 3.51,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130764": {
+      "metrics": {
+        "ce_hours": 2.88,
+        "ab_ce_hours": 0.38,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "465354": {
+      "metrics": {
+        "ce_hours": 5.1,
+        "ab_ce_hours": 0.28,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "144082": {
+      "metrics": {
+        "ce_hours": 6.32,
+        "ab_ce_hours": 0.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "486101": {
+      "metrics": {
+        "ce_hours": 1.69,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "144081": {
+      "metrics": {
+        "ce_hours": 30.24,
+        "ab_ce_hours": 4.77,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "138710": {
+      "metrics": {
+        "ce_hours": 58.48,
+        "ab_ce_hours": 3.56,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "460754": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "485586": {
+      "metrics": {
+        "ce_hours": 0.34,
+        "ab_ce_hours": 0.03,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "460753": {
+      "metrics": {
+        "ce_hours": 1.01,
+        "ab_ce_hours": 0.03,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "525521": {
+      "metrics": {
+        "ce_hours": 2.95,
+        "ab_ce_hours": 0.42,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "156632": {
+      "metrics": {
+        "ce_hours": 3.52,
+        "ab_ce_hours": 0.17,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "473565": {
+      "metrics": {
+        "ce_hours": 1.77,
+        "ab_ce_hours": 0.32,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129757": {
+      "metrics": {
+        "ce_hours": 5.49,
+        "ab_ce_hours": 0.81,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "261088": {
+      "metrics": {
+        "ce_hours": 43.12,
+        "ab_ce_hours": 5.26,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "494308": {
+      "metrics": {
+        "ce_hours": 3.55,
+        "ab_ce_hours": 0.04,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "494307": {
+      "metrics": {
+        "ce_hours": 9.07,
+        "ab_ce_hours": 1.21,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "201701": {
+      "metrics": {
+        "ce_hours": 53.93,
+        "ab_ce_hours": 6.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130534": {
+      "metrics": {
+        "ce_hours": 4.52,
+        "ab_ce_hours": 0.15,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "472302": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "138472": {
+      "metrics": {
+        "ce_hours": 7.29,
+        "ab_ce_hours": 0.45,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "472301": {
+      "metrics": {
+        "ce_hours": 2.62,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "207848": {
+      "metrics": {
+        "ce_hours": 18.11,
+        "ab_ce_hours": 2.04,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129773": {
+      "metrics": {
+        "ce_hours": 4.31,
+        "ab_ce_hours": 0.54,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "126703": {
+      "metrics": {
+        "ce_hours": 9.0,
+        "ab_ce_hours": 1.14,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130542": {
+      "metrics": {
+        "ce_hours": 23.12,
+        "ab_ce_hours": 2.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130547": {
+      "metrics": {
+        "ce_hours": 5.59,
+        "ab_ce_hours": 0.76,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "447988": {
+      "metrics": {
+        "ce_hours": 9.58,
+        "ab_ce_hours": 1.4,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130546": {
+      "metrics": {
+        "ce_hours": 12.63,
+        "ab_ce_hours": 1.17,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130549": {
+      "metrics": {
+        "ce_hours": 2.46,
+        "ab_ce_hours": 0.26,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "447987": {
+      "metrics": {
+        "ce_hours": 5.85,
+        "ab_ce_hours": 0.55,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "442621": {
+      "metrics": {
+        "ce_hours": 3.27,
+        "ab_ce_hours": 0.17,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "182781": {
+      "metrics": {
+        "ce_hours": 28.03,
+        "ab_ce_hours": 4.79,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "379642": {
+      "metrics": {
+        "ce_hours": 49.6,
+        "ab_ce_hours": 4.14,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "535799": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    }
+  },
+  "54598": {
+    "129538": {
+      "metrics": {
+        "ce_hours": 2.8,
+        "ab_ce_hours": 0.55,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "409984": {
+      "metrics": {
+        "ce_hours": 22.08,
+        "ab_ce_hours": 1.59,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "440193": {
+      "metrics": {
+        "ce_hours": 10.73,
+        "ab_ce_hours": 1.11,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129609": {
+      "metrics": {
+        "ce_hours": 1.2,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129544": {
+      "metrics": {
+        "ce_hours": 19.23,
+        "ab_ce_hours": 2.19,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129546": {
+      "metrics": {
+        "ce_hours": 0.59,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "130963": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129490": {
+      "metrics": {
+        "ce_hours": 55.55,
+        "ab_ce_hours": 6.49,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129494": {
+      "metrics": {
+        "ce_hours": 0.64,
+        "ab_ce_hours": 0.02,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129560": {
+      "metrics": {
+        "ce_hours": 19.45,
+        "ab_ce_hours": 2.4,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "357214": {
+      "metrics": {
+        "ce_hours": 9.44,
+        "ab_ce_hours": 1.3,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129500": {
+      "metrics": {
+        "ce_hours": 14.57,
+        "ab_ce_hours": 2.04,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "227422": {
+      "metrics": {
+        "ce_hours": 3.25,
+        "ab_ce_hours": 0.17,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129503": {
+      "metrics": {
+        "ce_hours": 29.3,
+        "ab_ce_hours": 3.2,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129504": {
+      "metrics": {
+        "ce_hours": 11.13,
+        "ab_ce_hours": 0.76,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129507": {
+      "metrics": {
+        "ce_hours": 3.52,
+        "ab_ce_hours": 0.08,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129509": {
+      "metrics": {
+        "ce_hours": 12.81,
+        "ab_ce_hours": 1.58,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "494304": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "259691": {
+      "metrics": {
+        "ce_hours": 20.49,
+        "ab_ce_hours": 1.92,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "474991": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "474990": {
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129514": {
+      "metrics": {
+        "ce_hours": 22.04,
+        "ab_ce_hours": 2.82,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129516": {
+      "metrics": {
+        "ce_hours": 3.79,
+        "ab_ce_hours": 0.33,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "129587": {
+      "metrics": {
+        "ce_hours": 1.59,
+        "ab_ce_hours": 0.21,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "263091": {
+      "metrics": {
+        "ce_hours": 2.24,
+        "ab_ce_hours": 0.23,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    },
+    "457086": {
+      "metrics": {
+        "ce_hours": 5.51,
+        "ab_ce_hours": 0.76,
+        "bce": 3,
+        "ab_bce": 2,
+        "avg_bce": 0.37
+      }
+    }
+  }
+}

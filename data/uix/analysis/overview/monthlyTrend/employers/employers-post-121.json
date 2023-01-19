@@ -1,0 +1,54 @@
+{
+  "1595": [
+    {
+      "month": "2017-10",
+      "metrics": {
+        "bce": 0.0,
+        "avg_bce": 0.0
+      },
+      "totalDevelopers": 1
+    },
+    {
+      "month": "2017-11",
+      "metrics": {
+        "bce": 0.0,
+        "avg_bce": 0.0
+      },
+      "totalDevelopers": 1
+    },
+    {
+      "month": "2017-12",
+      "metrics": {
+        "bce": 3.54,
+        "avg_bce": 0.17
+      },
+      "totalDevelopers": 1
+    }
+  ],
+  "2517": [
+    {
+      "month": "2017-10",
+      "metrics": {
+        "bce": 107.19,
+        "avg_bce": 0.82
+      },
+      "totalDevelopers": 11
+    },
+    {
+      "month": "2017-11",
+      "metrics": {
+        "bce": 84.49,
+        "avg_bce": 0.85
+      },
+      "totalDevelopers": 6
+    },
+    {
+      "month": "2017-12",
+      "metrics": {
+        "bce": 44.17,
+        "avg_bce": 0.77
+      },
+      "totalDevelopers": 5
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+[{"key":"jobRoleName","name":"Job Role Name","operators":["=","!=","in","not in"],"type":"string"},{"key":"taskLanguage","name":"Task Language","operators":["=","!=","in","not in"],"type":"string"},{"key":"taskName","name":"Task Name","operators":["=","!=","in","not in"],"type":"string"}]

@@ -1,0 +1,80 @@
+{
+  "1": [
+    {
+      "productivity": 1.3016,
+      "quality": 95.7962,
+      "cost": 369.4848,
+      "quarter": "Q2-2019"
+    },
+    {
+      "productivity": 1.5348,
+      "quality": 96.0627,
+      "cost": 376.749,
+      "quarter": "Q3-2019"
+    },
+    {
+      "productivity": 1.7937,
+      "quality": 95.8699,
+      "cost": 396.221,
+      "quarter": "Q4-2019"
+    },
+    {
+      "productivity": 1.477,
+      "quality": 95.9739,
+      "cost": 494.888,
+      "quarter": "Q1-2020"
+    }
+  ],
+  "2": [
+    {
+      "productivity": 1.5027,
+      "quality": 96.2039,
+      "cost": 501.7556,
+      "quarter": "Q2-2019"
+    },
+    {
+      "productivity": 1.5445,
+      "quality": 96.258,
+      "cost": 495.4842,
+      "quarter": "Q3-2019"
+    },
+    {
+      "productivity": 1.4484,
+      "quality": 96.2265,
+      "cost": 487.3296,
+      "quarter": "Q4-2019"
+    },
+    {
+      "productivity": 1.477,
+      "quality": 95.9739,
+      "cost": 494.888,
+      "quarter": "Q1-2020"
+    }
+  ],
+  "3": [
+    {
+      "productivity": 1.3967,
+      "quality": 95.1755,
+      "cost": 570.1342,
+      "quarter": "Q2-2019"
+    },
+    {
+      "productivity": 1.3042,
+      "quality": 95.1468,
+      "cost": 443.3249,
+      "quarter": "Q3-2019"
+    },
+    {
+      "productivity": 1.3314,
+      "quality": 95.1908,
+      "cost": 465.5112,
+      "quarter": "Q4-2019"
+    },
+    {
+      "productivity": 1.3747,
+      "quality": 94.9349,
+      "cost": 478.4441,
+      "quarter": "Q1-2020"
+    }
+  ]
+}

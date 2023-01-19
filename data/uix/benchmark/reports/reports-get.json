@@ -1,0 +1,13 @@
+{
+  "reports": [
+    {"quarter":"Q1-2020","generationDate":"2020-05-04"},
+    {"quarter":"Q4-2019","generationDate":"2020-05-04"},
+    {"quarter":"Q3-2019","generationDate":"2020-05-04"},
+    {"quarter":"Q2-2019","generationDate":"2020-05-04"}],
+  "organizations": [
+    {"organizationId":252,"peerGroup":"Software & IT Services", "economicSector": "Economic Sector 1"},
+    {"organizationId":247,"peerGroup":"Software & IT Services", "economicSector": "Economic Sector 2"},
+    {"organizationId":251,"peerGroup":"Software & IT Services", "economicSector": "Economic Sector 3"},
+    {"organizationId":248,"peerGroup":"Software & IT Services", "economicSector": "Economic Sector 4"}
+  ]
+}

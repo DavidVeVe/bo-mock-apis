@@ -1,0 +1,20 @@
+{
+  "15993": {
+    "totalDevelopers": 1,
+    "metrics": {
+      "ce_hours": 0.0,
+      "ab_bce": 0.0,
+      "bce": 0.0,
+      "avg_bce": 0.0
+    }
+  },
+  "15979": {
+    "totalDevelopers": 29,
+    "metrics": {
+      "ce_hours": 1060.26,
+      "ab_bce": 74.58,
+      "bce": 798.13,
+      "avg_bce": 1.19
+    }
+  }
+}

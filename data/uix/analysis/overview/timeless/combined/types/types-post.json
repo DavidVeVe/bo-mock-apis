@@ -1,0 +1,80 @@
+{
+  "336": {
+    "metrics": {
+      "cost_per_avg_bce": 67334.662,
+      "bottom_up_cost": 2.2964970670964E9,
+      "avg_bce": 0.816
+    },
+    "totalDevelopers": 421,
+    "costPct": {
+      "clientProvided": 3.0879,
+      "boCalculated": 96.6746,
+      "notAvailableOrInvalid": 0.2375
+    }
+  },
+  "488": {
+    "metrics": {
+      "cost_per_avg_bce": null,
+      "bottom_up_cost": null,
+      "avg_bce": 0.8054
+    },
+    "totalDevelopers": 1,
+    "costPct": {
+      "clientProvided": 0.0,
+      "boCalculated": 0.0,
+      "notAvailableOrInvalid": 100.0
+    }
+  },
+  "490": {
+    "metrics": {
+      "cost_per_avg_bce": 1105.6537,
+      "bottom_up_cost": 285360.0,
+      "avg_bce": 0.89
+    },
+    "totalDevelopers": 1,
+    "costPct": {
+      "clientProvided": 0.0,
+      "boCalculated": 100.0,
+      "notAvailableOrInvalid": 0.0
+    }
+  },
+  "475": {
+    "metrics": {
+      "cost_per_avg_bce": 960.9607,
+      "bottom_up_cost": 275520.0,
+      "avg_bce": 1.024
+    },
+    "totalDevelopers": 1,
+    "costPct": {
+      "clientProvided": 100.0,
+      "boCalculated": 0.0,
+      "notAvailableOrInvalid": 0.0
+    }
+  },
+  "523": {
+    "metrics": {
+      "cost_per_avg_bce": 527.7593,
+      "bottom_up_cost": 146227.2,
+      "avg_bce": 0.5821
+    },
+    "totalDevelopers": 1,
+    "costPct": {
+      "clientProvided": 100.0,
+      "boCalculated": 0.0,
+      "notAvailableOrInvalid": 0.0
+    }
+  },
+  "478": {
+    "metrics": {
+      "cost_per_avg_bce": 30413.431,
+      "bottom_up_cost": 2.953595344E7,
+      "avg_bce": 0.911
+    },
+    "totalDevelopers": 3,
+    "costPct": {
+      "clientProvided": 66.6667,
+      "boCalculated": 33.3333,
+      "notAvailableOrInvalid": 0.0
+    }
+  }
+}

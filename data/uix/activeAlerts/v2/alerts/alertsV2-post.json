@@ -1,0 +1,1012 @@
+{
+  "metaData":{
+    "page": 1,
+    "perPage": 10,
+    "pageCount": 2,
+    "totalCount": 18,
+    "availableAlertTypes": [
+      { "alertType": "vulnerability", "category": "warnings" },
+      { "alertType": "vulnerability", "category": "informative" },
+      { "alertType": "weeklyFileMaintainability", "category": "warnings" }
+    ]
+  },
+  "result": [
+    {
+      "alertId": 15222,
+      "status": "unread",
+      "type": "vulnerability",
+      "category": "warnings",
+      "created": 1557403212,
+      "alertData": {
+        "collectionId": 126574,
+        "projectId": 16438,
+        "dependencies": [
+          {
+            "commit": {
+              "id": 1234,
+              "link": "http://test-url"
+            },
+            "dateTime": 1557403212,
+            "type": "bin",
+            "developerId": 1,
+            "dependencyName": "guava 18",
+            "vulnerabilities": "Critical",
+            "dependencyId": 1234
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 15223,
+      "status": "unread",
+      "type": "vulnerability",
+      "category": "informative",
+      "created": 1557403212,
+      "alertData": {
+        "collectionId": 126574,
+        "projectId": 16438,
+        "dependencies": [],
+        "error": {
+          "messageKey": "E10",
+          "message": "Error with microservice"
+        }
+      }
+    },
+    {
+      "alertId": 15254,
+      "status": "unread",
+      "type": "weekendWork",
+      "category": "warnings",
+      "created": 1561396672,
+      "alertData": {
+        "collectionId": 126442,
+        "projectId": 15980,
+        "commits": [
+          {
+            "developerId": 455833,
+            "dateTime": 1561347036,
+            "commit": {
+              "id": "b81da1583538d6900f5016a157cac13ba20e472e",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ]
+            },
+            "infraId": 229107,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "ddl.git"
+          },
+          {
+            "developerId": 455833,
+            "dateTime": 1561260641,
+            "commit": {
+              "id": "c77cefb3f0fae7541ea05d433085852431a7f413",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ]
+            },
+            "infraId": 229107,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "ddl.git"
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 15077,
+      "status": "read",
+      "type": "activityWithoutTask",
+      "category": "warnings",
+      "created": 1555608008,
+      "alertData": {
+        "collectionId": 1495,
+        "projectId": 265,
+        "developers": [
+          {
+            "developerId": 16262,
+            "dateTime": 1469074334,
+            "commit": {
+              "id": "1753638"
+            },
+            "infraId": 4685,
+            "infraUrl": "https//Repo4685.org",
+            "infraName": "Instance4685",
+            "possibleFalsePositive": true
+          },
+          {
+            "developerId": 16262,
+            "dateTime": 1469128669,
+            "commit": {
+              "id": "1753725",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ]
+            },
+            "infraId": 4685,
+            "infraUrl": "https//Repo4685.org",
+            "infraName": "Instance4685",
+            "possibleFalsePositive": true
+          },
+          {
+            "developerId": 16262,
+            "dateTime": 1469128669,
+            "commit": {
+              "id": "1753725",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ]
+            },
+            "infraId": 4685,
+            "infraUrl": "https//Repo4685.org",
+            "infraName": "Instance4685",
+            "possibleFalsePositive": false
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 15026,
+      "status": "unread",
+      "type": "commitCommentLength",
+      "category": "informative",
+      "created": 1543795200,
+      "alertData": {
+        "collectionId": 54597,
+        "projectId": 10251,
+        "commits": [
+          {
+            "infraId": 62178,
+            "commit": {
+              "id": "d4b1da839e16c2a1752d6020f3470b4fbe94843b",
+              "comment": "xxx xxx: xxx xxxxxxx xxxxxxx",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ]
+            },
+            "dateTime": 1541692717,
+            "developerId": 130213,
+            "infraUrl": "https//Repo62178.org",
+            "infraName": "Instance62178"
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 15028,
+      "status": "unread",
+      "type": "rapidCommit",
+      "category": "warnings",
+      "created": 1543795200,
+      "alertData": {
+        "collectionId": 54584,
+        "projectId": 15986,
+        "commits": [
+          {
+            "infraId": 62164,
+            "commit": {
+              "id": "939827daa65b61431cdb66d0ac266b902b8734c4",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ],
+              "comment": "xxxxxx-15900. xxxxxx xxxx xxxxxxxx xx xxxxxxx.xxx.xx(xxxxxx xxxxxx xxxx xxxxxx x43xx5xx0xx80958xx873xx1xx2xx00054x37175)xxxxxxxxxxx:x\txxxxxxx.xxxx"
+            },
+            "dateTime": 1541407876,
+            "developerId": 455833,
+            "infraUrl": "https//Repo62164.org",
+            "infraName": "Instance62164"
+          },
+          {
+            "infraId": 62164,
+            "commit": {
+              "id": "1f3899fa3b46543e49702f71ce7641463a893886",
+              "excluded": true,
+              "exclusionTypes": [
+                {
+                  "exclusionTypeId": 1,
+                  "exclusionTypeName": "exclusion A"
+                },
+                {
+                  "exclusionTypeId": 2,
+                  "exclusionTypeName": "exclusion B"
+                }
+              ],
+              "comment": "xxxxxx-15900. xxxxxx xxxx xxxxxxxx xx xxxxxxx.xxx.xx(xxxxxx xxxxxx xxxx xxxxxx x43xx5xx0xx80958xx873xx1xx2xx00054x37175)xxxxxxxxxxx:x\txxxxxxx.xxxx(xxxxxx xxxxxx xxxx xxxxxx 939827xxx65x61431xxx66x0xx266x902x8734x4)x"
+            },
+            "dateTime": 1541407876,
+            "developerId": 455833,
+            "infraUrl": "https//Repo62164.org",
+            "infraName": "Instance62164"
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 536,
+      "status": "unread",
+      "type": "noActivity",
+      "category": "warnings",
+      "created": 1557237543,
+      "alertData": {
+        "collectionId": 82284,
+        "projectId": 16022,
+        "developers": [
+          {
+            "developerId": 455410,
+            "lastActivity": 1554944547,
+            "commit": {
+              "id": "074533334d01afdd7862a1ac6c5a7a672bcce3f8"
+            },
+            "infraId": 206430,
+            "infraUrl": "https://github.com/apache",
+            "infraName": "spark.git"
+          },
+          {
+            "developerId": 126684,
+            "lastActivity": 1555027925,
+            "commit": {
+              "id": "cf4efcab3b66271745b7be5db30fdc5ae656d06c"
+            },
+            "infraId": 206429,
+            "infraUrl": "https://github.com/apache",
+            "infraName": "hadoop.git"
+          },
+          {
+            "developerId": 455363,
+            "lastActivity": 1554993437,
+            "commit": {
+              "id": "75ba719ddd3655df97130dd294d9536d7654a422"
+            },
+            "infraId": 206429,
+            "infraUrl": "https://github.com/apache",
+            "infraName": "hadoop.git"
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 372,
+      "status": "unread",
+      "type": "fileMaintainabilityChange",
+      "category": "warnings",
+      "created": 1556711812,
+      "alertData": {
+        "collectionId": 82283,
+        "projectId": 16021,
+        "files": [
+          {
+            "file": {
+              "path": "src/com/blueoptima/connectors/cs/client/CommunicationProxy.java",
+              "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+              "type": "java"
+            },
+            "infraId": 206431,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 453094,
+              "dateTime": 1550082179,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "615a4d419703829f6295c193a82c5a789e3a9b9a",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 360,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "warnings",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 54597,
+        "projectId": 10251,
+        "files": [
+          {
+            "file": {
+              "path": "common/network-common/src/main/java/org/apache/spark/network/crypto/authclientbootstrap.java",
+              "type": "java"
+            },
+            "rank": 3,
+            "infraId": 62178,
+            "infraUrl": "https//Repo62178.org",
+            "infraName": "Instance62178",
+            "lastCommit": {
+              "developerId": 129680,
+              "dateTime": 1501030646,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "1bfd1a83b5e18f42bf76c1d72cd0347ff578e9cd",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "examples/src/main/python/mllib/hypothesis_testing_kolmogorov_smirnov_test_example.py",
+              "type": "py"
+            },
+            "rank": 4,
+            "infraId": 62178,
+            "infraUrl": "https//Repo62178.org",
+            "infraName": "Instance62178",
+            "lastCommit": {
+              "developerId": 130226,
+              "dateTime": 1458812094,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "dd9ca7b9607cb4ade287b646905d92064ac94d6f"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 361,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 54598,
+        "projectId": 10252,
+        "files": [
+          {
+            "file": {
+              "path": "test/unit/org/apache/cassandra/thrift/thriftvalidationtest.java",
+              "type": "java"
+            },
+            "rank": -2,
+            "infraId": 62177,
+            "infraUrl": "https//Repo62177.org",
+            "infraName": "Instance62177",
+            "lastCommit": {
+              "developerId": 129500,
+              "dateTime": 1433769902,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "3ddd17b77ca39634badf62b0eaf39632d39fe008",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 363,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82269,
+        "projectId": 15991,
+        "files": [
+          {
+            "file": {
+              "path": "src/main/java/org/dockfx/demo/DockFX.java",
+              "type": "java"
+            },
+            "rank": -1,
+            "infraId": 206278,
+            "infraUrl": "https://github.com/RobertBColton",
+            "infraName": "DockFX.git",
+            "lastCommit": {
+              "developerId": 453656,
+              "dateTime": 1524858129,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "f369da84946be36b30dcc5db1551c86412e3e5a1",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 364,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82267,
+        "projectId": 15989,
+        "files": [
+          {
+            "file": {
+              "path": "src/com/blueoptima/connectors/bugs/jira/client/rest/JiraResponseReader.java",
+              "type": "java"
+            },
+            "rank": 1,
+            "infraId": 206432,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452028,
+              "dateTime": 1525693111,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "c98a1fca94c9f6e5c56b05bead6043731ee03426",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "src/com/blueoptima/connectors/cs/client/stub/centralserver/CentralServerService.java",
+              "type": "java"
+            },
+            "rank": -1,
+            "infraId": 206432,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 453094,
+              "dateTime": 1550156524,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "092edf0abe21709e42ff810db277e245ff40bb0b"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "src/com/blueoptima/discovery/constants/AutoDiscoveryConstants.java",
+              "type": "java"
+            },
+            "rank": 2,
+            "infraId": 206432,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452028,
+              "dateTime": 1541759226,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "8dc42d96b9caf6396e4faf00838207f17c58129d"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 365,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82280,
+        "projectId": 16018,
+        "files": [
+          {
+            "file": {
+              "path": "SRC/empInfo.java",
+              "type": "java"
+            },
+            "rank": 1,
+            "infraId": 206525,
+            "infraUrl": "https://github.com/RajatDevSharma",
+            "infraName": "sampleProject.git",
+            "lastCommit": {
+              "developerId": 452013,
+              "dateTime": 1515588224,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "53239ae23ae241afac4b03bc5333af66422148bf",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 366,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 54584,
+        "projectId": 10249,
+        "files": [
+          {
+            "file": {
+              "path": "hadoop-hdds/common/src/main/java/org/apache/hadoop/ozone/common/blockgroup.java",
+              "type": "java"
+            },
+            "rank": -5,
+            "infraId": 62164,
+            "infraUrl": "https//Repo62164.org",
+            "infraName": "Instance62164",
+            "lastCommit": {
+              "developerId": 126711,
+              "dateTime": 1525729338,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "3a43ac2851f5dea4deb8a1dfebf9bf65fc57bd76",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/protocolrecords/impl/pb/containerupdaterequestpbimpl.java",
+              "type": "java"
+            },
+            "rank": 2,
+            "infraId": 62164,
+            "infraUrl": "https//Repo62164.org",
+            "infraName": "Instance62164",
+            "lastCommit": {
+              "developerId": 126689,
+              "dateTime": 1501820140,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "88d6adf419a94f1ca011a659dbf10a550973dd01"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity/testcapacityschedulerlazypreemption.java",
+              "type": "java"
+            },
+            "rank": -3,
+            "infraId": 62164,
+            "infraUrl": "https//Repo62164.org",
+            "infraName": "Instance62164",
+            "lastCommit": {
+              "developerId": 126673,
+              "dateTime": 1512086213,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "a63d19d36520fa55bf523483f14329756f6eadd3"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 362,
+      "status": "unread",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82260,
+        "projectId": 15985,
+        "files": [
+          {
+            "file": {
+              "path": "src/school/management/system/Student.java",
+              "type": "java"
+            },
+            "rank": -2,
+            "infraId": 231629,
+            "infraUrl": "https://git.blueoptima.com/scm/~goyalaa",
+            "infraName": "internproject.git",
+            "lastCommit": {
+              "developerId": 455235,
+              "dateTime": 1549546895,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "0c29bc2e370224b475e488a325f49dd59a1b2a0b",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "src/school/management/system/Consumers/Clerks.java",
+              "type": "java"
+            },
+            "rank": 2,
+            "infraId": 231630,
+            "infraUrl": "https://git.blueoptima.com/scm/~tiwarish",
+            "infraName": "internproject.git",
+            "lastCommit": {
+              "developerId": 455234,
+              "dateTime": 1552658505,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "b40b35987b417bb10525378930e09f767f369037"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "src/school/management/system/School.java",
+              "type": "java"
+            },
+            "rank": 1,
+            "infraId": 231629,
+            "infraUrl": "https://git.blueoptima.com/scm/~goyalaa",
+            "infraName": "internproject.git",
+            "lastCommit": {
+              "developerId": 455234,
+              "dateTime": 1552658505,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "b40b35987b417bb10525378930e09f767f369037"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 353,
+      "status": "read",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 54585,
+        "projectId": 10249,
+        "files": [
+          {
+            "file": {
+              "path": "hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/testencryptionzonesapi.java",
+              "type": "java"
+            },
+            "rank": -1,
+            "infraId": 62165,
+            "infraUrl": "https//Repo62165.org",
+            "infraName": "Instance62165",
+            "lastCommit": {
+              "developerId": 126672,
+              "dateTime": 1405112087,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "d79f27b429410daa6770a51867d7ecea728dff89",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/crypto/cryptoinputstream.java",
+              "type": "java"
+            },
+            "rank": -4,
+            "infraId": 62165,
+            "infraUrl": "https//Repo62165.org",
+            "infraName": "Instance62165",
+            "lastCommit": {
+              "developerId": 126727,
+              "dateTime": 1510042174,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "ccf5cfde48f3a964cfd5d6012ff0f7128abb2b72"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/webapp/dao/appstate.java",
+              "type": "java"
+            },
+            "rank": -3,
+            "infraId": 62165,
+            "infraUrl": "https//Repo62165.org",
+            "infraName": "Instance62165",
+            "lastCommit": {
+              "developerId": 126715,
+              "dateTime": 1474731781,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "0e4a5611ff0ba66378494f5f2960b136d5d15a6e"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 354,
+      "status": "read",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82253,
+        "projectId": 15983,
+        "files": [
+          {
+            "file": {
+              "path": "src/com/blueoptima/discovery/aspects/api/stats/ADStatsAspectHandler.java",
+              "type": "java"
+            },
+            "rank": 3,
+            "infraId": 206149,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452028,
+              "dateTime": 1546852328,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "3048cf46fd99bef57730303bcc31089e3caf066c",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "unitTests/src/com/blueoptima/connectors/cs/client/dto/creators/ValidationResultCreatorTest.java",
+              "type": "java"
+            },
+            "rank": -2,
+            "infraId": 206149,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452022,
+              "dateTime": 1542608462,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "4c25c94d8db2f226075d68bfbb5127fe8a7df018"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "unitTests/src/com/blueoptima/connectors/commands/InitialConfigRetrieverTest.java",
+              "type": "java"
+            },
+            "rank": 5,
+            "infraId": 206149,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452022,
+              "dateTime": 1549924413,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "1b8e8daf2a21782b266eb93a7c9c566a137db3ea"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "alertId": 355,
+      "status": "new",
+      "type": "weeklyFileMaintainability",
+      "category": "informative",
+      "created": 1556711636,
+      "alertData": {
+        "collectionId": 82283,
+        "projectId": 16021,
+        "files": [
+          {
+            "file": {
+              "path": "src/com/blueoptima/connectors/cs/client/stub/centralserver/RefreshPeriodExceededException_Exception.java",
+              "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+              "type": "java"
+            },
+            "rank": -3,
+            "infraId": 206431,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 453094,
+              "dateTime": 1550082179,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "615a4d419703829f6295c193a82c5a789e3a9b9a",
+                "excluded": true,
+                "exclusionTypes": [
+                  {
+                    "exclusionTypeId": 1,
+                    "exclusionTypeName": "exclusion A"
+                  },
+                  {
+                    "exclusionTypeId": 2,
+                    "exclusionTypeName": "exclusion B"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "src/com/blueoptima/connectors/cs/client/stub/centralserver/AuthTokenExpiredException_Exception.java",
+              "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+              "type": "java"
+            },
+            "rank": -3,
+            "infraId": 206431,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 453094,
+              "dateTime": 1550082179,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "615a4d419703829f6295c193a82c5a789e3a9b9a"
+              }
+            }
+          },
+          {
+            "file": {
+              "path": "unitTests/src/com/blueoptima/connectors/scr/dataProvider/IntegratorAuthenticationHandlerTestDataProvider.java",
+              "type": "java"
+            },
+            "rank": -2,
+            "infraId": 206431,
+            "infraUrl": "https://git.blueoptima.com/scm/karmis",
+            "infraName": "integrator.git",
+            "lastCommit": {
+              "developerId": 452022,
+              "dateTime": 1550064225,
+              "commit": {
+                "link": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96",
+                "id": "9fa3cd9b5067a8d337b2cfb338f1ee67a92ed000"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "testId": 134,
+  "taskId": 51,
+  "paJobRoleId": 29,
+  "candidateId": 76,
+  "origin": true,
+  "status": "complete",
+  "summary": {
+    "score": 0.0,
+    "timeRemaining": 0,
+    "effectiveTimeUsed": 600,
+    "submissionsList": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "2463": {
+    "id": 2463,
+    "name": "Favorite Test",
+    "analysisLevel": "developers",
+    "highlightedItemId": null,
+    "updatePeriod": null,
+    "liveData": null,
+    "selectedChart": "Cumulative and discrete activity",
+    "orgId": null,
+    "description": "Report for Aaaii.130785@EnterPrise39.org, Aamfp.130560@EnterPrise39.org and 16 others in the repository collections Collection-54597, Collection-54598 in the projects Bugzilla Data, Project-10252from 2017-08-01 to 2019-04-30",
+    "inAccessibleData": null,
+    "mainConfiguration": {
+      "collectionIds": null,
+      "developerIds": [
+        130934,
+        130137,
+        130168,
+        130971,
+        384979,
+        130781,
+        129532,
+        129538,
+        130785,
+        130560,
+        147889,
+        130314,
+        130611,
+        152741,
+        130466,
+        130247,
+        138901,
+        130123
+      ],
+      "organizationIds": null,
+      "projectIds": null,
+      "employerIds": null,
+      "empty": false
+    },
+    "facetConfiguration": {
+      "collectionIds": [
+        54597,
+        54598
+      ],
+      "developerIds": [
+        130611,
+        130123,
+        130247,
+        130466,
+        130785,
+        130560,
+        130781,
+        129532,
+        130971,
+        130137,
+        138901,
+        130168,
+        130934,
+        130314,
+        152741,
+        384979,
+        147889,
+        129538
+      ],
+      "organizationIds": [
+        65,
+        250
+      ],
+      "projectIds": [
+        10252,
+        17887
+      ],
+      "employerIds": [
+        1392,
+        1674,
+        1675,
+        1676,
+        1565,
+        1673,
+        1253
+      ],
+      "empty": false
+    },
+    "dateRangeFrom": "2017-08-01",
+    "dateRangeTo": "2019-04-30",
+    "aggregationLevel": "months",
+    "displayOptions": {
+      "displayAverage": false,
+      "metrics": [
+        "bce"
+      ],
+      "displayAverageForAll": false
+    },
+    "showOnlyActive": false,
+    "clickThrough": null,
+    "disabled": false
+  }
+}

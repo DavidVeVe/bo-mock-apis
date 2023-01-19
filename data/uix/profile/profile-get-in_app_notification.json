@@ -1,0 +1,79 @@
+{
+  "userInfo": {
+    "title": null,
+    "firstname": "Test In App",
+    "surname": "Notification",
+    "e-mail": "in_app_notification@uix.com"
+  },
+  "tours": {
+    "isTourForSlideoverEnabled": false,
+    "isSmallTourForOpenClickthroughEnabled": false,
+    "isTourForFacetEnabled": true,
+    "isTourForChartsEnabled": true,
+    "isTourForOverviewEnabled": false,
+    "isTourForDraggableEnabled": false
+  },
+  "lastLogin": "2019-06-10 15:46:02",
+  "currency": {
+    "code": "USD",
+    "symbol": "US$"
+  },
+  "blocks": [
+    {
+      "name": "predictiveAssessment",
+      "visibility": "",
+      "position": 3
+    },
+    {
+      "name": "codingEffortReport",
+      "visibility": "visible",
+      "position": 1
+    },
+    {
+      "name": "favorites",
+      "visibility": "visible",
+      "position": 2
+    },
+    {
+      "name": "benchmark",
+      "visibility": "visible",
+      "position": 0
+    }
+  ],
+  "subscriptions": {
+    "predictiveAssessment": true,
+    "benchmarks": true
+  },
+  "newOptionNotification": [],
+  "promotion": {
+    "overview": false,
+    "predictiveAssessment": true,
+    "reviewDeliverables": false,
+    "analyseCodingEffort": false,
+    "benchmark": false
+  },
+  "pageAccess": [
+    "overview",
+    "analyseCodingEffort",
+    "reviewDeliverables",
+    "manageCustomDeliverables",
+    "manageSystemDeliverables",
+    "activeAlerts",
+    "manageIntegrators",
+    "manageDevelopers",
+    "biDatasets",
+    "manageProjectsAndCollections",
+    "dataCollectionHistory",
+    "accessManagement",
+    "configureDataSources",
+    "apiDocs",
+    "benchmark",
+    "autoDiscovery",
+    "predictiveAssessment"
+  ],
+  "costData": true,
+  "fullEnterpriseAccess": true,
+  "isSAML": false,
+  "isNewUser": false,
+  "isEnterpriseSAML": false
+}

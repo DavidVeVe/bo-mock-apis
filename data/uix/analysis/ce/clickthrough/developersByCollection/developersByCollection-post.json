@@ -1,0 +1,7515 @@
+{
+  "543752": {
+    "metrics": {
+      "ce_hours": 0.37,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 75.17,
+      "complexity": 24.83,
+      "interrelatedness": 0.0
+    }
+  },
+  "178179": {
+    "metrics": {
+      "ce_hours": 10.44,
+      "pct_ab_ce": 12.99
+    },
+    "metricsSummary": {
+      "volume": 71.76,
+      "complexity": 28.24,
+      "interrelatedness": 0.0
+    }
+  },
+  "543753": {
+    "metrics": {
+      "ce_hours": 1.83,
+      "pct_ab_ce": 18.42
+    },
+    "metricsSummary": {
+      "volume": 76.29,
+      "complexity": 23.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "130050": {
+    "metrics": {
+      "ce_hours": 57.33,
+      "pct_ab_ce": 1.17
+    },
+    "metricsSummary": {
+      "volume": 95.61,
+      "complexity": 4.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "151559": {
+    "metrics": {
+      "ce_hours": 17.06,
+      "pct_ab_ce": 11.78
+    },
+    "metricsSummary": {
+      "volume": 74.33,
+      "complexity": 25.67,
+      "interrelatedness": 0.0
+    }
+  },
+  "163863": {
+    "metrics": {
+      "ce_hours": 0.81,
+      "pct_ab_ce": 6.97
+    },
+    "metricsSummary": {
+      "volume": 72.26,
+      "complexity": 27.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "315411": {
+    "metrics": {
+      "ce_hours": 3.2,
+      "pct_ab_ce": 13.78
+    },
+    "metricsSummary": {
+      "volume": 71.59,
+      "complexity": 28.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "130078": {
+    "metrics": {
+      "ce_hours": 59.74,
+      "pct_ab_ce": 10.33
+    },
+    "metricsSummary": {
+      "volume": 73.16,
+      "complexity": 25.67,
+      "interrelatedness": 1.17
+    }
+  },
+  "136226": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "136227": {
+    "metrics": {
+      "ce_hours": 2.02,
+      "pct_ab_ce": 6.42
+    },
+    "metricsSummary": {
+      "volume": 78.45,
+      "complexity": 21.55,
+      "interrelatedness": 0.0
+    }
+  },
+  "273441": {
+    "metrics": {
+      "ce_hours": 38.75,
+      "pct_ab_ce": 8.72
+    },
+    "metricsSummary": {
+      "volume": 75.19,
+      "complexity": 24.81,
+      "interrelatedness": 0.0
+    }
+  },
+  "143396": {
+    "metrics": {
+      "ce_hours": 2.14,
+      "pct_ab_ce": 25.03
+    },
+    "metricsSummary": {
+      "volume": 73.71,
+      "complexity": 26.29,
+      "interrelatedness": 0.0
+    }
+  },
+  "175140": {
+    "metrics": {
+      "ce_hours": 2.56,
+      "pct_ab_ce": 3.16
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "531490": {
+    "metrics": {
+      "ce_hours": 1.3,
+      "pct_ab_ce": 12.97
+    },
+    "metricsSummary": {
+      "volume": 71.44,
+      "complexity": 28.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "130099": {
+    "metrics": {
+      "ce_hours": 4.31,
+      "pct_ab_ce": 14.18
+    },
+    "metricsSummary": {
+      "volume": 75.99,
+      "complexity": 24.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "456756": {
+    "metrics": {
+      "ce_hours": 0.43,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.29,
+      "complexity": 38.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "130098": {
+    "metrics": {
+      "ce_hours": 28.6,
+      "pct_ab_ce": 13.46
+    },
+    "metricsSummary": {
+      "volume": 74.28,
+      "complexity": 25.72,
+      "interrelatedness": 0.0
+    }
+  },
+  "134202": {
+    "metrics": {
+      "ce_hours": 2.27,
+      "pct_ab_ce": 10.92
+    },
+    "metricsSummary": {
+      "volume": 70.22,
+      "complexity": 29.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "134203": {
+    "metrics": {
+      "ce_hours": 2.23,
+      "pct_ab_ce": 4.58
+    },
+    "metricsSummary": {
+      "volume": 76.14,
+      "complexity": 23.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "134201": {
+    "metrics": {
+      "ce_hours": 54.98,
+      "pct_ab_ce": 11.74
+    },
+    "metricsSummary": {
+      "volume": 74.47,
+      "complexity": 23.57,
+      "interrelatedness": 1.96
+    }
+  },
+  "160830": {
+    "metrics": {
+      "ce_hours": 1.5,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.57,
+      "complexity": 31.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "160831": {
+    "metrics": {
+      "ce_hours": 7.54,
+      "pct_ab_ce": 7.28
+    },
+    "metricsSummary": {
+      "volume": 73.21,
+      "complexity": 26.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "130113": {
+    "metrics": {
+      "ce_hours": 54.89,
+      "pct_ab_ce": 15.46
+    },
+    "metricsSummary": {
+      "volume": 75.89,
+      "complexity": 24.11,
+      "interrelatedness": 0.0
+    }
+  },
+  "279620": {
+    "metrics": {
+      "ce_hours": 1.32,
+      "pct_ab_ce": 2.97
+    },
+    "metricsSummary": {
+      "volume": 71.36,
+      "complexity": 28.64,
+      "interrelatedness": 0.0
+    }
+  },
+  "279621": {
+    "metrics": {
+      "ce_hours": 12.96,
+      "pct_ab_ce": 14.23
+    },
+    "metricsSummary": {
+      "volume": 72.14,
+      "complexity": 27.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "130114": {
+    "metrics": {
+      "ce_hours": 10.73,
+      "pct_ab_ce": 7.26
+    },
+    "metricsSummary": {
+      "volume": 72.44,
+      "complexity": 26.2,
+      "interrelatedness": 1.36
+    }
+  },
+  "542796": {
+    "metrics": {
+      "ce_hours": 0.78,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.92,
+      "complexity": 34.08,
+      "interrelatedness": 0.0
+    }
+  },
+  "132164": {
+    "metrics": {
+      "ce_hours": 74.54,
+      "pct_ab_ce": 10.12
+    },
+    "metricsSummary": {
+      "volume": 75.77,
+      "complexity": 22.94,
+      "interrelatedness": 1.29
+    }
+  },
+  "279619": {
+    "metrics": {
+      "ce_hours": 2.75,
+      "pct_ab_ce": 7.32
+    },
+    "metricsSummary": {
+      "volume": 77.32,
+      "complexity": 22.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "159818": {
+    "metrics": {
+      "ce_hours": 7.52,
+      "pct_ab_ce": 14.64
+    },
+    "metricsSummary": {
+      "volume": 75.21,
+      "complexity": 24.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "130120": {
+    "metrics": {
+      "ce_hours": 337.24,
+      "pct_ab_ce": 12.07
+    },
+    "metricsSummary": {
+      "volume": 73.05,
+      "complexity": 24.92,
+      "interrelatedness": 2.03
+    }
+  },
+  "159819": {
+    "metrics": {
+      "ce_hours": 3.62,
+      "pct_ab_ce": 3.97
+    },
+    "metricsSummary": {
+      "volume": 79.2,
+      "complexity": 20.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "185419": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "144462": {
+    "metrics": {
+      "ce_hours": 6.85,
+      "pct_ab_ce": 8.34
+    },
+    "metricsSummary": {
+      "volume": 70.73,
+      "complexity": 18.69,
+      "interrelatedness": 10.58
+    }
+  },
+  "204879": {
+    "metrics": {
+      "ce_hours": 2.03,
+      "pct_ab_ce": 16.9
+    },
+    "metricsSummary": {
+      "volume": 74.83,
+      "complexity": 25.17,
+      "interrelatedness": 0.0
+    }
+  },
+  "204878": {
+    "metrics": {
+      "ce_hours": 1.77,
+      "pct_ab_ce": 0.95
+    },
+    "metricsSummary": {
+      "volume": 66.45,
+      "complexity": 33.55,
+      "interrelatedness": 0.0
+    }
+  },
+  "413780": {
+    "metrics": {
+      "ce_hours": 77.11,
+      "pct_ab_ce": 17.39
+    },
+    "metricsSummary": {
+      "volume": 76.39,
+      "complexity": 21.58,
+      "interrelatedness": 2.03
+    }
+  },
+  "130130": {
+    "metrics": {
+      "ce_hours": 15.73,
+      "pct_ab_ce": 12.2
+    },
+    "metricsSummary": {
+      "volume": 72.39,
+      "complexity": 27.08,
+      "interrelatedness": 0.53
+    }
+  },
+  "413781": {
+    "metrics": {
+      "ce_hours": 2.64,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.14,
+      "complexity": 31.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "154710": {
+    "metrics": {
+      "ce_hours": 35.34,
+      "pct_ab_ce": 14.82
+    },
+    "metricsSummary": {
+      "volume": 68.44,
+      "complexity": 31.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "413779": {
+    "metrics": {
+      "ce_hours": 29.37,
+      "pct_ab_ce": 11.95
+    },
+    "metricsSummary": {
+      "volume": 69.6,
+      "complexity": 27.41,
+      "interrelatedness": 2.99
+    }
+  },
+  "413777": {
+    "metrics": {
+      "ce_hours": 0.31,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 66.21,
+      "complexity": 33.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "130136": {
+    "metrics": {
+      "ce_hours": 20.3,
+      "pct_ab_ce": 11.74
+    },
+    "metricsSummary": {
+      "volume": 72.98,
+      "complexity": 25.48,
+      "interrelatedness": 1.54
+    }
+  },
+  "319583": {
+    "metrics": {
+      "ce_hours": 2.94,
+      "pct_ab_ce": 9.79
+    },
+    "metricsSummary": {
+      "volume": 77.59,
+      "complexity": 22.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "187484": {
+    "metrics": {
+      "ce_hours": 3.47,
+      "pct_ab_ce": 3.18
+    },
+    "metricsSummary": {
+      "volume": 77.52,
+      "complexity": 4.44,
+      "interrelatedness": 18.04
+    }
+  },
+  "463961": {
+    "metrics": {
+      "ce_hours": 6.59,
+      "pct_ab_ce": 14.67
+    },
+    "metricsSummary": {
+      "volume": 71.04,
+      "complexity": 23.62,
+      "interrelatedness": 5.34
+    }
+  },
+  "407641": {
+    "metrics": {
+      "ce_hours": 0.96,
+      "pct_ab_ce": 7.83
+    },
+    "metricsSummary": {
+      "volume": 72.57,
+      "complexity": 27.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "463960": {
+    "metrics": {
+      "ce_hours": 0.77,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 62.99,
+      "complexity": 37.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "171104": {
+    "metrics": {
+      "ce_hours": 1.46,
+      "pct_ab_ce": 4.02
+    },
+    "metricsSummary": {
+      "volume": 80.05,
+      "complexity": 19.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "130149": {
+    "metrics": {
+      "ce_hours": 810.86,
+      "pct_ab_ce": 14.28
+    },
+    "metricsSummary": {
+      "volume": 75.42,
+      "complexity": 23.9,
+      "interrelatedness": 0.68
+    }
+  },
+  "319584": {
+    "metrics": {
+      "ce_hours": 1.41,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 69.57,
+      "complexity": 30.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "130150": {
+    "metrics": {
+      "ce_hours": 720.13,
+      "pct_ab_ce": 16.75
+    },
+    "metricsSummary": {
+      "volume": 97.63,
+      "complexity": 2.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "130156": {
+    "metrics": {
+      "ce_hours": 4.56,
+      "pct_ab_ce": 27.01
+    },
+    "metricsSummary": {
+      "volume": 90.49,
+      "complexity": 9.51,
+      "interrelatedness": 0.0
+    }
+  },
+  "184428": {
+    "metrics": {
+      "ce_hours": 2.74,
+      "pct_ab_ce": 13.14
+    },
+    "metricsSummary": {
+      "volume": 84.0,
+      "complexity": 11.66,
+      "interrelatedness": 4.34
+    }
+  },
+  "133229": {
+    "metrics": {
+      "ce_hours": 30.83,
+      "pct_ab_ce": 4.29
+    },
+    "metricsSummary": {
+      "volume": 74.15,
+      "complexity": 25.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "131190": {
+    "metrics": {
+      "ce_hours": 46.4,
+      "pct_ab_ce": 14.42
+    },
+    "metricsSummary": {
+      "volume": 73.64,
+      "complexity": 26.36,
+      "interrelatedness": 0.0
+    }
+  },
+  "137334": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "413810": {
+    "metrics": {
+      "ce_hours": 1.54,
+      "pct_ab_ce": 18.43
+    },
+    "metricsSummary": {
+      "volume": 71.39,
+      "complexity": 28.61,
+      "interrelatedness": 0.0
+    }
+  },
+  "131191": {
+    "metrics": {
+      "ce_hours": 3.3,
+      "pct_ab_ce": 13.1
+    },
+    "metricsSummary": {
+      "volume": 73.02,
+      "complexity": 26.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "137335": {
+    "metrics": {
+      "ce_hours": 22.78,
+      "pct_ab_ce": 15.27
+    },
+    "metricsSummary": {
+      "volume": 71.74,
+      "complexity": 28.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "413809": {
+    "metrics": {
+      "ce_hours": 0.86,
+      "pct_ab_ce": 3.45
+    },
+    "metricsSummary": {
+      "volume": 69.38,
+      "complexity": 30.62,
+      "interrelatedness": 0.0
+    }
+  },
+  "130172": {
+    "metrics": {
+      "ce_hours": 25.61,
+      "pct_ab_ce": 13.24
+    },
+    "metricsSummary": {
+      "volume": 73.58,
+      "complexity": 25.67,
+      "interrelatedness": 0.75
+    }
+  },
+  "130177": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130189": {
+    "metrics": {
+      "ce_hours": 2.66,
+      "pct_ab_ce": 19.28
+    },
+    "metricsSummary": {
+      "volume": 74.05,
+      "complexity": 25.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "355477": {
+    "metrics": {
+      "ce_hours": 12.21,
+      "pct_ab_ce": 14.21
+    },
+    "metricsSummary": {
+      "volume": 76.12,
+      "complexity": 23.88,
+      "interrelatedness": 0.0
+    }
+  },
+  "470165": {
+    "metrics": {
+      "ce_hours": 3.94,
+      "pct_ab_ce": 15.5
+    },
+    "metricsSummary": {
+      "volume": 65.61,
+      "complexity": 34.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "541850": {
+    "metrics": {
+      "ce_hours": 5.08,
+      "pct_ab_ce": 7.84
+    },
+    "metricsSummary": {
+      "volume": 71.97,
+      "complexity": 28.03,
+      "interrelatedness": 0.0
+    }
+  },
+  "375958": {
+    "metrics": {
+      "ce_hours": 0.23,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 62.82,
+      "complexity": 37.18,
+      "interrelatedness": 0.0
+    }
+  },
+  "438418": {
+    "metrics": {
+      "ce_hours": 0.51,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 56.05,
+      "complexity": 43.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "247957": {
+    "metrics": {
+      "ce_hours": 2.76,
+      "pct_ab_ce": 6.29
+    },
+    "metricsSummary": {
+      "volume": 74.75,
+      "complexity": 25.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "208020": {
+    "metrics": {
+      "ce_hours": 3.5,
+      "pct_ab_ce": 9.72
+    },
+    "metricsSummary": {
+      "volume": 75.63,
+      "complexity": 24.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "210074": {
+    "metrics": {
+      "ce_hours": 77.06,
+      "pct_ab_ce": 15.21
+    },
+    "metricsSummary": {
+      "volume": 73.33,
+      "complexity": 26.4,
+      "interrelatedness": 0.27
+    }
+  },
+  "455832": {
+    "metrics": {
+      "ce_hours": 12.3,
+      "pct_ab_ce": 11.95
+    },
+    "metricsSummary": {
+      "volume": 57.03,
+      "complexity": 33.14,
+      "interrelatedness": 9.83
+    }
+  },
+  "455833": {
+    "metrics": {
+      "ce_hours": 3.17,
+      "pct_ab_ce": 10.25
+    },
+    "metricsSummary": {
+      "volume": 62.87,
+      "complexity": 37.13,
+      "interrelatedness": 0.0
+    }
+  },
+  "438438": {
+    "metrics": {
+      "ce_hours": 5.51,
+      "pct_ab_ce": 5.34
+    },
+    "metricsSummary": {
+      "volume": 87.61,
+      "complexity": 12.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "438439": {
+    "metrics": {
+      "ce_hours": 3.78,
+      "pct_ab_ce": 3.85
+    },
+    "metricsSummary": {
+      "volume": 61.25,
+      "complexity": 23.54,
+      "interrelatedness": 15.21
+    }
+  },
+  "438436": {
+    "metrics": {
+      "ce_hours": 5.73,
+      "pct_ab_ce": 8.12
+    },
+    "metricsSummary": {
+      "volume": 66.37,
+      "complexity": 33.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "438437": {
+    "metrics": {
+      "ce_hours": 0.67,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.29,
+      "complexity": 38.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "130213": {
+    "metrics": {
+      "ce_hours": 1741.64,
+      "pct_ab_ce": 10.13
+    },
+    "metricsSummary": {
+      "volume": 70.11,
+      "complexity": 26.42,
+      "interrelatedness": 3.47
+    }
+  },
+  "152742": {
+    "metrics": {
+      "ce_hours": 1.58,
+      "pct_ab_ce": 11.99
+    },
+    "metricsSummary": {
+      "volume": 70.15,
+      "complexity": 29.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "438435": {
+    "metrics": {
+      "ce_hours": 2.86,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "152740": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "173220": {
+    "metrics": {
+      "ce_hours": 2.8,
+      "pct_ab_ce": 16.05
+    },
+    "metricsSummary": {
+      "volume": 69.54,
+      "complexity": 30.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "130214": {
+    "metrics": {
+      "ce_hours": 306.56,
+      "pct_ab_ce": 14.22
+    },
+    "metricsSummary": {
+      "volume": 68.61,
+      "complexity": 31.26,
+      "interrelatedness": 0.13
+    }
+  },
+  "152741": {
+    "metrics": {
+      "ce_hours": 2.92,
+      "pct_ab_ce": 14.97
+    },
+    "metricsSummary": {
+      "volume": 72.6,
+      "complexity": 27.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "172206": {
+    "metrics": {
+      "ce_hours": 20.55,
+      "pct_ab_ce": 18.5
+    },
+    "metricsSummary": {
+      "volume": 79.8,
+      "complexity": 20.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "130220": {
+    "metrics": {
+      "ce_hours": 14.18,
+      "pct_ab_ce": 6.05
+    },
+    "metricsSummary": {
+      "volume": 59.9,
+      "complexity": 40.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "172207": {
+    "metrics": {
+      "ce_hours": 5.96,
+      "pct_ab_ce": 4.56
+    },
+    "metricsSummary": {
+      "volume": 74.06,
+      "complexity": 25.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "130222": {
+    "metrics": {
+      "ce_hours": 308.89,
+      "pct_ab_ce": 11.82
+    },
+    "metricsSummary": {
+      "volume": 72.14,
+      "complexity": 26.26,
+      "interrelatedness": 1.6
+    }
+  },
+  "130226": {
+    "metrics": {
+      "ce_hours": 7.08,
+      "pct_ab_ce": 20.68
+    },
+    "metricsSummary": {
+      "volume": 78.53,
+      "complexity": 21.47,
+      "interrelatedness": 0.0
+    }
+  },
+  "130229": {
+    "metrics": {
+      "ce_hours": 952.3,
+      "pct_ab_ce": 11.27
+    },
+    "metricsSummary": {
+      "volume": 71.6,
+      "complexity": 28.29,
+      "interrelatedness": 0.11
+    }
+  },
+  "130228": {
+    "metrics": {
+      "ce_hours": 2.98,
+      "pct_ab_ce": 0.17
+    },
+    "metricsSummary": {
+      "volume": 70.43,
+      "complexity": 29.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "130231": {
+    "metrics": {
+      "ce_hours": 93.8,
+      "pct_ab_ce": 10.88
+    },
+    "metricsSummary": {
+      "volume": 72.81,
+      "complexity": 27.19,
+      "interrelatedness": 0.0
+    }
+  },
+  "265405": {
+    "metrics": {
+      "ce_hours": 456.14,
+      "pct_ab_ce": 14.16
+    },
+    "metricsSummary": {
+      "volume": 71.75,
+      "complexity": 28.14,
+      "interrelatedness": 0.11
+    }
+  },
+  "265406": {
+    "metrics": {
+      "ce_hours": 9.65,
+      "pct_ab_ce": 12.59
+    },
+    "metricsSummary": {
+      "volume": 78.11,
+      "complexity": 21.89,
+      "interrelatedness": 0.0
+    }
+  },
+  "518328": {
+    "metrics": {
+      "ce_hours": 7.08,
+      "pct_ab_ce": 11.52
+    },
+    "metricsSummary": {
+      "volume": 79.05,
+      "complexity": 20.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "180417": {
+    "metrics": {
+      "ce_hours": 1.5,
+      "pct_ab_ce": 6.59
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "458947": {
+    "metrics": {
+      "ce_hours": 14.15,
+      "pct_ab_ce": 16.04
+    },
+    "metricsSummary": {
+      "volume": 73.27,
+      "complexity": 26.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "469187": {
+    "metrics": {
+      "ce_hours": 5.19,
+      "pct_ab_ce": 6.94
+    },
+    "metricsSummary": {
+      "volume": 77.51,
+      "complexity": 22.49,
+      "interrelatedness": 0.0
+    }
+  },
+  "190660": {
+    "metrics": {
+      "ce_hours": 9.7,
+      "pct_ab_ce": 15.07
+    },
+    "metricsSummary": {
+      "volume": 68.36,
+      "complexity": 31.64,
+      "interrelatedness": 0.0
+    }
+  },
+  "358595": {
+    "metrics": {
+      "ce_hours": 4.18,
+      "pct_ab_ce": 10.84
+    },
+    "metricsSummary": {
+      "volume": 64.23,
+      "complexity": 18.1,
+      "interrelatedness": 17.67
+    }
+  },
+  "130246": {
+    "metrics": {
+      "ce_hours": 7.14,
+      "pct_ab_ce": 6.73
+    },
+    "metricsSummary": {
+      "volume": 77.27,
+      "complexity": 21.87,
+      "interrelatedness": 0.86
+    }
+  },
+  "130254": {
+    "metrics": {
+      "ce_hours": 35.11,
+      "pct_ab_ce": 24.31
+    },
+    "metricsSummary": {
+      "volume": 83.31,
+      "complexity": 16.69,
+      "interrelatedness": 0.0
+    }
+  },
+  "130257": {
+    "metrics": {
+      "ce_hours": 33.93,
+      "pct_ab_ce": 8.54
+    },
+    "metricsSummary": {
+      "volume": 74.75,
+      "complexity": 25.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "202962": {
+    "metrics": {
+      "ce_hours": 1.29,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.15,
+      "complexity": 34.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "485586": {
+    "metrics": {
+      "ce_hours": 0.34,
+      "pct_ab_ce": 8.64
+    },
+    "metricsSummary": {
+      "volume": 66.29,
+      "complexity": 33.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "166106": {
+    "metrics": {
+      "ce_hours": 3.22,
+      "pct_ab_ce": 8.93
+    },
+    "metricsSummary": {
+      "volume": 66.66,
+      "complexity": 22.85,
+      "interrelatedness": 10.49
+    }
+  },
+  "249051": {
+    "metrics": {
+      "ce_hours": 5.89,
+      "pct_ab_ce": 13.55
+    },
+    "metricsSummary": {
+      "volume": 72.68,
+      "complexity": 27.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "525521": {
+    "metrics": {
+      "ce_hours": 2.95,
+      "pct_ab_ce": 14.16
+    },
+    "metricsSummary": {
+      "volume": 73.43,
+      "complexity": 26.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "193756": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130273": {
+    "metrics": {
+      "ce_hours": 0.3,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 52.84,
+      "complexity": 47.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "190688": {
+    "metrics": {
+      "ce_hours": 0.99,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "212197": {
+    "metrics": {
+      "ce_hours": 2.48,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 78.94,
+      "complexity": 21.06,
+      "interrelatedness": 0.0
+    }
+  },
+  "212196": {
+    "metrics": {
+      "ce_hours": 8.42,
+      "pct_ab_ce": 5.03
+    },
+    "metricsSummary": {
+      "volume": 77.52,
+      "complexity": 22.48,
+      "interrelatedness": 0.0
+    }
+  },
+  "472302": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "138472": {
+    "metrics": {
+      "ce_hours": 18.51,
+      "pct_ab_ce": 7.47
+    },
+    "metricsSummary": {
+      "volume": 75.56,
+      "complexity": 24.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "472301": {
+    "metrics": {
+      "ce_hours": 2.62,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 62.01,
+      "complexity": 37.99,
+      "interrelatedness": 0.0
+    }
+  },
+  "150761": {
+    "metrics": {
+      "ce_hours": 36.06,
+      "pct_ab_ce": 15.85
+    },
+    "metricsSummary": {
+      "volume": 72.77,
+      "complexity": 27.23,
+      "interrelatedness": 0.0
+    }
+  },
+  "166126": {
+    "metrics": {
+      "ce_hours": 0.06,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "166127": {
+    "metrics": {
+      "ce_hours": 1.21,
+      "pct_ab_ce": 8.5
+    },
+    "metricsSummary": {
+      "volume": 66.02,
+      "complexity": 17.98,
+      "interrelatedness": 16.0
+    }
+  },
+  "249070": {
+    "metrics": {
+      "ce_hours": 5.7,
+      "pct_ab_ce": 4.09
+    },
+    "metricsSummary": {
+      "volume": 70.7,
+      "complexity": 29.3,
+      "interrelatedness": 0.0
+    }
+  },
+  "249069": {
+    "metrics": {
+      "ce_hours": 4.63,
+      "pct_ab_ce": 17.58
+    },
+    "metricsSummary": {
+      "volume": 73.77,
+      "complexity": 26.23,
+      "interrelatedness": 0.0
+    }
+  },
+  "134384": {
+    "metrics": {
+      "ce_hours": 0.0,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 57.95,
+      "complexity": 42.05,
+      "interrelatedness": 0.0
+    }
+  },
+  "185584": {
+    "metrics": {
+      "ce_hours": 3.6,
+      "pct_ab_ce": 11.94
+    },
+    "metricsSummary": {
+      "volume": 78.15,
+      "complexity": 21.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "134385": {
+    "metrics": {
+      "ce_hours": 4.94,
+      "pct_ab_ce": 14.43
+    },
+    "metricsSummary": {
+      "volume": 74.26,
+      "complexity": 25.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "249072": {
+    "metrics": {
+      "ce_hours": 0.82,
+      "pct_ab_ce": 5.34
+    },
+    "metricsSummary": {
+      "volume": 64.2,
+      "complexity": 35.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "335088": {
+    "metrics": {
+      "ce_hours": 0.89,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 73.44,
+      "complexity": 26.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "442621": {
+    "metrics": {
+      "ce_hours": 3.27,
+      "pct_ab_ce": 5.24
+    },
+    "metricsSummary": {
+      "volume": 75.33,
+      "complexity": 24.67,
+      "interrelatedness": 0.0
+    }
+  },
+  "144638": {
+    "metrics": {
+      "ce_hours": 7.8,
+      "pct_ab_ce": 12.65
+    },
+    "metricsSummary": {
+      "volume": 73.73,
+      "complexity": 26.27,
+      "interrelatedness": 0.0
+    }
+  },
+  "151804": {
+    "metrics": {
+      "ce_hours": 0.86,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 67.89,
+      "complexity": 32.11,
+      "interrelatedness": 0.0
+    }
+  },
+  "535799": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "169219": {
+    "metrics": {
+      "ce_hours": 2.35,
+      "pct_ab_ce": 18.47
+    },
+    "metricsSummary": {
+      "volume": 72.02,
+      "complexity": 27.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "130310": {
+    "metrics": {
+      "ce_hours": 599.23,
+      "pct_ab_ce": 12.7
+    },
+    "metricsSummary": {
+      "volume": 71.13,
+      "complexity": 26.99,
+      "interrelatedness": 1.88
+    }
+  },
+  "187658": {
+    "metrics": {
+      "ce_hours": 30.58,
+      "pct_ab_ce": 14.23
+    },
+    "metricsSummary": {
+      "volume": 77.08,
+      "complexity": 22.92,
+      "interrelatedness": 0.0
+    }
+  },
+  "130315": {
+    "metrics": {
+      "ce_hours": 405.36,
+      "pct_ab_ce": 13.13
+    },
+    "metricsSummary": {
+      "volume": 71.15,
+      "complexity": 28.12,
+      "interrelatedness": 0.73
+    }
+  },
+  "143630": {
+    "metrics": {
+      "ce_hours": 2.17,
+      "pct_ab_ce": 1.35
+    },
+    "metricsSummary": {
+      "volume": 72.78,
+      "complexity": 27.22,
+      "interrelatedness": 0.0
+    }
+  },
+  "130316": {
+    "metrics": {
+      "ce_hours": 56.9,
+      "pct_ab_ce": 16.97
+    },
+    "metricsSummary": {
+      "volume": 68.19,
+      "complexity": 31.32,
+      "interrelatedness": 0.49
+    }
+  },
+  "152847": {
+    "metrics": {
+      "ce_hours": 1.82,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.99,
+      "complexity": 31.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "158991": {
+    "metrics": {
+      "ce_hours": 4.16,
+      "pct_ab_ce": 6.69
+    },
+    "metricsSummary": {
+      "volume": 70.69,
+      "complexity": 29.31,
+      "interrelatedness": 0.0
+    }
+  },
+  "158994": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "163090": {
+    "metrics": {
+      "ce_hours": 60.6,
+      "pct_ab_ce": 12.84
+    },
+    "metricsSummary": {
+      "volume": 73.89,
+      "complexity": 25.64,
+      "interrelatedness": 0.47
+    }
+  },
+  "163091": {
+    "metrics": {
+      "ce_hours": 7.61,
+      "pct_ab_ce": 9.82
+    },
+    "metricsSummary": {
+      "volume": 76.48,
+      "complexity": 23.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "152848": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "158992": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "158993": {
+    "metrics": {
+      "ce_hours": 0.87,
+      "pct_ab_ce": 10.96
+    },
+    "metricsSummary": {
+      "volume": 61.37,
+      "complexity": 38.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "130327": {
+    "metrics": {
+      "ce_hours": 0.26,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 85.17,
+      "complexity": 14.83,
+      "interrelatedness": 0.0
+    }
+  },
+  "196895": {
+    "metrics": {
+      "ce_hours": 22.05,
+      "pct_ab_ce": 15.42
+    },
+    "metricsSummary": {
+      "volume": 68.28,
+      "complexity": 31.72,
+      "interrelatedness": 0.0
+    }
+  },
+  "130337": {
+    "metrics": {
+      "ce_hours": 9.86,
+      "pct_ab_ce": 6.55
+    },
+    "metricsSummary": {
+      "volume": 76.32,
+      "complexity": 23.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "362788": {
+    "metrics": {
+      "ce_hours": 100.56,
+      "pct_ab_ce": 11.63
+    },
+    "metricsSummary": {
+      "volume": 72.6,
+      "complexity": 26.98,
+      "interrelatedness": 0.42
+    }
+  },
+  "362787": {
+    "metrics": {
+      "ce_hours": 33.64,
+      "pct_ab_ce": 11.82
+    },
+    "metricsSummary": {
+      "volume": 72.81,
+      "complexity": 27.19,
+      "interrelatedness": 0.0
+    }
+  },
+  "334125": {
+    "metrics": {
+      "ce_hours": 1.08,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 74.23,
+      "complexity": 25.77,
+      "interrelatedness": 0.0
+    }
+  },
+  "138536": {
+    "metrics": {
+      "ce_hours": 2.58,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 87.81,
+      "complexity": 4.88,
+      "interrelatedness": 7.31
+    }
+  },
+  "138537": {
+    "metrics": {
+      "ce_hours": 2.66,
+      "pct_ab_ce": 12.72
+    },
+    "metricsSummary": {
+      "volume": 78.0,
+      "complexity": 22.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "334126": {
+    "metrics": {
+      "ce_hours": 99.69,
+      "pct_ab_ce": 16.53
+    },
+    "metricsSummary": {
+      "volume": 59.44,
+      "complexity": 40.28,
+      "interrelatedness": 0.28
+    }
+  },
+  "177461": {
+    "metrics": {
+      "ce_hours": 21.44,
+      "pct_ab_ce": 10.76
+    },
+    "metricsSummary": {
+      "volume": 75.61,
+      "complexity": 23.48,
+      "interrelatedness": 0.91
+    }
+  },
+  "130361": {
+    "metrics": {
+      "ce_hours": 9.12,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 73.49,
+      "complexity": 26.51,
+      "interrelatedness": 0.0
+    }
+  },
+  "212283": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "299324": {
+    "metrics": {
+      "ce_hours": 0.57,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 78.02,
+      "complexity": 21.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "212282": {
+    "metrics": {
+      "ce_hours": 1.58,
+      "pct_ab_ce": 4.45
+    },
+    "metricsSummary": {
+      "volume": 69.76,
+      "complexity": 30.24,
+      "interrelatedness": 0.0
+    }
+  },
+  "508222": {
+    "metrics": {
+      "ce_hours": 0.79,
+      "pct_ab_ce": 4.8
+    },
+    "metricsSummary": {
+      "volume": 69.42,
+      "complexity": 30.58,
+      "interrelatedness": 0.0
+    }
+  },
+  "453944": {
+    "metrics": {
+      "ce_hours": 1.26,
+      "pct_ab_ce": 5.85
+    },
+    "metricsSummary": {
+      "volume": 65.94,
+      "complexity": 34.06,
+      "interrelatedness": 0.0
+    }
+  },
+  "453945": {
+    "metrics": {
+      "ce_hours": 1.16,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 82.34,
+      "complexity": 17.66,
+      "interrelatedness": 0.0
+    }
+  },
+  "464199": {
+    "metrics": {
+      "ce_hours": 1.86,
+      "pct_ab_ce": 14.55
+    },
+    "metricsSummary": {
+      "volume": 66.65,
+      "complexity": 33.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "130376": {
+    "metrics": {
+      "ce_hours": 0.37,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 72.2,
+      "complexity": 27.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "137547": {
+    "metrics": {
+      "ce_hours": 33.13,
+      "pct_ab_ce": 12.09
+    },
+    "metricsSummary": {
+      "volume": 74.69,
+      "complexity": 24.61,
+      "interrelatedness": 0.7
+    }
+  },
+  "130379": {
+    "metrics": {
+      "ce_hours": 14.36,
+      "pct_ab_ce": 16.15
+    },
+    "metricsSummary": {
+      "volume": 75.66,
+      "complexity": 24.34,
+      "interrelatedness": 0.0
+    }
+  },
+  "211272": {
+    "metrics": {
+      "ce_hours": 0.07,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.33,
+      "complexity": 45.67,
+      "interrelatedness": 0.0
+    }
+  },
+  "130384": {
+    "metrics": {
+      "ce_hours": 53.76,
+      "pct_ab_ce": 10.38
+    },
+    "metricsSummary": {
+      "volume": 75.15,
+      "complexity": 24.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "130386": {
+    "metrics": {
+      "ce_hours": 1.34,
+      "pct_ab_ce": 4.22
+    },
+    "metricsSummary": {
+      "volume": 74.26,
+      "complexity": 25.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "136535": {
+    "metrics": {
+      "ce_hours": 3.81,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "171348": {
+    "metrics": {
+      "ce_hours": 0.81,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 78.75,
+      "complexity": 21.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "136536": {
+    "metrics": {
+      "ce_hours": 2.96,
+      "pct_ab_ce": 5.86
+    },
+    "metricsSummary": {
+      "volume": 74.43,
+      "complexity": 25.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "130396": {
+    "metrics": {
+      "ce_hours": 298.43,
+      "pct_ab_ce": 12.65
+    },
+    "metricsSummary": {
+      "volume": 71.85,
+      "complexity": 28.15,
+      "interrelatedness": 0.0
+    }
+  },
+  "153951": {
+    "metrics": {
+      "ce_hours": 4.95,
+      "pct_ab_ce": 9.16
+    },
+    "metricsSummary": {
+      "volume": 75.01,
+      "complexity": 24.99,
+      "interrelatedness": 0.0
+    }
+  },
+  "360792": {
+    "metrics": {
+      "ce_hours": 11.26,
+      "pct_ab_ce": 15.25
+    },
+    "metricsSummary": {
+      "volume": 69.88,
+      "complexity": 30.12,
+      "interrelatedness": 0.0
+    }
+  },
+  "246114": {
+    "metrics": {
+      "ce_hours": 442.72,
+      "pct_ab_ce": 12.09
+    },
+    "metricsSummary": {
+      "volume": 71.46,
+      "complexity": 28.29,
+      "interrelatedness": 0.25
+    }
+  },
+  "164193": {
+    "metrics": {
+      "ce_hours": 8.79,
+      "pct_ab_ce": 6.25
+    },
+    "metricsSummary": {
+      "volume": 58.74,
+      "complexity": 41.02,
+      "interrelatedness": 0.24
+    }
+  },
+  "140647": {
+    "metrics": {
+      "ce_hours": 9.01,
+      "pct_ab_ce": 14.79
+    },
+    "metricsSummary": {
+      "volume": 74.62,
+      "complexity": 25.38,
+      "interrelatedness": 0.0
+    }
+  },
+  "130406": {
+    "metrics": {
+      "ce_hours": 4.56,
+      "pct_ab_ce": 3.33
+    },
+    "metricsSummary": {
+      "volume": 76.92,
+      "complexity": 23.08,
+      "interrelatedness": 0.0
+    }
+  },
+  "140650": {
+    "metrics": {
+      "ce_hours": 7.33,
+      "pct_ab_ce": 6.06
+    },
+    "metricsSummary": {
+      "volume": 89.68,
+      "complexity": 10.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "130408": {
+    "metrics": {
+      "ce_hours": 9.68,
+      "pct_ab_ce": 18.41
+    },
+    "metricsSummary": {
+      "volume": 79.32,
+      "complexity": 20.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "140651": {
+    "metrics": {
+      "ce_hours": 41.79,
+      "pct_ab_ce": 12.38
+    },
+    "metricsSummary": {
+      "volume": 68.13,
+      "complexity": 29.26,
+      "interrelatedness": 2.61
+    }
+  },
+  "130411": {
+    "metrics": {
+      "ce_hours": 9.51,
+      "pct_ab_ce": 17.01
+    },
+    "metricsSummary": {
+      "volume": 73.88,
+      "complexity": 26.12,
+      "interrelatedness": 0.0
+    }
+  },
+  "140649": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "140654": {
+    "metrics": {
+      "ce_hours": 8.02,
+      "pct_ab_ce": 10.0
+    },
+    "metricsSummary": {
+      "volume": 71.56,
+      "complexity": 28.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "140655": {
+    "metrics": {
+      "ce_hours": 3.15,
+      "pct_ab_ce": 14.5
+    },
+    "metricsSummary": {
+      "volume": 73.9,
+      "complexity": 26.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "140652": {
+    "metrics": {
+      "ce_hours": 16.81,
+      "pct_ab_ce": 8.91
+    },
+    "metricsSummary": {
+      "volume": 72.95,
+      "complexity": 27.05,
+      "interrelatedness": 0.0
+    }
+  },
+  "140653": {
+    "metrics": {
+      "ce_hours": 26.34,
+      "pct_ab_ce": 10.72
+    },
+    "metricsSummary": {
+      "volume": 76.49,
+      "complexity": 23.51,
+      "interrelatedness": 0.0
+    }
+  },
+  "140656": {
+    "metrics": {
+      "ce_hours": 0.92,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "149882": {
+    "metrics": {
+      "ce_hours": 2.07,
+      "pct_ab_ce": 5.81
+    },
+    "metricsSummary": {
+      "volume": 77.55,
+      "complexity": 22.45,
+      "interrelatedness": 0.0
+    }
+  },
+  "152954": {
+    "metrics": {
+      "ce_hours": 3.32,
+      "pct_ab_ce": 4.77
+    },
+    "metricsSummary": {
+      "volume": 79.02,
+      "complexity": 20.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "155003": {
+    "metrics": {
+      "ce_hours": 2.22,
+      "pct_ab_ce": 2.95
+    },
+    "metricsSummary": {
+      "volume": 72.44,
+      "complexity": 27.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "138626": {
+    "metrics": {
+      "ce_hours": 9.08,
+      "pct_ab_ce": 9.49
+    },
+    "metricsSummary": {
+      "volume": 79.4,
+      "complexity": 20.6,
+      "interrelatedness": 0.0
+    }
+  },
+  "407942": {
+    "metrics": {
+      "ce_hours": 0.44,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 63.99,
+      "complexity": 36.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "467335": {
+    "metrics": {
+      "ce_hours": 3.45,
+      "pct_ab_ce": 9.08
+    },
+    "metricsSummary": {
+      "volume": 71.78,
+      "complexity": 28.22,
+      "interrelatedness": 0.0
+    }
+  },
+  "138627": {
+    "metrics": {
+      "ce_hours": 52.71,
+      "pct_ab_ce": 12.43
+    },
+    "metricsSummary": {
+      "volume": 69.71,
+      "complexity": 28.88,
+      "interrelatedness": 1.41
+    }
+  },
+  "407943": {
+    "metrics": {
+      "ce_hours": 0.98,
+      "pct_ab_ce": 8.49
+    },
+    "metricsSummary": {
+      "volume": 74.83,
+      "complexity": 25.17,
+      "interrelatedness": 0.0
+    }
+  },
+  "137606": {
+    "metrics": {
+      "ce_hours": 6.43,
+      "pct_ab_ce": 18.44
+    },
+    "metricsSummary": {
+      "volume": 86.77,
+      "complexity": 13.23,
+      "interrelatedness": 0.0
+    }
+  },
+  "524684": {
+    "metrics": {
+      "ce_hours": 4.15,
+      "pct_ab_ce": 15.71
+    },
+    "metricsSummary": {
+      "volume": 75.56,
+      "complexity": 24.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "485760": {
+    "metrics": {
+      "ce_hours": 9.71,
+      "pct_ab_ce": 8.9
+    },
+    "metricsSummary": {
+      "volume": 75.3,
+      "complexity": 24.7,
+      "interrelatedness": 0.0
+    }
+  },
+  "163214": {
+    "metrics": {
+      "ce_hours": 19.75,
+      "pct_ab_ce": 12.56
+    },
+    "metricsSummary": {
+      "volume": 76.25,
+      "complexity": 23.75,
+      "interrelatedness": 0.0
+    }
+  },
+  "163215": {
+    "metrics": {
+      "ce_hours": 2.42,
+      "pct_ab_ce": 17.91
+    },
+    "metricsSummary": {
+      "volume": 68.9,
+      "complexity": 31.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "213389": {
+    "metrics": {
+      "ce_hours": 1.3,
+      "pct_ab_ce": 16.17
+    },
+    "metricsSummary": {
+      "volume": 76.01,
+      "complexity": 23.99,
+      "interrelatedness": 0.0
+    }
+  },
+  "163213": {
+    "metrics": {
+      "ce_hours": 37.77,
+      "pct_ab_ce": 15.01
+    },
+    "metricsSummary": {
+      "volume": 70.24,
+      "complexity": 29.76,
+      "interrelatedness": 0.0
+    }
+  },
+  "213388": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "407945": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "467336": {
+    "metrics": {
+      "ce_hours": 3.39,
+      "pct_ab_ce": 23.59
+    },
+    "metricsSummary": {
+      "volume": 85.36,
+      "complexity": 14.64,
+      "interrelatedness": 0.0
+    }
+  },
+  "172434": {
+    "metrics": {
+      "ce_hours": 9.8,
+      "pct_ab_ce": 18.27
+    },
+    "metricsSummary": {
+      "volume": 71.06,
+      "complexity": 28.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "172433": {
+    "metrics": {
+      "ce_hours": 397.32,
+      "pct_ab_ce": 13.59
+    },
+    "metricsSummary": {
+      "volume": 70.46,
+      "complexity": 28.69,
+      "interrelatedness": 0.85
+    }
+  },
+  "302480": {
+    "metrics": {
+      "ce_hours": 53.86,
+      "pct_ab_ce": 9.81
+    },
+    "metricsSummary": {
+      "volume": 75.04,
+      "complexity": 24.96,
+      "interrelatedness": 0.0
+    }
+  },
+  "130455": {
+    "metrics": {
+      "ce_hours": 297.76,
+      "pct_ab_ce": 10.85
+    },
+    "metricsSummary": {
+      "volume": 72.34,
+      "complexity": 27.07,
+      "interrelatedness": 0.59
+    }
+  },
+  "167316": {
+    "metrics": {
+      "ce_hours": 0.79,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.35,
+      "complexity": 31.65,
+      "interrelatedness": 0.0
+    }
+  },
+  "173460": {
+    "metrics": {
+      "ce_hours": 0.5,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.59,
+      "complexity": 38.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "451984": {
+    "metrics": {
+      "ce_hours": 4.66,
+      "pct_ab_ce": 2.38
+    },
+    "metricsSummary": {
+      "volume": 76.42,
+      "complexity": 23.58,
+      "interrelatedness": 0.0
+    }
+  },
+  "173461": {
+    "metrics": {
+      "ce_hours": 1.04,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.15,
+      "complexity": 34.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "130457": {
+    "metrics": {
+      "ce_hours": 237.0,
+      "pct_ab_ce": 21.54
+    },
+    "metricsSummary": {
+      "volume": 87.66,
+      "complexity": 12.08,
+      "interrelatedness": 0.26
+    }
+  },
+  "130456": {
+    "metrics": {
+      "ce_hours": 0.62,
+      "pct_ab_ce": 2.56
+    },
+    "metricsSummary": {
+      "volume": 68.95,
+      "complexity": 31.05,
+      "interrelatedness": 0.0
+    }
+  },
+  "143768": {
+    "metrics": {
+      "ce_hours": 10.33,
+      "pct_ab_ce": 12.12
+    },
+    "metricsSummary": {
+      "volume": 74.46,
+      "complexity": 22.88,
+      "interrelatedness": 2.66
+    }
+  },
+  "130458": {
+    "metrics": {
+      "ce_hours": 1.89,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.78,
+      "complexity": 41.22,
+      "interrelatedness": 0.0
+    }
+  },
+  "143769": {
+    "metrics": {
+      "ce_hours": 5.31,
+      "pct_ab_ce": 15.01
+    },
+    "metricsSummary": {
+      "volume": 72.91,
+      "complexity": 27.09,
+      "interrelatedness": 0.0
+    }
+  },
+  "130463": {
+    "metrics": {
+      "ce_hours": 32.81,
+      "pct_ab_ce": 11.79
+    },
+    "metricsSummary": {
+      "volume": 72.65,
+      "complexity": 27.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "130465": {
+    "metrics": {
+      "ce_hours": 509.3,
+      "pct_ab_ce": 9.97
+    },
+    "metricsSummary": {
+      "volume": 70.04,
+      "complexity": 28.33,
+      "interrelatedness": 1.63
+    }
+  },
+  "130467": {
+    "metrics": {
+      "ce_hours": 11.08,
+      "pct_ab_ce": 13.72
+    },
+    "metricsSummary": {
+      "volume": 72.9,
+      "complexity": 23.79,
+      "interrelatedness": 3.31
+    }
+  },
+  "130469": {
+    "metrics": {
+      "ce_hours": 101.22,
+      "pct_ab_ce": 11.22
+    },
+    "metricsSummary": {
+      "volume": 73.86,
+      "complexity": 26.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "130468": {
+    "metrics": {
+      "ce_hours": 48.52,
+      "pct_ab_ce": 15.05
+    },
+    "metricsSummary": {
+      "volume": 73.78,
+      "complexity": 24.73,
+      "interrelatedness": 1.49
+    }
+  },
+  "130471": {
+    "metrics": {
+      "ce_hours": 137.62,
+      "pct_ab_ce": 19.37
+    },
+    "metricsSummary": {
+      "volume": 87.03,
+      "complexity": 12.97,
+      "interrelatedness": 0.0
+    }
+  },
+  "130470": {
+    "metrics": {
+      "ce_hours": 140.72,
+      "pct_ab_ce": 11.24
+    },
+    "metricsSummary": {
+      "volume": 74.39,
+      "complexity": 25.61,
+      "interrelatedness": 0.0
+    }
+  },
+  "462253": {
+    "metrics": {
+      "ce_hours": 1.82,
+      "pct_ab_ce": 6.22
+    },
+    "metricsSummary": {
+      "volume": 76.34,
+      "complexity": 23.66,
+      "interrelatedness": 0.0
+    }
+  },
+  "130481": {
+    "metrics": {
+      "ce_hours": 75.9,
+      "pct_ab_ce": 13.25
+    },
+    "metricsSummary": {
+      "volume": 73.26,
+      "complexity": 25.67,
+      "interrelatedness": 1.07
+    }
+  },
+  "147890": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "160178": {
+    "metrics": {
+      "ce_hours": 4.97,
+      "pct_ab_ce": 19.26
+    },
+    "metricsSummary": {
+      "volume": 71.91,
+      "complexity": 28.09,
+      "interrelatedness": 0.0
+    }
+  },
+  "130483": {
+    "metrics": {
+      "ce_hours": 39.74,
+      "pct_ab_ce": 13.72
+    },
+    "metricsSummary": {
+      "volume": 66.91,
+      "complexity": 22.95,
+      "interrelatedness": 10.14
+    }
+  },
+  "130482": {
+    "metrics": {
+      "ce_hours": 28.57,
+      "pct_ab_ce": 11.41
+    },
+    "metricsSummary": {
+      "volume": 76.84,
+      "complexity": 22.75,
+      "interrelatedness": 0.41
+    }
+  },
+  "147889": {
+    "metrics": {
+      "ce_hours": 5.27,
+      "pct_ab_ce": 3.81
+    },
+    "metricsSummary": {
+      "volume": 72.54,
+      "complexity": 27.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "160177": {
+    "metrics": {
+      "ce_hours": 0.31,
+      "pct_ab_ce": 2.67
+    },
+    "metricsSummary": {
+      "volume": 70.58,
+      "complexity": 29.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "160180": {
+    "metrics": {
+      "ce_hours": 12.64,
+      "pct_ab_ce": 10.82
+    },
+    "metricsSummary": {
+      "volume": 71.16,
+      "complexity": 28.84,
+      "interrelatedness": 0.0
+    }
+  },
+  "471484": {
+    "metrics": {
+      "ce_hours": 14.02,
+      "pct_ab_ce": 12.38
+    },
+    "metricsSummary": {
+      "volume": 69.84,
+      "complexity": 23.1,
+      "interrelatedness": 7.06
+    }
+  },
+  "144830": {
+    "metrics": {
+      "ce_hours": 7.24,
+      "pct_ab_ce": 10.11
+    },
+    "metricsSummary": {
+      "volume": 74.86,
+      "complexity": 25.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "130492": {
+    "metrics": {
+      "ce_hours": 67.35,
+      "pct_ab_ce": 13.69
+    },
+    "metricsSummary": {
+      "volume": 74.6,
+      "complexity": 24.15,
+      "interrelatedness": 1.25
+    }
+  },
+  "209341": {
+    "metrics": {
+      "ce_hours": 0.84,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.54,
+      "complexity": 31.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "439750": {
+    "metrics": {
+      "ce_hours": 3.46,
+      "pct_ab_ce": 14.93
+    },
+    "metricsSummary": {
+      "volume": 72.79,
+      "complexity": 27.21,
+      "interrelatedness": 0.0
+    }
+  },
+  "439751": {
+    "metrics": {
+      "ce_hours": 0.37,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 60.55,
+      "complexity": 39.45,
+      "interrelatedness": 0.0
+    }
+  },
+  "439748": {
+    "metrics": {
+      "ce_hours": 2.75,
+      "pct_ab_ce": 9.62
+    },
+    "metricsSummary": {
+      "volume": 76.88,
+      "complexity": 23.12,
+      "interrelatedness": 0.0
+    }
+  },
+  "439749": {
+    "metrics": {
+      "ce_hours": 4.41,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 76.49,
+      "complexity": 23.51,
+      "interrelatedness": 0.0
+    }
+  },
+  "439746": {
+    "metrics": {
+      "ce_hours": 9.65,
+      "pct_ab_ce": 12.8
+    },
+    "metricsSummary": {
+      "volume": 74.41,
+      "complexity": 25.59,
+      "interrelatedness": 0.0
+    }
+  },
+  "439747": {
+    "metrics": {
+      "ce_hours": 7.05,
+      "pct_ab_ce": 15.44
+    },
+    "metricsSummary": {
+      "volume": 79.77,
+      "complexity": 20.23,
+      "interrelatedness": 0.0
+    }
+  },
+  "439758": {
+    "metrics": {
+      "ce_hours": 1.35,
+      "pct_ab_ce": 13.26
+    },
+    "metricsSummary": {
+      "volume": 72.92,
+      "complexity": 27.08,
+      "interrelatedness": 0.0
+    }
+  },
+  "159179": {
+    "metrics": {
+      "ce_hours": 7.63,
+      "pct_ab_ce": 2.04
+    },
+    "metricsSummary": {
+      "volume": 78.27,
+      "complexity": 21.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "439759": {
+    "metrics": {
+      "ce_hours": 2.46,
+      "pct_ab_ce": 17.0
+    },
+    "metricsSummary": {
+      "volume": 72.31,
+      "complexity": 27.69,
+      "interrelatedness": 0.0
+    }
+  },
+  "439757": {
+    "metrics": {
+      "ce_hours": 1.04,
+      "pct_ab_ce": 7.96
+    },
+    "metricsSummary": {
+      "volume": 74.79,
+      "complexity": 25.21,
+      "interrelatedness": 0.0
+    }
+  },
+  "378313": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "439754": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130508": {
+    "metrics": {
+      "ce_hours": 38.69,
+      "pct_ab_ce": 11.98
+    },
+    "metricsSummary": {
+      "volume": 71.73,
+      "complexity": 28.27,
+      "interrelatedness": 0.0
+    }
+  },
+  "439755": {
+    "metrics": {
+      "ce_hours": 4.25,
+      "pct_ab_ce": 8.85
+    },
+    "metricsSummary": {
+      "volume": 75.13,
+      "complexity": 24.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "465354": {
+    "metrics": {
+      "ce_hours": 5.1,
+      "pct_ab_ce": 5.4
+    },
+    "metricsSummary": {
+      "volume": 74.86,
+      "complexity": 25.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "439752": {
+    "metrics": {
+      "ce_hours": 26.7,
+      "pct_ab_ce": 16.86
+    },
+    "metricsSummary": {
+      "volume": 77.68,
+      "complexity": 22.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "378314": {
+    "metrics": {
+      "ce_hours": 0.37,
+      "pct_ab_ce": 5.95
+    },
+    "metricsSummary": {
+      "volume": 77.15,
+      "complexity": 22.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "439753": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130513": {
+    "metrics": {
+      "ce_hours": 7.6,
+      "pct_ab_ce": 12.85
+    },
+    "metricsSummary": {
+      "volume": 77.06,
+      "complexity": 22.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "439764": {
+    "metrics": {
+      "ce_hours": 0.13,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 69.65,
+      "complexity": 30.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "185809": {
+    "metrics": {
+      "ce_hours": 4.19,
+      "pct_ab_ce": 11.9
+    },
+    "metricsSummary": {
+      "volume": 76.0,
+      "complexity": 24.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "439765": {
+    "metrics": {
+      "ce_hours": 0.07,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 67.03,
+      "complexity": 32.97,
+      "interrelatedness": 0.0
+    }
+  },
+  "138710": {
+    "metrics": {
+      "ce_hours": 101.38,
+      "pct_ab_ce": 7.51
+    },
+    "metricsSummary": {
+      "volume": 73.01,
+      "complexity": 26.13,
+      "interrelatedness": 0.86
+    }
+  },
+  "439762": {
+    "metrics": {
+      "ce_hours": 0.05,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "439763": {
+    "metrics": {
+      "ce_hours": 4.5,
+      "pct_ab_ce": 13.25
+    },
+    "metricsSummary": {
+      "volume": 71.81,
+      "complexity": 28.19,
+      "interrelatedness": 0.0
+    }
+  },
+  "130519": {
+    "metrics": {
+      "ce_hours": 24.57,
+      "pct_ab_ce": 12.16
+    },
+    "metricsSummary": {
+      "volume": 75.6,
+      "complexity": 24.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "439760": {
+    "metrics": {
+      "ce_hours": 11.48,
+      "pct_ab_ce": 16.0
+    },
+    "metricsSummary": {
+      "volume": 76.34,
+      "complexity": 23.66,
+      "interrelatedness": 0.0
+    }
+  },
+  "130518": {
+    "metrics": {
+      "ce_hours": 93.41,
+      "pct_ab_ce": 12.15
+    },
+    "metricsSummary": {
+      "volume": 73.87,
+      "complexity": 26.13,
+      "interrelatedness": 0.0
+    }
+  },
+  "439761": {
+    "metrics": {
+      "ce_hours": 4.58,
+      "pct_ab_ce": 6.38
+    },
+    "metricsSummary": {
+      "volume": 76.6,
+      "complexity": 23.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "129497": {
+    "metrics": {
+      "ce_hours": 2.5,
+      "pct_ab_ce": 10.47
+    },
+    "metricsSummary": {
+      "volume": 75.11,
+      "complexity": 24.89,
+      "interrelatedness": 0.0
+    }
+  },
+  "473565": {
+    "metrics": {
+      "ce_hours": 1.77,
+      "pct_ab_ce": 18.02
+    },
+    "metricsSummary": {
+      "volume": 74.85,
+      "complexity": 25.15,
+      "interrelatedness": 0.0
+    }
+  },
+  "130525": {
+    "metrics": {
+      "ce_hours": 5.61,
+      "pct_ab_ce": 1.46
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130529": {
+    "metrics": {
+      "ce_hours": 2.92,
+      "pct_ab_ce": 8.59
+    },
+    "metricsSummary": {
+      "volume": 68.21,
+      "complexity": 28.93,
+      "interrelatedness": 2.86
+    }
+  },
+  "439782": {
+    "metrics": {
+      "ce_hours": 1.85,
+      "pct_ab_ce": 3.45
+    },
+    "metricsSummary": {
+      "volume": 74.48,
+      "complexity": 25.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "211430": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "211429": {
+    "metrics": {
+      "ce_hours": 8.2,
+      "pct_ab_ce": 10.09
+    },
+    "metricsSummary": {
+      "volume": 77.51,
+      "complexity": 22.49,
+      "interrelatedness": 0.0
+    }
+  },
+  "130534": {
+    "metrics": {
+      "ce_hours": 255.75,
+      "pct_ab_ce": 13.27
+    },
+    "metricsSummary": {
+      "volume": 73.86,
+      "complexity": 25.75,
+      "interrelatedness": 0.39
+    }
+  },
+  "130541": {
+    "metrics": {
+      "ce_hours": 115.11,
+      "pct_ab_ce": 13.72
+    },
+    "metricsSummary": {
+      "volume": 72.24,
+      "complexity": 25.69,
+      "interrelatedness": 2.07
+    }
+  },
+  "130540": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130543": {
+    "metrics": {
+      "ce_hours": 5.85,
+      "pct_ab_ce": 5.99
+    },
+    "metricsSummary": {
+      "volume": 77.81,
+      "complexity": 22.19,
+      "interrelatedness": 0.0
+    }
+  },
+  "130542": {
+    "metrics": {
+      "ce_hours": 110.33,
+      "pct_ab_ce": 10.85
+    },
+    "metricsSummary": {
+      "volume": 71.99,
+      "complexity": 28.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "130547": {
+    "metrics": {
+      "ce_hours": 5.59,
+      "pct_ab_ce": 13.54
+    },
+    "metricsSummary": {
+      "volume": 79.5,
+      "complexity": 20.5,
+      "interrelatedness": 0.0
+    }
+  },
+  "447988": {
+    "metrics": {
+      "ce_hours": 9.58,
+      "pct_ab_ce": 14.58
+    },
+    "metricsSummary": {
+      "volume": 71.73,
+      "complexity": 28.27,
+      "interrelatedness": 0.0
+    }
+  },
+  "130546": {
+    "metrics": {
+      "ce_hours": 79.63,
+      "pct_ab_ce": 13.4
+    },
+    "metricsSummary": {
+      "volume": 72.34,
+      "complexity": 25.69,
+      "interrelatedness": 1.97
+    }
+  },
+  "130549": {
+    "metrics": {
+      "ce_hours": 18.41,
+      "pct_ab_ce": 12.14
+    },
+    "metricsSummary": {
+      "volume": 73.6,
+      "complexity": 25.53,
+      "interrelatedness": 0.87
+    }
+  },
+  "130548": {
+    "metrics": {
+      "ce_hours": 12.05,
+      "pct_ab_ce": 11.81
+    },
+    "metricsSummary": {
+      "volume": 61.35,
+      "complexity": 27.6,
+      "interrelatedness": 11.05
+    }
+  },
+  "447987": {
+    "metrics": {
+      "ce_hours": 5.85,
+      "pct_ab_ce": 9.45
+    },
+    "metricsSummary": {
+      "volume": 60.78,
+      "complexity": 20.97,
+      "interrelatedness": 18.25
+    }
+  },
+  "130558": {
+    "metrics": {
+      "ce_hours": 5.82,
+      "pct_ab_ce": 12.77
+    },
+    "metricsSummary": {
+      "volume": 69.41,
+      "complexity": 30.59,
+      "interrelatedness": 0.0
+    }
+  },
+  "182781": {
+    "metrics": {
+      "ce_hours": 181.6,
+      "pct_ab_ce": 13.98
+    },
+    "metricsSummary": {
+      "volume": 72.34,
+      "complexity": 27.4,
+      "interrelatedness": 0.26
+    }
+  },
+  "170499": {
+    "metrics": {
+      "ce_hours": 6.27,
+      "pct_ab_ce": 7.3
+    },
+    "metricsSummary": {
+      "volume": 73.53,
+      "complexity": 26.47,
+      "interrelatedness": 0.0
+    }
+  },
+  "130562": {
+    "metrics": {
+      "ce_hours": 12.42,
+      "pct_ab_ce": 6.63
+    },
+    "metricsSummary": {
+      "volume": 74.0,
+      "complexity": 26.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130565": {
+    "metrics": {
+      "ce_hours": 5.54,
+      "pct_ab_ce": 6.88
+    },
+    "metricsSummary": {
+      "volume": 77.94,
+      "complexity": 22.06,
+      "interrelatedness": 0.0
+    }
+  },
+  "458242": {
+    "metrics": {
+      "ce_hours": 0.09,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 57.23,
+      "complexity": 42.77,
+      "interrelatedness": 0.0
+    }
+  },
+  "170500": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130569": {
+    "metrics": {
+      "ce_hours": 1.88,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "157195": {
+    "metrics": {
+      "ce_hours": 0.08,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "356873": {
+    "metrics": {
+      "ce_hours": 4.43,
+      "pct_ab_ce": 9.94
+    },
+    "metricsSummary": {
+      "volume": 73.3,
+      "complexity": 26.7,
+      "interrelatedness": 0.0
+    }
+  },
+  "356872": {
+    "metrics": {
+      "ce_hours": 215.28,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.74,
+      "complexity": 41.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "157196": {
+    "metrics": {
+      "ce_hours": 1.13,
+      "pct_ab_ce": 6.02
+    },
+    "metricsSummary": {
+      "volume": 71.62,
+      "complexity": 28.38,
+      "interrelatedness": 0.0
+    }
+  },
+  "157197": {
+    "metrics": {
+      "ce_hours": 8.3,
+      "pct_ab_ce": 7.64
+    },
+    "metricsSummary": {
+      "volume": 77.41,
+      "complexity": 20.43,
+      "interrelatedness": 2.16
+    }
+  },
+  "130582": {
+    "metrics": {
+      "ce_hours": 59.26,
+      "pct_ab_ce": 16.34
+    },
+    "metricsSummary": {
+      "volume": 72.26,
+      "complexity": 27.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "363026": {
+    "metrics": {
+      "ce_hours": 2.58,
+      "pct_ab_ce": 16.39
+    },
+    "metricsSummary": {
+      "volume": 73.48,
+      "complexity": 26.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "130585": {
+    "metrics": {
+      "ce_hours": 2.59,
+      "pct_ab_ce": 14.17
+    },
+    "metricsSummary": {
+      "volume": 66.72,
+      "complexity": 33.28,
+      "interrelatedness": 0.0
+    }
+  },
+  "263709": {
+    "metrics": {
+      "ce_hours": 0.7,
+      "pct_ab_ce": 11.91
+    },
+    "metricsSummary": {
+      "volume": 80.05,
+      "complexity": 19.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "171544": {
+    "metrics": {
+      "ce_hours": 5.46,
+      "pct_ab_ce": 17.31
+    },
+    "metricsSummary": {
+      "volume": 74.88,
+      "complexity": 25.12,
+      "interrelatedness": 0.0
+    }
+  },
+  "263710": {
+    "metrics": {
+      "ce_hours": 3.68,
+      "pct_ab_ce": 12.09
+    },
+    "metricsSummary": {
+      "volume": 70.52,
+      "complexity": 29.48,
+      "interrelatedness": 0.0
+    }
+  },
+  "367135": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "263711": {
+    "metrics": {
+      "ce_hours": 2.87,
+      "pct_ab_ce": 3.45
+    },
+    "metricsSummary": {
+      "volume": 75.16,
+      "complexity": 24.84,
+      "interrelatedness": 0.0
+    }
+  },
+  "367134": {
+    "metrics": {
+      "ce_hours": 0.9,
+      "pct_ab_ce": 0.77
+    },
+    "metricsSummary": {
+      "volume": 73.54,
+      "complexity": 26.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "508441": {
+    "metrics": {
+      "ce_hours": 1.66,
+      "pct_ab_ce": 8.73
+    },
+    "metricsSummary": {
+      "volume": 81.22,
+      "complexity": 18.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "130590": {
+    "metrics": {
+      "ce_hours": 2.34,
+      "pct_ab_ce": 14.07
+    },
+    "metricsSummary": {
+      "volume": 76.01,
+      "complexity": 23.99,
+      "interrelatedness": 0.0
+    }
+  },
+  "130593": {
+    "metrics": {
+      "ce_hours": 135.13,
+      "pct_ab_ce": 13.14
+    },
+    "metricsSummary": {
+      "volume": 79.68,
+      "complexity": 19.9,
+      "interrelatedness": 0.42
+    }
+  },
+  "206371": {
+    "metrics": {
+      "ce_hours": 13.76,
+      "pct_ab_ce": 14.2
+    },
+    "metricsSummary": {
+      "volume": 73.96,
+      "complexity": 26.04,
+      "interrelatedness": 0.0
+    }
+  },
+  "298535": {
+    "metrics": {
+      "ce_hours": 19.96,
+      "pct_ab_ce": 16.63
+    },
+    "metricsSummary": {
+      "volume": 70.93,
+      "complexity": 29.07,
+      "interrelatedness": 0.0
+    }
+  },
+  "263712": {
+    "metrics": {
+      "ce_hours": 1.38,
+      "pct_ab_ce": 5.55
+    },
+    "metricsSummary": {
+      "volume": 77.76,
+      "complexity": 22.24,
+      "interrelatedness": 0.0
+    }
+  },
+  "193063": {
+    "metrics": {
+      "ce_hours": 29.67,
+      "pct_ab_ce": 11.57
+    },
+    "metricsSummary": {
+      "volume": 73.1,
+      "complexity": 26.9,
+      "interrelatedness": 0.0
+    }
+  },
+  "263713": {
+    "metrics": {
+      "ce_hours": 0.94,
+      "pct_ab_ce": 5.34
+    },
+    "metricsSummary": {
+      "volume": 69.48,
+      "complexity": 30.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "228907": {
+    "metrics": {
+      "ce_hours": 30.77,
+      "pct_ab_ce": 10.08
+    },
+    "metricsSummary": {
+      "volume": 75.13,
+      "complexity": 24.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "193064": {
+    "metrics": {
+      "ce_hours": 0.21,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 59.53,
+      "complexity": 40.47,
+      "interrelatedness": 0.0
+    }
+  },
+  "533026": {
+    "metrics": {
+      "ce_hours": 1.19,
+      "pct_ab_ce": 11.4
+    },
+    "metricsSummary": {
+      "volume": 76.9,
+      "complexity": 23.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "129581": {
+    "metrics": {
+      "ce_hours": 53.22,
+      "pct_ab_ce": 15.65
+    },
+    "metricsSummary": {
+      "volume": 71.64,
+      "complexity": 28.25,
+      "interrelatedness": 0.11
+    }
+  },
+  "298536": {
+    "metrics": {
+      "ce_hours": 0.77,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 62.99,
+      "complexity": 37.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "363049": {
+    "metrics": {
+      "ce_hours": 1.45,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 71.21,
+      "complexity": 28.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "401963": {
+    "metrics": {
+      "ce_hours": 54.07,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.58,
+      "complexity": 41.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "416299": {
+    "metrics": {
+      "ce_hours": 4.88,
+      "pct_ab_ce": 7.13
+    },
+    "metricsSummary": {
+      "volume": 69.89,
+      "complexity": 29.04,
+      "interrelatedness": 1.07
+    }
+  },
+  "130607": {
+    "metrics": {
+      "ce_hours": 24.0,
+      "pct_ab_ce": 14.96
+    },
+    "metricsSummary": {
+      "volume": 72.72,
+      "complexity": 27.28,
+      "interrelatedness": 0.0
+    }
+  },
+  "321066": {
+    "metrics": {
+      "ce_hours": 5.73,
+      "pct_ab_ce": 2.81
+    },
+    "metricsSummary": {
+      "volume": 77.91,
+      "complexity": 22.09,
+      "interrelatedness": 0.0
+    }
+  },
+  "194098": {
+    "metrics": {
+      "ce_hours": 1.92,
+      "pct_ab_ce": 3.45
+    },
+    "metricsSummary": {
+      "volume": 79.61,
+      "complexity": 20.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "399927": {
+    "metrics": {
+      "ce_hours": 0.44,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 73.44,
+      "complexity": 26.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "130611": {
+    "metrics": {
+      "ce_hours": 3.16,
+      "pct_ab_ce": 10.57
+    },
+    "metricsSummary": {
+      "volume": 71.75,
+      "complexity": 15.75,
+      "interrelatedness": 12.5
+    }
+  },
+  "194096": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": 5.1
+    },
+    "metricsSummary": {
+      "volume": 72.43,
+      "complexity": 27.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "130610": {
+    "metrics": {
+      "ce_hours": 86.83,
+      "pct_ab_ce": 13.1
+    },
+    "metricsSummary": {
+      "volume": 71.96,
+      "complexity": 27.73,
+      "interrelatedness": 0.31
+    }
+  },
+  "194097": {
+    "metrics": {
+      "ce_hours": 6.45,
+      "pct_ab_ce": 12.62
+    },
+    "metricsSummary": {
+      "volume": 71.21,
+      "complexity": 28.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "132660": {
+    "metrics": {
+      "ce_hours": 4.62,
+      "pct_ab_ce": 4.48
+    },
+    "metricsSummary": {
+      "volume": 69.55,
+      "complexity": 29.09,
+      "interrelatedness": 1.36
+    }
+  },
+  "132661": {
+    "metrics": {
+      "ce_hours": 3.51,
+      "pct_ab_ce": 7.48
+    },
+    "metricsSummary": {
+      "volume": 81.33,
+      "complexity": 16.38,
+      "interrelatedness": 2.29
+    }
+  },
+  "214587": {
+    "metrics": {
+      "ce_hours": 3.66,
+      "pct_ab_ce": 1.49
+    },
+    "metricsSummary": {
+      "volume": 72.36,
+      "complexity": 27.64,
+      "interrelatedness": 0.0
+    }
+  },
+  "130616": {
+    "metrics": {
+      "ce_hours": 57.69,
+      "pct_ab_ce": 12.51
+    },
+    "metricsSummary": {
+      "volume": 81.85,
+      "complexity": 17.06,
+      "interrelatedness": 1.09
+    }
+  },
+  "463419": {
+    "metrics": {
+      "ce_hours": 2.15,
+      "pct_ab_ce": 16.43
+    },
+    "metricsSummary": {
+      "volume": 74.89,
+      "complexity": 25.11,
+      "interrelatedness": 0.0
+    }
+  },
+  "130623": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": 6.03
+    },
+    "metricsSummary": {
+      "volume": 73.51,
+      "complexity": 26.49,
+      "interrelatedness": 0.0
+    }
+  },
+  "399928": {
+    "metrics": {
+      "ce_hours": 5.07,
+      "pct_ab_ce": 17.08
+    },
+    "metricsSummary": {
+      "volume": 77.24,
+      "complexity": 22.76,
+      "interrelatedness": 0.0
+    }
+  },
+  "399929": {
+    "metrics": {
+      "ce_hours": 1.17,
+      "pct_ab_ce": 8.78
+    },
+    "metricsSummary": {
+      "volume": 81.28,
+      "complexity": 3.7,
+      "interrelatedness": 15.02
+    }
+  },
+  "314950": {
+    "metrics": {
+      "ce_hours": 2.12,
+      "pct_ab_ce": 15.8
+    },
+    "metricsSummary": {
+      "volume": 73.07,
+      "complexity": 26.93,
+      "interrelatedness": 0.0
+    }
+  },
+  "451140": {
+    "metrics": {
+      "ce_hours": 30.0,
+      "pct_ab_ce": 10.51
+    },
+    "metricsSummary": {
+      "volume": 78.12,
+      "complexity": 21.88,
+      "interrelatedness": 0.0
+    }
+  },
+  "130626": {
+    "metrics": {
+      "ce_hours": 13.8,
+      "pct_ab_ce": 10.16
+    },
+    "metricsSummary": {
+      "volume": 74.98,
+      "complexity": 25.02,
+      "interrelatedness": 0.0
+    }
+  },
+  "314951": {
+    "metrics": {
+      "ce_hours": 0.94,
+      "pct_ab_ce": 0.79
+    },
+    "metricsSummary": {
+      "volume": 74.27,
+      "complexity": 25.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "130629": {
+    "metrics": {
+      "ce_hours": 67.03,
+      "pct_ab_ce": 11.73
+    },
+    "metricsSummary": {
+      "volume": 75.46,
+      "complexity": 24.54,
+      "interrelatedness": 0.0
+    }
+  },
+  "410178": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "541260": {
+    "metrics": {
+      "ce_hours": 2.11,
+      "pct_ab_ce": 11.06
+    },
+    "metricsSummary": {
+      "volume": 70.75,
+      "complexity": 17.09,
+      "interrelatedness": 12.16
+    }
+  },
+  "130628": {
+    "metrics": {
+      "ce_hours": 20.96,
+      "pct_ab_ce": 16.68
+    },
+    "metricsSummary": {
+      "volume": 70.13,
+      "complexity": 29.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "410179": {
+    "metrics": {
+      "ce_hours": 3.08,
+      "pct_ab_ce": 8.38
+    },
+    "metricsSummary": {
+      "volume": 78.29,
+      "complexity": 21.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "451139": {
+    "metrics": {
+      "ce_hours": 11.07,
+      "pct_ab_ce": 24.4
+    },
+    "metricsSummary": {
+      "volume": 86.04,
+      "complexity": 11.97,
+      "interrelatedness": 1.99
+    }
+  },
+  "130631": {
+    "metrics": {
+      "ce_hours": 71.52,
+      "pct_ab_ce": 8.77
+    },
+    "metricsSummary": {
+      "volume": 75.05,
+      "complexity": 24.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "130630": {
+    "metrics": {
+      "ce_hours": 6.78,
+      "pct_ab_ce": 11.51
+    },
+    "metricsSummary": {
+      "volume": 74.48,
+      "complexity": 25.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "133701": {
+    "metrics": {
+      "ce_hours": 50.9,
+      "pct_ab_ce": 11.47
+    },
+    "metricsSummary": {
+      "volume": 72.09,
+      "complexity": 27.91,
+      "interrelatedness": 0.0
+    }
+  },
+  "130633": {
+    "metrics": {
+      "ce_hours": 1.76,
+      "pct_ab_ce": 4.67
+    },
+    "metricsSummary": {
+      "volume": 73.22,
+      "complexity": 26.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "130632": {
+    "metrics": {
+      "ce_hours": 100.33,
+      "pct_ab_ce": 14.86
+    },
+    "metricsSummary": {
+      "volume": 68.55,
+      "complexity": 31.03,
+      "interrelatedness": 0.42
+    }
+  },
+  "130634": {
+    "metrics": {
+      "ce_hours": 55.0,
+      "pct_ab_ce": 14.83
+    },
+    "metricsSummary": {
+      "volume": 61.71,
+      "complexity": 38.29,
+      "interrelatedness": 0.0
+    }
+  },
+  "130637": {
+    "metrics": {
+      "ce_hours": 198.56,
+      "pct_ab_ce": 12.78
+    },
+    "metricsSummary": {
+      "volume": 73.42,
+      "complexity": 21.53,
+      "interrelatedness": 5.05
+    }
+  },
+  "439882": {
+    "metrics": {
+      "ce_hours": 2.12,
+      "pct_ab_ce": 4.09
+    },
+    "metricsSummary": {
+      "volume": 66.99,
+      "complexity": 33.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "130636": {
+    "metrics": {
+      "ce_hours": 93.19,
+      "pct_ab_ce": 12.87
+    },
+    "metricsSummary": {
+      "volume": 70.74,
+      "complexity": 27.87,
+      "interrelatedness": 1.39
+    }
+  },
+  "207438": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130639": {
+    "metrics": {
+      "ce_hours": 79.44,
+      "pct_ab_ce": 11.29
+    },
+    "metricsSummary": {
+      "volume": 75.37,
+      "complexity": 24.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "130638": {
+    "metrics": {
+      "ce_hours": 0.06,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "273995": {
+    "metrics": {
+      "ce_hours": 8.06,
+      "pct_ab_ce": 16.68
+    },
+    "metricsSummary": {
+      "volume": 75.78,
+      "complexity": 24.22,
+      "interrelatedness": 0.0
+    }
+  },
+  "439881": {
+    "metrics": {
+      "ce_hours": 0.99,
+      "pct_ab_ce": 7.86
+    },
+    "metricsSummary": {
+      "volume": 76.96,
+      "complexity": 23.04,
+      "interrelatedness": 0.0
+    }
+  },
+  "130640": {
+    "metrics": {
+      "ce_hours": 0.65,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.57,
+      "complexity": 34.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "130643": {
+    "metrics": {
+      "ce_hours": 0.6,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 66.2,
+      "complexity": 33.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "454228": {
+    "metrics": {
+      "ce_hours": 18.91,
+      "pct_ab_ce": 15.63
+    },
+    "metricsSummary": {
+      "volume": 71.06,
+      "complexity": 28.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "130642": {
+    "metrics": {
+      "ce_hours": 0.96,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.07,
+      "complexity": 34.93,
+      "interrelatedness": 0.0
+    }
+  },
+  "130645": {
+    "metrics": {
+      "ce_hours": 0.19,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.63,
+      "complexity": 37.66,
+      "interrelatedness": 0.71
+    }
+  },
+  "155222": {
+    "metrics": {
+      "ce_hours": 1.38,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 66.93,
+      "complexity": 33.07,
+      "interrelatedness": 0.0
+    }
+  },
+  "130647": {
+    "metrics": {
+      "ce_hours": 46.27,
+      "pct_ab_ce": 12.43
+    },
+    "metricsSummary": {
+      "volume": 73.8,
+      "complexity": 24.43,
+      "interrelatedness": 1.77
+    }
+  },
+  "538206": {
+    "metrics": {
+      "ce_hours": 9.41,
+      "pct_ab_ce": 11.11
+    },
+    "metricsSummary": {
+      "volume": 73.55,
+      "complexity": 26.45,
+      "interrelatedness": 0.0
+    }
+  },
+  "155221": {
+    "metrics": {
+      "ce_hours": 35.37,
+      "pct_ab_ce": 9.37
+    },
+    "metricsSummary": {
+      "volume": 74.27,
+      "complexity": 25.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "405073": {
+    "metrics": {
+      "ce_hours": 13.06,
+      "pct_ab_ce": 11.42
+    },
+    "metricsSummary": {
+      "volume": 73.82,
+      "complexity": 26.18,
+      "interrelatedness": 0.0
+    }
+  },
+  "130649": {
+    "metrics": {
+      "ce_hours": 16.29,
+      "pct_ab_ce": 14.26
+    },
+    "metricsSummary": {
+      "volume": 74.18,
+      "complexity": 25.82,
+      "interrelatedness": 0.0
+    }
+  },
+  "348765": {
+    "metrics": {
+      "ce_hours": 17.76,
+      "pct_ab_ce": 17.58
+    },
+    "metricsSummary": {
+      "volume": 76.25,
+      "complexity": 23.75,
+      "interrelatedness": 0.0
+    }
+  },
+  "130648": {
+    "metrics": {
+      "ce_hours": 17.79,
+      "pct_ab_ce": 13.22
+    },
+    "metricsSummary": {
+      "volume": 74.14,
+      "complexity": 25.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "130650": {
+    "metrics": {
+      "ce_hours": 0.79,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.86,
+      "complexity": 34.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "130653": {
+    "metrics": {
+      "ce_hours": 4.43,
+      "pct_ab_ce": 15.94
+    },
+    "metricsSummary": {
+      "volume": 76.43,
+      "complexity": 23.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "130652": {
+    "metrics": {
+      "ce_hours": 33.2,
+      "pct_ab_ce": 10.99
+    },
+    "metricsSummary": {
+      "volume": 75.98,
+      "complexity": 24.02,
+      "interrelatedness": 0.0
+    }
+  },
+  "157276": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "157277": {
+    "metrics": {
+      "ce_hours": 0.68,
+      "pct_ab_ce": 3.45
+    },
+    "metricsSummary": {
+      "volume": 67.36,
+      "complexity": 32.64,
+      "interrelatedness": 0.0
+    }
+  },
+  "130656": {
+    "metrics": {
+      "ce_hours": 35.74,
+      "pct_ab_ce": 7.94
+    },
+    "metricsSummary": {
+      "volume": 74.07,
+      "complexity": 25.01,
+      "interrelatedness": 0.92
+    }
+  },
+  "138851": {
+    "metrics": {
+      "ce_hours": 7.33,
+      "pct_ab_ce": 17.81
+    },
+    "metricsSummary": {
+      "volume": 95.54,
+      "complexity": 4.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "142945": {
+    "metrics": {
+      "ce_hours": 302.65,
+      "pct_ab_ce": 12.1
+    },
+    "metricsSummary": {
+      "volume": 71.88,
+      "complexity": 25.13,
+      "interrelatedness": 2.99
+    }
+  },
+  "130661": {
+    "metrics": {
+      "ce_hours": 12.98,
+      "pct_ab_ce": 12.39
+    },
+    "metricsSummary": {
+      "volume": 73.0,
+      "complexity": 27.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "138854": {
+    "metrics": {
+      "ce_hours": 22.94,
+      "pct_ab_ce": 11.88
+    },
+    "metricsSummary": {
+      "volume": 86.2,
+      "complexity": 13.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "130660": {
+    "metrics": {
+      "ce_hours": 128.25,
+      "pct_ab_ce": 12.14
+    },
+    "metricsSummary": {
+      "volume": 74.08,
+      "complexity": 25.31,
+      "interrelatedness": 0.61
+    }
+  },
+  "130663": {
+    "metrics": {
+      "ce_hours": 11.64,
+      "pct_ab_ce": 8.57
+    },
+    "metricsSummary": {
+      "volume": 76.37,
+      "complexity": 23.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "142948": {
+    "metrics": {
+      "ce_hours": 4.48,
+      "pct_ab_ce": 9.51
+    },
+    "metricsSummary": {
+      "volume": 74.7,
+      "complexity": 25.3,
+      "interrelatedness": 0.0
+    }
+  },
+  "142949": {
+    "metrics": {
+      "ce_hours": 2.08,
+      "pct_ab_ce": 8.22
+    },
+    "metricsSummary": {
+      "volume": 73.08,
+      "complexity": 26.92,
+      "interrelatedness": 0.0
+    }
+  },
+  "129641": {
+    "metrics": {
+      "ce_hours": 10.78,
+      "pct_ab_ce": 14.15
+    },
+    "metricsSummary": {
+      "volume": 74.18,
+      "complexity": 25.82,
+      "interrelatedness": 0.0
+    }
+  },
+  "511599": {
+    "metrics": {
+      "ce_hours": 0.0,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 52.24,
+      "complexity": 47.76,
+      "interrelatedness": 0.0
+    }
+  },
+  "142955": {
+    "metrics": {
+      "ce_hours": 27.32,
+      "pct_ab_ce": 12.89
+    },
+    "metricsSummary": {
+      "volume": 61.84,
+      "complexity": 38.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "374380": {
+    "metrics": {
+      "ce_hours": 13.84,
+      "pct_ab_ce": 12.23
+    },
+    "metricsSummary": {
+      "volume": 74.84,
+      "complexity": 25.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "439919": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130667": {
+    "metrics": {
+      "ce_hours": 10.98,
+      "pct_ab_ce": 14.77
+    },
+    "metricsSummary": {
+      "volume": 73.24,
+      "complexity": 26.76,
+      "interrelatedness": 0.0
+    }
+  },
+  "462445": {
+    "metrics": {
+      "ce_hours": 0.94,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 71.68,
+      "complexity": 28.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "130666": {
+    "metrics": {
+      "ce_hours": 12.94,
+      "pct_ab_ce": 17.12
+    },
+    "metricsSummary": {
+      "volume": 73.06,
+      "complexity": 26.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "143982": {
+    "metrics": {
+      "ce_hours": 0.06,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "130668": {
+    "metrics": {
+      "ce_hours": 8.01,
+      "pct_ab_ce": 13.88
+    },
+    "metricsSummary": {
+      "volume": 73.62,
+      "complexity": 26.38,
+      "interrelatedness": 0.0
+    }
+  },
+  "142956": {
+    "metrics": {
+      "ce_hours": 6.82,
+      "pct_ab_ce": 17.36
+    },
+    "metricsSummary": {
+      "volume": 75.81,
+      "complexity": 24.19,
+      "interrelatedness": 0.0
+    }
+  },
+  "142957": {
+    "metrics": {
+      "ce_hours": 23.31,
+      "pct_ab_ce": 11.94
+    },
+    "metricsSummary": {
+      "volume": 72.03,
+      "complexity": 27.97,
+      "interrelatedness": 0.0
+    }
+  },
+  "143981": {
+    "metrics": {
+      "ce_hours": 8.48,
+      "pct_ab_ce": 13.48
+    },
+    "metricsSummary": {
+      "volume": 79.09,
+      "complexity": 20.91,
+      "interrelatedness": 0.0
+    }
+  },
+  "142962": {
+    "metrics": {
+      "ce_hours": 4.04,
+      "pct_ab_ce": 7.11
+    },
+    "metricsSummary": {
+      "volume": 87.1,
+      "complexity": 12.9,
+      "interrelatedness": 0.0
+    }
+  },
+  "130672": {
+    "metrics": {
+      "ce_hours": 0.77,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 62.99,
+      "complexity": 37.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "142961": {
+    "metrics": {
+      "ce_hours": 2.85,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 73.87,
+      "complexity": 26.13,
+      "interrelatedness": 0.0
+    }
+  },
+  "380534": {
+    "metrics": {
+      "ce_hours": 2.47,
+      "pct_ab_ce": 4.87
+    },
+    "metricsSummary": {
+      "volume": 72.24,
+      "complexity": 22.38,
+      "interrelatedness": 5.38
+    }
+  },
+  "401010": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "153207": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130679": {
+    "metrics": {
+      "ce_hours": 36.11,
+      "pct_ab_ce": 8.63
+    },
+    "metricsSummary": {
+      "volume": 72.75,
+      "complexity": 27.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "157300": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "142965": {
+    "metrics": {
+      "ce_hours": 0.57,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 52.84,
+      "complexity": 47.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "157301": {
+    "metrics": {
+      "ce_hours": 8.09,
+      "pct_ab_ce": 13.04
+    },
+    "metricsSummary": {
+      "volume": 72.42,
+      "complexity": 27.58,
+      "interrelatedness": 0.0
+    }
+  },
+  "401009": {
+    "metrics": {
+      "ce_hours": 3.62,
+      "pct_ab_ce": 13.06
+    },
+    "metricsSummary": {
+      "volume": 78.46,
+      "complexity": 21.54,
+      "interrelatedness": 0.0
+    }
+  },
+  "136826": {
+    "metrics": {
+      "ce_hours": 15.28,
+      "pct_ab_ce": 7.84
+    },
+    "metricsSummary": {
+      "volume": 73.18,
+      "complexity": 26.82,
+      "interrelatedness": 0.0
+    }
+  },
+  "281212": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130680": {
+    "metrics": {
+      "ce_hours": 244.61,
+      "pct_ab_ce": 16.66
+    },
+    "metricsSummary": {
+      "volume": 88.5,
+      "complexity": 11.5,
+      "interrelatedness": 0.0
+    }
+  },
+  "136824": {
+    "metrics": {
+      "ce_hours": 18.36,
+      "pct_ab_ce": 9.98
+    },
+    "metricsSummary": {
+      "volume": 72.87,
+      "complexity": 23.3,
+      "interrelatedness": 3.83
+    }
+  },
+  "130682": {
+    "metrics": {
+      "ce_hours": 11.17,
+      "pct_ab_ce": 12.16
+    },
+    "metricsSummary": {
+      "volume": 71.56,
+      "complexity": 28.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "136825": {
+    "metrics": {
+      "ce_hours": 6.62,
+      "pct_ab_ce": 15.67
+    },
+    "metricsSummary": {
+      "volume": 78.77,
+      "complexity": 21.23,
+      "interrelatedness": 0.0
+    }
+  },
+  "129661": {
+    "metrics": {
+      "ce_hours": 8.24,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.63,
+      "complexity": 41.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "130685": {
+    "metrics": {
+      "ce_hours": 40.39,
+      "pct_ab_ce": 17.42
+    },
+    "metricsSummary": {
+      "volume": 92.11,
+      "complexity": 7.89,
+      "interrelatedness": 0.0
+    }
+  },
+  "130684": {
+    "metrics": {
+      "ce_hours": 13.79,
+      "pct_ab_ce": 28.54
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130687": {
+    "metrics": {
+      "ce_hours": 33.78,
+      "pct_ab_ce": 12.62
+    },
+    "metricsSummary": {
+      "volume": 72.49,
+      "complexity": 21.57,
+      "interrelatedness": 5.94
+    }
+  },
+  "129662": {
+    "metrics": {
+      "ce_hours": 293.13,
+      "pct_ab_ce": 9.04
+    },
+    "metricsSummary": {
+      "volume": 67.47,
+      "complexity": 27.61,
+      "interrelatedness": 4.92
+    }
+  },
+  "130686": {
+    "metrics": {
+      "ce_hours": 16.58,
+      "pct_ab_ce": 9.26
+    },
+    "metricsSummary": {
+      "volume": 71.12,
+      "complexity": 28.88,
+      "interrelatedness": 0.0
+    }
+  },
+  "130689": {
+    "metrics": {
+      "ce_hours": 60.19,
+      "pct_ab_ce": 10.75
+    },
+    "metricsSummary": {
+      "volume": 75.23,
+      "complexity": 23.27,
+      "interrelatedness": 1.5
+    }
+  },
+  "439942": {
+    "metrics": {
+      "ce_hours": 1.05,
+      "pct_ab_ce": 7.27
+    },
+    "metricsSummary": {
+      "volume": 82.5,
+      "complexity": 17.5,
+      "interrelatedness": 0.0
+    }
+  },
+  "130688": {
+    "metrics": {
+      "ce_hours": 8.18,
+      "pct_ab_ce": 15.36
+    },
+    "metricsSummary": {
+      "volume": 75.83,
+      "complexity": 24.17,
+      "interrelatedness": 0.0
+    }
+  },
+  "130691": {
+    "metrics": {
+      "ce_hours": 17.56,
+      "pct_ab_ce": 15.56
+    },
+    "metricsSummary": {
+      "volume": 73.96,
+      "complexity": 26.04,
+      "interrelatedness": 0.0
+    }
+  },
+  "129666": {
+    "metrics": {
+      "ce_hours": 567.29,
+      "pct_ab_ce": 11.87
+    },
+    "metricsSummary": {
+      "volume": 70.6,
+      "complexity": 27.47,
+      "interrelatedness": 1.93
+    }
+  },
+  "130690": {
+    "metrics": {
+      "ce_hours": 4.53,
+      "pct_ab_ce": 15.07
+    },
+    "metricsSummary": {
+      "volume": 69.57,
+      "complexity": 30.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "439941": {
+    "metrics": {
+      "ce_hours": 5.7,
+      "pct_ab_ce": 5.8
+    },
+    "metricsSummary": {
+      "volume": 77.46,
+      "complexity": 22.54,
+      "interrelatedness": 0.0
+    }
+  },
+  "130693": {
+    "metrics": {
+      "ce_hours": 8.41,
+      "pct_ab_ce": 11.93
+    },
+    "metricsSummary": {
+      "volume": 74.71,
+      "complexity": 25.29,
+      "interrelatedness": 0.0
+    }
+  },
+  "233095": {
+    "metrics": {
+      "ce_hours": 16.98,
+      "pct_ab_ce": 11.72
+    },
+    "metricsSummary": {
+      "volume": 77.21,
+      "complexity": 22.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "130692": {
+    "metrics": {
+      "ce_hours": 4.98,
+      "pct_ab_ce": 6.53
+    },
+    "metricsSummary": {
+      "volume": 75.26,
+      "complexity": 24.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "130695": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "211589": {
+    "metrics": {
+      "ce_hours": 177.82,
+      "pct_ab_ce": 10.99
+    },
+    "metricsSummary": {
+      "volume": 72.91,
+      "complexity": 26.98,
+      "interrelatedness": 0.11
+    }
+  },
+  "130694": {
+    "metrics": {
+      "ce_hours": 5.39,
+      "pct_ab_ce": 15.46
+    },
+    "metricsSummary": {
+      "volume": 68.22,
+      "complexity": 31.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "211588": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": 6.56
+    },
+    "metricsSummary": {
+      "volume": 68.32,
+      "complexity": 31.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "130697": {
+    "metrics": {
+      "ce_hours": 12.32,
+      "pct_ab_ce": 5.43
+    },
+    "metricsSummary": {
+      "volume": 71.28,
+      "complexity": 11.76,
+      "interrelatedness": 16.96
+    }
+  },
+  "129672": {
+    "metrics": {
+      "ce_hours": 1.25,
+      "pct_ab_ce": 4.09
+    },
+    "metricsSummary": {
+      "volume": 59.68,
+      "complexity": 40.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "130696": {
+    "metrics": {
+      "ce_hours": 0.8,
+      "pct_ab_ce": 3.64
+    },
+    "metricsSummary": {
+      "volume": 69.37,
+      "complexity": 30.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "129675": {
+    "metrics": {
+      "ce_hours": 13.79,
+      "pct_ab_ce": 10.63
+    },
+    "metricsSummary": {
+      "volume": 78.51,
+      "complexity": 21.49,
+      "interrelatedness": 0.0
+    }
+  },
+  "130699": {
+    "metrics": {
+      "ce_hours": 0.6,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.19,
+      "complexity": 6.88,
+      "interrelatedness": 27.93
+    }
+  },
+  "130698": {
+    "metrics": {
+      "ce_hours": 3.43,
+      "pct_ab_ce": 8.68
+    },
+    "metricsSummary": {
+      "volume": 73.29,
+      "complexity": 26.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "233096": {
+    "metrics": {
+      "ce_hours": 6.81,
+      "pct_ab_ce": 8.79
+    },
+    "metricsSummary": {
+      "volume": 79.3,
+      "complexity": 20.7,
+      "interrelatedness": 0.0
+    }
+  },
+  "414349": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130701": {
+    "metrics": {
+      "ce_hours": 7.64,
+      "pct_ab_ce": 11.29
+    },
+    "metricsSummary": {
+      "volume": 75.03,
+      "complexity": 24.97,
+      "interrelatedness": 0.0
+    }
+  },
+  "130700": {
+    "metrics": {
+      "ce_hours": 8.86,
+      "pct_ab_ce": 13.65
+    },
+    "metricsSummary": {
+      "volume": 72.41,
+      "complexity": 27.59,
+      "interrelatedness": 0.0
+    }
+  },
+  "130703": {
+    "metrics": {
+      "ce_hours": 1.59,
+      "pct_ab_ce": 10.65
+    },
+    "metricsSummary": {
+      "volume": 72.86,
+      "complexity": 27.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "129678": {
+    "metrics": {
+      "ce_hours": 56.35,
+      "pct_ab_ce": 1.4
+    },
+    "metricsSummary": {
+      "volume": 58.41,
+      "complexity": 41.44,
+      "interrelatedness": 0.15
+    }
+  },
+  "130702": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "129680": {
+    "metrics": {
+      "ce_hours": 1545.38,
+      "pct_ab_ce": 10.77
+    },
+    "metricsSummary": {
+      "volume": 70.44,
+      "complexity": 26.69,
+      "interrelatedness": 2.87
+    }
+  },
+  "130704": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "164499": {
+    "metrics": {
+      "ce_hours": 25.63,
+      "pct_ab_ce": 9.78
+    },
+    "metricsSummary": {
+      "volume": 61.08,
+      "complexity": 23.09,
+      "interrelatedness": 15.83
+    }
+  },
+  "130706": {
+    "metrics": {
+      "ce_hours": 180.59,
+      "pct_ab_ce": 20.09
+    },
+    "metricsSummary": {
+      "volume": 81.89,
+      "complexity": 17.35,
+      "interrelatedness": 0.76
+    }
+  },
+  "129687": {
+    "metrics": {
+      "ce_hours": 3.79,
+      "pct_ab_ce": 11.38
+    },
+    "metricsSummary": {
+      "volume": 79.44,
+      "complexity": 20.56,
+      "interrelatedness": 0.0
+    }
+  },
+  "130715": {
+    "metrics": {
+      "ce_hours": 0.58,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.8,
+      "complexity": 31.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "180888": {
+    "metrics": {
+      "ce_hours": 1.91,
+      "pct_ab_ce": 6.71
+    },
+    "metricsSummary": {
+      "volume": 76.65,
+      "complexity": 23.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "129690": {
+    "metrics": {
+      "ce_hours": 7.5,
+      "pct_ab_ce": 12.66
+    },
+    "metricsSummary": {
+      "volume": 76.11,
+      "complexity": 23.89,
+      "interrelatedness": 0.0
+    }
+  },
+  "129697": {
+    "metrics": {
+      "ce_hours": 175.31,
+      "pct_ab_ce": 11.59
+    },
+    "metricsSummary": {
+      "volume": 74.43,
+      "complexity": 23.91,
+      "interrelatedness": 1.66
+    }
+  },
+  "129699": {
+    "metrics": {
+      "ce_hours": 523.67,
+      "pct_ab_ce": 13.65
+    },
+    "metricsSummary": {
+      "volume": 71.04,
+      "complexity": 28.09,
+      "interrelatedness": 0.87
+    }
+  },
+  "162464": {
+    "metrics": {
+      "ce_hours": 17.54,
+      "pct_ab_ce": 9.55
+    },
+    "metricsSummary": {
+      "volume": 75.65,
+      "complexity": 24.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "130727": {
+    "metrics": {
+      "ce_hours": 2.34,
+      "pct_ab_ce": 1.41
+    },
+    "metricsSummary": {
+      "volume": 75.6,
+      "complexity": 24.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "209573": {
+    "metrics": {
+      "ce_hours": 0.86,
+      "pct_ab_ce": 10.96
+    },
+    "metricsSummary": {
+      "volume": 62.12,
+      "complexity": 37.88,
+      "interrelatedness": 0.0
+    }
+  },
+  "209572": {
+    "metrics": {
+      "ce_hours": 0.92,
+      "pct_ab_ce": 7.21
+    },
+    "metricsSummary": {
+      "volume": 77.15,
+      "complexity": 22.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "130729": {
+    "metrics": {
+      "ce_hours": 23.37,
+      "pct_ab_ce": 16.65
+    },
+    "metricsSummary": {
+      "volume": 71.75,
+      "complexity": 28.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "130728": {
+    "metrics": {
+      "ce_hours": 11.89,
+      "pct_ab_ce": 15.51
+    },
+    "metricsSummary": {
+      "volume": 75.18,
+      "complexity": 21.72,
+      "interrelatedness": 3.1
+    }
+  },
+  "129707": {
+    "metrics": {
+      "ce_hours": 3.25,
+      "pct_ab_ce": 10.01
+    },
+    "metricsSummary": {
+      "volume": 75.82,
+      "complexity": 24.18,
+      "interrelatedness": 0.0
+    }
+  },
+  "130731": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": 2.34
+    },
+    "metricsSummary": {
+      "volume": 72.8,
+      "complexity": 27.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "456364": {
+    "metrics": {
+      "ce_hours": 7.44,
+      "pct_ab_ce": 11.4
+    },
+    "metricsSummary": {
+      "volume": 55.53,
+      "complexity": 31.34,
+      "interrelatedness": 13.13
+    }
+  },
+  "129706": {
+    "metrics": {
+      "ce_hours": 6.88,
+      "pct_ab_ce": 4.72
+    },
+    "metricsSummary": {
+      "volume": 69.88,
+      "complexity": 24.03,
+      "interrelatedness": 6.09
+    }
+  },
+  "130730": {
+    "metrics": {
+      "ce_hours": 5.83,
+      "pct_ab_ce": 10.51
+    },
+    "metricsSummary": {
+      "volume": 73.25,
+      "complexity": 26.75,
+      "interrelatedness": 0.0
+    }
+  },
+  "130733": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "521899": {
+    "metrics": {
+      "ce_hours": 0.51,
+      "pct_ab_ce": 5.34
+    },
+    "metricsSummary": {
+      "volume": 70.45,
+      "complexity": 29.55,
+      "interrelatedness": 0.0
+    }
+  },
+  "130732": {
+    "metrics": {
+      "ce_hours": 5.84,
+      "pct_ab_ce": 10.97
+    },
+    "metricsSummary": {
+      "volume": 74.56,
+      "complexity": 25.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "129711": {
+    "metrics": {
+      "ce_hours": 0.0,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 52.24,
+      "complexity": 47.76,
+      "interrelatedness": 0.0
+    }
+  },
+  "130735": {
+    "metrics": {
+      "ce_hours": 43.05,
+      "pct_ab_ce": 22.27
+    },
+    "metricsSummary": {
+      "volume": 62.13,
+      "complexity": 37.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "130734": {
+    "metrics": {
+      "ce_hours": 2.94,
+      "pct_ab_ce": 17.32
+    },
+    "metricsSummary": {
+      "volume": 73.88,
+      "complexity": 26.12,
+      "interrelatedness": 0.0
+    }
+  },
+  "130737": {
+    "metrics": {
+      "ce_hours": 15.45,
+      "pct_ab_ce": 16.46
+    },
+    "metricsSummary": {
+      "volume": 74.59,
+      "complexity": 25.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "338613": {
+    "metrics": {
+      "ce_hours": 4.64,
+      "pct_ab_ce": 9.68
+    },
+    "metricsSummary": {
+      "volume": 70.92,
+      "complexity": 29.08,
+      "interrelatedness": 0.0
+    }
+  },
+  "130736": {
+    "metrics": {
+      "ce_hours": 0.09,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.22,
+      "complexity": 31.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "338612": {
+    "metrics": {
+      "ce_hours": 13.2,
+      "pct_ab_ce": 18.67
+    },
+    "metricsSummary": {
+      "volume": 75.59,
+      "complexity": 24.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "130739": {
+    "metrics": {
+      "ce_hours": 0.51,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.29,
+      "complexity": 38.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "130738": {
+    "metrics": {
+      "ce_hours": 2.47,
+      "pct_ab_ce": 13.71
+    },
+    "metricsSummary": {
+      "volume": 75.02,
+      "complexity": 24.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "130741": {
+    "metrics": {
+      "ce_hours": 4.12,
+      "pct_ab_ce": 14.77
+    },
+    "metricsSummary": {
+      "volume": 76.0,
+      "complexity": 24.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "191158": {
+    "metrics": {
+      "ce_hours": 22.33,
+      "pct_ab_ce": 8.03
+    },
+    "metricsSummary": {
+      "volume": 74.63,
+      "complexity": 25.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "130740": {
+    "metrics": {
+      "ce_hours": 6.18,
+      "pct_ab_ce": 12.74
+    },
+    "metricsSummary": {
+      "volume": 79.23,
+      "complexity": 20.77,
+      "interrelatedness": 0.0
+    }
+  },
+  "191159": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130743": {
+    "metrics": {
+      "ce_hours": 1.13,
+      "pct_ab_ce": 3.42
+    },
+    "metricsSummary": {
+      "volume": 79.32,
+      "complexity": 20.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "193204": {
+    "metrics": {
+      "ce_hours": 15.42,
+      "pct_ab_ce": 7.91
+    },
+    "metricsSummary": {
+      "volume": 78.63,
+      "complexity": 21.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "130742": {
+    "metrics": {
+      "ce_hours": 5.64,
+      "pct_ab_ce": 11.77
+    },
+    "metricsSummary": {
+      "volume": 76.99,
+      "complexity": 23.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "193205": {
+    "metrics": {
+      "ce_hours": 2.14,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 70.75,
+      "complexity": 29.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "129721": {
+    "metrics": {
+      "ce_hours": 9.63,
+      "pct_ab_ce": 9.16
+    },
+    "metricsSummary": {
+      "volume": 76.29,
+      "complexity": 23.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "130745": {
+    "metrics": {
+      "ce_hours": 4.45,
+      "pct_ab_ce": 15.65
+    },
+    "metricsSummary": {
+      "volume": 70.59,
+      "complexity": 29.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "145082": {
+    "metrics": {
+      "ce_hours": 46.48,
+      "pct_ab_ce": 12.47
+    },
+    "metricsSummary": {
+      "volume": 73.84,
+      "complexity": 26.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "130744": {
+    "metrics": {
+      "ce_hours": 5.51,
+      "pct_ab_ce": 11.63
+    },
+    "metricsSummary": {
+      "volume": 72.74,
+      "complexity": 27.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "145083": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "150200": {
+    "metrics": {
+      "ce_hours": 0.77,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 64.22,
+      "complexity": 35.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "130746": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "150201": {
+    "metrics": {
+      "ce_hours": 94.97,
+      "pct_ab_ce": 9.0
+    },
+    "metricsSummary": {
+      "volume": 72.11,
+      "complexity": 24.73,
+      "interrelatedness": 3.16
+    }
+  },
+  "130749": {
+    "metrics": {
+      "ce_hours": 99.97,
+      "pct_ab_ce": 8.16
+    },
+    "metricsSummary": {
+      "volume": 73.41,
+      "complexity": 25.23,
+      "interrelatedness": 1.36
+    }
+  },
+  "130748": {
+    "metrics": {
+      "ce_hours": 12.74,
+      "pct_ab_ce": 7.02
+    },
+    "metricsSummary": {
+      "volume": 85.26,
+      "complexity": 14.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "178879": {
+    "metrics": {
+      "ce_hours": 16.44,
+      "pct_ab_ce": 8.69
+    },
+    "metricsSummary": {
+      "volume": 64.93,
+      "complexity": 25.69,
+      "interrelatedness": 9.38
+    }
+  },
+  "212670": {
+    "metrics": {
+      "ce_hours": 0.54,
+      "pct_ab_ce": 1.47
+    },
+    "metricsSummary": {
+      "volume": 70.26,
+      "complexity": 29.74,
+      "interrelatedness": 0.0
+    }
+  },
+  "138940": {
+    "metrics": {
+      "ce_hours": 135.34,
+      "pct_ab_ce": 11.9
+    },
+    "metricsSummary": {
+      "volume": 75.67,
+      "complexity": 24.29,
+      "interrelatedness": 0.04
+    }
+  },
+  "130750": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "130753": {
+    "metrics": {
+      "ce_hours": 13.75,
+      "pct_ab_ce": 1.45
+    },
+    "metricsSummary": {
+      "volume": 76.54,
+      "complexity": 23.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "143042": {
+    "metrics": {
+      "ce_hours": 0.91,
+      "pct_ab_ce": 5.34
+    },
+    "metricsSummary": {
+      "volume": 72.18,
+      "complexity": 27.82,
+      "interrelatedness": 0.0
+    }
+  },
+  "130752": {
+    "metrics": {
+      "ce_hours": 0.71,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.93,
+      "complexity": 31.07,
+      "interrelatedness": 0.0
+    }
+  },
+  "143041": {
+    "metrics": {
+      "ce_hours": 1.36,
+      "pct_ab_ce": 4.22
+    },
+    "metricsSummary": {
+      "volume": 67.43,
+      "complexity": 32.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "289484": {
+    "metrics": {
+      "ce_hours": 1.14,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.86,
+      "complexity": 34.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "289485": {
+    "metrics": {
+      "ce_hours": 0.69,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 66.4,
+      "complexity": 33.6,
+      "interrelatedness": 0.0
+    }
+  },
+  "202441": {
+    "metrics": {
+      "ce_hours": 3.25,
+      "pct_ab_ce": 14.64
+    },
+    "metricsSummary": {
+      "volume": 74.52,
+      "complexity": 25.48,
+      "interrelatedness": 0.0
+    }
+  },
+  "130764": {
+    "metrics": {
+      "ce_hours": 2.88,
+      "pct_ab_ce": 13.18
+    },
+    "metricsSummary": {
+      "volume": 72.6,
+      "complexity": 27.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "171725": {
+    "metrics": {
+      "ce_hours": 4.2,
+      "pct_ab_ce": 13.13
+    },
+    "metricsSummary": {
+      "volume": 82.05,
+      "complexity": 17.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "133842": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "144082": {
+    "metrics": {
+      "ce_hours": 7.47,
+      "pct_ab_ce": 7.71
+    },
+    "metricsSummary": {
+      "volume": 75.22,
+      "complexity": 24.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "486101": {
+    "metrics": {
+      "ce_hours": 1.69,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 67.61,
+      "complexity": 32.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "144081": {
+    "metrics": {
+      "ce_hours": 47.34,
+      "pct_ab_ce": 15.78
+    },
+    "metricsSummary": {
+      "volume": 76.95,
+      "complexity": 23.05,
+      "interrelatedness": 0.0
+    }
+  },
+  "129749": {
+    "metrics": {
+      "ce_hours": 5.81,
+      "pct_ab_ce": 10.09
+    },
+    "metricsSummary": {
+      "volume": 73.02,
+      "complexity": 26.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "324317": {
+    "metrics": {
+      "ce_hours": 50.4,
+      "pct_ab_ce": 12.99
+    },
+    "metricsSummary": {
+      "volume": 72.52,
+      "complexity": 26.78,
+      "interrelatedness": 0.7
+    }
+  },
+  "129757": {
+    "metrics": {
+      "ce_hours": 12.89,
+      "pct_ab_ce": 11.79
+    },
+    "metricsSummary": {
+      "volume": 75.56,
+      "complexity": 24.44,
+      "interrelatedness": 0.0
+    }
+  },
+  "155358": {
+    "metrics": {
+      "ce_hours": 3.33,
+      "pct_ab_ce": 9.54
+    },
+    "metricsSummary": {
+      "volume": 59.58,
+      "complexity": 40.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "126684": {
+    "metrics": {
+      "ce_hours": 38.14,
+      "pct_ab_ce": 14.01
+    },
+    "metricsSummary": {
+      "volume": 70.42,
+      "complexity": 28.84,
+      "interrelatedness": 0.74
+    }
+  },
+  "129761": {
+    "metrics": {
+      "ce_hours": 22.39,
+      "pct_ab_ce": 2.99
+    },
+    "metricsSummary": {
+      "volume": 63.49,
+      "complexity": 36.15,
+      "interrelatedness": 0.36
+    }
+  },
+  "174818": {
+    "metrics": {
+      "ce_hours": 23.39,
+      "pct_ab_ce": 14.41
+    },
+    "metricsSummary": {
+      "volume": 71.14,
+      "complexity": 28.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "129763": {
+    "metrics": {
+      "ce_hours": 31.9,
+      "pct_ab_ce": 10.09
+    },
+    "metricsSummary": {
+      "volume": 71.46,
+      "complexity": 27.62,
+      "interrelatedness": 0.92
+    }
+  },
+  "346854": {
+    "metrics": {
+      "ce_hours": 0.44,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 86.48,
+      "complexity": 13.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "494308": {
+    "metrics": {
+      "ce_hours": 3.55,
+      "pct_ab_ce": 1.17
+    },
+    "metricsSummary": {
+      "volume": 93.16,
+      "complexity": 6.84,
+      "interrelatedness": 0.0
+    }
+  },
+  "129765": {
+    "metrics": {
+      "ce_hours": 6.52,
+      "pct_ab_ce": 4.39
+    },
+    "metricsSummary": {
+      "volume": 78.54,
+      "complexity": 21.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "494307": {
+    "metrics": {
+      "ce_hours": 9.07,
+      "pct_ab_ce": 13.36
+    },
+    "metricsSummary": {
+      "volume": 77.58,
+      "complexity": 22.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "181991": {
+    "metrics": {
+      "ce_hours": 6.77,
+      "pct_ab_ce": 12.28
+    },
+    "metricsSummary": {
+      "volume": 71.1,
+      "complexity": 17.67,
+      "interrelatedness": 11.23
+    }
+  },
+  "129773": {
+    "metrics": {
+      "ce_hours": 20.5,
+      "pct_ab_ce": 14.22
+    },
+    "metricsSummary": {
+      "volume": 75.69,
+      "complexity": 24.31,
+      "interrelatedness": 0.0
+    }
+  },
+  "307944": {
+    "metrics": {
+      "ce_hours": 10.1,
+      "pct_ab_ce": 12.73
+    },
+    "metricsSummary": {
+      "volume": 75.06,
+      "complexity": 24.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "126703": {
+    "metrics": {
+      "ce_hours": 57.92,
+      "pct_ab_ce": 11.99
+    },
+    "metricsSummary": {
+      "volume": 73.59,
+      "complexity": 26.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "128751": {
+    "metrics": {
+      "ce_hours": 24.08,
+      "pct_ab_ce": 12.49
+    },
+    "metricsSummary": {
+      "volume": 75.33,
+      "complexity": 24.67,
+      "interrelatedness": 0.0
+    }
+  },
+  "126705": {
+    "metrics": {
+      "ce_hours": 0.43,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 64.63,
+      "complexity": 35.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "204530": {
+    "metrics": {
+      "ce_hours": 44.06,
+      "pct_ab_ce": 7.32
+    },
+    "metricsSummary": {
+      "volume": 72.96,
+      "complexity": 27.04,
+      "interrelatedness": 0.0
+    }
+  },
+  "357104": {
+    "metrics": {
+      "ce_hours": 52.83,
+      "pct_ab_ce": 11.42
+    },
+    "metricsSummary": {
+      "volume": 71.46,
+      "complexity": 27.43,
+      "interrelatedness": 1.11
+    }
+  },
+  "357106": {
+    "metrics": {
+      "ce_hours": 1.11,
+      "pct_ab_ce": 19.69
+    },
+    "metricsSummary": {
+      "volume": 68.16,
+      "complexity": 31.84,
+      "interrelatedness": 0.0
+    }
+  },
+  "379641": {
+    "metrics": {
+      "ce_hours": 1.17,
+      "pct_ab_ce": 4.73
+    },
+    "metricsSummary": {
+      "volume": 83.08,
+      "complexity": 16.92,
+      "interrelatedness": 0.0
+    }
+  },
+  "379642": {
+    "metrics": {
+      "ce_hours": 119.97,
+      "pct_ab_ce": 10.32
+    },
+    "metricsSummary": {
+      "volume": 74.74,
+      "complexity": 25.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "129793": {
+    "metrics": {
+      "ce_hours": 294.38,
+      "pct_ab_ce": 8.38
+    },
+    "metricsSummary": {
+      "volume": 71.74,
+      "complexity": 27.93,
+      "interrelatedness": 0.33
+    }
+  },
+  "129795": {
+    "metrics": {
+      "ce_hours": 25.29,
+      "pct_ab_ce": 12.91
+    },
+    "metricsSummary": {
+      "volume": 71.57,
+      "complexity": 24.44,
+      "interrelatedness": 3.99
+    }
+  },
+  "129794": {
+    "metrics": {
+      "ce_hours": 21.61,
+      "pct_ab_ce": 10.7
+    },
+    "metricsSummary": {
+      "volume": 71.95,
+      "complexity": 15.31,
+      "interrelatedness": 12.74
+    }
+  },
+  "129797": {
+    "metrics": {
+      "ce_hours": 3.21,
+      "pct_ab_ce": 5.52
+    },
+    "metricsSummary": {
+      "volume": 71.65,
+      "complexity": 28.35,
+      "interrelatedness": 0.0
+    }
+  },
+  "129796": {
+    "metrics": {
+      "ce_hours": 46.77,
+      "pct_ab_ce": 10.68
+    },
+    "metricsSummary": {
+      "volume": 77.52,
+      "complexity": 22.13,
+      "interrelatedness": 0.35
+    }
+  },
+  "126727": {
+    "metrics": {
+      "ce_hours": 13.71,
+      "pct_ab_ce": 5.89
+    },
+    "metricsSummary": {
+      "volume": 84.13,
+      "complexity": 15.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "509711": {
+    "metrics": {
+      "ce_hours": 22.2,
+      "pct_ab_ce": 10.58
+    },
+    "metricsSummary": {
+      "volume": 74.2,
+      "complexity": 25.8,
+      "interrelatedness": 0.0
+    }
+  },
+  "509710": {
+    "metrics": {
+      "ce_hours": 0.85,
+      "pct_ab_ce": 8.79
+    },
+    "metricsSummary": {
+      "volume": 73.49,
+      "complexity": 26.51,
+      "interrelatedness": 0.0
+    }
+  },
+  "129803": {
+    "metrics": {
+      "ce_hours": 16.69,
+      "pct_ab_ce": 5.85
+    },
+    "metricsSummary": {
+      "volume": 73.93,
+      "complexity": 25.21,
+      "interrelatedness": 0.86
+    }
+  },
+  "129802": {
+    "metrics": {
+      "ce_hours": 1.48,
+      "pct_ab_ce": 2.01
+    },
+    "metricsSummary": {
+      "volume": 71.74,
+      "complexity": 28.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "187150": {
+    "metrics": {
+      "ce_hours": 4.13,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 71.34,
+      "complexity": 28.66,
+      "interrelatedness": 0.0
+    }
+  },
+  "254735": {
+    "metrics": {
+      "ce_hours": 0.44,
+      "pct_ab_ce": 1.09
+    },
+    "metricsSummary": {
+      "volume": 76.37,
+      "complexity": 23.63,
+      "interrelatedness": 0.0
+    }
+  },
+  "254738": {
+    "metrics": {
+      "ce_hours": 481.04,
+      "pct_ab_ce": 10.83
+    },
+    "metricsSummary": {
+      "volume": 74.61,
+      "complexity": 25.15,
+      "interrelatedness": 0.24
+    }
+  },
+  "129811": {
+    "metrics": {
+      "ce_hours": 228.05,
+      "pct_ab_ce": 14.21
+    },
+    "metricsSummary": {
+      "volume": 79.63,
+      "complexity": 19.57,
+      "interrelatedness": 0.8
+    }
+  },
+  "194320": {
+    "metrics": {
+      "ce_hours": 6.83,
+      "pct_ab_ce": 8.63
+    },
+    "metricsSummary": {
+      "volume": 80.07,
+      "complexity": 19.93,
+      "interrelatedness": 0.0
+    }
+  },
+  "254737": {
+    "metrics": {
+      "ce_hours": 4.76,
+      "pct_ab_ce": 13.74
+    },
+    "metricsSummary": {
+      "volume": 77.14,
+      "complexity": 22.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "254736": {
+    "metrics": {
+      "ce_hours": 6.33,
+      "pct_ab_ce": 14.35
+    },
+    "metricsSummary": {
+      "volume": 78.29,
+      "complexity": 21.71,
+      "interrelatedness": 0.0
+    }
+  },
+  "159510": {
+    "metrics": {
+      "ce_hours": 0.78,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.13,
+      "complexity": 31.87,
+      "interrelatedness": 0.0
+    }
+  },
+  "144151": {
+    "metrics": {
+      "ce_hours": 50.36,
+      "pct_ab_ce": 11.22
+    },
+    "metricsSummary": {
+      "volume": 74.58,
+      "complexity": 23.16,
+      "interrelatedness": 2.26
+    }
+  },
+  "129815": {
+    "metrics": {
+      "ce_hours": 110.5,
+      "pct_ab_ce": 10.25
+    },
+    "metricsSummary": {
+      "volume": 67.89,
+      "complexity": 27.98,
+      "interrelatedness": 4.13
+    }
+  },
+  "509713": {
+    "metrics": {
+      "ce_hours": 3.67,
+      "pct_ab_ce": 16.59
+    },
+    "metricsSummary": {
+      "volume": 73.97,
+      "complexity": 26.03,
+      "interrelatedness": 0.0
+    }
+  },
+  "129814": {
+    "metrics": {
+      "ce_hours": 12.04,
+      "pct_ab_ce": 14.37
+    },
+    "metricsSummary": {
+      "volume": 74.45,
+      "complexity": 23.02,
+      "interrelatedness": 2.53
+    }
+  },
+  "509712": {
+    "metrics": {
+      "ce_hours": 5.15,
+      "pct_ab_ce": 13.96
+    },
+    "metricsSummary": {
+      "volume": 76.27,
+      "complexity": 23.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "129818": {
+    "metrics": {
+      "ce_hours": 107.81,
+      "pct_ab_ce": 10.13
+    },
+    "metricsSummary": {
+      "volume": 74.15,
+      "complexity": 25.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "136985": {
+    "metrics": {
+      "ce_hours": 4.6,
+      "pct_ab_ce": 12.29
+    },
+    "metricsSummary": {
+      "volume": 78.15,
+      "complexity": 21.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "158494": {
+    "metrics": {
+      "ce_hours": 5.16,
+      "pct_ab_ce": 8.37
+    },
+    "metricsSummary": {
+      "volume": 67.73,
+      "complexity": 32.27,
+      "interrelatedness": 0.0
+    }
+  },
+  "158495": {
+    "metrics": {
+      "ce_hours": 9.47,
+      "pct_ab_ce": 16.55
+    },
+    "metricsSummary": {
+      "volume": 76.16,
+      "complexity": 23.84,
+      "interrelatedness": 0.0
+    }
+  },
+  "348955": {
+    "metrics": {
+      "ce_hours": 9.27,
+      "pct_ab_ce": 20.81
+    },
+    "metricsSummary": {
+      "volume": 57.32,
+      "complexity": 42.68,
+      "interrelatedness": 0.0
+    }
+  },
+  "129827": {
+    "metrics": {
+      "ce_hours": 383.32,
+      "pct_ab_ce": 12.81
+    },
+    "metricsSummary": {
+      "volume": 70.48,
+      "complexity": 26.43,
+      "interrelatedness": 3.09
+    }
+  },
+  "169761": {
+    "metrics": {
+      "ce_hours": 8.11,
+      "pct_ab_ce": 17.19
+    },
+    "metricsSummary": {
+      "volume": 71.41,
+      "complexity": 28.59,
+      "interrelatedness": 0.0
+    }
+  },
+  "129831": {
+    "metrics": {
+      "ce_hours": 1.23,
+      "pct_ab_ce": 16.97
+    },
+    "metricsSummary": {
+      "volume": 71.08,
+      "complexity": 28.92,
+      "interrelatedness": 0.0
+    }
+  },
+  "395040": {
+    "metrics": {
+      "ce_hours": 1.51,
+      "pct_ab_ce": 4.85
+    },
+    "metricsSummary": {
+      "volume": 70.06,
+      "complexity": 29.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "286510": {
+    "metrics": {
+      "ce_hours": 32.87,
+      "pct_ab_ce": 9.26
+    },
+    "metricsSummary": {
+      "volume": 74.05,
+      "complexity": 25.95,
+      "interrelatedness": 0.0
+    }
+  },
+  "129834": {
+    "metrics": {
+      "ce_hours": 631.18,
+      "pct_ab_ce": 12.42
+    },
+    "metricsSummary": {
+      "volume": 69.25,
+      "complexity": 30.54,
+      "interrelatedness": 0.21
+    }
+  },
+  "153388": {
+    "metrics": {
+      "ce_hours": 1.94,
+      "pct_ab_ce": 16.3
+    },
+    "metricsSummary": {
+      "volume": 75.48,
+      "complexity": 24.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "208685": {
+    "metrics": {
+      "ce_hours": 1.84,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 68.79,
+      "complexity": 31.21,
+      "interrelatedness": 0.0
+    }
+  },
+  "129845": {
+    "metrics": {
+      "ce_hours": 7.08,
+      "pct_ab_ce": 20.23
+    },
+    "metricsSummary": {
+      "volume": 68.86,
+      "complexity": 31.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "359217": {
+    "metrics": {
+      "ce_hours": 0.31,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.59,
+      "complexity": 41.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "129850": {
+    "metrics": {
+      "ce_hours": 912.34,
+      "pct_ab_ce": 11.66
+    },
+    "metricsSummary": {
+      "volume": 73.53,
+      "complexity": 25.51,
+      "interrelatedness": 0.96
+    }
+  },
+  "470843": {
+    "metrics": {
+      "ce_hours": 0.76,
+      "pct_ab_ce": 8.3
+    },
+    "metricsSummary": {
+      "volume": 72.48,
+      "complexity": 27.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "470842": {
+    "metrics": {
+      "ce_hours": 3.03,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 65.15,
+      "complexity": 34.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "456512": {
+    "metrics": {
+      "ce_hours": 0.88,
+      "pct_ab_ce": 9.1
+    },
+    "metricsSummary": {
+      "volume": 73.75,
+      "complexity": 26.25,
+      "interrelatedness": 0.0
+    }
+  },
+  "129865": {
+    "metrics": {
+      "ce_hours": 105.04,
+      "pct_ab_ce": 13.0
+    },
+    "metricsSummary": {
+      "volume": 74.21,
+      "complexity": 25.6,
+      "interrelatedness": 0.19
+    }
+  },
+  "256847": {
+    "metrics": {
+      "ce_hours": 21.27,
+      "pct_ab_ce": 12.71
+    },
+    "metricsSummary": {
+      "volume": 76.3,
+      "complexity": 23.7,
+      "interrelatedness": 0.0
+    }
+  },
+  "193363": {
+    "metrics": {
+      "ce_hours": 15.33,
+      "pct_ab_ce": 14.5
+    },
+    "metricsSummary": {
+      "volume": 75.0,
+      "complexity": 25.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "256848": {
+    "metrics": {
+      "ce_hours": 0.4,
+      "pct_ab_ce": 5.95
+    },
+    "metricsSummary": {
+      "volume": 77.15,
+      "complexity": 22.85,
+      "interrelatedness": 0.0
+    }
+  },
+  "193364": {
+    "metrics": {
+      "ce_hours": 3.36,
+      "pct_ab_ce": 8.68
+    },
+    "metricsSummary": {
+      "volume": 75.48,
+      "complexity": 24.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "163674": {
+    "metrics": {
+      "ce_hours": 4.5,
+      "pct_ab_ce": 4.23
+    },
+    "metricsSummary": {
+      "volume": 71.38,
+      "complexity": 28.62,
+      "interrelatedness": 0.0
+    }
+  },
+  "412511": {
+    "metrics": {
+      "ce_hours": 3.08,
+      "pct_ab_ce": 6.76
+    },
+    "metricsSummary": {
+      "volume": 73.45,
+      "complexity": 26.55,
+      "interrelatedness": 0.0
+    }
+  },
+  "439135": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "129882": {
+    "metrics": {
+      "ce_hours": 97.73,
+      "pct_ab_ce": 18.92
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "156512": {
+    "metrics": {
+      "ce_hours": 3.02,
+      "pct_ab_ce": 6.86
+    },
+    "metricsSummary": {
+      "volume": 69.21,
+      "complexity": 30.79,
+      "interrelatedness": 0.0
+    }
+  },
+  "156513": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "136036": {
+    "metrics": {
+      "ce_hours": 0.25,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 61.17,
+      "complexity": 38.83,
+      "interrelatedness": 0.0
+    }
+  },
+  "136037": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 64.72,
+      "complexity": 35.28,
+      "interrelatedness": 0.0
+    }
+  },
+  "209774": {
+    "metrics": {
+      "ce_hours": 10.35,
+      "pct_ab_ce": 6.3
+    },
+    "metricsSummary": {
+      "volume": 71.37,
+      "complexity": 16.52,
+      "interrelatedness": 12.11
+    }
+  },
+  "137068": {
+    "metrics": {
+      "ce_hours": 5.57,
+      "pct_ab_ce": 15.03
+    },
+    "metricsSummary": {
+      "volume": 75.59,
+      "complexity": 24.41,
+      "interrelatedness": 0.0
+    }
+  },
+  "309098": {
+    "metrics": {
+      "ce_hours": 2.05,
+      "pct_ab_ce": 10.05
+    },
+    "metricsSummary": {
+      "volume": 72.3,
+      "complexity": 27.7,
+      "interrelatedness": 0.0
+    }
+  },
+  "309099": {
+    "metrics": {
+      "ce_hours": 57.56,
+      "pct_ab_ce": 11.26
+    },
+    "metricsSummary": {
+      "volume": 64.06,
+      "complexity": 35.94,
+      "interrelatedness": 0.0
+    }
+  },
+  "166771": {
+    "metrics": {
+      "ce_hours": 9.79,
+      "pct_ab_ce": 14.99
+    },
+    "metricsSummary": {
+      "volume": 58.0,
+      "complexity": 36.99,
+      "interrelatedness": 5.01
+    }
+  },
+  "137072": {
+    "metrics": {
+      "ce_hours": 0.4,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 63.43,
+      "complexity": 36.57,
+      "interrelatedness": 0.0
+    }
+  },
+  "444276": {
+    "metrics": {
+      "ce_hours": 21.32,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 58.54,
+      "complexity": 41.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "129906": {
+    "metrics": {
+      "ce_hours": 28.37,
+      "pct_ab_ce": 16.14
+    },
+    "metricsSummary": {
+      "volume": 72.99,
+      "complexity": 27.01,
+      "interrelatedness": 0.0
+    }
+  },
+  "474996": {
+    "metrics": {
+      "ce_hours": 4.37,
+      "pct_ab_ce": 7.44
+    },
+    "metricsSummary": {
+      "volume": 75.8,
+      "complexity": 24.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "129908": {
+    "metrics": {
+      "ce_hours": 0.56,
+      "pct_ab_ce": 6.54
+    },
+    "metricsSummary": {
+      "volume": 66.97,
+      "complexity": 33.03,
+      "interrelatedness": 0.0
+    }
+  },
+  "444275": {
+    "metrics": {
+      "ce_hours": 0.03,
+      "pct_ab_ce": 4.72
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "178042": {
+    "metrics": {
+      "ce_hours": 708.42,
+      "pct_ab_ce": 10.99
+    },
+    "metricsSummary": {
+      "volume": 73.59,
+      "complexity": 26.18,
+      "interrelatedness": 0.23
+    }
+  },
+  "129916": {
+    "metrics": {
+      "ce_hours": 42.01,
+      "pct_ab_ce": 15.29
+    },
+    "metricsSummary": {
+      "volume": 70.17,
+      "complexity": 27.87,
+      "interrelatedness": 1.96
+    }
+  },
+  "209789": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "438150": {
+    "metrics": {
+      "ce_hours": 7.97,
+      "pct_ab_ce": 5.51
+    },
+    "metricsSummary": {
+      "volume": 70.28,
+      "complexity": 29.72,
+      "interrelatedness": 0.0
+    }
+  },
+  "438151": {
+    "metrics": {
+      "ce_hours": 4.51,
+      "pct_ab_ce": 7.02
+    },
+    "metricsSummary": {
+      "volume": 66.7,
+      "complexity": 33.3,
+      "interrelatedness": 0.0
+    }
+  },
+  "438148": {
+    "metrics": {
+      "ce_hours": 7.35,
+      "pct_ab_ce": 6.72
+    },
+    "metricsSummary": {
+      "volume": 76.01,
+      "complexity": 23.99,
+      "interrelatedness": 0.0
+    }
+  },
+  "438146": {
+    "metrics": {
+      "ce_hours": 4.86,
+      "pct_ab_ce": 16.58
+    },
+    "metricsSummary": {
+      "volume": 74.03,
+      "complexity": 25.97,
+      "interrelatedness": 0.0
+    }
+  },
+  "438147": {
+    "metrics": {
+      "ce_hours": 331.28,
+      "pct_ab_ce": 4.54
+    },
+    "metricsSummary": {
+      "volume": 73.73,
+      "complexity": 24.67,
+      "interrelatedness": 1.6
+    }
+  },
+  "176004": {
+    "metrics": {
+      "ce_hours": 2.61,
+      "pct_ab_ce": 8.42
+    },
+    "metricsSummary": {
+      "volume": 74.9,
+      "complexity": 25.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "176005": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "438145": {
+    "metrics": {
+      "ce_hours": 175.7,
+      "pct_ab_ce": 10.42
+    },
+    "metricsSummary": {
+      "volume": 74.27,
+      "complexity": 25.73,
+      "interrelatedness": 0.0
+    }
+  },
+  "438156": {
+    "metrics": {
+      "ce_hours": 35.48,
+      "pct_ab_ce": 15.77
+    },
+    "metricsSummary": {
+      "volume": 70.64,
+      "complexity": 29.36,
+      "interrelatedness": 0.0
+    }
+  },
+  "540546": {
+    "metrics": {
+      "ce_hours": 4.23,
+      "pct_ab_ce": 16.08
+    },
+    "metricsSummary": {
+      "volume": 73.46,
+      "complexity": 26.54,
+      "interrelatedness": 0.0
+    }
+  },
+  "438157": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "438154": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "438155": {
+    "metrics": {
+      "ce_hours": 10.18,
+      "pct_ab_ce": 9.72
+    },
+    "metricsSummary": {
+      "volume": 77.53,
+      "complexity": 22.47,
+      "interrelatedness": 0.0
+    }
+  },
+  "438152": {
+    "metrics": {
+      "ce_hours": 46.33,
+      "pct_ab_ce": 16.94
+    },
+    "metricsSummary": {
+      "volume": 78.17,
+      "complexity": 21.38,
+      "interrelatedness": 0.45
+    }
+  },
+  "438153": {
+    "metrics": {
+      "ce_hours": 31.84,
+      "pct_ab_ce": 17.87
+    },
+    "metricsSummary": {
+      "volume": 68.63,
+      "complexity": 31.37,
+      "interrelatedness": 0.0
+    }
+  },
+  "459671": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "192406": {
+    "metrics": {
+      "ce_hours": 6.06,
+      "pct_ab_ce": 3.91
+    },
+    "metricsSummary": {
+      "volume": 64.53,
+      "complexity": 26.53,
+      "interrelatedness": 8.94
+    }
+  },
+  "413584": {
+    "metrics": {
+      "ce_hours": 7.24,
+      "pct_ab_ce": 13.34
+    },
+    "metricsSummary": {
+      "volume": 74.14,
+      "complexity": 25.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "149403": {
+    "metrics": {
+      "ce_hours": 1.08,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 60.61,
+      "complexity": 39.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "149404": {
+    "metrics": {
+      "ce_hours": 1.93,
+      "pct_ab_ce": 15.44
+    },
+    "metricsSummary": {
+      "volume": 72.57,
+      "complexity": 27.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "521127": {
+    "metrics": {
+      "ce_hours": 1.34,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 79.42,
+      "complexity": 20.58,
+      "interrelatedness": 0.0
+    }
+  },
+  "129952": {
+    "metrics": {
+      "ce_hours": 26.64,
+      "pct_ab_ce": 8.07
+    },
+    "metricsSummary": {
+      "volume": 68.02,
+      "complexity": 31.98,
+      "interrelatedness": 0.0
+    }
+  },
+  "185251": {
+    "metrics": {
+      "ce_hours": 9.18,
+      "pct_ab_ce": 10.32
+    },
+    "metricsSummary": {
+      "volume": 75.25,
+      "complexity": 24.75,
+      "interrelatedness": 0.0
+    }
+  },
+  "457644": {
+    "metrics": {
+      "ce_hours": 0.3,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 52.84,
+      "complexity": 47.16,
+      "interrelatedness": 0.0
+    }
+  },
+  "129962": {
+    "metrics": {
+      "ce_hours": 55.1,
+      "pct_ab_ce": 8.63
+    },
+    "metricsSummary": {
+      "volume": 70.49,
+      "complexity": 29.3,
+      "interrelatedness": 0.21
+    }
+  },
+  "457645": {
+    "metrics": {
+      "ce_hours": 1.41,
+      "pct_ab_ce": 10.94
+    },
+    "metricsSummary": {
+      "volume": 78.86,
+      "complexity": 21.14,
+      "interrelatedness": 0.0
+    }
+  },
+  "457642": {
+    "metrics": {
+      "ce_hours": 0.61,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 74.58,
+      "complexity": 25.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "457643": {
+    "metrics": {
+      "ce_hours": 8.4,
+      "pct_ab_ce": 16.89
+    },
+    "metricsSummary": {
+      "volume": 93.68,
+      "complexity": 6.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "310186": {
+    "metrics": {
+      "ce_hours": 5.51,
+      "pct_ab_ce": 17.01
+    },
+    "metricsSummary": {
+      "volume": 76.6,
+      "complexity": 23.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "129966": {
+    "metrics": {
+      "ce_hours": 1.88,
+      "pct_ab_ce": 15.0
+    },
+    "metricsSummary": {
+      "volume": 71.9,
+      "complexity": 28.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "310187": {
+    "metrics": {
+      "ce_hours": 34.2,
+      "pct_ab_ce": 11.46
+    },
+    "metricsSummary": {
+      "volume": 76.74,
+      "complexity": 23.26,
+      "interrelatedness": 0.0
+    }
+  },
+  "457641": {
+    "metrics": {
+      "ce_hours": 0.95,
+      "pct_ab_ce": 0.61
+    },
+    "metricsSummary": {
+      "volume": 63.07,
+      "complexity": 36.93,
+      "interrelatedness": 0.0
+    }
+  },
+  "501680": {
+    "metrics": {
+      "ce_hours": 1.96,
+      "pct_ab_ce": 14.79
+    },
+    "metricsSummary": {
+      "volume": 81.54,
+      "complexity": 18.46,
+      "interrelatedness": 0.0
+    }
+  },
+  "399292": {
+    "metrics": {
+      "ce_hours": 5.39,
+      "pct_ab_ce": 7.91
+    },
+    "metricsSummary": {
+      "volume": 70.41,
+      "complexity": 22.12,
+      "interrelatedness": 7.47
+    }
+  },
+  "129978": {
+    "metrics": {
+      "ce_hours": 2.39,
+      "pct_ab_ce": 5.43
+    },
+    "metricsSummary": {
+      "volume": 89.48,
+      "complexity": 10.52,
+      "interrelatedness": 0.0
+    }
+  },
+  "288703": {
+    "metrics": {
+      "ce_hours": 14.77,
+      "pct_ab_ce": 13.0
+    },
+    "metricsSummary": {
+      "volume": 71.73,
+      "complexity": 24.52,
+      "interrelatedness": 3.75
+    }
+  },
+  "399293": {
+    "metrics": {
+      "ce_hours": 4.36,
+      "pct_ab_ce": 4.16
+    },
+    "metricsSummary": {
+      "volume": 81.97,
+      "complexity": 18.03,
+      "interrelatedness": 0.0
+    }
+  },
+  "194499": {
+    "metrics": {
+      "ce_hours": 11.32,
+      "pct_ab_ce": 9.43
+    },
+    "metricsSummary": {
+      "volume": 74.9,
+      "complexity": 25.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "288704": {
+    "metrics": {
+      "ce_hours": 0.0,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 84.68,
+      "complexity": 15.32,
+      "interrelatedness": 0.0
+    }
+  },
+  "458690": {
+    "metrics": {
+      "ce_hours": 13.98,
+      "pct_ab_ce": 19.16
+    },
+    "metricsSummary": {
+      "volume": 65.7,
+      "complexity": 34.3,
+      "interrelatedness": 0.0
+    }
+  },
+  "129988": {
+    "metrics": {
+      "ce_hours": 6.36,
+      "pct_ab_ce": 14.62
+    },
+    "metricsSummary": {
+      "volume": 76.14,
+      "complexity": 23.86,
+      "interrelatedness": 0.0
+    }
+  },
+  "288705": {
+    "metrics": {
+      "ce_hours": 5.42,
+      "pct_ab_ce": 3.28
+    },
+    "metricsSummary": {
+      "volume": 77.25,
+      "complexity": 22.75,
+      "interrelatedness": 0.0
+    }
+  },
+  "194500": {
+    "metrics": {
+      "ce_hours": 0.93,
+      "pct_ab_ce": 16.15
+    },
+    "metricsSummary": {
+      "volume": 74.94,
+      "complexity": 25.06,
+      "interrelatedness": 0.0
+    }
+  },
+  "194501": {
+    "metrics": {
+      "ce_hours": 40.01,
+      "pct_ab_ce": 8.73
+    },
+    "metricsSummary": {
+      "volume": 78.23,
+      "complexity": 21.77,
+      "interrelatedness": 0.0
+    }
+  },
+  "213962": {
+    "metrics": {
+      "ce_hours": 7.69,
+      "pct_ab_ce": 9.66
+    },
+    "metricsSummary": {
+      "volume": 100.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "213961": {
+    "metrics": {
+      "ce_hours": 1.75,
+      "pct_ab_ce": 8.55
+    },
+    "metricsSummary": {
+      "volume": 71.9,
+      "complexity": 28.1,
+      "interrelatedness": 0.0
+    }
+  },
+  "213960": {
+    "metrics": {
+      "ce_hours": 204.98,
+      "pct_ab_ce": 10.9
+    },
+    "metricsSummary": {
+      "volume": 78.39,
+      "complexity": 21.1,
+      "interrelatedness": 0.51
+    }
+  },
+  "153551": {
+    "metrics": {
+      "ce_hours": 71.91,
+      "pct_ab_ce": 17.79
+    },
+    "metricsSummary": {
+      "volume": 71.94,
+      "complexity": 27.7,
+      "interrelatedness": 0.36
+    }
+  },
+  "460754": {
+    "metrics": {
+      "ce_hours": null,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    }
+  },
+  "384979": {
+    "metrics": {
+      "ce_hours": 20.63,
+      "pct_ab_ce": 12.05
+    },
+    "metricsSummary": {
+      "volume": 75.76,
+      "complexity": 24.24,
+      "interrelatedness": 0.0
+    }
+  },
+  "460753": {
+    "metrics": {
+      "ce_hours": 1.01,
+      "pct_ab_ce": 2.52
+    },
+    "metricsSummary": {
+      "volume": 70.47,
+      "complexity": 29.53,
+      "interrelatedness": 0.0
+    }
+  },
+  "152539": {
+    "metrics": {
+      "ce_hours": 9.74,
+      "pct_ab_ce": 13.45
+    },
+    "metricsSummary": {
+      "volume": 69.22,
+      "complexity": 30.78,
+      "interrelatedness": 0.0
+    }
+  },
+  "156632": {
+    "metrics": {
+      "ce_hours": 24.61,
+      "pct_ab_ce": 6.59
+    },
+    "metricsSummary": {
+      "volume": 72.89,
+      "complexity": 27.11,
+      "interrelatedness": 0.0
+    }
+  },
+  "186338": {
+    "metrics": {
+      "ce_hours": 0.61,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 66.72,
+      "complexity": 33.28,
+      "interrelatedness": 0.0
+    }
+  },
+  "364519": {
+    "metrics": {
+      "ce_hours": 1.02,
+      "pct_ab_ce": 8.64
+    },
+    "metricsSummary": {
+      "volume": 75.28,
+      "complexity": 24.72,
+      "interrelatedness": 0.0
+    }
+  },
+  "186337": {
+    "metrics": {
+      "ce_hours": 4.12,
+      "pct_ab_ce": 6.6
+    },
+    "metricsSummary": {
+      "volume": 79.91,
+      "complexity": 20.09,
+      "interrelatedness": 0.0
+    }
+  },
+  "261088": {
+    "metrics": {
+      "ce_hours": 156.94,
+      "pct_ab_ce": 8.84
+    },
+    "metricsSummary": {
+      "volume": 77.61,
+      "complexity": 22.39,
+      "interrelatedness": 0.0
+    }
+  },
+  "207847": {
+    "metrics": {
+      "ce_hours": 21.61,
+      "pct_ab_ce": 9.81
+    },
+    "metricsSummary": {
+      "volume": 77.07,
+      "complexity": 22.93,
+      "interrelatedness": 0.0
+    }
+  },
+  "207846": {
+    "metrics": {
+      "ce_hours": 22.59,
+      "pct_ab_ce": 16.68
+    },
+    "metricsSummary": {
+      "volume": 72.57,
+      "complexity": 27.43,
+      "interrelatedness": 0.0
+    }
+  },
+  "201701": {
+    "metrics": {
+      "ce_hours": 135.32,
+      "pct_ab_ce": 11.3
+    },
+    "metricsSummary": {
+      "volume": 73.78,
+      "complexity": 25.69,
+      "interrelatedness": 0.53
+    }
+  },
+  "207845": {
+    "metrics": {
+      "ce_hours": 4.19,
+      "pct_ab_ce": 5.91
+    },
+    "metricsSummary": {
+      "volume": 67.18,
+      "complexity": 32.82,
+      "interrelatedness": 0.0
+    }
+  },
+  "207848": {
+    "metrics": {
+      "ce_hours": 26.9,
+      "pct_ab_ce": 10.74
+    },
+    "metricsSummary": {
+      "volume": 71.58,
+      "complexity": 28.42,
+      "interrelatedness": 0.0
+    }
+  },
+  "263147": {
+    "metrics": {
+      "ce_hours": 23.55,
+      "pct_ab_ce": 18.36
+    },
+    "metricsSummary": {
+      "volume": 81.7,
+      "complexity": 18.3,
+      "interrelatedness": 0.0
+    }
+  },
+  "275454": {
+    "metrics": {
+      "ce_hours": 7.87,
+      "pct_ab_ce": 7.28
+    },
+    "metricsSummary": {
+      "volume": 72.08,
+      "complexity": 22.09,
+      "interrelatedness": 5.83
+    }
+  },
+  "374782": {
+    "metrics": {
+      "ce_hours": 0.06,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 54.8,
+      "complexity": 45.2,
+      "interrelatedness": 0.0
+    }
+  },
+  "130044": {
+    "metrics": {
+      "ce_hours": 8.24,
+      "pct_ab_ce": 11.04
+    },
+    "metricsSummary": {
+      "volume": 72.6,
+      "complexity": 27.4,
+      "interrelatedness": 0.0
+    }
+  },
+  "264186": {
+    "metrics": {
+      "ce_hours": 118.25,
+      "pct_ab_ce": 11.67
+    },
+    "metricsSummary": {
+      "volume": 71.53,
+      "complexity": 28.47,
+      "interrelatedness": 0.0
+    }
+  },
+  "162813": {
+    "metrics": {
+      "ce_hours": 1.1,
+      "pct_ab_ce": null
+    },
+    "metricsSummary": {
+      "volume": 81.44,
+      "complexity": 18.56,
+      "interrelatedness": 0.0
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2517": {
+    "metrics": {
+      "bce": 12.0,
+      "avg_bce": 0.82
+    },
+    "totalDevelopers": 12
+  },
+  "1595": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.05
+    },
+    "totalDevelopers": 1
+  }
+}

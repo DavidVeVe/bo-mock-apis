@@ -1,0 +1,648 @@
+[
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546302,
+    "firstName": "Ajay",
+    "lastName": "Yadav",
+    "userName": "7813154+ajayydv@users.noreply.github.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546240,
+    "firstName": "Akira",
+    "lastName": "Ajisaka",
+    "userName": "aajisaka@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Employed",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "India",
+      "city": "Gurugram"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 543874,
+    "firstName": "Aashish",
+    "lastName": "Goyal",
+    "userName": "aashish.goyal@blueoptima.com",
+    "hourlyRate": 8520.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Sanity123",
+    "employmentStatus": "Employed",
+    "employer": "Sanity123",
+    "rank": "Sanity123",
+    "location": {
+      "country": "Costa Rica",
+      "city": "Tata"
+    },
+    "segment": "Sanity123",
+    "jobRole": "Sanity123",
+    "id": 546047,
+    "firstName": "tata",
+    "lastName": "tata",
+    "userName": "adam.antal@cloudera.com",
+    "hourlyRate": 123.0,
+    "UID": "",
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546046,
+    "firstName": "Anu",
+    "lastName": "Engineer",
+    "userName": "aengineer@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554202,
+    "firstName": "Ajay",
+    "lastName": "Kumar",
+    "userName": "ajay@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554222,
+    "firstName": "Andrew",
+    "lastName": "Olson",
+    "userName": "andrew.olson@cerner.com",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 549162,
+    "firstName": "arp",
+    "lastName": null,
+    "userName": "arp@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554213,
+    "firstName": "Ayush",
+    "lastName": "Saxena",
+    "userName": "ayushtkn@gmail.coma",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554241,
+    "firstName": "Ben",
+    "lastName": "Roling",
+    "userName": "ben.roling@gmail.com",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546041,
+    "firstName": "Bharat",
+    "lastName": "Viswanadham",
+    "userName": "bharat@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546298,
+    "firstName": "bibinchundatt",
+    "lastName": null,
+    "userName": "bibinchundatt@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554196,
+    "firstName": "Billie",
+    "lastName": "Rinaldi",
+    "userName": "billie@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554232,
+    "firstName": "David",
+    "lastName": "Mollitor",
+    "userName": "david.mollitor@cloudera.com",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546285,
+    "firstName": "Da",
+    "lastName": "Zhou",
+    "userName": "da.zhou@microsoft.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546255,
+    "firstName": "Erik",
+    "lastName": "Krogen",
+    "userName": "ekrogen@linkedin.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546256,
+    "firstName": "Márton",
+    "lastName": "Elek",
+    "userName": "elek@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546318,
+    "firstName": "Elek,",
+    "lastName": "Márton",
+    "userName": "elek@users.noreply.github.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546278,
+    "firstName": "Eric",
+    "lastName": "Yang",
+    "userName": "eyang@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546288,
+    "firstName": "Gabor",
+    "lastName": "Bota",
+    "userName": "gabor.bota@cloudera.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554198,
+    "firstName": "Giovanni",
+    "lastName": "Matteo Fumarola",
+    "userName": "gifuma@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546272,
+    "firstName": "Haibo",
+    "lastName": "Chen",
+    "userName": "haibochen@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546319,
+    "firstName": "Hanisha",
+    "lastName": "Koneru",
+    "userName": "hanishakoneru@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546247,
+    "firstName": "He",
+    "lastName": "Xiaoqiao",
+    "userName": "hexiaoqiao@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554256,
+    "firstName": "Wanqiang",
+    "lastName": "Ji",
+    "userName": "hi@jiwq.me",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546238,
+    "firstName": "Inigo",
+    "lastName": "Goiri",
+    "userName": "inigoiri@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546250,
+    "firstName": "Jonathan",
+    "lastName": "Hung",
+    "userName": "jhung@linkedin.com",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546011,
+    "firstName": "Jason",
+    "lastName": "Lowe",
+    "userName": "jlowe@apache.org",
+    "hourlyRate": 6820.9167,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554211,
+    "firstName": "Kitti",
+    "lastName": "Nanasi",
+    "userName": "knanasi@cloudera.com",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554231,
+    "firstName": "Hanisha",
+    "lastName": "Koneru",
+    "userName": "koneru.hanisha@gmail.com",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554208,
+    "firstName": "Sean",
+    "lastName": "Mackrory",
+    "userName": "mackrorysd@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546291,
+    "firstName": "Mukul",
+    "lastName": "Kumar Singh",
+    "userName": "msingh@apache.org",
+    "hourlyRate": 40.0,
+    "UID": null,
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": "Not Provided",
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 546039,
+    "firstName": "Shashikant",
+    "lastName": "Banerjee",
+    "userName": "shashikant@apache.org",
+    "hourlyRate": 9107.1966,
+    "UID": "test",
+    "isAnonymized": false
+  },
+  {
+    "employeeType": "Not Provided",
+    "employmentStatus": null,
+    "employer": "Not Provided",
+    "rank": "Not Provided",
+    "location": {
+      "country": "Not Provided",
+      "city": "Not Provided"
+    },
+    "segment": "Not Provided",
+    "jobRole": "Not Provided",
+    "id": 554210,
+    "firstName": "Suma",
+    "lastName": "Shivaprasad",
+    "userName": "sumasai@apache.org",
+    "hourlyRate": 9200.75,
+    "UID": null,
+    "isAnonymized": false
+  }
+]

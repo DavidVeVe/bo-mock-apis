@@ -1,0 +1,166 @@
+{
+    "candidateName": "Theja Varikuti",
+    "sessionDetails": {
+      "testScore": 0.77,
+      "testTimeSpent": 1502,
+      "testLinesofCode": 4,
+      "testRegularCoding": 0.78,
+      "testInactivity": 0.45,
+      "testIrregularCode": 0.28
+    },
+    "sessionTrendAnalysis": {
+      "sessionTotalMinutes": 20,
+      "linesOfCodeData": [
+        {
+          "name": "John Doe",
+          "linesPerMinute": [0, 4, 10, 16, 20, 35, 48, 61, 80, 85, 91, 100, 102, 110, 115, 123, 130, 157, 160, 162]
+        },
+        {
+          "name": "BO Rockstar",
+          "linesPerMinute": [0, 6, 13, 18, 23, 28, 34, 40, 45, 47, 55, 60, 63, 69, 77, 82, 87, 91, 95, 98]
+        }
+      ]
+    },
+    "sessionEvents": [
+      {
+        "sessionEventId": 924,
+        "startTimestamp": 1584831092,
+        "endTimestamp": 1584831182,
+        "eventType": "regular",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 925,
+        "startTimestamp": 1584831182,
+        "endTimestamp": 1584831272,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 926,
+        "startTimestamp": 1584831272,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 927,
+        "endTimestamp": 1584831362,
+        "startTimestamp": 1584831452,
+        "eventType": "regular",
+        "fileName": "test.java"
+      },
+      {
+        "sessionEventId": 928,
+        "startTimestamp": 1584831452,
+        "endTimestamp": 1584831542,
+        "eventType": "irregular",
+        "fileName": "test.cs"
+      },
+      {
+        "sessionEventId": 929,
+        "startTimestamp": 1584831542,
+        "endTimestamp": 1584831632,
+        "eventType": "inactivity",
+        "fileName": "test.cs"
+      },
+      {
+        "sessionEventId": 930,
+        "startTimestamp": 1584831632,
+        "endTimestamp": 1584831722,
+        "eventType": "inactivity",
+        "fileName": "test.cs"
+      },
+      {
+        "sessionEventId": 931,
+        "startTimestamp": 1584831722,
+        "endTimestamp": 1584831812,
+        "eventType": "regular",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 932,
+        "startTimestamp": 1584831812,
+        "endTimestamp": 1584831902,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 933,
+        "startTimestamp": 1584831902,
+        "endTimestamp": 1584831992,
+        "eventType": "irregular",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 934,
+        "startTimestamp": 1584831992,
+        "endTimestamp": 1584832082,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 935,
+        "startTimestamp": 1584832082,
+        "endTimestamp": 1584832172,
+        "eventType": "regular",
+        "fileName": "test.java"
+      },
+      {
+        "sessionEventId": 936,
+        "startTimestamp": 1584832172,
+        "endTimestamp": 1584832262,
+        "eventType": "inactivity",
+        "fileName": "test.java"
+      },
+      {
+        "sessionEventId": 937,
+        "startTimestamp": 1584832262,
+        "endTimestamp": 1584832352,
+        "eventType": "regular",
+        "fileName": "test.cs"
+      },
+      {
+        "sessionEventId": 938,
+        "startTimestamp": 1584832352,
+        "endTimestamp": 1584832442,
+        "eventType": "inactivity",
+        "fileName": "test.cs"
+      },
+      {
+        "sessionEventId": 939,
+        "startTimestamp": 1584832442,
+        "endTimestamp": 1584832532,
+        "eventType": "regular",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 940,
+        "startTimestamp": 1584832532,
+        "endTimestamp": 1584832622,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 941,
+        "startTimestamp": 1584832622,
+        "endTimestamp": 1584832712,
+        "eventType": "inactivity",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 942,
+        "startTimestamp": 1584832712,
+        "endTimestamp": 1584832802,
+        "eventType": "irregular",
+        "fileName": "test.js"
+      },
+      {
+        "sessionEventId": 943,
+        "startTimestamp": 1584832802,
+        "endTimestamp": 1584832892,
+        "eventType": "irregular",
+        "fileName": "test.js"
+      }
+    ]
+  }
+  

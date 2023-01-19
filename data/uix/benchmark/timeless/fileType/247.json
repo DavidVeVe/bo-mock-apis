@@ -1,0 +1,86 @@
+{
+  "1": [
+    {
+      "langName": "C#",
+      "effort": 45.8035
+    },
+    {
+      "langName": "TypeScript",
+      "effort": 11.6227
+    },
+    {
+      "langName": "XML",
+      "effort": 6.4945
+    },
+    {
+      "langName": "HTML",
+      "effort": 6.2585
+    },
+    {
+      "langName": "Java",
+      "effort": 5.1254
+    },
+    {
+      "langName": "SQL",
+      "effort": 4.6172
+    },
+    {
+      "langName": "JavaScript",
+      "effort": 2.9902
+    },
+    {
+      "langName": "CSS",
+      "effort": 2.6894
+    },
+    {
+      "langName": "JSON",
+      "effort": 1.6926
+    },
+    {
+      "langName": "ASP.NET",
+      "effort": 1.3542
+    }
+  ],
+  "2": [
+    {
+      "langName": "Java",
+      "effort": 29.9999
+    },
+    {
+      "langName": "C#",
+      "effort": 7.2482
+    },
+    {
+      "langName": "XML",
+      "effort": 6.9066
+    },
+    {
+      "langName": "TypeScript",
+      "effort": 6.3849
+    },
+    {
+      "langName": "SQL",
+      "effort": 5.9681
+    },
+    {
+      "langName": "JavaScript",
+      "effort": 5.9364
+    },
+    {
+      "langName": "YAML",
+      "effort": 3.8163
+    },
+    {
+      "langName": "JSON",
+      "effort": 3.8055
+    },
+    {
+      "langName": "HTML",
+      "effort": 2.3656
+    },
+    {
+      "langName": "properties - Unclassified",
+      "effort": 2.211
+    }
+  ]
+}

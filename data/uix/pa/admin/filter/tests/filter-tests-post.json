@@ -1,0 +1,1956 @@
+[
+  {
+    "testId": 10,
+    "paJobRoleId": 2,
+    "candidateId": 3,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1561715367,
+    "testClosingDate": 1564511399,
+    "summary": {
+      "originalScore": 97.08,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 65,
+      "criteria": {
+        "1": 15,
+        "2": 18,
+        "3": 67,
+        "5": 71
+      },
+      "completedOn": 1561715518
+    }
+  },
+  {
+    "testId": 11,
+    "paJobRoleId": 2,
+    "candidateId": 4,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1561971746,
+    "testClosingDate": 1564511399
+  },
+  {
+    "testId": 12,
+    "paJobRoleId": 2,
+    "candidateId": 2,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1561980565,
+    "testClosingDate": 1564511399
+  },
+  {
+    "testId": 124,
+    "paJobRoleId": 2,
+    "candidateId": 62,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567035859,
+    "testClosingDate": 1576108800,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 21,
+      "criteria": {
+        "1": 19,
+        "2": 38,
+        "3": 50,
+        "5": 86
+      },
+      "completedOn": 1567036086
+    }
+  },
+  {
+    "testId": 14,
+    "paJobRoleId": 3,
+    "candidateId": 5,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562243323,
+    "testClosingDate": 1577730599,
+    "summary": {
+      "originalScore": 33.67,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 83,
+      "criteria": {
+        "1": 25,
+        "2": 27,
+        "3": 35,
+        "5": 46
+      },
+      "completedOn": 1562244426
+    }
+  },
+  {
+    "testId": 16,
+    "paJobRoleId": 3,
+    "candidateId": 6,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562250203,
+    "testClosingDate": 1577730599,
+    "summary": {
+      "originalScore": 48,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 67,
+      "criteria": {
+        "1": 2,
+        "2": 16,
+        "3": 80,
+        "5": 86
+      },
+      "completedOn": 1562250295
+    }
+  },
+  {
+    "testId": 15,
+    "paJobRoleId": 4,
+    "candidateId": 5,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562245002,
+    "testClosingDate": 1577730599,
+    "summary": {
+      "originalScore": 24.29,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 46,
+      "criteria": {
+        "1": 6,
+        "2": 8,
+        "3": 52,
+        "5": 73
+      },
+      "completedOn": 1562245296
+    }
+  },
+  {
+    "testId": 24,
+    "paJobRoleId": 4,
+    "candidateId": 9,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "partiallyTested",
+    "invitedOn": 1562576600,
+    "testClosingDate": 1577730599
+  },
+  {
+    "testId": 32,
+    "paJobRoleId": 4,
+    "candidateId": 3,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562739253,
+    "testClosingDate": 1577730599
+  },
+  {
+    "testId": 40,
+    "paJobRoleId": 4,
+    "candidateId": 21,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562842696,
+    "testClosingDate": 1577730599,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 19,
+      "criteria": {
+        "1": 9,
+        "2": 41,
+        "3": 45,
+        "5": 49
+      },
+      "completedOn": 1562846400
+    }
+  },
+  {
+    "testId": 41,
+    "paJobRoleId": 4,
+    "candidateId": 22,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "terminated",
+    "testStatus": "untested",
+    "invitedOn": 1562944274,
+    "testClosingDate": 1577730599
+  },
+  {
+    "testId": 151,
+    "paJobRoleId": 4,
+    "candidateId": 88,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "in progress",
+    "testStatus": "partiallyTested",
+    "invitedOn": 1568973420,
+    "testClosingDate": 1569176999
+  },
+  {
+    "testId": 153,
+    "paJobRoleId": 4,
+    "candidateId": 90,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568974680,
+    "testClosingDate": 1569176999,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 181,
+      "criteria": {
+        "1": 18,
+        "2": 34,
+        "3": 39,
+        "5": 69
+      },
+      "completedOn": 1568976007
+    }
+  },
+  {
+    "testId": 170,
+    "paJobRoleId": 4,
+    "candidateId": 100,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569580683,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 11.19,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 72,
+      "criteria": {
+        "1": 23,
+        "2": 51,
+        "3": 57,
+        "5": 85
+      },
+      "completedOn": 1569581306
+    }
+  },
+  {
+    "testId": 178,
+    "paJobRoleId": 4,
+    "candidateId": 104,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569584665,
+    "testClosingDate": 1569781799
+  },
+  {
+    "testId": 19,
+    "paJobRoleId": 5,
+    "candidateId": 8,
+    "identityValidationStatus": "validation_failed",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562330782,
+    "testClosingDate": 1575138599
+  },
+  {
+    "testId": 23,
+    "paJobRoleId": 6,
+    "candidateId": 7,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562567450,
+    "testClosingDate": 1577816999
+  },
+  {
+    "testId": 28,
+    "paJobRoleId": 6,
+    "candidateId": 13,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562595570,
+    "testClosingDate": 1562610599,
+    "summary": {
+      "originalScore": 75,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 48,
+      "criteria": {
+        "1": 9,
+        "2": 22,
+        "3": 37,
+        "5": 64
+      },
+      "completedOn": 1562596419
+    }
+  },
+  {
+    "testId": 35,
+    "paJobRoleId": 6,
+    "candidateId": 18,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562826945,
+    "testClosingDate": 1573496999,
+    "summary": {
+      "originalScore": 63,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 65,
+      "criteria": {
+        "1": 66,
+        "2": 70,
+        "3": 73,
+        "5": 86
+      },
+      "completedOn": 1562827643
+    }
+  },
+  {
+    "testId": 39,
+    "paJobRoleId": 6,
+    "candidateId": 20,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562841247,
+    "testClosingDate": 1575916199,
+    "summary": {
+      "originalScore": 25.73,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 24,
+      "criteria": {
+        "1": 12,
+        "2": 30,
+        "3": 38,
+        "5": 80
+      },
+      "completedOn": 1562841503
+    }
+  },
+  {
+    "testId": 42,
+    "paJobRoleId": 6,
+    "candidateId": 23,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563266683,
+    "testClosingDate": 1573583399,
+    "summary": {
+      "originalScore": 73.23,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 56,
+      "criteria": {
+        "1": 50,
+        "2": 61,
+        "3": 68,
+        "5": 76
+      },
+      "completedOn": 1563267762
+    }
+  },
+  {
+    "testId": 43,
+    "paJobRoleId": 6,
+    "candidateId": 24,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "terminated",
+    "testStatus": "untested",
+    "invitedOn": 1563268821,
+    "testClosingDate": 1575397799
+  },
+  {
+    "testId": 44,
+    "paJobRoleId": 6,
+    "candidateId": 25,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563271879,
+    "testClosingDate": 1576607399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 31,
+      "criteria": {
+        "1": 29,
+        "2": 36,
+        "3": 61,
+        "5": 75
+      },
+      "completedOn": 1563274204
+    }
+  },
+  {
+    "testId": 45,
+    "paJobRoleId": 6,
+    "candidateId": 26,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563274102,
+    "testClosingDate": 1575224999,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 505,
+      "criteria": {
+        "1": 22,
+        "2": 33,
+        "3": 55,
+        "5": 59
+      },
+      "completedOn": 1563274751
+    }
+  },
+  {
+    "testId": 46,
+    "paJobRoleId": 6,
+    "candidateId": 27,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563275650,
+    "testClosingDate": 1572978599,
+    "summary": {
+      "originalScore": 78.17,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 98,
+      "criteria": {
+        "1": 2,
+        "2": 8,
+        "3": 81,
+        "5": 89
+      },
+      "completedOn": 1563275953
+    }
+  },
+  {
+    "testId": 47,
+    "paJobRoleId": 6,
+    "candidateId": 28,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563275996,
+    "testClosingDate": 1572978599,
+    "summary": {
+      "originalScore": 32.29,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 25,
+      "criteria": {
+        "1": 8,
+        "2": 20,
+        "3": 60,
+        "5": 77
+      },
+      "completedOn": 1563276237
+    }
+  },
+  {
+    "testId": 51,
+    "paJobRoleId": 6,
+    "candidateId": 32,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1563371421,
+    "testClosingDate": 1572978599
+  },
+  {
+    "testId": 87,
+    "paJobRoleId": 6,
+    "candidateId": 33,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566546860,
+    "testClosingDate": 1566757799,
+    "summary": {
+      "originalScore": 69.66,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 129,
+      "criteria": {
+        "1": 30,
+        "2": 41,
+        "3": 49,
+        "5": 77
+      },
+      "completedOn": 1566547171
+    }
+  },
+  {
+    "testId": 25,
+    "paJobRoleId": 7,
+    "candidateId": 10,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562590008,
+    "testClosingDate": 1587148199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 181,
+      "criteria": {
+        "1": 26,
+        "2": 73,
+        "3": 88,
+        "5": 93
+      },
+      "completedOn": 1562591459
+    }
+  },
+  {
+    "testId": 26,
+    "paJobRoleId": 7,
+    "candidateId": 11,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "in progress",
+    "testStatus": "partiallyTested",
+    "invitedOn": 1562590595,
+    "testClosingDate": 1587148199
+  },
+  {
+    "testId": 27,
+    "paJobRoleId": 7,
+    "candidateId": 12,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562593966,
+    "testClosingDate": 1587148199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 181,
+      "criteria": {
+        "1": 5,
+        "2": 19,
+        "3": 37,
+        "5": 48
+      },
+      "completedOn": 1562595371
+    }
+  },
+  {
+    "testId": 30,
+    "paJobRoleId": 7,
+    "candidateId": 14,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562598140,
+    "testClosingDate": 1587148199
+  },
+  {
+    "testId": 31,
+    "paJobRoleId": 7,
+    "candidateId": 15,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562653800,
+    "testClosingDate": 1587148199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 106,
+      "criteria": {
+        "1": 31,
+        "2": 60,
+        "3": 61,
+        "5": 77
+      },
+      "completedOn": 1562655429
+    }
+  },
+  {
+    "testId": 33,
+    "paJobRoleId": 8,
+    "candidateId": 16,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562757271,
+    "testClosingDate": 1570040999,
+    "summary": {
+      "originalScore": 18.75,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 724,
+      "criteria": {
+        "1": 19,
+        "2": 38,
+        "3": 60,
+        "5": 84
+      },
+      "completedOn": 1562758643
+    }
+  },
+  {
+    "testId": 34,
+    "paJobRoleId": 8,
+    "candidateId": 17,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562826654,
+    "testClosingDate": 1570040999
+  },
+  {
+    "testId": 36,
+    "paJobRoleId": 9,
+    "candidateId": 18,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1562827717,
+    "testClosingDate": 1569847738,
+    "summary": {
+      "originalScore": 63,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 65,
+      "criteria": {
+        "1": 10,
+        "2": 11,
+        "3": 69,
+        "5": 95
+      },
+      "completedOn": 1562827643
+    }
+  },
+  {
+    "testId": 50,
+    "paJobRoleId": 9,
+    "candidateId": 30,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1563368841,
+    "testClosingDate": 1575138599
+  },
+  {
+    "testId": 52,
+    "paJobRoleId": 9,
+    "candidateId": 34,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1563881762,
+    "testClosingDate": 1575138599,
+    "summary": {
+      "originalScore": 63.86,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 411,
+      "criteria": {
+        "1": 6,
+        "2": 58,
+        "3": 59,
+        "5": 60
+      },
+      "completedOn": 1563882588
+    }
+  },
+  {
+    "testId": 88,
+    "paJobRoleId": 9,
+    "candidateId": 33,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566547236,
+    "testClosingDate": 1569847738,
+    "summary": {
+      "originalScore": 69.66,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 129,
+      "criteria": {
+        "1": 32,
+        "2": 47,
+        "3": 74,
+        "5": 75
+      },
+      "completedOn": 1566547171
+    }
+  },
+  {
+    "testId": 37,
+    "paJobRoleId": 10,
+    "candidateId": 17,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562830164,
+    "testClosingDate": 1577816999
+  },
+  {
+    "testId": 38,
+    "paJobRoleId": 10,
+    "candidateId": 19,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1562835268,
+    "testClosingDate": 1577816999
+  },
+  {
+    "testId": 48,
+    "paJobRoleId": 10,
+    "candidateId": 28,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1563276209,
+    "testClosingDate": 1577816999
+  },
+  {
+    "testId": 53,
+    "paJobRoleId": 11,
+    "candidateId": 35,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1564044831,
+    "testClosingDate": 1570127399,
+    "summary": {
+      "originalScore": 27.44,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 43,
+      "criteria": {
+        "1": 14,
+        "2": 27,
+        "3": 30,
+        "5": 81
+      },
+      "completedOn": 1564045282
+    }
+  },
+  {
+    "testId": 71,
+    "paJobRoleId": 19,
+    "candidateId": 40,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1564492684,
+    "testClosingDate": 1567382399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 512,
+      "criteria": {
+        "1": 25,
+        "2": 63,
+        "3": 85,
+        "5": 89
+      },
+      "completedOn": 1564576621
+    }
+  },
+  {
+    "testId": 83,
+    "paJobRoleId": 19,
+    "candidateId": 36,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566375513,
+    "testClosingDate": 1566584999,
+    "summary": {
+      "originalScore": 25.97,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 1351,
+      "criteria": {
+        "1": 9,
+        "2": 27,
+        "3": 71,
+        "5": 93
+      },
+      "completedOn": 1566403503
+    }
+  },
+  {
+    "testId": 84,
+    "paJobRoleId": 19,
+    "candidateId": 49,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566384736,
+    "testClosingDate": 1566584999,
+    "summary": {
+      "originalScore": 21.33,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 1081,
+      "criteria": {
+        "1": 12,
+        "2": 66,
+        "3": 80,
+        "5": 84
+      },
+      "completedOn": 1566407613
+    }
+  },
+  {
+    "testId": 85,
+    "paJobRoleId": 19,
+    "candidateId": 50,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566457875,
+    "testClosingDate": 1566671399,
+    "summary": {
+      "originalScore": 5.42,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 600,
+      "criteria": {
+        "1": 12,
+        "2": 14,
+        "3": 18,
+        "5": 79
+      },
+      "completedOn": 1566475200
+    }
+  },
+  {
+    "testId": 92,
+    "paJobRoleId": 19,
+    "candidateId": 54,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566887310,
+    "testClosingDate": 1567103399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 2570,
+      "criteria": {
+        "1": 2,
+        "2": 11,
+        "3": 40,
+        "5": 49
+      },
+      "completedOn": 1566911769
+    }
+  },
+  {
+    "testId": 93,
+    "paJobRoleId": 19,
+    "candidateId": 55,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566892122,
+    "testClosingDate": 1567103399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 600,
+      "criteria": {
+        "1": 16,
+        "2": 52,
+        "3": 82,
+        "5": 91
+      },
+      "completedOn": 1566912072
+    }
+  },
+  {
+    "testId": 94,
+    "paJobRoleId": 19,
+    "candidateId": 56,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566893618,
+    "testClosingDate": 1567103399,
+    "summary": {
+      "originalScore": 11.45,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 1095,
+      "criteria": {
+        "1": 5,
+        "2": 14,
+        "3": 51,
+        "5": 60
+      },
+      "completedOn": 1566901521
+    }
+  },
+  {
+    "testId": 95,
+    "paJobRoleId": 19,
+    "candidateId": 57,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566901958,
+    "testClosingDate": 1567103399,
+    "summary": {
+      "originalScore": 13.14,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 382,
+      "criteria": {
+        "1": 14,
+        "2": 22,
+        "3": 23,
+        "5": 36
+      },
+      "completedOn": 1566918000
+    }
+  },
+  {
+    "testId": 139,
+    "paJobRoleId": 19,
+    "candidateId": 79,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567667873,
+    "testClosingDate": 1567880999,
+    "summary": {
+      "originalScore": 10.64,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 849,
+      "criteria": {
+        "1": 13,
+        "2": 34,
+        "3": 36,
+        "5": 68
+      },
+      "completedOn": 1567669055
+    }
+  },
+  {
+    "testId": 140,
+    "paJobRoleId": 19,
+    "candidateId": 80,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568193775,
+    "testClosingDate": 1568399399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 6478,
+      "criteria": {
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "5": 26
+      },
+      "completedOn": 1568202300
+    }
+  },
+  {
+    "testId": 146,
+    "paJobRoleId": 19,
+    "candidateId": 84,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568640916,
+    "testClosingDate": 1568831399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 241,
+      "criteria": {
+        "1": 4,
+        "2": 9,
+        "3": 12,
+        "5": 55
+      },
+      "completedOn": 1568641576
+    }
+  },
+  {
+    "testId": 148,
+    "paJobRoleId": 19,
+    "candidateId": 85,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568875082,
+    "testClosingDate": 1569090599,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 197,
+      "criteria": {
+        "1": 38,
+        "2": 40,
+        "3": 46,
+        "5": 54
+      },
+      "completedOn": 1568877551
+    }
+  },
+  {
+    "testId": 72,
+    "paJobRoleId": 20,
+    "candidateId": 41,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1564492982,
+    "testClosingDate": 1567382399,
+    "summary": {
+      "predictivePerformanceQuartile": "Q3",
+      "originalScore": 27.29,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 48,
+      "criteria": {
+        "1": 11,
+        "2": 24,
+        "3": 31,
+        "5": 64
+      },
+      "completedOn": 1564493451
+    }
+  },
+  {
+    "testId": 73,
+    "paJobRoleId": 20,
+    "candidateId": 42,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1565100663,
+    "testClosingDate": 1567457999
+  },
+  {
+    "testId": 82,
+    "paJobRoleId": 20,
+    "candidateId": 48,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1566301649,
+    "testClosingDate": 1566498599
+  },
+  {
+    "testId": 136,
+    "paJobRoleId": 20,
+    "candidateId": 78,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1567595415,
+    "testClosingDate": 1567794599
+  },
+  {
+    "testId": 173,
+    "paJobRoleId": 20,
+    "candidateId": 99,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569581632,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 65.57,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 48,
+      "criteria": {
+        "1": 1,
+        "2": 18,
+        "3": 72,
+        "5": 84
+      },
+      "completedOn": 1569581849
+    }
+  },
+  {
+    "testId": 78,
+    "paJobRoleId": 21,
+    "candidateId": 42,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1565880029,
+    "testClosingDate": 1566421199
+  },
+  {
+    "testId": 96,
+    "paJobRoleId": 21,
+    "candidateId": 58,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566974212,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 286,
+      "criteria": {
+        "1": 3,
+        "2": 13,
+        "3": 42,
+        "5": 58
+      },
+      "completedOn": 1566975145
+    }
+  },
+  {
+    "testId": 79,
+    "paJobRoleId": 22,
+    "candidateId": 2,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1565887174,
+    "testClosingDate": 1566075599
+  },
+  {
+    "testId": 81,
+    "paJobRoleId": 24,
+    "candidateId": 47,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1566211901,
+    "testClosingDate": 1566421199
+  },
+  {
+    "testId": 138,
+    "paJobRoleId": 24,
+    "candidateId": 2,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1567606502,
+    "testClosingDate": 1567803599
+  },
+  {
+    "testId": 89,
+    "paJobRoleId": 28,
+    "candidateId": 51,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1566835383,
+    "testClosingDate": 1567054799
+  },
+  {
+    "testId": 90,
+    "paJobRoleId": 28,
+    "candidateId": 52,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1566839578,
+    "testClosingDate": 1567054799
+  },
+  {
+    "testId": 91,
+    "paJobRoleId": 28,
+    "candidateId": 53,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1566839578,
+    "testClosingDate": 1567054799
+  },
+  {
+    "testId": 97,
+    "paJobRoleId": 29,
+    "candidateId": 59,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566977056,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 125,
+      "criteria": {
+        "1": 6,
+        "2": 58,
+        "3": 84,
+        "5": 85
+      },
+      "completedOn": 1566977663
+    }
+  },
+  {
+    "testId": 98,
+    "paJobRoleId": 29,
+    "candidateId": 60,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566978043,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 1.14,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 137,
+      "criteria": {
+        "1": 4,
+        "2": 21,
+        "3": 60,
+        "5": 84
+      },
+      "completedOn": 1566978578
+    }
+  },
+  {
+    "testId": 99,
+    "paJobRoleId": 29,
+    "candidateId": 61,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566978645,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 28,
+      "criteria": {
+        "1": 19,
+        "2": 31,
+        "3": 34,
+        "5": 49
+      },
+      "completedOn": 1566979167
+    }
+  },
+  {
+    "testId": 103,
+    "paJobRoleId": 29,
+    "candidateId": 63,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1566982654,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 124,
+      "criteria": {
+        "1": 5,
+        "2": 12,
+        "3": 27,
+        "5": 42
+      },
+      "completedOn": 1566983152
+    }
+  },
+  {
+    "testId": 120,
+    "paJobRoleId": 29,
+    "candidateId": 64,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567014882,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 1.03,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 49,
+      "criteria": {
+        "1": 4,
+        "2": 9,
+        "3": 54,
+        "5": 56
+      },
+      "completedOn": 1567015293
+    }
+  },
+  {
+    "testId": 122,
+    "paJobRoleId": 29,
+    "candidateId": 65,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567015653,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 142,
+      "criteria": {
+        "1": 10,
+        "2": 14,
+        "3": 41,
+        "5": 47
+      },
+      "completedOn": 1567016178
+    }
+  },
+  {
+    "testId": 123,
+    "paJobRoleId": 29,
+    "candidateId": 66,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567015654,
+    "testClosingDate": 1567189799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 274,
+      "criteria": {
+        "1": 1,
+        "2": 8,
+        "3": 76,
+        "5": 78
+      },
+      "completedOn": 1567016063
+    }
+  },
+  {
+    "testId": 125,
+    "paJobRoleId": 29,
+    "candidateId": 67,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567058005,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 195,
+      "criteria": {
+        "1": 33,
+        "2": 46,
+        "3": 60,
+        "5": 78
+      },
+      "completedOn": 1567058414
+    }
+  },
+  {
+    "testId": 126,
+    "paJobRoleId": 29,
+    "candidateId": 68,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567061623,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 234,
+      "criteria": {
+        "1": 8,
+        "2": 52,
+        "3": 63,
+        "5": 65
+      },
+      "completedOn": 1567062030
+    }
+  },
+  {
+    "testId": 127,
+    "paJobRoleId": 29,
+    "candidateId": 69,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567062370,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 131,
+      "criteria": {
+        "1": 22,
+        "2": 37,
+        "3": 40,
+        "5": 73
+      },
+      "completedOn": 1567062798
+    }
+  },
+  {
+    "testId": 128,
+    "paJobRoleId": 29,
+    "candidateId": 70,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1567062890,
+    "testClosingDate": 1567276199
+  },
+  {
+    "testId": 129,
+    "paJobRoleId": 29,
+    "candidateId": 71,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567062970,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 205,
+      "criteria": {
+        "1": 1,
+        "2": 19,
+        "3": 33,
+        "5": 50
+      },
+      "completedOn": 1567063746
+    }
+  },
+  {
+    "testId": 130,
+    "paJobRoleId": 29,
+    "candidateId": 72,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567064174,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 120,
+      "criteria": {
+        "1": 1,
+        "2": 23,
+        "3": 25,
+        "5": 32
+      },
+      "completedOn": 1567064397
+    }
+  },
+  {
+    "testId": 131,
+    "paJobRoleId": 29,
+    "candidateId": 73,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567064943,
+    "testClosingDate": 1567276199,
+    "summary": {
+      "originalScore": 27.48,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 114,
+      "criteria": {
+        "1": 37,
+        "2": 62,
+        "3": 69,
+        "5": 80
+      },
+      "completedOn": 1567065217
+    }
+  },
+  {
+    "testId": 132,
+    "paJobRoleId": 29,
+    "candidateId": 74,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567160933,
+    "testClosingDate": 1567362599,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 392,
+      "criteria": {
+        "1": 12,
+        "2": 31,
+        "3": 35,
+        "5": 39
+      },
+      "completedOn": 1567169252
+    }
+  },
+  {
+    "testId": 133,
+    "paJobRoleId": 29,
+    "candidateId": 75,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567418722,
+    "testClosingDate": 1567621799,
+    "summary": {
+      "originalScore": 0.28,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 605,
+      "criteria": {
+        "1": 1,
+        "2": 5,
+        "3": 30,
+        "5": 41
+      },
+      "completedOn": 1567422674
+    }
+  },
+  {
+    "testId": 134,
+    "paJobRoleId": 29,
+    "candidateId": 76,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567423788,
+    "testClosingDate": 1567621799,
+    "summary": {
+      "originalScore": 35.99,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 254,
+      "criteria": {
+        "1": 7,
+        "2": 52,
+        "3": 54,
+        "5": 64
+      },
+      "completedOn": 1567425390
+    }
+  },
+  {
+    "testId": 135,
+    "paJobRoleId": 29,
+    "candidateId": 77,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1567458316,
+    "testClosingDate": 1567659599,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 622,
+      "criteria": {
+        "1": 11,
+        "2": 62,
+        "3": 64,
+        "5": 66
+      },
+      "completedOn": 1567459574
+    }
+  },
+  {
+    "testId": 141,
+    "paJobRoleId": 29,
+    "candidateId": 81,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568634898,
+    "testClosingDate": 1568831399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 74,
+      "criteria": {
+        "1": 47,
+        "2": 49,
+        "3": 76,
+        "5": 85
+      },
+      "completedOn": 1568636634
+    }
+  },
+  {
+    "testId": 142,
+    "paJobRoleId": 29,
+    "candidateId": 82,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "in progress",
+    "testStatus": "partiallyTested",
+    "invitedOn": 1568640381,
+    "testClosingDate": 1568831399
+  },
+  {
+    "testId": 145,
+    "paJobRoleId": 29,
+    "candidateId": 83,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1568640912,
+    "testClosingDate": 1568831399
+  },
+  {
+    "testId": 137,
+    "paJobRoleId": 30,
+    "candidateId": 41,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "expired",
+    "testStatus": "untested",
+    "invitedOn": 1567596216,
+    "testClosingDate": 1567794599
+  },
+  {
+    "testId": 161,
+    "paJobRoleId": 30,
+    "candidateId": 93,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569483007,
+    "testClosingDate": 1569733199
+  },
+  {
+    "testId": 165,
+    "paJobRoleId": 30,
+    "candidateId": 48,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569580207,
+    "testClosingDate": 1569781799
+  },
+  {
+    "testId": 168,
+    "paJobRoleId": 30,
+    "candidateId": 99,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569580524,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 62.43,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 62,
+      "criteria": {
+        "1": 1,
+        "2": 10,
+        "3": 11,
+        "5": 13
+      },
+      "completedOn": 1569581152
+    }
+  },
+  {
+    "testId": 147,
+    "paJobRoleId": 31,
+    "candidateId": 83,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568641052,
+    "testClosingDate": 1568831399,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 10,
+      "criteria": {
+        "1": 40,
+        "2": 46,
+        "3": 58,
+        "5": 61
+      },
+      "completedOn": 1568641423
+    }
+  },
+  {
+    "testId": 149,
+    "paJobRoleId": 31,
+    "candidateId": 86,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "in progress",
+    "testStatus": "partiallyTested",
+    "invitedOn": 1568962243,
+    "testClosingDate": 1569176999
+  },
+  {
+    "testId": 150,
+    "paJobRoleId": 31,
+    "candidateId": 87,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568963764,
+    "testClosingDate": 1569176999,
+    "summary": {
+      "originalScore": 39.41,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 83,
+      "criteria": {
+        "1": 1,
+        "2": 35,
+        "3": 38,
+        "5": 68
+      },
+      "completedOn": 1568964263
+    }
+  },
+  {
+    "testId": 152,
+    "paJobRoleId": 31,
+    "candidateId": 89,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1568973787,
+    "testClosingDate": 1569176999,
+    "summary": {
+      "originalScore": 39.69,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 78,
+      "criteria": {
+        "1": 3,
+        "2": 40,
+        "3": 68,
+        "5": 79
+      },
+      "completedOn": 1568973990
+    }
+  },
+  {
+    "testId": 154,
+    "paJobRoleId": 31,
+    "candidateId": 91,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569245014,
+    "testClosingDate": 1569436199,
+    "summary": {
+      "originalScore": 31.72,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 55,
+      "criteria": {
+        "1": 3,
+        "2": 12,
+        "3": 47,
+        "5": 66
+      },
+      "completedOn": 1569245481
+    }
+  },
+  {
+    "testId": 159,
+    "paJobRoleId": 31,
+    "candidateId": 92,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "terminated",
+    "testStatus": "untested",
+    "invitedOn": 1569501673,
+    "testClosingDate": 1576108800
+  },
+  {
+    "testId": 160,
+    "paJobRoleId": 31,
+    "candidateId": 92,
+    "identityValidationStatus": "not_validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569502456,
+    "testClosingDate": 1576108800
+  },
+  {
+    "testId": 156,
+    "paJobRoleId": 33,
+    "candidateId": 93,
+    "identityValidationStatus": "validation_pending",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569453832,
+    "testClosingDate": 1569905999
+  },
+  {
+    "testId": 171,
+    "paJobRoleId": 37,
+    "candidateId": 98,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569580698,
+    "testClosingDate": 1569781799
+  },
+  {
+    "testId": 174,
+    "paJobRoleId": 37,
+    "candidateId": 102,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569581700,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 26.23,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 29,
+      "criteria": {
+        "1": 18,
+        "2": 36,
+        "3": 55,
+        "5": 78
+      },
+      "completedOn": 1569582552
+    }
+  },
+  {
+    "testId": 175,
+    "paJobRoleId": 38,
+    "candidateId": 99,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569581909,
+    "testClosingDate": 1569781799
+  },
+  {
+    "testId": 176,
+    "paJobRoleId": 38,
+    "candidateId": 102,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "ready",
+    "testStatus": "untested",
+    "invitedOn": 1569582684,
+    "testClosingDate": 1569781799
+  },
+  {
+    "testId": 172,
+    "paJobRoleId": 39,
+    "candidateId": 101,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569580708,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 17.62,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 948,
+      "criteria": {
+        "1": 19,
+        "2": 43,
+        "3": 58,
+        "5": 61
+      },
+      "completedOn": 1569583248
+    }
+  },
+  {
+    "testId": 177,
+    "paJobRoleId": 41,
+    "candidateId": 103,
+    "identityValidationStatus": "validated",
+    "sessionStatus": "finished",
+    "testStatus": "tested",
+    "invitedOn": 1569584310,
+    "testClosingDate": 1569781799,
+    "summary": {
+      "originalScore": 0,
+      "similarityScore": 0,
+      "effectiveTimeUsed": 15,
+      "criteria": {
+        "1": 18,
+        "2": 42,
+        "3": 44,
+        "5": 71
+      },
+      "completedOn": 1569585076
+    }
+  },
+  {
+    "testId":4392,
+    "paJobRoleId":698,
+    "candidateId":3589,
+    "identityValidationStatus":"validation_withdrawn",
+    "sessionStatus":"expired",
+    "testStatus":"extraTimeGranted",
+    "invitedOn":1580382503,
+    "testClosingDate":1614232800,
+    "extraTimeAllowed": true,
+    "summary": {
+      "predictivePerformanceQuartile": "Q1",
+      "originalScore": 99.7,
+      "timeRemaining": 0,
+      "criteria": {
+        "1": 1.27
+      },
+      "testExtraTime": {
+        "totalExtraTime": 350,
+        "taskLevelExtraTimes": [
+          {
+            "taskId": 50,
+            "timeLost": 150,
+            "allowed": true
+          },
+          {
+            "taskId": 72,
+            "timeLost": 200,
+            "allowed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "testId":4393,
+    "paJobRoleId":698,
+    "candidateId":3590,
+    "identityValidationStatus":"validation_pending",
+    "sessionStatus":"expired",
+    "testStatus":"partiallyTested",
+    "invitedOn":1580382581,
+    "testClosingDate":1614232800,
+    "extraTimeAllowed": true,
+    "summary": {
+      "predictivePerformanceQuartile": "Q1",
+      "originalScore": 90.7,
+      "timeRemaining": 0,
+      "criteria": {
+        "2": 1.27
+      }
+    }
+  },
+  {
+    "testId":4394,
+    "paJobRoleId":698,
+    "candidateId":3591,
+    "identityValidationStatus":"validation_withdrawn",
+    "sessionStatus":"finished",
+    "testStatus":"tested",
+    "invitedOn":1580382581,
+    "testClosingDate":1614232800,
+    "extraTimeAllowed": false,
+    "summary": {
+      "predictivePerformanceQuartile": "Q1",
+      "originalScore": 90.7,
+      "timeRemaining": 0,
+      "criteria": {
+        "2": 1.27
+      }
+    }
+  },
+  {
+    "testId":4395,
+    "paJobRoleId":42,
+    "candidateId":3592,
+    "identityValidationStatus":"validation_withdrawn",
+    "sessionStatus":"finished",
+    "testStatus":"tested",
+    "invitedOn":1580382581,
+    "testClosingDate":1614232800,
+    "extraTimeAllowed": false,
+    "summary": {
+      "predictivePerformanceQuartile": "Q1",
+      "originalScore": 90.7,
+      "timeRemaining": 0,
+      "criteria": {
+        "2": 1.27
+      }
+    }
+  }
+]

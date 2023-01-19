@@ -1,0 +1,14 @@
+{
+    "952002": {
+        "Coding Phase": {
+            "ce": 548.4219,
+            "duration": 11,
+            "ab_ce": 50.6166
+        },
+        "Test Phase": {
+            "ce": 129.865,
+            "duration": 2,
+            "ab_ce": 11.2515
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "16033": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.5
+    },
+    "totalDevelopers": 1
+  },
+  "16068": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.52
+    },
+    "totalDevelopers": 1
+  },
+  "16070": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.0
+    },
+    "totalDevelopers": 1
+  },
+  "16071": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.69
+    },
+    "totalDevelopers": 1
+  },
+  "15978": {
+    "metrics": {
+      "bce": 1033.0,
+      "avg_bce": 0.51
+    },
+    "totalDevelopers": 1033
+  },
+  "15979": {
+    "metrics": {
+      "bce": 29.0,
+      "avg_bce": 1.19
+    },
+    "totalDevelopers": 29
+  },
+  "16076": {
+    "metrics": {
+      "bce": 5.0,
+      "avg_bce": 0.64
+    },
+    "totalDevelopers": 5
+  },
+  "15982": {
+    "metrics": {
+      "bce": 2.0,
+      "avg_bce": 1.38
+    },
+    "totalDevelopers": 2
+  },
+  "16046": {
+    "metrics": {
+      "bce": 21.0,
+      "avg_bce": 0.21
+    },
+    "totalDevelopers": 21
+  },
+  "15983": {
+    "metrics": {
+      "bce": 253.0,
+      "avg_bce": 0.43
+    },
+    "totalDevelopers": 253
+  },
+  "15984": {
+    "metrics": {
+      "bce": 617.0,
+      "avg_bce": 0.56
+    },
+    "totalDevelopers": 617
+  },
+  "15985": {
+    "metrics": {
+      "bce": 508.0,
+      "avg_bce": 0.47
+    },
+    "totalDevelopers": 508
+  },
+  "15986": {
+    "metrics": {
+      "bce": 144.0,
+      "avg_bce": 0.66
+    },
+    "totalDevelopers": 144
+  },
+  "15987": {
+    "metrics": {
+      "bce": 257.0,
+      "avg_bce": 0.57
+    },
+    "totalDevelopers": 257
+  },
+  "15988": {
+    "metrics": {
+      "bce": 45.0,
+      "avg_bce": 0.41
+    },
+    "totalDevelopers": 45
+  },
+  "15989": {
+    "metrics": {
+      "bce": 5.0,
+      "avg_bce": 1.25
+    },
+    "totalDevelopers": 5
+  },
+  "15990": {
+    "metrics": {
+      "bce": 3.0,
+      "avg_bce": 2.57
+    },
+    "totalDevelopers": 3
+  },
+  "15991": {
+    "metrics": {
+      "bce": 151.0,
+      "avg_bce": 0.53
+    },
+    "totalDevelopers": 151
+  },
+  "15992": {
+    "metrics": {
+      "bce": 103.0,
+      "avg_bce": 0.74
+    },
+    "totalDevelopers": 103
+  },
+  "15993": {
+    "metrics": {
+      "bce": 1.0,
+      "avg_bce": 0.0
+    },
+    "totalDevelopers": 1
+  },
+  "15995": {
+    "metrics": {
+      "bce": 905.0,
+      "avg_bce": 0.69
+    },
+    "totalDevelopers": 905
+  },
+  "16059": {
+    "metrics": {
+      "bce": 4.0,
+      "avg_bce": 0.57
+    },
+    "totalDevelopers": 4
+  }
+}

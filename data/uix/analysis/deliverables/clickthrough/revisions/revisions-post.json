@@ -1,0 +1,238 @@
+{
+    "6465125a5acf148d069a2bdfce10d119c8dc4399": {
+        "commitComment": "HDDS-594. SCM CA: DN sends CSR and uses certificate issued by SCM. Contributed by Ajay Kumar. (#547)\n\n\n(cherry picked from commit 064f38b3a51be5f99a0ba09d0d48c11286017017)\n",
+        "commitDateTime": "2019-03-07",
+        "revisionId": "6465125a5acf148d069a2bdfce10d119c8dc4399",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 9
+            }
+        ],
+        "metricsSummary": {
+            "volume": 57.65,
+            "complexity": 19.55,
+            "interrelatedness": 22.8
+        },
+        "percentOfAberrantCE": 11.15
+    },
+    "353b90d59e3583a73a76db550d47aa86b3f36d5d": {
+        "commitComment": "HDDS-1156. testDelegationToken is failing in TestSecureOzoneCluster. Contributed by Ajay Kumar.\n\n",
+        "commitDateTime": "2019-03-05",
+        "revisionId": "353b90d59e3583a73a76db550d47aa86b3f36d5d",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 2
+            }
+        ],
+        "metricsSummary": {
+            "volume": 73.99,
+            "complexity": 5.14,
+            "interrelatedness": 20.87
+        },
+        "percentOfAberrantCE": 2.55
+    },
+    "0f4ae392d7a39ec520a7ba33d405912058b53368": {
+        "commitComment": "HDDS-1254. Fix failure in TestOzoneManagerHttpServer & TestStorageContainerManagerHttpServer. Contributed by Ajay Kumar. (#598)\n\n\n(cherry picked from commit 4fa009989bd641388aeb9b1bd9c90e9ddbfe84c0)\n",
+        "commitDateTime": "2019-03-13",
+        "revisionId": "0f4ae392d7a39ec520a7ba33d405912058b53368",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 2
+            }
+        ],
+        "metricsSummary": {
+            "volume": 67.2,
+            "complexity": 15.9,
+            "interrelatedness": 16.9
+        },
+        "percentOfAberrantCE": 3.95
+    },
+    "15b6e38ddf2e88ce7813f5346ba6712ad501af80": {
+        "commitComment": "HDDS-1043. Enable token based authentication for S3 api\n\nCloses #561\n\n(cherry picked from commit dcb0de848d8388fcee425847e52f6361790225c6)\n",
+        "commitDateTime": "2019-03-12",
+        "revisionId": "15b6e38ddf2e88ce7813f5346ba6712ad501af80",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "robot",
+                "count": 2
+            },
+            {
+                "fileType": "java",
+                "count": 24
+            },
+            {
+                "fileType": "sh",
+                "count": 1
+            },
+            {
+                "fileType": "proto",
+                "count": 1
+            },
+            {
+                "fileType": "docker-config",
+                "count": 1
+            }
+        ],
+        "metricsSummary": {
+            "volume": 0.0,
+            "complexity": 0.0,
+            "interrelatedness": 0.0
+        },
+        "percentOfAberrantCE": 12.87
+    },
+    "6028aefb577f8e59f2af7590455845b767f353e5": {
+        "commitComment": "HDDS-596. Add robot test for OM Block Token. Contributed by Ajay Kumar. \n\nThis closes (#581)\n\n(cherry picked from commit 599e926d462134aa3235311feb27f3a8cdff6a51)\n",
+        "commitDateTime": "2019-03-11",
+        "revisionId": "6028aefb577f8e59f2af7590455845b767f353e5",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "robot",
+                "count": 1
+            },
+            {
+                "fileType": "java",
+                "count": 1
+            },
+            {
+                "fileType": "sh",
+                "count": 1
+            },
+            {
+                "fileType": "docker-config",
+                "count": 1
+            }
+        ],
+        "metricsSummary": {
+            "volume": 0.0,
+            "complexity": 0.0,
+            "interrelatedness": 0.0
+        },
+        "percentOfAberrantCE": 10.85
+    },
+    "dcb0de848d8388fcee425847e52f6361790225c6": {
+        "commitComment": "HDDS-1043. Enable token based authentication for S3 api\n\nCloses #561\n",
+        "commitDateTime": "2019-03-12",
+        "revisionId": "dcb0de848d8388fcee425847e52f6361790225c6",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "robot",
+                "count": 2
+            },
+            {
+                "fileType": "java",
+                "count": 24
+            },
+            {
+                "fileType": "sh",
+                "count": 1
+            },
+            {
+                "fileType": "proto",
+                "count": 1
+            },
+            {
+                "fileType": "docker-config",
+                "count": 1
+            }
+        ],
+        "metricsSummary": {
+            "volume": 0.0,
+            "complexity": 0.0,
+            "interrelatedness": 0.0
+        },
+        "percentOfAberrantCE": 13.16
+    },
+    "c3986dc53be25f6809595f875f8967c14826f3a4": {
+        "commitComment": "HDDS-1156. testDelegationToken is failing in TestSecureOzoneCluster. Contributed by Ajay Kumar.\n\n\n(cherry picked from commit 353b90d59e3583a73a76db550d47aa86b3f36d5d)\n",
+        "commitDateTime": "2019-03-05",
+        "revisionId": "c3986dc53be25f6809595f875f8967c14826f3a4",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 2
+            }
+        ],
+        "metricsSummary": {
+            "volume": 73.99,
+            "complexity": 5.14,
+            "interrelatedness": 20.87
+        },
+        "percentOfAberrantCE": 2.66
+    },
+    "064f38b3a51be5f99a0ba09d0d48c11286017017": {
+        "commitComment": "HDDS-594. SCM CA: DN sends CSR and uses certificate issued by SCM. Contributed by Ajay Kumar. (#547)\n\n",
+        "commitDateTime": "2019-03-07",
+        "revisionId": "064f38b3a51be5f99a0ba09d0d48c11286017017",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 9
+            }
+        ],
+        "metricsSummary": {
+            "volume": 57.65,
+            "complexity": 19.55,
+            "interrelatedness": 22.8
+        },
+        "percentOfAberrantCE": 11.19
+    },
+    "599e926d462134aa3235311feb27f3a8cdff6a51": {
+        "commitComment": "HDDS-596. Add robot test for OM Block Token. Contributed by Ajay Kumar. \n\nThis closes (#581)",
+        "commitDateTime": "2019-03-11",
+        "revisionId": "599e926d462134aa3235311feb27f3a8cdff6a51",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "robot",
+                "count": 1
+            },
+            {
+                "fileType": "java",
+                "count": 1
+            },
+            {
+                "fileType": "sh",
+                "count": 1
+            },
+            {
+                "fileType": "docker-config",
+                "count": 1
+            }
+        ],
+        "metricsSummary": {
+            "volume": 0.0,
+            "complexity": 0.0,
+            "interrelatedness": 0.0
+        },
+        "percentOfAberrantCE": 10.86
+    },
+    "4fa009989bd641388aeb9b1bd9c90e9ddbfe84c0": {
+        "commitComment": "HDDS-1254. Fix failure in TestOzoneManagerHttpServer & TestStorageContainerManagerHttpServer. Contributed by Ajay Kumar. (#598)\n\n",
+        "commitDateTime": "2019-03-13",
+        "revisionId": "4fa009989bd641388aeb9b1bd9c90e9ddbfe84c0",
+        "infraId": 207353,
+        "fileTypes": [
+            {
+                "fileType": "java",
+                "count": 2
+            }
+        ],
+        "metricsSummary": {
+            "volume": 67.2,
+            "complexity": 15.9,
+            "interrelatedness": 16.9
+        },
+        "percentOfAberrantCE": 4.04
+    }
+}

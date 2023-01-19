@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Super Group",
+    "description": "This is System generated Super Group",
+    "id": 126,
+    "roleIds": [],
+    "superGroup": true
+  },
+  {
+    "name": "SysGen-Team lead Group",
+    "description": "SysGen-Team lead Group",
+    "id": 127,
+    "roleIds": [
+      91
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Demo Group",
+    "description": null,
+    "id": 176,
+    "roleIds": [
+      127,
+      412,
+      430,
+      669
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "test group",
+    "description": null,
+    "id": 180,
+    "roleIds": [
+      129,
+      430
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Benchmark-Demo",
+    "description": null,
+    "id": 182,
+    "roleIds": [
+      131,
+      412
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "BIdataacess1",
+    "description": null,
+    "id": 251,
+    "roleIds": [
+      194
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "test001",
+    "description": null,
+    "id": 272,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "Benchmarktest01",
+    "description": null,
+    "id": 308,
+    "roleIds": [
+      243
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "AApage",
+    "description": null,
+    "id": 377,
+    "roleIds": [
+      310
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "overviewonly",
+    "description": null,
+    "id": 378,
+    "roleIds": [
+      311
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "CDStest",
+    "description": null,
+    "id": 380,
+    "roleIds": [
+      313
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "test_stage",
+    "description": null,
+    "id": 381,
+    "roleIds": [
+      314,
+      320,
+      319
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "overviewpageonly",
+    "description": null,
+    "id": 382,
+    "roleIds": [
+      315
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "developerviewonl",
+    "description": null,
+    "id": 383,
+    "roleIds": [
+      316
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "bidatasetaccess1",
+    "description": null,
+    "id": 384,
+    "roleIds": [
+      317
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Empty Group",
+    "description": null,
+    "id": 477,
+    "roleIds": [
+      375
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "mdSanity",
+    "description": null,
+    "id": 479,
+    "roleIds": [
+      376
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "newGroupForSanityRD",
+    "description": null,
+    "id": 480,
+    "roleIds": [
+      377
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "groupForQaWS",
+    "description": null,
+    "id": 508,
+    "roleIds": [
+      397
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "stageSanity",
+    "description": "Stage Sanity",
+    "id": 509,
+    "roleIds": [
+      398
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Role123",
+    "description": null,
+    "id": 510,
+    "roleIds": [
+      399
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "GroupCheck",
+    "description": null,
+    "id": 531,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "accesstoproject",
+    "description": null,
+    "id": 532,
+    "roleIds": [
+      413
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "rbacforint",
+    "description": null,
+    "id": 571,
+    "roleIds": [
+      448
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "accesstodevpage",
+    "description": null,
+    "id": 636,
+    "roleIds": [
+      483
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "onlyAaPage",
+    "description": null,
+    "id": 639,
+    "roleIds": [
+      486
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "AA&Ace",
+    "description": null,
+    "id": 641,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "AAGroup",
+    "description": null,
+    "id": 642,
+    "roleIds": [
+      489
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "intGroup",
+    "description": null,
+    "id": 650,
+    "roleIds": [
+      497
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "int",
+    "description": null,
+    "id": 651,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "noProjAccess",
+    "description": null,
+    "id": 653,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "noProjAcccess",
+    "description": null,
+    "id": 654,
+    "roleIds": [
+      505
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "AccessToOnlyOneOrg",
+    "description": "Access to Only one Org and one Project",
+    "id": 674,
+    "roleIds": [
+      512,
+      511
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Access",
+    "description": null,
+    "id": 678,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "king",
+    "description": null,
+    "id": 681,
+    "roleIds": [
+      515
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "adsd",
+    "description": null,
+    "id": 692,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "zzsd",
+    "description": null,
+    "id": 693,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "bugretest",
+    "description": null,
+    "id": 694,
+    "roleIds": [
+      516
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "test",
+    "description": null,
+    "id": 908,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "2-test",
+    "description": null,
+    "id": 922,
+    "roleIds": [
+      91,
+      669
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "test-anshika-group",
+    "description": null,
+    "id": 923,
+    "roleIds": [
+      670
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "3test",
+    "description": null,
+    "id": 924,
+    "roleIds": [
+      671,
+      669
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "3te",
+    "description": null,
+    "id": 925,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "test-viri",
+    "description": null,
+    "id": 926,
+    "roleIds": [
+      672
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "forPa",
+    "description": null,
+    "id": 943,
+    "roleIds": [
+      685
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "accesstonopage",
+    "description": null,
+    "id": 950,
+    "roleIds": [
+      691
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "aa-only",
+    "description": null,
+    "id": 1018,
+    "roleIds": [
+      732
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "AArole1",
+    "description": null,
+    "id": 1052,
+    "roleIds": [
+      746
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "aa",
+    "description": null,
+    "id": 1095,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "FavTestingGrp",
+    "description": "FavTestingGrp",
+    "id": 1097,
+    "roleIds": [
+      810
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "timezonetesting01",
+    "description": null,
+    "id": 1099,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "Demo1",
+    "description": null,
+    "id": 1101,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "Demo5.6",
+    "description": null,
+    "id": 1102,
+    "roleIds": [
+      813
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Demo5.6_WithOverviewPage",
+    "description": null,
+    "id": 1103,
+    "roleIds": [],
+    "superGroup": false
+  },
+  {
+    "name": "Demo5.6._AAEmailTesting",
+    "description": null,
+    "id": 1104,
+    "roleIds": [
+      815
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "Demo5.6_WithoutOverviewPage",
+    "description": null,
+    "id": 1105,
+    "roleIds": [
+      814
+    ],
+    "superGroup": false
+  },
+  {
+    "name": "onlyAA",
+    "description": null,
+    "id": 1106,
+    "roleIds": [
+      816
+    ],
+    "superGroup": false
+  }
+]

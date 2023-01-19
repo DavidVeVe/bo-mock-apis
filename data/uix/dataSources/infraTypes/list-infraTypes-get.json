@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "name": "CVS_pServer",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 2,
+    "name": "CVS_SSH",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 3,
+    "name": "Bugzilla",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  },
+  {
+    "id": 4,
+    "name": "QualityCentre",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  },
+  {
+    "id": 5,
+    "name": "ClearCase",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 7,
+    "name": "",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 8,
+    "name": "Subversion",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 9,
+    "name": "Jira",
+    "supportedVersions":[
+      {
+        "versionId": 55,
+        "versionName": "Cloud",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      },
+      {
+        "versionId": 56,
+        "versionName": "5.x - 8.x",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  },
+  {
+    "id": 11,
+    "name": "uberSVN",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 12,
+    "name": "PolarionSVN",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 13,
+    "name": "IntlandSVN",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 14,
+    "name": "CollabnetSVN",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 15,
+    "name": "GitHub",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 16,
+    "name": "Rally",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  },
+  {
+    "id": 17,
+    "name": "Git",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 18,
+    "name": "Azure DevOps",
+    "supportedVersions":[
+      {"versionId":3,"versionName":"VSTS","isPATRequired":true,"isPasswordRequired":false,"isPATSupported":true},
+      {"versionId":1,"versionName":"Devops Services","isPATRequired":true,"isPasswordRequired":false,"isPATSupported":true},
+      {"versionId":2,"versionName":"Devops Server 2019","isPATRequired":true,"isPasswordRequired":false,"isPATSupported":true},
+      {"versionId":5,"versionName":"2013-2015","isPATRequired":false,"isPasswordRequired":true,"isPATSupported":false},
+      {"versionId":4,"versionName":"2017-2018","isPATRequired":true,"isPasswordRequired":false,"isPATSupported":true}
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 19,
+    "name": "TeamFoundationServer_tt",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  },
+  {
+    "id": 20,
+    "name": "Perforce",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 21,
+    "name": "GitLab",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 22,
+    "name": "Stash",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 23,
+    "name": "TeamFoundationServer_vc_git",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 24,
+    "name": "RationalTeamConcert_vc",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "versionControl"
+  },
+  {
+    "id": 25,
+    "name": "RationalTeamConcert_tt",
+    "supportedVersions":[
+      {
+        "versionId": 1,
+        "versionName": "1.0.0 - 2.0.0",
+        "isPATSupported": false,
+        "isPATRequired": false,
+        "isPasswordRequired": false
+      }
+    ],
+    "type": "taskTracker"
+  }
+]

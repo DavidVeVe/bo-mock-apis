@@ -1,0 +1,42 @@
+{
+  "dataSourceId": 206161,
+  "infraType": {
+    "name": "PolarionSVN",
+    "type": "versionControl",
+    "details": {
+      "projectURL": "https://Polarion.regressiontest101.com/test",
+      "branchLocation": null,
+      "tagsLocation": null,
+      "trunkLocation": "/"
+    },
+    "repositoryUserDetails": {
+      "overrideAtIntegrator": true,
+      "user": "svc.rad-blueoptima"
+    }
+  },
+  "collectionId": 126046,
+  "integratorId": 465,
+
+  "organizationId": 250,
+  "schedule": {
+    "startDate": "2019-01-29 08:15 UTC",
+    "interval": {
+      "period": "days",
+      "value": 10
+    }
+  },
+  "clientInfraInstanId": null,
+  "instance": {
+    "url": "https://Polarion.regressiontest101.com/test",
+    "name": "/"
+  },
+  "componentName": null,
+  "lastUpdate": {
+    "user": "BlueOptima Support",
+    "date": "2019-06-28 09:06"
+  },
+  "created": {
+    "user": "anshika singh",
+    "date": "2019-01-29 08:08"
+  }
+}

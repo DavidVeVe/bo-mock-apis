@@ -1,0 +1,1499 @@
+[
+  {
+    "adConfigId": 194,
+    "hostUrl": "https://api.bitbucket.org/dev06add",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-31 10:18:32",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      409
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 10:18:32",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-31 10:18:32",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 4,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "deepak",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-14 10:18:00",
+    "lastExtraction": {
+      "requestId": "4b5f167f-a9da-4602-9ceb-95bb6556e24b",
+      "runStartDate": "2020-04-01 19:27:50",
+      "lastUpdateDate": "2020-04-01 19:28:19",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "4b5f167f-a9da-4602-9ceb-95bb6556e24b",
+      "errorCode": "AE0007"
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Noob De",
+      "date": "2020-03-31 10:18"
+    }
+  },
+  {
+    "adConfigId": 195,
+    "hostUrl": "https://jira.blueoptima.com/browse/UIXFE-3007",
+    "integratorId": 281,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-31 17:32:29",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      414
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 9,
+      "versionId": 21,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "luis.estrada@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-14 17:32:00",
+    "lastExtraction": {
+      "requestId": "6bd3bfc4-91a0-4f25-99e5-91ac999be86a",
+      "runStartDate": "2020-03-31 17:32:29",
+      "lastUpdateDate": "2020-03-31 17:32:29",
+      "runStatus": "Queued",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-31 17:32"
+    }
+  },
+  {
+    "adConfigId": 103,
+    "hostUrl": "http://localhost:8080/administration/autodiscovery-configurationfdd",
+    "integratorId": 305,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-31 17:36:23",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      133
+    ],
+    "onboardingConfigs": {
+      "protocol": "http",
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 15:30:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-31 16:30:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 5,
+      "versionId": 15,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "di.test.olya@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": null,
+    "lastExtraction": {
+      "requestId": "3f942051-3d69-44ff-ab26-c1ec8085eaab",
+      "runStartDate": "2020-03-31 17:36:26",
+      "lastUpdateDate": "2020-03-31 17:36:26",
+      "runStatus": "Queued",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-31 17:36"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-31 17:36"
+    }
+  },
+  {
+    "adConfigId": 197,
+    "hostUrl": "https://api.bitbucket.org/dev06new",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-04-01 06:28:10",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      409
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 2,
+      "versionId": 6,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "deep",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-15 06:28:00",
+    "lastExtraction": {
+      "requestId": "d694f7b4-fea4-4470-83dc-37ca10da7fb1",
+      "runStartDate": "2020-04-01 19:28:47",
+      "lastUpdateDate": "2020-04-01 19:33:51",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "d694f7b4-fea4-4470-83dc-37ca10da7fb1",
+      "errorCode": "AE0007"
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Noob De",
+      "date": "2020-04-01 06:28"
+    }
+  },
+  {
+    "adConfigId": 196,
+    "hostUrl": "https://api.bitbucket.org/dev06upold",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-04-01 06:00:07",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      409
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 06:00:07",
+      "dsExtractionSchedule": {
+        "startDate": "2020-04-01 06:00:07",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 4,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "deep",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-15 06:00:00",
+    "lastExtraction": {
+      "requestId": "4a5ba9c5-3d6e-41ee-b658-e42bbfd8dbde",
+      "runStartDate": "2020-04-01 19:27:51",
+      "lastUpdateDate": "2020-04-01 19:33:40",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "4a5ba9c5-3d6e-41ee-b658-e42bbfd8dbde",
+      "errorCode": "AE0007"
+    },
+    "lastUpdate": {
+      "user": "Noob De",
+      "date": "2020-04-01 10:15"
+    },
+    "created": {
+      "user": "Noob De",
+      "date": "2020-04-01 10:15"
+    }
+  },
+  {
+    "adConfigId": 198,
+    "hostUrl": "https://sunbersion.testing1.com/",
+    "integratorId": 323,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-04-01 06:49:06",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      394
+    ],
+    "onboardingConfigs": {
+      "protocol": "https",
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-04-01 07:00:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 6,
+      "versionId": 17,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "anshika.singh@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-15 06:49:00",
+    "lastExtraction": {
+      "requestId": "d9e48356-0d82-45a6-9934-3fa15a0446ee",
+      "runStartDate": "2020-04-01 06:49:06",
+      "lastUpdateDate": "2020-04-01 06:49:06",
+      "runStatus": "Queued",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Anshika Singh",
+      "date": "2020-04-01 06:49"
+    }
+  },
+  {
+    "adConfigId": 199,
+    "hostUrl": "https://jira.blueoptima.com/1232132321",
+    "integratorId": 281,
+    "organizationId": 277,
+    "schedule": {
+      "startDate": "2020-04-01 07:00:05",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      394
+    ],
+    "onboardingConfigs": {
+      "protocol": "https",
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-04-01 07:00:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 9,
+      "versionId": 21,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-15 07:00:00",
+    "lastExtraction": {
+      "requestId": "26b5dc0c-7568-4340-8894-bb4b01e99206",
+      "runStartDate": "2020-04-01 07:00:05",
+      "lastUpdateDate": "2020-04-01 07:00:05",
+      "runStatus": "Queued",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Anshika Singh",
+      "date": "2020-04-01 07:00"
+    }
+  },
+  {
+    "adConfigId": 175,
+    "hostUrl": "http://10.0.23.233:8080/tfs",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-01-11 07:30:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      121
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-02-28 12:45:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 4,
+      "versionId": 11,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-02 07:30:00",
+    "lastExtraction": {
+      "requestId": "3fef09c6-46f4-4bb8-975b-2f9a3068933a",
+      "runStartDate": "2020-03-28 14:39:39",
+      "lastUpdateDate": "2020-03-28 14:42:40",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "3fef09c6-46f4-4bb8-975b-2f9a3068933a",
+      "errorCode": "AE0001"
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-24 06:31"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-24 06:31"
+    }
+  },
+  {
+    "adConfigId": 189,
+    "hostUrl": "https://api.bitbucket.org",
+    "integratorId": 337,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-07 10:34:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      384
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-07 11:30:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 3,
+      "versionId": 9,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji785",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-03-21 10:34:00",
+    "lastExtraction": {
+      "requestId": "da683197-c856-4a13-963e-9514780efd3e",
+      "runStartDate": "2020-03-07 11:34:49",
+      "lastUpdateDate": "2020-03-07 11:34:51",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "da683197-c856-4a13-963e-9514780efd3e",
+      "errorCode": "AE0001"
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 11:37"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 11:37"
+    }
+  },
+  {
+    "adConfigId": 186,
+    "hostUrl": "https://git.blueoptima.com",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-06 12:39:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      405
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-09 14:45:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 2,
+      "versionId": 8,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gosselde",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-04 12:39:00",
+    "lastExtraction": {
+      "requestId": "410b1f3b-9fa3-47b3-855c-4c8f490b5671",
+      "runStartDate": "2020-03-24 04:48:50",
+      "lastUpdateDate": "2020-03-24 04:49:51",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "410b1f3b-9fa3-47b3-855c-4c8f490b5671",
+      "errorCode": "AE0001"
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-09 14:42"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-09 14:42"
+    }
+  },
+  {
+    "adConfigId": 48,
+    "hostUrl": "http://svn.dev.bo.local/svn/integrator-test-cases/",
+    "integratorId": 313,
+    "organizationId": 65,
+    "schedule": null,
+    "userIds": [
+      165
+    ],
+    "onboardingConfigs": {
+      "protocol": "http",
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 06:01:00",
+      "dsExtractionSchedule": {
+        "startDate": "2019-10-06 06:15:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 5,
+      "versionId": 15,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": null,
+    "lastExtraction": {
+      "requestId": "fb8d3ae1-babf-4a30-b3e3-253918e11ddf",
+      "runStartDate": "2020-02-27 10:26:42",
+      "lastUpdateDate": "2020-02-27 10:29:13",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "fb8d3ae1-babf-4a30-b3e3-253918e11ddf",
+      "errorCode": "AE0001"
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2019-10-06 14:39"
+    },
+    "created": {
+      "user": null,
+      "date": "2019-04-01 11:12"
+    }
+  },
+  {
+    "adConfigId": 160,
+    "hostUrl": "http://svn.dev.bo.local",
+    "integratorId": 287,
+    "organizationId": 65,
+    "schedule": null,
+    "userIds": [
+      198
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 5,
+      "versionId": 15,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "unittest",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": null,
+    "lastExtraction": {
+      "requestId": "57227d99-6cbf-4859-a8d5-67a878db5197",
+      "runStartDate": "2020-03-30 11:18:43",
+      "lastUpdateDate": "2020-03-30 11:49:15",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "57227d99-6cbf-4859-a8d5-67a878db5197",
+      "errorCode": "EE0005"
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Chunky Garg",
+      "date": "2019-10-06 14:44"
+    }
+  },
+  {
+    "adConfigId": 172,
+    "hostUrl": "https://abhishekattri.atlassian.net/",
+    "integratorId": 330,
+    "organizationId": 65,
+    "schedule": null,
+    "userIds": [
+      121
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 6,
+      "versionId": 17,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "abhishek.attri@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": null,
+    "lastExtraction": {
+      "requestId": "f0e0cd39-988b-4618-8713-0c1cceb1a1e7",
+      "runStartDate": "2019-12-06 06:02:45",
+      "lastUpdateDate": "2019-12-06 06:02:47",
+      "runStatus": "Successful",
+      "completionPercent": 100,
+      "statsSummary": {
+        "discoveredDS": 0,
+        "onboarded": 3,
+        "renamedOrMoved": 0,
+        "reposNotFound": 0,
+        "ignoredDS": 0,
+        "totalDS": 3
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2019-12-05 14:03"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2019-12-05 14:03"
+    }
+  },
+  {
+    "adConfigId": 179,
+    "hostUrl": "https://blueoptima-test.atlassian.net",
+    "integratorId": 337,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-02-12 15:22:40",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      384,
+      165
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-02-12 15:30:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 6,
+      "versionId": 17,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "nikita.awasthi@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-03-31 15:22:00",
+    "lastExtraction": {
+      "requestId": "f88560a7-a949-4eb0-a482-95edf78348cd",
+      "runStartDate": "2020-03-17 10:30:22",
+      "lastUpdateDate": "2020-03-17 10:30:29",
+      "runStatus": "Successful",
+      "completionPercent": 100,
+      "statsSummary": {
+        "discoveredDS": 2,
+        "onboarded": 0,
+        "renamedOrMoved": 0,
+        "reposNotFound": 0,
+        "ignoredDS": 0,
+        "totalDS": 2
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-02-12 15:22"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-02-12 15:22"
+    }
+  },
+  {
+    "adConfigId": 185,
+    "hostUrl": "https://10.0.23.233:9443/ccm",
+    "integratorId": 337,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-06 11:51:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      384
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-07 08:45:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 1,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-03-20 11:51:00",
+    "lastExtraction": {
+      "requestId": "38dfb60f-2896-4f85-8538-7eb4c985209d",
+      "runStartDate": "2020-03-07 09:15:48",
+      "lastUpdateDate": "2020-03-07 09:22:14",
+      "runStatus": "Successful",
+      "completionPercent": 100,
+      "statsSummary": {
+        "discoveredDS": 76,
+        "onboarded": 0,
+        "renamedOrMoved": 0,
+        "reposNotFound": 0,
+        "ignoredDS": 0,
+        "totalDS": 76
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 09:03"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 09:03"
+    }
+  },
+  {
+    "adConfigId": 187,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com",
+    "integratorId": 340,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-06 15:44:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      384
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-07 09:45:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 2,
+      "versionId": 6,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-04 15:44:00",
+    "lastExtraction": {
+      "requestId": "c87d5cc2-256b-4148-b254-7d9b72366dd8",
+      "runStartDate": "2020-03-21 05:30:53",
+      "lastUpdateDate": "2020-03-21 05:30:55",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "c87d5cc2-256b-4148-b254-7d9b72366dd8",
+      "errorCode": "IE0003"
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 09:47"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 09:47"
+    }
+  },
+  {
+    "adConfigId": 154,
+    "hostUrl": "https://dev.azure.com/abhishekattri",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-28 07:17:31",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      121
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2015-01-01 11:47:00",
+      "dsExtractionSchedule": {
+        "startDate": "2019-11-18 12:00:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 4,
+      "versionId": 11,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": " abhishek.attri@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-11 07:17:00",
+    "lastExtraction": {
+      "requestId": "995e22f9-3bd8-46d1-8435-528ee09b583c",
+      "runStartDate": "2020-03-30 15:20:13",
+      "lastUpdateDate": "2020-03-30 15:22:58",
+      "runStatus": "Successful",
+      "completionPercent": 100,
+      "statsSummary": {
+        "discoveredDS": 15,
+        "onboarded": 0,
+        "renamedOrMoved": 0,
+        "reposNotFound": 0,
+        "ignoredDS": 0,
+        "totalDS": 17
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-28 14:57"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-28 14:57"
+    }
+  },
+  {
+    "adConfigId": 181,
+    "hostUrl": "https://jira.blueoptima.com",
+    "integratorId": 317,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-06 10:21:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      165
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-28 10:00:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 6,
+      "versionId": 17,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "attriab",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": null,
+    "lastExtraction": {
+      "requestId": "da5917ef-58af-4017-8f13-0594a11df157",
+      "runStartDate": "2020-03-28 11:52:44",
+      "lastUpdateDate": "2020-03-28 11:52:45",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "da5917ef-58af-4017-8f13-0594a11df157",
+      "errorCode": "AE0001"
+    },
+    "lastUpdate": {
+      "user": "Chunky Garg",
+      "date": "2020-03-28 11:51"
+    },
+    "created": {
+      "user": "Chunky Garg",
+      "date": "2020-03-28 11:51"
+    }
+  },
+  {
+    "adConfigId": 188,
+    "hostUrl": "https://github.com",
+    "integratorId": 340,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-07 04:23:05",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      286
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 6,
+      "versionId": 17,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-04 04:23:00",
+    "lastExtraction": {
+      "requestId": "3a2b25f6-605e-4cd9-89b4-0f2193720f17",
+      "runStartDate": "2020-03-21 05:30:54",
+      "lastUpdateDate": "2020-03-21 05:30:57",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "3a2b25f6-605e-4cd9-89b4-0f2193720f17",
+      "errorCode": "IE0003"
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-03-07 04:23"
+    }
+  },
+  {
+    "adConfigId": 192,
+    "hostUrl": "https://api.bitbucket.org/dev06dep",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-30 19:13:21",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      409
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 19:13:21",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-30 19:13:21",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 4,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "deepak",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-13 19:13:00",
+    "lastExtraction": {
+      "requestId": "55dc32f3-3913-45a2-a871-da5654b4ead4",
+      "runStartDate": "2020-04-01 19:26:42",
+      "lastUpdateDate": "2020-04-01 19:26:42",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "55dc32f3-3913-45a2-a871-da5654b4ead4",
+      "errorCode": "AE0007"
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Noob De",
+      "date": "2020-03-30 19:13"
+    }
+  },
+  {
+    "adConfigId": 193,
+    "hostUrl": "https://api.bitbucket.org/567",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-30 19:13:53",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      409
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 19:13:53",
+      "dsExtractionSchedule": {
+        "startDate": "2020-03-30 19:13:53",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 4,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "deepak",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": false,
+    "isPasswordProvided": false,
+    "nextRunDate": "2020-04-13 19:13:00",
+    "lastExtraction": {
+      "requestId": "b4798b6e-b048-4fe8-bbc9-68e259fc714d",
+      "runStartDate": "2020-04-01 19:26:39",
+      "lastUpdateDate": "2020-04-01 19:26:42",
+      "runStatus": "Failed",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": "b4798b6e-b048-4fe8-bbc9-68e259fc714d",
+      "errorCode": "AE0007"
+    },
+    "lastUpdate": {
+      "user": "Noob De",
+      "date": "2020-03-30 19:15"
+    },
+    "created": {
+      "user": "Noob De",
+      "date": "2020-03-30 19:15"
+    }
+  },
+  {
+    "adConfigId": 201,
+    "hostUrl": "https://TFS.testing01.com/VSTS",
+    "integratorId": 326,
+    "organizationId": 277,
+    "schedule": {
+      "startDate": "2020-04-01 12:57:52",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      394
+    ],
+    "onboardingConfigs": {
+      "protocol": "ssh",
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": "2020-04-01 13:00:00",
+        "interval": {
+          "period": "days",
+          "value": 1
+        }
+      },
+      "autoOnboard": true
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 3,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "1234",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-15 12:57:00",
+    "lastExtraction": {
+      "requestId": "6fbc35c4-02bf-4791-b38a-a7fc8000e7d7",
+      "runStartDate": "2020-04-01 12:57:52",
+      "lastUpdateDate": "2020-04-01 12:57:52",
+      "runStatus": "Queued",
+      "completionPercent": null,
+      "statsSummary": {
+        "discoveredDS": null,
+        "onboarded": null,
+        "renamedOrMoved": null,
+        "reposNotFound": null,
+        "ignoredDS": null,
+        "totalDS": null
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": null,
+    "created": {
+      "user": "Anshika Singh",
+      "date": "2020-04-01 12:57"
+    }
+  },
+  {
+    "adConfigId": 184,
+    "hostUrl": "https://blueoptima-tfvc.visualstudio.com",
+    "integratorId": 342,
+    "organizationId": 65,
+    "schedule": {
+      "startDate": "2020-03-05 03:10:00",
+      "interval": {
+        "period": "weeks",
+        "value": 2
+      }
+    },
+    "userIds": [
+      165
+    ],
+    "onboardingConfigs": {
+      "protocol": null,
+      "integratorIds": [],
+      "historicalExtractionStartDate": "2016-01-01 00:00:00",
+      "dsExtractionSchedule": {
+        "startDate": null,
+        "interval": {
+          "period": null,
+          "value": null
+        }
+      },
+      "autoOnboard": false
+    },
+    "integrationType": {
+      "integrationId": 1,
+      "versionId": 3,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "abhishek.attri@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "isPATProvided": true,
+    "isPasswordProvided": true,
+    "nextRunDate": "2020-04-02 03:10:00",
+    "lastExtraction": {
+      "requestId": "70fb1a9f-21b5-4206-9f0e-d9f60e690bb0",
+      "runStartDate": "2020-04-01 19:56:44",
+      "lastUpdateDate": "2020-04-01 19:58:45",
+      "runStatus": "Successful",
+      "completionPercent": 100,
+      "statsSummary": {
+        "discoveredDS": 3,
+        "onboarded": 0,
+        "renamedOrMoved": 0,
+        "reposNotFound": 1,
+        "ignoredDS": 5,
+        "totalDS": 12
+      },
+      "failedRequestId": null,
+      "errorCode": null
+    },
+    "lastUpdate": {
+      "user": "BlueOptima Support",
+      "date": "2020-04-01 19:56"
+    },
+    "created": {
+      "user": "BlueOptima Support",
+      "date": "2020-04-01 19:56"
+    }
+  }
+]

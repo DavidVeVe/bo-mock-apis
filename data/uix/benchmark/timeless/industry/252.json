@@ -1,0 +1,17 @@
+[
+  {"productivity":1.2592,"quality":96.3597,"cost":529.929,"type":5,"industry":"Business Support Services"},
+  {"productivity":1.3317,"quality":96.1598,"cost":623.4112,"type":5,"industry":"Consumer Cyclicals"},
+  {"productivity":1.2759,"quality":95.8284,"cost":431.5725,"type":5,"industry":"Corporate Banks"},
+  {"productivity":1.3751,"quality":95.5175,"cost":499.132,"type":5,"industry":"Corporate Financial Services"},
+  {"productivity":1.4374,"quality":96.3404,"cost":443.2388,"type":5,"industry":"Healthcare Services & Equipment"},
+  {"productivity":1.5214,"quality":96.2712,"cost":591.7549,"type":5,"industry":"Investment Banking & Brokerage Services"},
+  {"productivity":1.1962,"quality":96.3685,"cost":727.6838,"type":5,"industry":"Investment Management & Fund Operators"},
+  {"productivity":2.3108,"quality":97.0427,"cost":655.6062,"type":5,"industry":"Other"},
+  {"productivity":1.6196,"quality":95.6581,"cost":630.4488,"type":5,"industry":"Professional & Commercial Services"},
+  {"productivity":1.3923,"quality":96.3747,"cost":444.6623,"type":5,"industry":"Retail Banking"},
+  {"productivity":1.2634,"quality":95.1278,"cost":549.0083,"type":3,"industry":"Your Industry"},
+  {"productivity":1.5183,"quality":95.9695,"cost":417.3815,"type":5,"industry":"Telecommunications Services"},
+  {"productivity":1.5623,"quality":95.6921,"cost":530.8331,"type":5,"industry":"Wealth Management"},
+  {"productivity":1.3954,"quality":96.1766,"cost":493.5238,"type":2,"industry":"BlueOptima's Universe"},
+  {"productivity":1.3824,"quality":95.9391,"cost":376.4652,"type":1,"industry":"You"},
+  {"productivity":1.6393,"quality":96.4649,"cost":570.5886,"type":4,"industry":"Expected score"}]

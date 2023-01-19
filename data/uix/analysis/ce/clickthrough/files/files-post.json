@@ -1,0 +1,202 @@
+{
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/v2/writetodatasourcev2exec.scala": {
+    "fileWebURL":  "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 76.67,
+      "complexity": 23.33,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/datawriterfactory.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 70.3,
+      "complexity": 11.89,
+      "interrelatedness": 17.81
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  },
+  "sql/core/src/test/scala/org/apache/spark/sql/sources/v2/datasourcev2suite.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 76.6,
+      "complexity": 23.4,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.67,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/supportswrite.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 82.13,
+      "complexity": 7.15,
+      "interrelatedness": 10.72
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/writebuilder.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 64.21,
+      "complexity": 19.95,
+      "interrelatedness": 15.84
+    },
+    "percentOfAberrantCE": 9.78,
+    "fileType": "java"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/dataframereader.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 74.32,
+      "complexity": 25.68,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 8.3,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/sources/microbatchwrite.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 71.8,
+      "complexity": 28.2,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 10.98,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/supportsread.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 81.82,
+      "complexity": 7.28,
+      "interrelatedness": 10.9
+    },
+    "percentOfAberrantCE": 6.99,
+    "fileType": "java"
+  },
+  "sql/core/src/test/scala/org/apache/spark/sql/sources/v2/simplewritabledatasource.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 71.49,
+      "complexity": 28.51,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 18.54,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/writercommitmessage.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 74.73,
+      "complexity": 25.27,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/dataframewriter.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 76.43,
+      "complexity": 23.57,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 15.69,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/v2/datasourcev2strategy.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 73.68,
+      "complexity": 26.32,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 16.09,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/supportsbatchwrite.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 87.48,
+      "complexity": 12.52,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 13.64,
+    "fileType": "java"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/sources/packedrowwriterfactory.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 67.62,
+      "complexity": 32.38,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/microbatchexecution.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 69.57,
+      "complexity": 30.43,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/batchwrite.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 78.11,
+      "complexity": 8.76,
+      "interrelatedness": 13.13
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/supportssavemode.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 87.84,
+      "complexity": 4.87,
+      "interrelatedness": 7.29
+    },
+    "percentOfAberrantCE": 15.34,
+    "fileType": "java"
+  },
+  "sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/v2/datasourcev2relation.scala": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 77.69,
+      "complexity": 22.31,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 10.42,
+    "fileType": "scala"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/writer/datawriter.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 77.49,
+      "complexity": 9.01,
+      "interrelatedness": 13.5
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  },
+  "sql/core/src/main/java/org/apache/spark/sql/sources/v2/datasourcev2.java": {
+    "fileWebURL": "https://git.blueoptima.com/projects/KARMIS/repos/uix-server/commits/6d140f60a0500b8aada80da1e771106a42bf4a96#src/main/java/com/blueoptima/uix/aspect/ValidationAspect.java",
+    "metricsSummary": {
+      "volume": 87.95,
+      "complexity": 12.05,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0,
+    "fileType": "java"
+  }
+}

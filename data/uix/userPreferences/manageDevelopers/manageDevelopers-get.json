@@ -1,0 +1,19 @@
+{
+  "table": {
+    "displayedColumns": {
+      "userName": true,
+      "uid": false,
+      "displayName": true,
+      "employeeType": false,
+      "employmentStatus": false,
+      "employer": true,
+      "segment": true,
+      "jobRole": true,
+      "rank": true,
+      "country": true,
+      "city": true,
+      "hourlyRate": true,
+      "anonymous": false
+    }
+  }
+}

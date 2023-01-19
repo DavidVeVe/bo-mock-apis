@@ -1,0 +1,26 @@
+{
+  "cost": {
+    "value": 376.4652,
+    "relative": {
+      "industry": -31.4281,
+      "projected": -34.0216,
+      "boUniverse": -23.7189
+    }
+  },
+  "productivity": {
+    "value": 1.3824,
+    "relative": {
+      "industry": 9.42,
+      "projected": -15.6708,
+      "boUniverse": -0.9325
+    }
+  },
+  "quality": {
+    "value": 95.9391,
+    "relative": {
+      "industry": 0.8529,
+      "projected": -0.5451,
+      "boUniverse": -0.2469
+    }
+  }
+}

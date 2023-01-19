@@ -1,0 +1,70 @@
+[
+  {
+    "key": "jobRoleName",
+    "name": "Job Role Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "jobRoleLanguage",
+    "name": "Job Role Language",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "candidateName",
+    "name": "Candidate Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "candidateType",
+    "name": "Candidate Type",
+    "operators": [
+      "=",
+      "!="
+    ],
+    "type": "string",
+    "values": [
+      "my",
+      "other"
+    ]
+  },
+  {
+    "key": "testClosingDate",
+    "name": "Test Closing Date",
+    "operators": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "type": "date"
+  },
+  {
+    "key": "taskName",
+    "name": "Task Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  }
+]

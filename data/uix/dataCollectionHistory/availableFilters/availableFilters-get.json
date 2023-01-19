@@ -1,0 +1,14 @@
+{
+  "infraType": [
+    "Stash",
+    "TeamFoundationServer_tt",
+    "Git",
+    "RationalTeamConcert_vc",
+    "GitHub",
+    "RationalTeamConcert_tt",
+    "TeamFoundationServer_vc",
+    "Jira",
+    "TeamFoundationServer_vc_git",
+    "GitLab"
+  ]
+}

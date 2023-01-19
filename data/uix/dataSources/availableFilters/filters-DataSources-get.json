@@ -1,0 +1,42 @@
+{
+  "infraTypes": [
+    7,
+    17,
+    14,
+    16,
+    1
+  ],
+  "integratorIds": [
+    465,
+    449,
+    300,
+    368,
+    277,
+    461
+  ],
+  "scheduleIntervals": [
+    {
+      "period": "days",
+      "value": 10
+    },
+    {
+      "period": "days",
+      "value": 11
+    },
+    {
+      "period": "days",
+      "value": 1
+    }
+  ],
+  "organizationIds": [
+    248,
+    65
+  ],
+  "statuses": [
+    "detached",
+    "validated",
+    "notValidated",
+    "integratorOffline",
+    "error"
+  ]
+}

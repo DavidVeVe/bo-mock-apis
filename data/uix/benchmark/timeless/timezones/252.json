@@ -1,0 +1,1705 @@
+{
+  "1": {
+    "Latin American and Caribbean Group (GRULAC)": {
+      "timezones": [
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.2727
+            },
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0.0368
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.3257
+            }
+          ],
+          "bce_pct": 0.6353
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.0196
+            }
+          ],
+          "bce_pct": 0.0196
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.0068
+            }
+          ],
+          "bce_pct": 0.0068
+        },
+        {
+          "timezone": "UTC-03:00",
+          "cities": null,
+          "bce_pct": 9.6421
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": null,
+          "bce_pct": 1.0201
+        }
+      ],
+      "bce_pct": 11.3239
+    },
+    "Others": {
+      "timezones": [
+        {
+          "timezone": "UTC+00:00",
+          "cities": null,
+          "bce_pct": 0.2891
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": null,
+          "bce_pct": 0.0877
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": null,
+          "bce_pct": 0.1797
+        },
+        {
+          "timezone": "UTC+12:00",
+          "cities": null,
+          "bce_pct": 0.0119
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": null,
+          "bce_pct": 0.0072
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": null,
+          "bce_pct": 0.0563
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": null,
+          "bce_pct": 0.361
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0.0883
+        }
+      ],
+      "bce_pct": 1.0813
+    },
+    "Western European Group": {
+      "timezones": [
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 0.0916
+            }
+          ],
+          "bce_pct": 0.0916
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 2.0999
+            },
+            {
+              "city": "Oslo",
+              "bce_pct": 0.7811
+            },
+            {
+              "city": "Vienna",
+              "bce_pct": 0.2638
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.274
+            }
+          ],
+          "bce_pct": 3.4189
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 0.8379
+            }
+          ],
+          "bce_pct": 0.8379
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 11.183
+            },
+            {
+              "city": "Lisbon",
+              "bce_pct": 0.0259
+            }
+          ],
+          "bce_pct": 11.2089
+        }
+      ],
+      "bce_pct": 15.5573
+    },
+    "Asia-Pacific Group": {
+      "timezones": [
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.1169
+        },
+        {
+          "timezone": "UTC+05:30",
+          "cities": [
+            {
+              "city": "Pune",
+              "bce_pct": 7.2952
+            },
+            {
+              "city": "Bangalore",
+              "bce_pct": 0.1309
+            },
+            {
+              "city": "Chennai",
+              "bce_pct": 0.0139
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0182
+            }
+          ],
+          "bce_pct": 7.4582
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": [
+            {
+              "city": "Melbourne",
+              "bce_pct": 0.1646
+            },
+            {
+              "city": "Sydney",
+              "bce_pct": 0.0505
+            }
+          ],
+          "bce_pct": 0.2151
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": [
+            {
+              "city": "Shanghai",
+              "bce_pct": 3.5505
+            },
+            {
+              "city": "Taipei",
+              "bce_pct": 0.1676
+            },
+            {
+              "city": "Others",
+              "bce_pct": 7.1547
+            }
+          ],
+          "bce_pct": 10.8728
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Tel Aviv-Yafo",
+              "bce_pct": 0.4506
+            }
+          ],
+          "bce_pct": 0.4506
+        }
+      ],
+      "bce_pct": 19.1137
+    },
+    "Eastern European Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Bucharest",
+              "bce_pct": 19.426
+            },
+            {
+              "city": "Kiev",
+              "bce_pct": 1.4806
+            },
+            {
+              "city": "Kharkiv",
+              "bce_pct": 0.3599
+            }
+          ],
+          "bce_pct": 21.2665
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Bucharest",
+              "bce_pct": 7.0062
+            }
+          ],
+          "bce_pct": 7.0062
+        }
+      ],
+      "bce_pct": 28.2727
+    },
+    "North American Group": {
+      "timezones": [
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Seattle",
+              "bce_pct": 2.2218
+            },
+            {
+              "city": "Palo Alto",
+              "bce_pct": 2.0175
+            },
+            {
+              "city": "Toronto",
+              "bce_pct": 0.1103
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.1445
+            }
+          ],
+          "bce_pct": 4.4941
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Palo Alto",
+              "bce_pct": 0.6675
+            },
+            {
+              "city": "San Francisco",
+              "bce_pct": 0.0067
+            },
+            {
+              "city": "Seattle",
+              "bce_pct": 0.0064
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0045
+            }
+          ],
+          "bce_pct": 0.6851
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": [
+            {
+              "city": "Seattle",
+              "bce_pct": 0.9546
+            },
+            {
+              "city": "Palo Alto",
+              "bce_pct": 0.0569
+            }
+          ],
+          "bce_pct": 1.0115
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Seattle",
+              "bce_pct": 1.4587
+            },
+            {
+              "city": "Palo Alto",
+              "bce_pct": 0.4981
+            },
+            {
+              "city": "Toronto",
+              "bce_pct": 0.0598
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0664
+            }
+          ],
+          "bce_pct": 2.083
+        },
+        {
+          "timezone": "UTC-08:00",
+          "cities": [
+            {
+              "city": "Palo Alto",
+              "bce_pct": 0.0097
+            }
+          ],
+          "bce_pct": 0.0097
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": [
+            {
+              "city": "Palo Alto",
+              "bce_pct": 9.7585
+            },
+            {
+              "city": "Seattle",
+              "bce_pct": 6.4452
+            },
+            {
+              "city": "Toronto",
+              "bce_pct": 0.1042
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0599
+            }
+          ],
+          "bce_pct": 16.3678
+        }
+      ],
+      "bce_pct": 24.6511
+    }
+  },
+  "2": {
+    "Latin American and Caribbean Group (GRULAC)": {
+      "timezones": [
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.5024
+            },
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0.0631
+            },
+            {
+              "city": "Bogota",
+              "bce_pct": 0.0397
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0269
+            }
+          ],
+          "bce_pct": 0.6321
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.2326
+            },
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0.0112
+            },
+            {
+              "city": "Monterrey",
+              "bce_pct": 0.0001
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0613
+            }
+          ],
+          "bce_pct": 0.3053
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": [
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0001
+            }
+          ],
+          "bce_pct": 0.0002
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0467
+        },
+        {
+          "timezone": "UTC-02:00",
+          "cities": null,
+          "bce_pct": 0.0002
+        },
+        {
+          "timezone": "UTC-03:00",
+          "cities": [
+            {
+              "city": "Buenos Aires",
+              "bce_pct": 0.5319
+            },
+            {
+              "city": "Sao Paulo",
+              "bce_pct": 0.1493
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0149
+            }
+          ],
+          "bce_pct": 0.6961
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Santiago",
+              "bce_pct": 0.3225
+            },
+            {
+              "city": "Sao Paulo",
+              "bce_pct": 0.0376
+            },
+            {
+              "city": "Nassau",
+              "bce_pct": 0.0004
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0019
+            }
+          ],
+          "bce_pct": 0.3624
+        }
+      ],
+      "bce_pct": 2.0429
+    },
+    "African Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0.0004
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Johannesburg",
+              "bce_pct": 0.0346
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.009
+            }
+          ],
+          "bce_pct": 0.0435
+        }
+      ],
+      "bce_pct": 0.044
+    },
+    "Others": {
+      "timezones": [
+        {
+          "timezone": "UTC+04:00",
+          "cities": null,
+          "bce_pct": 0.0044
+        },
+        {
+          "timezone": "UTC-08:00",
+          "cities": null,
+          "bce_pct": 0.0096
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": null,
+          "bce_pct": 0.1122
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": null,
+          "bce_pct": 0.2782
+        },
+        {
+          "timezone": "UTC+12:00",
+          "cities": null,
+          "bce_pct": 0.0011
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": null,
+          "bce_pct": 0.0556
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": null,
+          "bce_pct": 0.184
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": null,
+          "bce_pct": 0.7414
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": null,
+          "bce_pct": 0.2895
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0.2501
+        },
+        {
+          "timezone": "UTC+05:30",
+          "cities": null,
+          "bce_pct": 0.4952
+        },
+        {
+          "timezone": "UTC+09:00",
+          "cities": null,
+          "bce_pct": 0.0057
+        },
+        {
+          "timezone": "UTC-03:00",
+          "cities": null,
+          "bce_pct": 0.0333
+        },
+        {
+          "timezone": "UTC+00:00",
+          "cities": null,
+          "bce_pct": 0.823
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": null,
+          "bce_pct": 0.1046
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": null,
+          "bce_pct": 0.0012
+        },
+        {
+          "timezone": "UTC+07:00",
+          "cities": null,
+          "bce_pct": 0.0001
+        },
+        {
+          "timezone": "UTC+06:00",
+          "cities": null,
+          "bce_pct": 0.021
+        },
+        {
+          "timezone": "UTC+11:00",
+          "cities": null,
+          "bce_pct": 0.1096
+        },
+        {
+          "timezone": "UTC+05:00",
+          "cities": null,
+          "bce_pct": 0.154
+        }
+      ],
+      "bce_pct": 3.6738
+    },
+    "Western European Group": {
+      "timezones": [
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.7444
+        },
+        {
+          "timezone": "UTC-03:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 0.0013
+            }
+          ],
+          "bce_pct": 0.0013
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 0.0154
+            },
+            {
+              "city": "Belfast",
+              "bce_pct": 0.0133
+            },
+            {
+              "city": "Leeds",
+              "bce_pct": 0.0023
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0009
+            }
+          ],
+          "bce_pct": 0.0319
+        },
+        {
+          "timezone": "UTC+00:00",
+          "cities": null,
+          "bce_pct": 0.0004
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Zurich",
+              "bce_pct": 0.8006
+            },
+            {
+              "city": "Lausanne",
+              "bce_pct": 0.0634
+            },
+            {
+              "city": "London",
+              "bce_pct": 0.0512
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.3703
+            }
+          ],
+          "bce_pct": 1.2855
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 0.1482
+            },
+            {
+              "city": "Belfast",
+              "bce_pct": 0.0725
+            },
+            {
+              "city": "Bournemouth",
+              "bce_pct": 0.02
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0184
+            }
+          ],
+          "bce_pct": 0.2591
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 4.2842
+            },
+            {
+              "city": "Glasgow",
+              "bce_pct": 1.4714
+            },
+            {
+              "city": "Milton Keynes",
+              "bce_pct": 1.2932
+            },
+            {
+              "city": "Others",
+              "bce_pct": 4.9701
+            }
+          ],
+          "bce_pct": 12.0189
+        }
+      ],
+      "bce_pct": 14.3417
+    },
+    "Asia-Pacific Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+07:00",
+          "cities": null,
+          "bce_pct": 0.0022
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.1364
+        },
+        {
+          "timezone": "UTC+06:00",
+          "cities": null,
+          "bce_pct": 0.2299
+        },
+        {
+          "timezone": "UTC+05:00",
+          "cities": null,
+          "bce_pct": 0.0078
+        },
+        {
+          "timezone": "UTC+09:30",
+          "cities": null,
+          "bce_pct": 0.0005
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Istanbul",
+              "bce_pct": 0.4001
+            },
+            {
+              "city": "Tel Aviv-Yafo",
+              "bce_pct": 0.1745
+            },
+            {
+              "city": "Riyadh",
+              "bce_pct": 0.0011
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0008
+            }
+          ],
+          "bce_pct": 0.5764
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Tel Aviv-Yafo",
+              "bce_pct": 0.1246
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.009
+            }
+          ],
+          "bce_pct": 0.1335
+        },
+        {
+          "timezone": "UTC+05:30",
+          "cities": [
+            {
+              "city": "Pune",
+              "bce_pct": 14.2755
+            },
+            {
+              "city": "Chennai",
+              "bce_pct": 4.6876
+            },
+            {
+              "city": "Mumbai",
+              "bce_pct": 4.3812
+            },
+            {
+              "city": "Others",
+              "bce_pct": 10.7424
+            }
+          ],
+          "bce_pct": 34.0867
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": [
+            {
+              "city": "Sydney",
+              "bce_pct": 0.6455
+            },
+            {
+              "city": "Melbourne",
+              "bce_pct": 0.0052
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.083
+            }
+          ],
+          "bce_pct": 0.7337
+        },
+        {
+          "timezone": "UTC+09:00",
+          "cities": [
+            {
+              "city": "Tokyo",
+              "bce_pct": 0.067
+            },
+            {
+              "city": "Seoul",
+              "bce_pct": 0.0075
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0348
+            }
+          ],
+          "bce_pct": 0.1092
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": [
+            {
+              "city": "Shanghai",
+              "bce_pct": 3.4698
+            },
+            {
+              "city": "Singapore",
+              "bce_pct": 2.4614
+            },
+            {
+              "city": "Hong Kong",
+              "bce_pct": 0.8321
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.8697
+            }
+          ],
+          "bce_pct": 7.633
+        }
+      ],
+      "bce_pct": 43.6494
+    },
+    "Eastern European Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+04:00",
+          "cities": [
+            {
+              "city": "Moscow",
+              "bce_pct": 0.0066
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.1752
+            }
+          ],
+          "bce_pct": 0.1818
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Moscow",
+              "bce_pct": 2.7107
+            },
+            {
+              "city": "Saint Petersburg",
+              "bce_pct": 0.3677
+            },
+            {
+              "city": "Kiev",
+              "bce_pct": 0.3584
+            },
+            {
+              "city": "Others",
+              "bce_pct": 9.0466
+            }
+          ],
+          "bce_pct": 12.4833
+        },
+        {
+          "timezone": "UTC+07:00",
+          "cities": [
+            {
+              "city": "Moscow",
+              "bce_pct": 0.005
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.5463
+            }
+          ],
+          "bce_pct": 0.5513
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.1547
+        },
+        {
+          "timezone": "UTC+06:00",
+          "cities": [
+            {
+              "city": "Moscow",
+              "bce_pct": 0.0015
+            },
+            {
+              "city": "Saint Petersburg",
+              "bce_pct": 0
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.1078
+            }
+          ],
+          "bce_pct": 0.1093
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": null,
+          "bce_pct": 0.0068
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Wroclaw",
+              "bce_pct": 0.7997
+            },
+            {
+              "city": "Warsaw",
+              "bce_pct": 0.5182
+            },
+            {
+              "city": "Prague",
+              "bce_pct": 0.3734
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.8119
+            }
+          ],
+          "bce_pct": 2.5033
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": [
+            {
+              "city": "Prague",
+              "bce_pct": 0.7744
+            },
+            {
+              "city": "Wroclaw",
+              "bce_pct": 0.589
+            },
+            {
+              "city": "Warsaw",
+              "bce_pct": 0.4689
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2277
+            }
+          ],
+          "bce_pct": 2.06
+        }
+      ],
+      "bce_pct": 18.0505
+    },
+    "North American Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+12:00",
+          "cities": [
+            {
+              "city": "Raleigh",
+              "bce_pct": 0.0001
+            },
+            {
+              "city": "Los Angeles",
+              "bce_pct": 0
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0003
+            }
+          ],
+          "bce_pct": 0.0004
+        },
+        {
+          "timezone": "UTC+00:00",
+          "cities": null,
+          "bce_pct": 0.0029
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Jersey City",
+              "bce_pct": 1.9359
+            },
+            {
+              "city": "New York",
+              "bce_pct": 1.7056
+            },
+            {
+              "city": "Tampa",
+              "bce_pct": 1.4155
+            },
+            {
+              "city": "Others",
+              "bce_pct": 6.0001
+            }
+          ],
+          "bce_pct": 11.0571
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Irving",
+              "bce_pct": 0.1324
+            },
+            {
+              "city": "Houston",
+              "bce_pct": 0.0505
+            },
+            {
+              "city": "Chicago",
+              "bce_pct": 0.046
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2984
+            }
+          ],
+          "bce_pct": 0.5273
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": null,
+          "bce_pct": 0.0002
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Irving",
+              "bce_pct": 1.1213
+            },
+            {
+              "city": "Chicago",
+              "bce_pct": 0.5556
+            },
+            {
+              "city": "Houston",
+              "bce_pct": 0.5326
+            },
+            {
+              "city": "Others",
+              "bce_pct": 3.1998
+            }
+          ],
+          "bce_pct": 5.4093
+        },
+        {
+          "timezone": "UTC-08:00",
+          "cities": [
+            {
+              "city": "Irvine",
+              "bce_pct": 0.0972
+            },
+            {
+              "city": "Los Angeles",
+              "bce_pct": 0.0334
+            },
+            {
+              "city": "San Antonio",
+              "bce_pct": 0.0031
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0445
+            }
+          ],
+          "bce_pct": 0.1783
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0443
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": [
+            {
+              "city": "Irvine",
+              "bce_pct": 0.4649
+            },
+            {
+              "city": "Los Angeles",
+              "bce_pct": 0.2332
+            },
+            {
+              "city": "San Antonio",
+              "bce_pct": 0.0083
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2716
+            }
+          ],
+          "bce_pct": 0.978
+        }
+      ],
+      "bce_pct": 18.1977
+    }
+  },
+  "3": {
+    "Latin American and Caribbean Group (GRULAC)": {
+      "timezones": [
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.4386
+            },
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0.0818
+            },
+            {
+              "city": "Bogota",
+              "bce_pct": 0.0252
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0157
+            }
+          ],
+          "bce_pct": 0.5613
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Mexico City",
+              "bce_pct": 0.1317
+            },
+            {
+              "city": "Guadalajara",
+              "bce_pct": 0.0148
+            },
+            {
+              "city": "Monterrey",
+              "bce_pct": 0.0006
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0252
+            }
+          ],
+          "bce_pct": 0.1723
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0275
+        },
+        {
+          "timezone": "UTC-03:00",
+          "cities": [
+            {
+              "city": "Sao Paulo",
+              "bce_pct": 0.1463
+            },
+            {
+              "city": "Buenos Aires",
+              "bce_pct": 0.0359
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0
+            }
+          ],
+          "bce_pct": 0.1822
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Sao Paulo",
+              "bce_pct": 0.0638
+            },
+            {
+              "city": "Santiago",
+              "bce_pct": 0.0236
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0037
+            }
+          ],
+          "bce_pct": 0.0911
+        }
+      ],
+      "bce_pct": 1.0344
+    },
+    "African Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0.003
+        }
+      ],
+      "bce_pct": 0.003
+    },
+    "Others": {
+      "timezones": [
+        {
+          "timezone": "UTC+00:00",
+          "cities": null,
+          "bce_pct": 0.504
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": null,
+          "bce_pct": 0.0001
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": null,
+          "bce_pct": 0.0432
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": null,
+          "bce_pct": 0.0466
+        },
+        {
+          "timezone": "UTC+12:00",
+          "cities": null,
+          "bce_pct": 0.0002
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": null,
+          "bce_pct": 0.0383
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": null,
+          "bce_pct": 0.1113
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": null,
+          "bce_pct": 0.2271
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": null,
+          "bce_pct": 0.1204
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": null,
+          "bce_pct": 0.0778
+        },
+        {
+          "timezone": "UTC+05:30",
+          "cities": null,
+          "bce_pct": 0.4638
+        }
+      ],
+      "bce_pct": 1.6329
+    },
+    "Western European Group": {
+      "timezones": [
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.1855
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Belfast",
+              "bce_pct": 0.0615
+            },
+            {
+              "city": "London",
+              "bce_pct": 0.0021
+            }
+          ],
+          "bce_pct": 0.0636
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Zurich",
+              "bce_pct": 1.3952
+            },
+            {
+              "city": "Lausanne",
+              "bce_pct": 0.366
+            },
+            {
+              "city": "Vienna",
+              "bce_pct": 0.3234
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.3689
+            }
+          ],
+          "bce_pct": 2.4535
+        },
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Belfast",
+              "bce_pct": 0.2757
+            },
+            {
+              "city": "London",
+              "bce_pct": 0.1422
+            },
+            {
+              "city": "Glasgow",
+              "bce_pct": 0.0012
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0014
+            }
+          ],
+          "bce_pct": 0.4205
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": [
+            {
+              "city": "London",
+              "bce_pct": 3.9016
+            },
+            {
+              "city": "Belfast",
+              "bce_pct": 1.8554
+            },
+            {
+              "city": "Zurich",
+              "bce_pct": 1.1919
+            },
+            {
+              "city": "Others",
+              "bce_pct": 2.3732
+            }
+          ],
+          "bce_pct": 9.3222
+        }
+      ],
+      "bce_pct": 12.4452
+    },
+    "Asia-Pacific Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Tel Aviv-Yafo",
+              "bce_pct": 0.6998
+            }
+          ],
+          "bce_pct": 0.6998
+        },
+        {
+          "timezone": "UTC+07:00",
+          "cities": null,
+          "bce_pct": 0.0001
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0289
+        },
+        {
+          "timezone": "UTC+05:30",
+          "cities": [
+            {
+              "city": "Pune",
+              "bce_pct": 22.8877
+            },
+            {
+              "city": "Bangalore",
+              "bce_pct": 5.5038
+            },
+            {
+              "city": "Chennai",
+              "bce_pct": 5.1054
+            },
+            {
+              "city": "Others",
+              "bce_pct": 5.9185
+            }
+          ],
+          "bce_pct": 39.4155
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": [
+            {
+              "city": "Sydney",
+              "bce_pct": 0.0197
+            }
+          ],
+          "bce_pct": 0.0197
+        },
+        {
+          "timezone": "UTC+09:00",
+          "cities": [
+            {
+              "city": "Seoul",
+              "bce_pct": 0.0003
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0015
+            }
+          ],
+          "bce_pct": 0.0018
+        },
+        {
+          "timezone": "UTC+08:00",
+          "cities": [
+            {
+              "city": "Shanghai",
+              "bce_pct": 8.1286
+            },
+            {
+              "city": "Singapore",
+              "bce_pct": 1.6066
+            },
+            {
+              "city": "Dalian",
+              "bce_pct": 0.0609
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.1227
+            }
+          ],
+          "bce_pct": 9.9188
+        },
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Tel Aviv-Yafo",
+              "bce_pct": 0.8837
+            },
+            {
+              "city": "Istanbul",
+              "bce_pct": 0.0221
+            }
+          ],
+          "bce_pct": 0.9058
+        }
+      ],
+      "bce_pct": 50.9903
+    },
+    "Eastern European Group": {
+      "timezones": [
+        {
+          "timezone": "UTC+03:00",
+          "cities": [
+            {
+              "city": "Kiev",
+              "bce_pct": 1.9921
+            },
+            {
+              "city": "Moscow",
+              "bce_pct": 0.3777
+            },
+            {
+              "city": "Riga",
+              "bce_pct": 0.2559
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2228
+            }
+          ],
+          "bce_pct": 2.8485
+        },
+        {
+          "timezone": "UTC+02:00",
+          "cities": [
+            {
+              "city": "Wroclaw",
+              "bce_pct": 2.9016
+            },
+            {
+              "city": "Prague",
+              "bce_pct": 0.9939
+            },
+            {
+              "city": "Warsaw",
+              "bce_pct": 0.9723
+            },
+            {
+              "city": "Others",
+              "bce_pct": 1.2442
+            }
+          ],
+          "bce_pct": 6.112
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0509
+        },
+        {
+          "timezone": "UTC+01:00",
+          "cities": [
+            {
+              "city": "Prague",
+              "bce_pct": 2.8355
+            },
+            {
+              "city": "Wroclaw",
+              "bce_pct": 1.9247
+            },
+            {
+              "city": "Warsaw",
+              "bce_pct": 0.844
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2078
+            }
+          ],
+          "bce_pct": 5.812
+        }
+      ],
+      "bce_pct": 14.8234
+    },
+    "North American Group": {
+      "timezones": [
+        {
+          "timezone": "UTC-04:00",
+          "cities": [
+            {
+              "city": "Mississauga",
+              "bce_pct": 3.3253
+            },
+            {
+              "city": "Tampa",
+              "bce_pct": 2.6393
+            },
+            {
+              "city": "Jersey City",
+              "bce_pct": 1.4897
+            },
+            {
+              "city": "Others",
+              "bce_pct": 6.3488
+            }
+          ],
+          "bce_pct": 13.8031
+        },
+        {
+          "timezone": "UTC-06:00",
+          "cities": [
+            {
+              "city": "Irving",
+              "bce_pct": 0.1579
+            },
+            {
+              "city": "Mississauga",
+              "bce_pct": 0.0162
+            },
+            {
+              "city": "Raleigh",
+              "bce_pct": 0.0025
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.2792
+            }
+          ],
+          "bce_pct": 0.4559
+        },
+        {
+          "timezone": "UTC+10:00",
+          "cities": null,
+          "bce_pct": 0.0016
+        },
+        {
+          "timezone": "UTC-05:00",
+          "cities": [
+            {
+              "city": "Irving",
+              "bce_pct": 0.9738
+            },
+            {
+              "city": "Mississauga",
+              "bce_pct": 0.6789
+            },
+            {
+              "city": "Tampa",
+              "bce_pct": 0.5764
+            },
+            {
+              "city": "Others",
+              "bce_pct": 2.5187
+            }
+          ],
+          "bce_pct": 4.7478
+        },
+        {
+          "timezone": "UTC-08:00",
+          "cities": [
+            {
+              "city": "New York",
+              "bce_pct": 0.0057
+            },
+            {
+              "city": "Others",
+              "bce_pct": 0.0045
+            }
+          ],
+          "bce_pct": 0.0102
+        },
+        {
+          "timezone": "Others",
+          "cities": null,
+          "bce_pct": 0.0301
+        },
+        {
+          "timezone": "UTC-07:00",
+          "cities": null,
+          "bce_pct": 0.0222
+        }
+      ],
+      "bce_pct": 19.0708
+    }
+  }
+}

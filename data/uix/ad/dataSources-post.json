@@ -1,0 +1,5810 @@
+[
+  {
+    "adDatasourceId": 19123,
+    "hostUrl": "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-boot"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 490,
+    "totalCommits": 23756,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19124,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 226756,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "tez"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 31,
+    "totalCommits": 2558,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19125,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 226758,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "TypeScript-Vue-Starter"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 8,
+    "totalCommits": 13,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19126,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 226759,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "vscode-winteriscoming"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19127,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "EmptyBareRepository"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19128,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 226745,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "tez1"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 95,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19129,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 226748,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "vscode-winteriscoming1"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19130,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:tiwarish",
+      "name": "vscode-winteriscoming1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19131,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:tiwarish",
+      "name": "spring-boot"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19132,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 173,
+    "adRequestId": "38356530-3663-3332-2d33-6333302d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "svc.rad-blueoptima",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:tiwarish",
+      "name": "tez1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19160,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_7Xmk0I8JEeiFduvzPd-LuQ"
+    },
+    "projectName": "Integrator_Exception_Test_Repo",
+    "projectId": null,
+    "collectionName": "Integrator_Exception_Test_Repo",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19161,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_gcWowTi5EeinhMDp22uVSw"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19162,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_GIrxkTZREeinhMDp22uVSw"
+    },
+    "projectName": "Chunky Garg",
+    "projectId": null,
+    "collectionName": "Chunky Garg",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19163,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_B66kMS2LEeinhMDp22uVSw"
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": null,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19164,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_Bnf48S2LEeinhMDp22uVSw"
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": null,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19165,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_jgJC4izREeinhMDp22uVSw"
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": null,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 4,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19166,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_jdhMsSzREeinhMDp22uVSw"
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": null,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 4,
+    "totalCommits": 23,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19167,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_ne-d8Sw3EeinhMDp22uVSw"
+    },
+    "projectName": "Shiva Tiwari",
+    "projectId": null,
+    "collectionName": "Shiva Tiwari",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 8,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19168,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_ZKSDkSwnEeinhMDp22uVSw"
+    },
+    "projectName": "Shiva Tiwari",
+    "projectId": null,
+    "collectionName": "Shiva Tiwari",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 9,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19169,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_Mr9zoCwlEeinhMDp22uVSw"
+    },
+    "projectName": "Shiva Tiwari",
+    "projectId": null,
+    "collectionName": "Shiva Tiwari",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 7,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19170,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_AgaSke9lEeeGieDJM4rdRg"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19171,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8kDYoAWHEeidy8hcVQUyYg"
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": null,
+    "collectionName": "RTCDEVProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 10,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19172,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_LkWWAQTuEeidy8hcVQUyYg"
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": null,
+    "collectionName": "RTCDEVProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19173,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_pNa8YATdEeidy8hcVQUyYg"
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": null,
+    "collectionName": "RTCDEVProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19174,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_5EWYkeqhEeeGieDJM4rdRg"
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": null,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 3,
+    "totalCommits": 24,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19175,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_35qnUO2EEeeGieDJM4rdRg"
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": null,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 42,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19176,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_CTIOwerCEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": null,
+    "collectionName": "Apache_XIPH",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 14288,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19177,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BNl5Iuq5EeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": null,
+    "collectionName": "Apache_XIPH",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 3,
+    "totalCommits": 474,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19178,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_pHcrceqrEeeGieDJM4rdRg"
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": null,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 3,
+    "totalCommits": 30,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19179,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_LS_3kOokEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": null,
+    "collectionName": "Apache_XIPH",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19180,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_1JLrIun_EeeGieDJM4rdRg"
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": null,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 3,
+    "totalCommits": 40,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19181,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_H4iisOn_EeeGieDJM4rdRg"
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": null,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 3,
+    "totalCommits": 38,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19182,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_i1h5Ien1EeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19183,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_k1J2QunvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19184,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kwcVYenvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19185,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kr3-cOnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19186,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_knLEounvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19187,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kikRcenvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19188,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_keDk4unvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19189,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kZd_0unvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19190,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kUmt8OnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19191,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kPu1AOnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19192,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kK1G4OnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19193,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kF9N8envEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19194,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kBEt8OnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19195,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_j8WmAunvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19196,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_j3q6UOnvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19197,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_jyuI4unvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19198,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_jshaQenvEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19199,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_TrHBkOnuEeeGieDJM4rdRg"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19200,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BJc6IulzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19201,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BHd9IulzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19202,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BFr0celzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19203,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BD5EselzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19204,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BB4SgulzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19205,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BAFiwOlzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19206,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_A8rpcelzEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19207,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_j_YpIOlxEeeGieDJM4rdRg"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19208,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_QOvkIOhIEeeGieDJM4rdRg"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 6,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19209,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_i-2OsOY7Eee3G6rNK5dJ_g"
+    },
+    "projectName": "GitHub_Hadoop",
+    "projectId": null,
+    "collectionName": "GitHub_Hadoop",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19210,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_-oa7UOPhEee3G6rNK5dJ_g"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 5,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19211,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_-lYOYePhEee3G6rNK5dJ_g"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19212,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_HWl24OOWEee3G6rNK5dJ_g"
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": null,
+    "collectionName": "RTCDEVProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 23,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 19213,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 175,
+    "adRequestId": "65613938-3330-3566-2d35-6630642d3434",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "infraName": "RationalTeamConcert_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_bJrH0OM-Eee3G6rNK5dJ_g"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 40,
+    "discoveredOn": "2019-06-18 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20617,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227861,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-boot"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 490,
+    "totalCommits": 23756,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20618,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227862,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "tez"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 31,
+    "totalCommits": 2558,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20619,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227858,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "TypeScript-Vue-Starter"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": 127161,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 8,
+    "totalCommits": 13,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20620,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227860,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "vscode-winteriscoming"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20621,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229210,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "EmptyBareRepository"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": 127161,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20622,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227863,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "tez1"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 95,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20623,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227859,
+    "adConfigId": 201,
+    "adRequestId": "35613135-3435-3739-2d34-3162362d3431",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-170-227-35.eu-west-1.compute.amazonaws.com:root",
+      "name": "vscode-winteriscoming1"
+    },
+    "projectName": "Administrator",
+    "projectId": 17029,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20631,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229415,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Project3",
+      "name": "Project3"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "Project3",
+    "collectionId": 127086,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20632,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227924,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Project3",
+      "name": "testing-clone"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "Project3",
+    "collectionId": 127086,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20633,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227920,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Git%20TFS",
+      "name": "clone-test"
+    },
+    "projectName": "Git TFS",
+    "projectId": 17022,
+    "collectionName": "Git TFS",
+    "collectionId": 127156,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20634,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 227919,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Git%20TFS",
+      "name": "Git TFS"
+    },
+    "projectName": "Git TFS",
+    "projectId": 17022,
+    "collectionName": "Git TFS",
+    "collectionId": 127156,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20635,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 18,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com/",
+      "name": "MyFirstProject"
+    },
+    "projectName": "MyFirstProject",
+    "projectId": 17024,
+    "collectionName": "MyFirstProject",
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 2,
+    "totalCommits": 33,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20636,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229209,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 18,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com/",
+      "name": "Project3"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20637,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "MyFirstProject"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20638,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229209,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Project3"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 20639,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 204,
+    "adRequestId": "64396135-6231-6365-2d35-3062372d3431",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Git TFS"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-06-20 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21070,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228465,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "central-server"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 26,
+    "totalCommits": 4911,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21071,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228466,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "common-widgets"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 13,
+    "totalCommits": 900,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21072,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228467,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "db-jobs"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 68,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21073,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228468,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "ddl"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 45,
+    "totalCommits": 1917,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21074,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228469,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "integrator"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 26,
+    "totalCommits": 5512,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21075,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228470,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "integrator-deployment-automation"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 19,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21076,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228471,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "integrator-test-automation"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 8,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21077,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228472,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "security"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21078,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228473,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "spring-security-saml"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 2,
+    "totalCommits": 6,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21079,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228474,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "testing"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 141,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21080,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228475,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "uix"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 35,
+    "totalCommits": 18285,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21081,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228476,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "uix-server"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 19,
+    "totalCommits": 4848,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21082,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228477,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "central-server-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 8,
+    "totalCommits": 194,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21083,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228478,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "integrator-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 27,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21084,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228479,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "pa-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 4,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21085,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229216,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "pottery-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21086,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228480,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "ti-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 121,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21087,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228481,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "uix-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 880,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21088,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228482,
+    "adConfigId": 228,
+    "adRequestId": "34346261-3162-3463-2d31-3337652d3439",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "uix-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-06-22 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21382,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229221,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/OrganizationtoTestProjectMove",
+      "name": "creatingARepoinOrganizationtoTest"
+    },
+    "projectName": "OrganizationtoTestProjectMove",
+    "projectId": 16995,
+    "collectionName": "OrganizationtoTestProjectMove",
+    "collectionId": 127153,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 2,
+    "totalCommits": 2,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21383,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229215,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/TestOrganizationforTestingTeam",
+      "name": "EmptyBareRepository"
+    },
+    "projectName": "TestOrganizationforTestingTeam",
+    "projectId": 17057,
+    "collectionName": "TestOrganizationforTestingTeam",
+    "collectionId": 127173,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21384,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "tensorflow-onnx"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 15,
+    "totalCommits": 423,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21385,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "distributor"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 42,
+    "totalCommits": 1096,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21386,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "barrelsby"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 174,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21387,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229413,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "wissen"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": 127152,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 3,
+    "totalCommits": 6,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21388,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "mar-react"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 9,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21389,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "opencv"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1256,
+    "totalCommits": 25786,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21390,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "docs"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 25,
+    "totalCommits": 168,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21391,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "step-by-step-express"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 18,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21392,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "handsontable"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 114,
+    "totalCommits": 6470,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21393,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "TfsExtensions"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 162,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21394,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 240,
+    "adRequestId": "63653866-3965-6531-2d61-6462322d3438",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "infraName": "GitHub",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "git-tfs"
+    },
+    "projectName": "BOTestUser",
+    "projectId": 16994,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 165,
+    "totalCommits": 2345,
+    "discoveredOn": "2019-07-02 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21960,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229238,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "central-server"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 26,
+    "totalCommits": 4966,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21961,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229242,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "common-widgets"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 13,
+    "totalCommits": 908,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21962,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229233,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "db-jobs"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 68,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21963,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229240,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "ddl"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 45,
+    "totalCommits": 1928,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21964,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229239,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "integrator"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 26,
+    "totalCommits": 5512,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21965,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229232,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "integrator-deployment-automation"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 19,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21966,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229236,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "integrator-test-automation"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 8,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21967,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229243,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "security"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21968,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229235,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "spring-security-saml"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 2,
+    "totalCommits": 6,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21969,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229228,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "testing"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 141,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21970,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229231,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "uix"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 35,
+    "totalCommits": 18445,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21971,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229230,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/karmis",
+      "name": "uix-server"
+    },
+    "projectName": "Karmis",
+    "projectId": 16884,
+    "collectionName": "Karmis",
+    "collectionId": 126946,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 19,
+    "totalCommits": 5024,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21972,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229237,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "central-server-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 8,
+    "totalCommits": 194,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21973,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229226,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "integrator-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 27,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21974,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229227,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "pa-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 4,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21975,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229462,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "pottery-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21976,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229225,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "ti-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 4,
+    "totalCommits": 124,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21977,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229229,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "uix-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 888,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21978,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229234,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "uix-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21979,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229241,
+    "adConfigId": 236,
+    "adRequestId": "62613865-6231-3436-2d35-3039372d3435",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "infraName": "Stash",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.blueoptima.com/scm/test",
+      "name": "uix-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 16885,
+    "collectionName": "Testing",
+    "collectionId": 126947,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21980,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228388,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/root",
+      "name": "spring-boot"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 490,
+    "totalCommits": 23756,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21981,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228389,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/root",
+      "name": "tez"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 31,
+    "totalCommits": 2558,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21982,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/root",
+      "name": "EmptyBareRepository"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21983,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228390,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/root",
+      "name": "tez1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 95,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21984,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 228393,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/root",
+      "name": "vscode-winteriscoming1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21985,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229246,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/tiwarish",
+      "name": "vscode-winteriscoming1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 5,
+    "totalCommits": 20,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21986,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229247,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/tiwarish",
+      "name": "tez1"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 7,
+    "totalCommits": 95,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 21987,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229248,
+    "adConfigId": 222,
+    "adRequestId": "61393434-6535-6435-2d32-3735642d3432",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "infraName": "GitLab",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-170-227-35.eu-west-1.compute.amazonaws.com/tiwarish",
+      "name": "spring-boot"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 473,
+    "organizationId": 65,
+    "totalLogins": 490,
+    "totalCommits": 23756,
+    "discoveredOn": "2019-07-04 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22696,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229451,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Project3",
+      "name": "Project3"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "Project3",
+    "collectionId": 127086,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22697,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229452,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Project3",
+      "name": "testing-clone"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "Project3",
+    "collectionId": 127086,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22698,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229453,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Git%20TFS",
+      "name": "clone-test"
+    },
+    "projectName": "Git TFS",
+    "projectId": 17022,
+    "collectionName": "Git TFS",
+    "collectionId": 127156,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22699,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229420,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc_git",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "blueoptima-tfvc@vs-ssh.visualstudio.com:v3/blueoptima-tfvc/Git%20TFS",
+      "name": "Git TFS"
+    },
+    "projectName": "Git TFS",
+    "projectId": 17022,
+    "collectionName": "Git TFS",
+    "collectionId": 127156,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22700,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229456,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 18,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com/",
+      "name": "MyFirstProject"
+    },
+    "projectName": "MyFirstProject",
+    "projectId": 17024,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 2,
+    "totalCommits": 33,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22701,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229457,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 18,
+      "type": "versionControl",
+      "infraName": "TeamFoundationServer_vc",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com/",
+      "name": "Project3"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22702,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229456,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "MyFirstProject"
+    },
+    "projectName": "MyFirstProject",
+    "projectId": 17024,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22703,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229457,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Project3"
+    },
+    "projectName": "Project3",
+    "projectId": 16927,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22704,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229458,
+    "adConfigId": 256,
+    "adRequestId": "30643363-3435-6138-2d33-3463342d3462",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "infraName": "TeamFoundationServer_tt",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "shivaji.tiwari@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Git TFS"
+    },
+    "projectName": "Git TFS",
+    "projectId": 17022,
+    "collectionName": "blueoptima-tfvc.visualstudio.com",
+    "collectionId": 127448,
+    "integratorId": 465,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-05 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22725,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229487,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "AD"
+    },
+    "projectName": "Administration",
+    "projectId": 16928,
+    "collectionName": "AD",
+    "collectionId": 127504,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22726,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229467,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "ANSP"
+    },
+    "projectName": "Analytics Support",
+    "projectId": 16929,
+    "collectionName": "ANSP",
+    "collectionId": 127509,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22727,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "COO"
+    },
+    "projectName": "BlueOperations",
+    "projectId": 16930,
+    "collectionName": "BlueOperations",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22729,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229490,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "LABS"
+    },
+    "projectName": "BlueOptima Labs",
+    "projectId": 16931,
+    "collectionName": "LABS",
+    "collectionId": 127491,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22730,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229328,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "PLAN"
+    },
+    "projectName": "BlueOptima Planning",
+    "projectId": 16932,
+    "collectionName": "PLAN",
+    "collectionId": 127499,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22731,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229478,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CEE"
+    },
+    "projectName": "CE Engine",
+    "projectId": 16933,
+    "collectionName": "CEE",
+    "collectionId": 127505,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22732,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229479,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CS"
+    },
+    "projectName": "Central Server",
+    "projectId": 16934,
+    "collectionName": "CS",
+    "collectionId": 127120,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22733,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229481,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CI"
+    },
+    "projectName": "Code Insight",
+    "projectId": 16882,
+    "collectionName": "CI",
+    "collectionId": 127492,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22734,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229468,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CORPSITE"
+    },
+    "projectName": "Corporate Site",
+    "projectId": 16935,
+    "collectionName": "CORPSITE",
+    "collectionId": 127506,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22735,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229482,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "INT"
+    },
+    "projectName": "Data Acquisition & Processing",
+    "projectId": 16936,
+    "collectionName": "INT",
+    "collectionId": 126607,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22736,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "DE"
+    },
+    "projectName": "Data Engineering",
+    "projectId": 16937,
+    "collectionName": "Data Engineering",
+    "collectionId": 127096,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22737,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "DEVOPS"
+    },
+    "projectName": "Developer Operations",
+    "projectId": 16938,
+    "collectionName": "Developer Operations",
+    "collectionId": 127097,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22738,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229485,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "INIT"
+    },
+    "projectName": "Internal IT",
+    "projectId": 16939,
+    "collectionName": "INIT",
+    "collectionId": 127498,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22739,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229475,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "MARK"
+    },
+    "projectName": "Marketing",
+    "projectId": 16940,
+    "collectionName": "MARK",
+    "collectionId": 127502,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22740,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229466,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "NDPNEW"
+    },
+    "projectName": "New  Dummy Project",
+    "projectId": 16941,
+    "collectionName": "NDPNEW",
+    "collectionId": 127501,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22741,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "PATC"
+    },
+    "projectName": "PA Test Cases",
+    "projectId": 16942,
+    "collectionName": "PA Test Cases",
+    "collectionId": 127101,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22742,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229488,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "PA"
+    },
+    "projectName": "Predictive Assessment",
+    "projectId": 16943,
+    "collectionName": "PA",
+    "collectionId": 127488,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22743,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229489,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "SPM"
+    },
+    "projectName": "Sales Process Management",
+    "projectId": 16944,
+    "collectionName": "SPM",
+    "collectionId": 127510,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22744,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229484,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "SM"
+    },
+    "projectName": "Social Media",
+    "projectId": 16945,
+    "collectionName": "SM",
+    "collectionId": 127507,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22745,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229486,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "SUP"
+    },
+    "projectName": "Support",
+    "projectId": 16946,
+    "collectionName": "SUP",
+    "collectionId": 127496,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22746,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229480,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "TALUPP"
+    },
+    "projectName": "TalUpp",
+    "projectId": 16947,
+    "collectionName": "TALUPP",
+    "collectionId": 127495,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22747,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229491,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "TSUP"
+    },
+    "projectName": "Technical Support",
+    "projectId": 16948,
+    "collectionName": "TSUP",
+    "collectionId": 127508,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22748,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "TW"
+    },
+    "projectName": "Technical Writer",
+    "projectId": 16949,
+    "collectionName": "Technical Writer",
+    "collectionId": 127108,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22749,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UTA"
+    },
+    "projectName": "UIX Test Automation",
+    "projectId": 16950,
+    "collectionName": "UIX Test Automation",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22750,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229469,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UIXTC"
+    },
+    "projectName": "UIX Test Cases",
+    "projectId": 16951,
+    "collectionName": "UIXTC",
+    "collectionId": 127514,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22751,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": 229483,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UIX"
+    },
+    "projectName": "User Interface & Experience",
+    "projectId": 16952,
+    "collectionName": "UIX",
+    "collectionId": 127497,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  },
+  {
+    "adDatasourceId": 22752,
+    "hostUrl":  "https://jira.blueoptima.com/browse/UIXFE-1196",
+    "datasourceId": null,
+    "adConfigId": 267,
+    "adRequestId": "32376337-6436-6264-2d37-3264632d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "infraName": "Jira",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sahoosu",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UIXFE"
+    },
+    "projectName": "User Interface & Experience: Front-end",
+    "projectId": 16953,
+    "collectionName": "User Interface & Experience: Front-end",
+    "collectionId": null,
+    "integratorId": 472,
+    "organizationId": 65,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2019-07-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false
+  }
+]

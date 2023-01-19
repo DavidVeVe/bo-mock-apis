@@ -1,0 +1,215 @@
+{
+  "215191": {
+    "metrics": {
+      "ab_bce": 0.14,
+      "ce_hours": 3.54,
+      "bce": 3.54,
+      "avg_bce": 0.05
+    },
+    "tenure": 584,
+    "employerIds": [
+      1595
+    ],
+    "locationIds": [
+      1140
+    ]
+  },
+  "214904": {
+    "metrics": {
+      "ab_bce": 0.02,
+      "ce_hours": 0.44,
+      "bce": 0.44,
+      "avg_bce": 0.01
+    },
+    "tenure": 658,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      963
+    ]
+  },
+  "215772": {
+    "metrics": {
+      "ab_bce": 0.36,
+      "ce_hours": 4.53,
+      "bce": 4.53,
+      "avg_bce": 0.76
+    },
+    "tenure": 8,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      963
+    ]
+  },
+  "216916": {
+    "metrics": {
+      "ab_bce": 0.19,
+      "ce_hours": 8.48,
+      "bce": 8.48,
+      "avg_bce": 0.3
+    },
+    "tenure": 203,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      963
+    ]
+  },
+  "214819": {
+    "metrics": {
+      "ab_bce": 5.57,
+      "ce_hours": 69.67,
+      "bce": 33.51,
+      "avg_bce": 0.66
+    },
+    "tenure": 603,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      [
+        1471
+      ]
+    ]
+  },
+  "218786": {
+    "metrics": {
+      "ab_bce": 0.0,
+      "ce_hours": 0.0,
+      "bce": 0.0,
+      "avg_bce": 0.0
+    },
+    "tenure": 772,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      [
+        1471
+      ]
+    ]
+  },
+  "217783": {
+    "metrics": {
+      "ab_bce": 0.41,
+      "ce_hours": 6.5,
+      "bce": 5.0,
+      "avg_bce": 5.0
+    },
+    "tenure": 1027,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "215110": {
+    "metrics": {
+      "ab_bce": 0.45,
+      "ce_hours": 4.58,
+      "bce": 4.58,
+      "avg_bce": 0.08
+    },
+    "tenure": 1328,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "217477": {
+    "metrics": {
+      "ab_bce": 0.0,
+      "ce_hours": 0.05,
+      "bce": 0.05,
+      "avg_bce": 0.05
+    },
+    "tenure": 1,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "215402": {
+    "metrics": {
+      "ab_bce": 1.46,
+      "ce_hours": 22.97,
+      "bce": 22.97,
+      "avg_bce": 3.83
+    },
+    "tenure": 747,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "217065": {
+    "metrics": {
+      "ab_bce": 1.51,
+      "ce_hours": 21.25,
+      "bce": 21.25,
+      "avg_bce": 2.36
+    },
+    "tenure": 394,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "217705": {
+    "metrics": {
+      "ab_bce": 0.0,
+      "ce_hours": 0.0,
+      "bce": 0.0,
+      "avg_bce": 0.0
+    },
+    "tenure": 1,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  },
+  "214829": {
+    "metrics": {
+      "ab_bce": 23.27,
+      "ce_hours": 147.61,
+      "bce": 135.05,
+      "avg_bce": 2.05
+    },
+    "tenure": 493,
+    "employerIds": [
+      2517
+    ],
+    "locationIds": [
+      31,
+      89,
+      20
+    ]
+  }
+}

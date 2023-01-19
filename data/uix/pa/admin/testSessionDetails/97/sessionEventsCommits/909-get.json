@@ -1,0 +1,3 @@
+{
+  "commitCode": "// principal func\nfunction main(user) {\n\tif(user){\n\treturn 'hello ' + user\n\t}\n}"
+}

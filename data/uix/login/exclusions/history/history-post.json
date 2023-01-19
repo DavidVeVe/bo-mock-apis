@@ -1,0 +1,151 @@
+[
+    {
+        "developerId": 1,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 1,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 2,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 2,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 3,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 1,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 4,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 2,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 5,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 1,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 6,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 2,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 7,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 1,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 8,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 2,
+        "actionOn": "2018/06/28"
+    },
+    {
+        "developerId": 9,
+        "login": "luis.estrada@blueoptima.com",
+        "dataSourceId": 226759,
+        "instance": {
+            "name": "TypeScript-Vue-Starter",
+            "infraWebUrl": "https//Repo4685.org"
+        },
+        "revision": {
+            "id": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+            "webUrl": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+            "date": "June 28, 2018 4:15 PM"
+        },
+        "actionBy":  "erika.bernabe@blueoptima.com",
+        "actionType": 1,
+        "actionOn": "2018/06/28"
+    }
+]

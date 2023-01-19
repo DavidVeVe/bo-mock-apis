@@ -1,0 +1,4836 @@
+{
+  "130611": [
+    {
+      "startDate": "2018-01-28",
+      "endDate": "2018-02-26",
+      "metrics": {
+        "ce_hours": 1.09
+      }
+    }
+  ],
+  "147889": [
+    {
+      "startDate": "2018-06-27",
+      "endDate": "2018-07-26",
+      "metrics": {
+        "ce_hours": 3.11
+      }
+    }
+  ],
+  "129538": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-11-23",
+      "metrics": {
+        "ce_hours": 2.8
+      }
+    }
+  ],
+  "384979": [
+    {
+      "startDate": "2018-05-28",
+      "endDate": "2018-06-26",
+      "metrics": {
+        "ce_hours": 4.09
+      }
+    },
+    {
+      "startDate": "2018-06-27",
+      "endDate": "2018-07-26",
+      "metrics": {
+        "ce_hours": 7.31
+      }
+    },
+    {
+      "startDate": "2018-07-27",
+      "endDate": "2018-08-25",
+      "metrics": {
+        "ce_hours": 9.23
+      }
+    }
+  ],
+  "543752": [
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 0.37,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "543753": [
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 1.83,
+        "ab_ce_hours": 0.34
+      }
+    }
+  ],
+  "130050": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 1.4,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129538": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 2.8,
+        "ab_ce_hours": 0.55
+      }
+    }
+  ],
+  "130562": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 2.11,
+        "ab_ce_hours": 0.26
+      }
+    }
+  ],
+  "458242": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.09,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129544": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 11.81,
+        "ab_ce_hours": 1.49
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 1.37,
+        "ab_ce_hours": 0.15
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 4.71,
+        "ab_ce_hours": 0.47
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.34,
+        "ab_ce_hours": 0.08
+      }
+    }
+  ],
+  "129546": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.59,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129560": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 4.01,
+        "ab_ce_hours": 0.61
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 15.44,
+        "ab_ce_hours": 1.79
+      }
+    }
+  ],
+  "508441": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 1.66,
+        "ab_ce_hours": 0.14
+      }
+    }
+  ],
+  "130593": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 7.13,
+        "ab_ce_hours": 0.27
+      }
+    }
+  ],
+  "273441": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 2.14,
+        "ab_ce_hours": 0.17
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 11.82,
+        "ab_ce_hours": 0.92
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 2.74,
+        "ab_ce_hours": 0.03
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 2.6,
+        "ab_ce_hours": 0.09
+      }
+    }
+  ],
+  "228907": [
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 1.96,
+        "ab_ce_hours": 0.22
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 11.67,
+        "ab_ce_hours": 1.21
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "531490": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.3,
+        "ab_ce_hours": 0.17
+      }
+    }
+  ],
+  "533026": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.19,
+        "ab_ce_hours": 0.14
+      }
+    }
+  ],
+  "416299": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 0.69,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 2.64,
+        "ab_ce_hours": 0.24
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 0.05,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129587": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 0.8,
+        "ab_ce_hours": 0.1
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 0.79,
+        "ab_ce_hours": 0.1
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "456756": [
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 0.43,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "194097": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 3.36,
+        "ab_ce_hours": 0.55
+      }
+    }
+  ],
+  "463419": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 2.15,
+        "ab_ce_hours": 0.35
+      }
+    }
+  ],
+  "451140": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 3.41,
+        "ab_ce_hours": 0.47
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 8.24,
+        "ab_ce_hours": 0.89
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 3.48,
+        "ab_ce_hours": 0.28
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 11.91,
+        "ab_ce_hours": 1.21
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 2.96,
+        "ab_ce_hours": 0.31
+      }
+    }
+  ],
+  "130114": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.84,
+        "ab_ce_hours": 0.05
+      }
+    }
+  ],
+  "541260": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 2.11,
+        "ab_ce_hours": 0.23
+      }
+    }
+  ],
+  "542796": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 0.78,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "451139": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 11.07,
+        "ab_ce_hours": 2.7
+      }
+    }
+  ],
+  "129609": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.2,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "144462": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 3.5,
+        "ab_ce_hours": 0.3
+      }
+    }
+  ],
+  "130636": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 11.24,
+        "ab_ce_hours": 1.83
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 0.76,
+        "ab_ce_hours": 0.01
+      }
+    }
+  ],
+  "413780": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 2.65,
+        "ab_ce_hours": 0.39
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 63.06,
+        "ab_ce_hours": 12.3
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 0.74,
+        "ab_ce_hours": 0.07
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 7.42,
+        "ab_ce_hours": 0.58
+      }
+    }
+  ],
+  "454228": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 18.91,
+        "ab_ce_hours": 2.96
+      }
+    }
+  ],
+  "413781": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 2.1,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "413779": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 16.43,
+        "ab_ce_hours": 2.34
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 8.33,
+        "ab_ce_hours": 0.51
+      }
+    }
+  ],
+  "130647": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 3.92,
+        "ab_ce_hours": 0.58
+      }
+    }
+  ],
+  "538206": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 9.41,
+        "ab_ce_hours": 1.05
+      }
+    }
+  ],
+  "405073": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 8.42,
+        "ab_ce_hours": 1.25
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 2.05,
+        "ab_ce_hours": 0.12
+      }
+    }
+  ],
+  "319583": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 0.5,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "130652": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 8.07,
+        "ab_ce_hours": 0.66
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 7.34,
+        "ab_ce_hours": 0.67
+      }
+    }
+  ],
+  "227422": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 1.58,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 1.67,
+        "ab_ce_hours": 0.17
+      }
+    }
+  ],
+  "463961": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 0.66,
+        "ab_ce_hours": 0.01
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 5.93,
+        "ab_ce_hours": 0.96
+      }
+    }
+  ],
+  "463960": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 0.77,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "142945": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 2.95,
+        "ab_ce_hours": 0.46
+      }
+    }
+  ],
+  "130660": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 16.49,
+        "ab_ce_hours": 2.5
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 6.57,
+        "ab_ce_hours": 0.18
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 8.8,
+        "ab_ce_hours": 1.08
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 9.82,
+        "ab_ce_hours": 0.94
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 6.13,
+        "ab_ce_hours": 0.28
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 15.6,
+        "ab_ce_hours": 1.96
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 2.9,
+        "ab_ce_hours": 0.4
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 2.84,
+        "ab_ce_hours": 0.23
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 3.26,
+        "ab_ce_hours": 0.28
+      }
+    }
+  ],
+  "130150": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 8.97,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 27.53,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "259691": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 3.69,
+        "ab_ce_hours": 0.62
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 6.91,
+        "ab_ce_hours": 0.27
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 2.57,
+        "ab_ce_hours": 0.29
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 2.52,
+        "ab_ce_hours": 0.35
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 4.8,
+        "ab_ce_hours": 0.38
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129641": [
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 9.27,
+        "ab_ce_hours": 1.52
+      }
+    }
+  ],
+  "511599": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.0,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "462445": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 0.94,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "130667": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 10.98,
+        "ab_ce_hours": 1.62
+      }
+    }
+  ],
+  "184428": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129666": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 10.36,
+        "ab_ce_hours": 1.4
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 8.47,
+        "ab_ce_hours": 1.25
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 13.2,
+        "ab_ce_hours": 0.93
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 1.21,
+        "ab_ce_hours": 0.07
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 3.8,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 21.09,
+        "ab_ce_hours": 2.13
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 0.67,
+        "ab_ce_hours": 0.04
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 20.94,
+        "ab_ce_hours": 2.01
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 4.63,
+        "ab_ce_hours": 0.07
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 6.81,
+        "ab_ce_hours": 0.31
+      }
+    }
+  ],
+  "211589": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 13.0,
+        "ab_ce_hours": 0.89
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 14.15,
+        "ab_ce_hours": 2.13
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 10.31,
+        "ab_ce_hours": 0.94
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 9.22,
+        "ab_ce_hours": 0.93
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 9.65,
+        "ab_ce_hours": 1.41
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 1.21,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 4.92,
+        "ab_ce_hours": 0.25
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 9.26,
+        "ab_ce_hours": 0.98
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 7.8,
+        "ab_ce_hours": 1.08
+      }
+    }
+  ],
+  "129678": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "164499": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 16.68,
+        "ab_ce_hours": 1.91
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 1.12,
+        "ab_ce_hours": 0.11
+      }
+    }
+  ],
+  "129680": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.1,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 14.86,
+        "ab_ce_hours": 1.42
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 10.96,
+        "ab_ce_hours": 1.33
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 4.31,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 9.11,
+        "ab_ce_hours": 0.67
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 0.91,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 11.05,
+        "ab_ce_hours": 0.95
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 89.93,
+        "ab_ce_hours": 4.28
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 44.45,
+        "ab_ce_hours": 3.98
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 24.83,
+        "ab_ce_hours": 3.78
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 44.83,
+        "ab_ce_hours": 5.01
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "470165": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 3.94,
+        "ab_ce_hours": 0.61
+      }
+    }
+  ],
+  "541850": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 5.08,
+        "ab_ce_hours": 0.4
+      }
+    }
+  ],
+  "130706": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 10.03,
+        "ab_ce_hours": 3.24
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 14.36,
+        "ab_ce_hours": 1.87
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 13.05,
+        "ab_ce_hours": 1.42
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 4.35,
+        "ab_ce_hours": 1.12
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 21.52,
+        "ab_ce_hours": 3.67
+      }
+    }
+  ],
+  "438418": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 0.51,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "210074": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 3.23,
+        "ab_ce_hours": 0.36
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.95,
+        "ab_ce_hours": 0.08
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 1.97,
+        "ab_ce_hours": 0.17
+      }
+    }
+  ],
+  "455832": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 3.69,
+        "ab_ce_hours": 0.3
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 8.61,
+        "ab_ce_hours": 1.17
+      }
+    }
+  ],
+  "455833": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 0.22,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 2.87,
+        "ab_ce_hours": 0.32
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.08,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129697": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 7.79,
+        "ab_ce_hours": 0.97
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 3.05,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 2.38,
+        "ab_ce_hours": 0.1
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 19.37,
+        "ab_ce_hours": 2.55
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 2.52,
+        "ab_ce_hours": 0.24
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 8.07,
+        "ab_ce_hours": 0.97
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 1.9,
+        "ab_ce_hours": 0.12
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 5.3,
+        "ab_ce_hours": 0.7
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 5.33,
+        "ab_ce_hours": 0.72
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 9.06,
+        "ab_ce_hours": 1.23
+      }
+    }
+  ],
+  "129699": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 12.47,
+        "ab_ce_hours": 1.7
+      }
+    }
+  ],
+  "162464": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 2.03,
+        "ab_ce_hours": 0.22
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 2.37,
+        "ab_ce_hours": 0.08
+      }
+    }
+  ],
+  "130213": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 18.31,
+        "ab_ce_hours": 3.03
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 21.58,
+        "ab_ce_hours": 3.16
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 29.87,
+        "ab_ce_hours": 3.05
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 6.3,
+        "ab_ce_hours": 0.12
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 18.57,
+        "ab_ce_hours": 1.43
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 2.67,
+        "ab_ce_hours": 0.12
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 3.04,
+        "ab_ce_hours": 0.18
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 22.63,
+        "ab_ce_hours": 3.13
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 61.7,
+        "ab_ce_hours": 6.25
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 46.68,
+        "ab_ce_hours": 3.69
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 21.29,
+        "ab_ce_hours": 2.22
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 22.23,
+        "ab_ce_hours": 1.72
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 1.19,
+        "ab_ce_hours": 0.06
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 26.95,
+        "ab_ce_hours": 3.3
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 29.87,
+        "ab_ce_hours": 2.98
+      }
+    }
+  ],
+  "130214": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 57.69,
+        "ab_ce_hours": 9.13
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 23.44,
+        "ab_ce_hours": 4.12
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 7.96,
+        "ab_ce_hours": 0.54
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 1.3,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 12.56,
+        "ab_ce_hours": 1.47
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 4.19,
+        "ab_ce_hours": 0.68
+      }
+    }
+  ],
+  "456364": [
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 7.44,
+        "ab_ce_hours": 0.85
+      }
+    }
+  ],
+  "521899": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 0.51,
+        "ab_ce_hours": 0.03
+      }
+    }
+  ],
+  "130229": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 6.04,
+        "ab_ce_hours": 0.2
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 1.17,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 7.26,
+        "ab_ce_hours": 0.39
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 39.1,
+        "ab_ce_hours": 5.03
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 2.48,
+        "ab_ce_hours": 0.11
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 32.48,
+        "ab_ce_hours": 5.37
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 3.1,
+        "ab_ce_hours": 0.39
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 3.63,
+        "ab_ce_hours": 0.31
+      }
+    }
+  ],
+  "130231": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 2.03,
+        "ab_ce_hours": 0.23
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 2.57,
+        "ab_ce_hours": 0.18
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 5.23,
+        "ab_ce_hours": 0.29
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 8.71,
+        "ab_ce_hours": 1.03
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 18.33,
+        "ab_ce_hours": 0.81
+      }
+    }
+  ],
+  "265405": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 28.27,
+        "ab_ce_hours": 3.43
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 1.33,
+        "ab_ce_hours": 0.06
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 9.98,
+        "ab_ce_hours": 1.35
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 18.29,
+        "ab_ce_hours": 1.98
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 3.32,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 18.04,
+        "ab_ce_hours": 2.1
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 22.52,
+        "ab_ce_hours": 2.37
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 83.43,
+        "ab_ce_hours": 14.96
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 87.55,
+        "ab_ce_hours": 10.3
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 0.99,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 23.02,
+        "ab_ce_hours": 4.42
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 0.69,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 5.11,
+        "ab_ce_hours": 0.31
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 2.81,
+        "ab_ce_hours": 0.2
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 9.89,
+        "ab_ce_hours": 2.78
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 3.85,
+        "ab_ce_hours": 0.27
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 2.06,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 1.59,
+        "ab_ce_hours": 0.1
+      }
+    }
+  ],
+  "130749": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 2.44,
+        "ab_ce_hours": 0.34
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 3.24,
+        "ab_ce_hours": 0.35
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 1.06,
+        "ab_ce_hours": 0.05
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 1.79,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 7.93,
+        "ab_ce_hours": 0.82
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 8.7,
+        "ab_ce_hours": 0.12
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 1.36,
+        "ab_ce_hours": 0.04
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 0.58,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.58,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 5.33,
+        "ab_ce_hours": 0.35
+      }
+    }
+  ],
+  "178879": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 7.59,
+        "ab_ce_hours": 0.65
+      }
+    }
+  ],
+  "518328": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 7.08,
+        "ab_ce_hours": 0.82
+      }
+    }
+  ],
+  "458947": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 4.58,
+        "ab_ce_hours": 0.62
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 9.57,
+        "ab_ce_hours": 1.65
+      }
+    }
+  ],
+  "469187": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 5.19,
+        "ab_ce_hours": 0.36
+      }
+    }
+  ],
+  "130764": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 2.88,
+        "ab_ce_hours": 0.38
+      }
+    }
+  ],
+  "144082": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 6.32,
+        "ab_ce_hours": 0.58
+      }
+    }
+  ],
+  "486101": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 1.69,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "144081": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 4.74,
+        "ab_ce_hours": 0.84
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 25.5,
+        "ab_ce_hours": 3.93
+      }
+    }
+  ],
+  "485586": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.34,
+        "ab_ce_hours": 0.03
+      }
+    }
+  ],
+  "525521": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 2.95,
+        "ab_ce_hours": 0.42
+      }
+    }
+  ],
+  "129757": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 5.49,
+        "ab_ce_hours": 0.81
+      }
+    }
+  ],
+  "494308": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 1.76,
+        "ab_ce_hours": 0.04
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 1.79,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "494307": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 9.07,
+        "ab_ce_hours": 1.21
+      }
+    }
+  ],
+  "494304": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "472302": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "138472": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 7.29,
+        "ab_ce_hours": 0.45
+      }
+    }
+  ],
+  "472301": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 2.62,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129773": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 4.31,
+        "ab_ce_hours": 0.54
+      }
+    }
+  ],
+  "126703": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 5.08,
+        "ab_ce_hours": 0.58
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 3.92,
+        "ab_ce_hours": 0.56
+      }
+    }
+  ],
+  "442621": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 3.27,
+        "ab_ce_hours": 0.17
+      }
+    }
+  ],
+  "379642": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 4.59,
+        "ab_ce_hours": 0.69
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 4.86,
+        "ab_ce_hours": 0.35
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 5.83,
+        "ab_ce_hours": 0.62
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 33.55,
+        "ab_ce_hours": 2.43
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 0.77,
+        "ab_ce_hours": 0.04
+      }
+    }
+  ],
+  "535799": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "129793": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 12.45,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 5.74,
+        "ab_ce_hours": 0.24
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 19.89,
+        "ab_ce_hours": 1.98
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 36.24,
+        "ab_ce_hours": 1.88
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 8.74,
+        "ab_ce_hours": 0.57
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 1.6,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "126727": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 6.17,
+        "ab_ce_hours": 0.18
+      }
+    }
+  ],
+  "130310": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 5.6,
+        "ab_ce_hours": 0.64
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 1.77,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 0.75,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 1.29,
+        "ab_ce_hours": 0.01
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 2.18,
+        "ab_ce_hours": 0.1
+      }
+    }
+  ],
+  "509711": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 22.2,
+        "ab_ce_hours": 2.35
+      }
+    }
+  ],
+  "509710": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.85,
+        "ab_ce_hours": 0.08
+      }
+    }
+  ],
+  "130315": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 1.72,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 67.16,
+        "ab_ce_hours": 9.89
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 9.49,
+        "ab_ce_hours": 1.07
+      }
+    }
+  ],
+  "130316": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 0.71,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "254738": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 13.92,
+        "ab_ce_hours": 2.22
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 10.41,
+        "ab_ce_hours": 1.48
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 5.46,
+        "ab_ce_hours": 0.62
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 47.06,
+        "ab_ce_hours": 7.24
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 8.06,
+        "ab_ce_hours": 0.71
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 13.47,
+        "ab_ce_hours": 1.67
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 29.68,
+        "ab_ce_hours": 1.62
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 10.93,
+        "ab_ce_hours": 0.72
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 8.57,
+        "ab_ce_hours": 0.84
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 19.37,
+        "ab_ce_hours": 1.01
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 13.54,
+        "ab_ce_hours": 1.56
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 12.13,
+        "ab_ce_hours": 0.61
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 20.1,
+        "ab_ce_hours": 1.63
+      }
+    }
+  ],
+  "144151": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 5.23,
+        "ab_ce_hours": 0.5
+      }
+    }
+  ],
+  "509713": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 3.67,
+        "ab_ce_hours": 0.61
+      }
+    }
+  ],
+  "509712": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 5.15,
+        "ab_ce_hours": 0.72
+      }
+    }
+  ],
+  "129818": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 13.23,
+        "ab_ce_hours": 1.39
+      }
+    }
+  ],
+  "362788": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 7.79,
+        "ab_ce_hours": 0.81
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.7,
+        "ab_ce_hours": 0.09
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 2.14,
+        "ab_ce_hours": 0.18
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 7.42,
+        "ab_ce_hours": 1.72
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 4.97,
+        "ab_ce_hours": 0.51
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 11.62,
+        "ab_ce_hours": 1.0
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 4.83,
+        "ab_ce_hours": 0.28
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 9.92,
+        "ab_ce_hours": 1.41
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 32.27,
+        "ab_ce_hours": 3.82
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 5.17,
+        "ab_ce_hours": 0.64
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 0.95,
+        "ab_ce_hours": 0.06
+      }
+    }
+  ],
+  "129827": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 6.13,
+        "ab_ce_hours": 0.43
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 2.36,
+        "ab_ce_hours": 0.2
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 2.69,
+        "ab_ce_hours": 0.24
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 5.22,
+        "ab_ce_hours": 0.74
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 12.06,
+        "ab_ce_hours": 0.86
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 1.47,
+        "ab_ce_hours": 0.25
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 19.95,
+        "ab_ce_hours": 2.37
+      }
+    }
+  ],
+  "334126": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 13.31,
+        "ab_ce_hours": 1.1
+      }
+    }
+  ],
+  "129834": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 5.54,
+        "ab_ce_hours": 0.75
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 37.26,
+        "ab_ce_hours": 3.72
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 6.94,
+        "ab_ce_hours": 0.47
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 7.23,
+        "ab_ce_hours": 0.24
+      }
+    }
+  ],
+  "130361": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 2.05,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.2,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "508222": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.79,
+        "ab_ce_hours": 0.04
+      }
+    }
+  ],
+  "129850": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 6.06,
+        "ab_ce_hours": 0.24
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 9.99,
+        "ab_ce_hours": 1.46
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 5.91,
+        "ab_ce_hours": 0.63
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 18.62,
+        "ab_ce_hours": 1.65
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 4.06,
+        "ab_ce_hours": 0.52
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 17.32,
+        "ab_ce_hours": 1.54
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 17.16,
+        "ab_ce_hours": 2.45
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 9.17,
+        "ab_ce_hours": 1.56
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 6.02,
+        "ab_ce_hours": 0.59
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 14.69,
+        "ab_ce_hours": 1.87
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 1.44,
+        "ab_ce_hours": 0.1
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 10.94,
+        "ab_ce_hours": 1.42
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 14.71,
+        "ab_ce_hours": 1.54
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 0.45,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "470843": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 0.76,
+        "ab_ce_hours": 0.06
+      }
+    }
+  ],
+  "470842": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 3.03,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "453944": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 1.26,
+        "ab_ce_hours": 0.07
+      }
+    }
+  ],
+  "453945": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 1.16,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "464199": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 1.86,
+        "ab_ce_hours": 0.27
+      }
+    }
+  ],
+  "456512": [
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 0.88,
+        "ab_ce_hours": 0.08
+      }
+    }
+  ],
+  "129865": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 3.07,
+        "ab_ce_hours": 0.36
+      }
+    }
+  ],
+  "137547": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 3.71,
+        "ab_ce_hours": 0.19
+      }
+    }
+  ],
+  "256847": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 3.11,
+        "ab_ce_hours": 0.44
+      }
+    }
+  ],
+  "357214": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 9.44,
+        "ab_ce_hours": 1.3
+      }
+    }
+  ],
+  "246114": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 28.34,
+        "ab_ce_hours": 3.18
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 9.28,
+        "ab_ce_hours": 1.25
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 13.54,
+        "ab_ce_hours": 1.29
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 19.99,
+        "ab_ce_hours": 1.8
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 2.27,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 13.47,
+        "ab_ce_hours": 0.94
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 5.29,
+        "ab_ce_hours": 0.84
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 2.27,
+        "ab_ce_hours": 0.05
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 1.85,
+        "ab_ce_hours": 0.17
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 20.96,
+        "ab_ce_hours": 2.37
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 7.29,
+        "ab_ce_hours": 0.8
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 3.78,
+        "ab_ce_hours": 0.65
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 3.76,
+        "ab_ce_hours": 0.08
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 2.97,
+        "ab_ce_hours": 0.1
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 10.25,
+        "ab_ce_hours": 0.92
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 64.27,
+        "ab_ce_hours": 7.99
+      }
+    }
+  ],
+  "474991": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "474990": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "209774": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 9.23,
+        "ab_ce_hours": 0.65
+      }
+    }
+  ],
+  "309099": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 7.51,
+        "ab_ce_hours": 1.2
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 0.45,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 1.36,
+        "ab_ce_hours": 0.02
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 12.28,
+        "ab_ce_hours": 1.07
+      }
+    }
+  ],
+  "140653": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 2.15,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "444276": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 3.05,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 3.05,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 6.09,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 9.14,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "137072": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 0.4,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "474996": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 4.37,
+        "ab_ce_hours": 0.32
+      }
+    }
+  ],
+  "129906": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 2.16,
+        "ab_ce_hours": 0.36
+      }
+    }
+  ],
+  "444275": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 0.03,
+        "ab_ce_hours": 0.0
+      }
+    }
+  ],
+  "178042": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 7.17,
+        "ab_ce_hours": 0.93
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 6.37,
+        "ab_ce_hours": 0.56
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 2.19,
+        "ab_ce_hours": 0.19
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 2.23,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 5.54,
+        "ab_ce_hours": 0.53
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 6.48,
+        "ab_ce_hours": 0.41
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 3.5,
+        "ab_ce_hours": 0.27
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 1.98,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 21.19,
+        "ab_ce_hours": 1.04
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 4.43,
+        "ab_ce_hours": 0.18
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 19.34,
+        "ab_ce_hours": 0.85
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 20.48,
+        "ab_ce_hours": 2.02
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 20.34,
+        "ab_ce_hours": 2.28
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 8.27,
+        "ab_ce_hours": 0.89
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 11.22,
+        "ab_ce_hours": 1.16
+      }
+    }
+  ],
+  "457086": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 4.32,
+        "ab_ce_hours": 0.72
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 1.19,
+        "ab_ce_hours": 0.04
+      }
+    }
+  ],
+  "546161": [
+    {
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-27",
+      "metrics": {
+        "ce_hours": 17.22,
+        "ab_ce_hours": 1.82
+      }
+    },
+    {
+      "startDate": "2019-02-28",
+      "endDate": "2019-03-06",
+      "metrics": {
+        "ce_hours": 13.71,
+        "ab_ce_hours": 1.08
+      }
+    },
+    {
+      "startDate": "2019-08-29",
+      "endDate": "2019-09-04",
+      "metrics": {
+        "ce_hours": 61.86,
+        "ab_ce_hours": 5.81
+      }
+    }
+  ],
+  "546162": [
+    {
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-27",
+      "metrics": {
+        "ce_hours": 2.33,
+        "ab_ce_hours": 0.31
+      }
+    },
+    {
+      "startDate": "2019-02-28",
+      "endDate": "2019-03-06",
+      "metrics": {
+        "ce_hours": 4.06,
+        "ab_ce_hours": 0.3
+      }
+    },
+    {
+      "startDate": "2019-08-29",
+      "endDate": "2019-09-04",
+      "metrics": {
+        "ce_hours": 12.77,
+        "ab_ce_hours": 1.23
+      }
+    }
+  ],
+  "438150": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.14,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "467335": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 1.46,
+        "ab_ce_hours": 0.05
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 1.99,
+        "ab_ce_hours": 0.26
+      }
+    }
+  ],
+  "138627": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 0.23,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 7.21,
+        "ab_ce_hours": 0.89
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 0.0,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 7.84,
+        "ab_ce_hours": 1.65
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 3.06,
+        "ab_ce_hours": 0.23
+      }
+    }
+  ],
+  "438151": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 0.95,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 1.67,
+        "ab_ce_hours": 0.22
+      }
+    }
+  ],
+  "524684": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 4.15,
+        "ab_ce_hours": 0.65
+      }
+    }
+  ],
+  "438147": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 0.55,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 5.11,
+        "ab_ce_hours": 0.29
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 10.08,
+        "ab_ce_hours": 0.66
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 19.12,
+        "ab_ce_hours": 1.04
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 15.93,
+        "ab_ce_hours": 0.28
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 0.77,
+        "ab_ce_hours": 0.0
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 49.82,
+        "ab_ce_hours": 5.71
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 172.73,
+        "ab_ce_hours": 3.15
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 0.97,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 5.6,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 2.51,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 3.43,
+        "ab_ce_hours": 0.21
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 2.07,
+        "ab_ce_hours": 0.21
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 19.73,
+        "ab_ce_hours": 1.05
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 6.97,
+        "ab_ce_hours": 0.87
+      }
+    }
+  ],
+  "409984": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 22.08,
+        "ab_ce_hours": 1.59
+      }
+    }
+  ],
+  "438145": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 28.67,
+        "ab_ce_hours": 4.59
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 14.13,
+        "ab_ce_hours": 0.8
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 28.02,
+        "ab_ce_hours": 2.26
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 49.58,
+        "ab_ce_hours": 4.41
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 1.81,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 4.41,
+        "ab_ce_hours": 0.6
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 0.29,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 19.0,
+        "ab_ce_hours": 2.42
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 10.24,
+        "ab_ce_hours": 0.72
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 8.08,
+        "ab_ce_hours": 0.65
+      }
+    }
+  ],
+  "440193": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 3.05,
+        "ab_ce_hours": 0.45
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 7.67,
+        "ab_ce_hours": 0.66
+      }
+    }
+  ],
+  "485760": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 9.71,
+        "ab_ce_hours": 0.86
+      }
+    }
+  ],
+  "438156": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.02,
+        "ab_ce_hours": 0.15
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 21.7,
+        "ab_ce_hours": 3.38
+      }
+    }
+  ],
+  "540546": [
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 4.23,
+        "ab_ce_hours": 0.68
+      }
+    }
+  ],
+  "467336": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 3.39,
+        "ab_ce_hours": 0.8
+      }
+    }
+  ],
+  "459671": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "130963": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "451984": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 4.66,
+        "ab_ce_hours": 0.11
+      }
+    }
+  ],
+  "413584": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 1.73,
+        "ab_ce_hours": 0.28
+      }
+    }
+  ],
+  "130455": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 2.72,
+        "ab_ce_hours": 0.37
+      }
+    }
+  ],
+  "130465": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 18.47,
+        "ab_ce_hours": 1.49
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 3.31,
+        "ab_ce_hours": 0.33
+      }
+    },
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 4.76,
+        "ab_ce_hours": 0.51
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 13.36,
+        "ab_ce_hours": 1.35
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 3.81,
+        "ab_ce_hours": 0.41
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 6.76,
+        "ab_ce_hours": 0.82
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 2.09,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 11.87,
+        "ab_ce_hours": 1.15
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 2.53,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 1.95,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 0.46,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 1.11,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 1.15,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 10.29,
+        "ab_ce_hours": 0.34
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 13.41,
+        "ab_ce_hours": 0.34
+      }
+    }
+  ],
+  "521127": [
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 1.34,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "130468": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 28.38,
+        "ab_ce_hours": 4.85
+      }
+    }
+  ],
+  "130470": [
+    {
+      "startDate": "2018-11-08",
+      "endDate": "2018-11-14",
+      "metrics": {
+        "ce_hours": 1.77,
+        "ab_ce_hours": 0.19
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 3.98,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 6.03,
+        "ab_ce_hours": 0.45
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 5.24,
+        "ab_ce_hours": 0.13
+      }
+    },
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 1.14,
+        "ab_ce_hours": 0.09
+      }
+    }
+  ],
+  "457644": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.3,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "462253": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 1.82,
+        "ab_ce_hours": 0.11
+      }
+    }
+  ],
+  "457645": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 1.41,
+        "ab_ce_hours": 0.15
+      }
+    }
+  ],
+  "457642": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.61,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "457643": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 8.4,
+        "ab_ce_hours": 1.42
+      }
+    }
+  ],
+  "310187": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 8.76,
+        "ab_ce_hours": 0.63
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.94,
+        "ab_ce_hours": 0.55
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 0.5,
+        "ab_ce_hours": 0.02
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 6.54,
+        "ab_ce_hours": 0.86
+      }
+    }
+  ],
+  "457641": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 0.95,
+        "ab_ce_hours": 0.01
+      }
+    }
+  ],
+  "501680": [
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 1.96,
+        "ab_ce_hours": 0.29
+      }
+    }
+  ],
+  "263091": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 2.24,
+        "ab_ce_hours": 0.23
+      }
+    }
+  ],
+  "399292": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 4.42,
+        "ab_ce_hours": 0.43
+      }
+    }
+  ],
+  "471484": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 14.02,
+        "ab_ce_hours": 1.74
+      }
+    }
+  ],
+  "458690": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 9.95,
+        "ab_ce_hours": 1.77
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 4.04,
+        "ab_ce_hours": 0.91
+      }
+    }
+  ],
+  "194501": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 31.24,
+        "ab_ce_hours": 3.06
+      }
+    }
+  ],
+  "213960": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 5.13,
+        "ab_ce_hours": 0.35
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 5.2,
+        "ab_ce_hours": 0.32
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 12.31,
+        "ab_ce_hours": 1.48
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 17.29,
+        "ab_ce_hours": 1.36
+      }
+    }
+  ],
+  "465354": [
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 5.1,
+        "ab_ce_hours": 0.28
+      }
+    }
+  ],
+  "129490": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 2.3,
+        "ab_ce_hours": 0.2
+      }
+    },
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 5.17,
+        "ab_ce_hours": 0.52
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 0.1,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 47.64,
+        "ab_ce_hours": 5.76
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 0.35,
+        "ab_ce_hours": 0.01
+      }
+    }
+  ],
+  "138710": [
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 7.56,
+        "ab_ce_hours": 0.36
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 3.25,
+        "ab_ce_hours": 0.52
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 5.01,
+        "ab_ce_hours": 0.23
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 39.6,
+        "ab_ce_hours": 2.34
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 3.07,
+        "ab_ce_hours": 0.1
+      }
+    }
+  ],
+  "460754": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "460753": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 1.01,
+        "ab_ce_hours": 0.03
+      }
+    }
+  ],
+  "129494": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 0.64,
+        "ab_ce_hours": 0.02
+      }
+    }
+  ],
+  "473565": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 1.77,
+        "ab_ce_hours": 0.32
+      }
+    }
+  ],
+  "156632": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 1.57,
+        "ab_ce_hours": 0.08
+      }
+    },
+    {
+      "startDate": "2018-12-27",
+      "endDate": "2019-01-02",
+      "metrics": {
+        "ce_hours": 1.95,
+        "ab_ce_hours": 0.09
+      }
+    }
+  ],
+  "129500": [
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 5.1,
+        "ab_ce_hours": 0.76
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 2.09,
+        "ab_ce_hours": 0.28
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 3.13,
+        "ab_ce_hours": 0.47
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 4.26,
+        "ab_ce_hours": 0.53
+      }
+    }
+  ],
+  "129503": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.9,
+        "ab_ce_hours": 0.35
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 4.08,
+        "ab_ce_hours": 0.67
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 2.67,
+        "ab_ce_hours": 0.22
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 14.19,
+        "ab_ce_hours": 1.53
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 5.45,
+        "ab_ce_hours": 0.42
+      }
+    }
+  ],
+  "129504": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 11.13,
+        "ab_ce_hours": 0.76
+      }
+    }
+  ],
+  "129507": [
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 3.52,
+        "ab_ce_hours": 0.08
+      }
+    }
+  ],
+  "261088": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 3.11,
+        "ab_ce_hours": 0.42
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 40.01,
+        "ab_ce_hours": 4.84
+      }
+    }
+  ],
+  "129509": [
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 3.86,
+        "ab_ce_hours": 0.48
+      }
+    },
+    {
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-21",
+      "metrics": {
+        "ce_hours": 8.95,
+        "ab_ce_hours": 1.11
+      }
+    }
+  ],
+  "201701": [
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 28.08,
+        "ab_ce_hours": 3.8
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 1.73,
+        "ab_ce_hours": 0.04
+      }
+    },
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 21.16,
+        "ab_ce_hours": 2.29
+      }
+    },
+    {
+      "startDate": "2019-01-10",
+      "endDate": "2019-01-16",
+      "metrics": {
+        "ce_hours": 2.97,
+        "ab_ce_hours": 0.44
+      }
+    }
+  ],
+  "130534": [
+    {
+      "startDate": "2018-09-20",
+      "endDate": "2018-09-26",
+      "metrics": {
+        "ce_hours": 2.44,
+        "ab_ce_hours": 0.09
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 2.08,
+        "ab_ce_hours": 0.07
+      }
+    }
+  ],
+  "129514": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 2.64,
+        "ab_ce_hours": 0.16
+      }
+    },
+    {
+      "startDate": "2018-10-18",
+      "endDate": "2018-10-24",
+      "metrics": {
+        "ce_hours": 0.53,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 12.11,
+        "ab_ce_hours": 2.16
+      }
+    },
+    {
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-28",
+      "metrics": {
+        "ce_hours": 3.67,
+        "ab_ce_hours": 0.27
+      }
+    },
+    {
+      "startDate": "2018-12-06",
+      "endDate": "2018-12-12",
+      "metrics": {
+        "ce_hours": 2.1,
+        "ab_ce_hours": 0.22
+      }
+    },
+    {
+      "startDate": "2019-01-17",
+      "endDate": "2019-01-23",
+      "metrics": {
+        "ce_hours": 0.99,
+        "ab_ce_hours": null
+      }
+    }
+  ],
+  "207848": [
+    {
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-26",
+      "metrics": {
+        "ce_hours": 11.02,
+        "ab_ce_hours": 1.13
+      }
+    },
+    {
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-09",
+      "metrics": {
+        "ce_hours": 7.1,
+        "ab_ce_hours": 0.91
+      }
+    }
+  ],
+  "129516": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 1.69,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 2.1,
+        "ab_ce_hours": 0.33
+      }
+    }
+  ],
+  "130542": [
+    {
+      "startDate": "2018-10-11",
+      "endDate": "2018-10-17",
+      "metrics": {
+        "ce_hours": 6.0,
+        "ab_ce_hours": 0.75
+      }
+    },
+    {
+      "startDate": "2018-10-25",
+      "endDate": "2018-10-31",
+      "metrics": {
+        "ce_hours": 4.19,
+        "ab_ce_hours": 0.66
+      }
+    },
+    {
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-07",
+      "metrics": {
+        "ce_hours": 1.43,
+        "ab_ce_hours": 0.07
+      }
+    },
+    {
+      "startDate": "2018-11-29",
+      "endDate": "2018-12-05",
+      "metrics": {
+        "ce_hours": 11.5,
+        "ab_ce_hours": 1.11
+      }
+    }
+  ],
+  "447988": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 9.58,
+        "ab_ce_hours": 1.4
+      }
+    }
+  ],
+  "130547": [
+    {
+      "startDate": "2018-10-04",
+      "endDate": "2018-10-10",
+      "metrics": {
+        "ce_hours": 5.59,
+        "ab_ce_hours": 0.76
+      }
+    }
+  ],
+  "130546": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 12.63,
+        "ab_ce_hours": 1.17
+      }
+    }
+  ],
+  "130549": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 2.46,
+        "ab_ce_hours": 0.26
+      }
+    }
+  ],
+  "447987": [
+    {
+      "startDate": "2018-09-27",
+      "endDate": "2018-10-03",
+      "metrics": {
+        "ce_hours": 5.85,
+        "ab_ce_hours": 0.55
+      }
+    }
+  ],
+  "182781": [
+    {
+      "startDate": "2018-12-13",
+      "endDate": "2018-12-19",
+      "metrics": {
+        "ce_hours": 28.03,
+        "ab_ce_hours": 4.79
+      }
+    }
+  ]
+}

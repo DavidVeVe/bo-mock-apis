@@ -1,0 +1,22 @@
+{
+  "id": 51,
+  "name": "Average",
+  "recommendedTime": 600,
+  "languageId": 5,
+  "type": [
+    "algorithms_and_data_structures"
+  ],
+  "difficulty": "easy",
+  "criteria": {
+    "1": 50.0,
+    "3": 50.0
+  },
+  "description": {
+    "short": "<p>The function <texttt>mean</texttt> should take an array of numbers and compute their arithmetic mean. For example, given an array containing 5.0 and 4.0 then <texttt>mean</texttt> should return 4.5. Complete the implementation of this function.</p>",
+    "full": "<p>The function <texttt>mean</texttt> should take an array of numbers and compute their arithmetic mean. For example, given an array containing 5.0 and 4.0 then <texttt>mean</texttt> should return 4.5. Complete the implementation of this function.</p>"
+  },
+  "files": [
+    "Average.cs"
+  ],
+  "skillsTested":{"Computing  essentials":{"Computer science foundations":["Programming fundamentals (control and data, typing, recursion)","Programming language basics"]}}
+}

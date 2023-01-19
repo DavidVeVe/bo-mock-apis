@@ -1,0 +1,273 @@
+{
+  "taskTypeSummary": {
+    "highestEffort": "Improvements",
+    "lowestEffort": "Bug"
+  },
+  "sprints": [
+    {
+      "sprintId": 1,
+      "name": "Sprint 1",
+      "totalCEHours": 2.34,
+      "completionDate": 345643245,
+      "taskTypesBreakDown": [
+        {
+          "taskType": "New Feature",
+          "metrics": {
+            "ceHours": 5.45,
+            "avgBce": 6.23,
+            "pctEffortContribution": 2.56,
+            "pctAbCeHours": 6.34
+          }
+        },
+        {
+          "taskType": "Improvements",
+          "metrics": {
+            "ceHours": 2.45,
+            "avgBce": 5.23,
+            "pctEffortContribution": 6.56,
+            "pctAbCeHours": 4.34
+          }
+        },
+        {
+          "taskType": "Task",
+          "metrics": {
+            "ceHours": 3.45,
+            "avgBce": 7.23,
+            "pctEffortContribution": 1.56,
+            "pctAbCeHours": 2.34
+          }
+        },
+        {
+          "taskType": "Bug",
+          "metrics": {
+            "ceHours": 8.45,
+            "avgBce": 5.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 1.34
+          }
+        },
+        {
+          "taskType": "Technical debt",
+          "metrics": {
+            "ceHours": 4.45,
+            "avgBce": 5.23,
+            "pctEffortContribution": 2.56,
+            "pctAbCeHours": 6.34
+          }
+        }
+      ]
+    },
+    {
+      "sprintId": 2,
+      "name": "Sprint 2",
+      "totalCEHours": 4.34,
+      "completionDate": 345643245,
+      "taskTypesBreakDown": [
+        {
+          "taskType": "New Feature",
+          "metrics": {
+            "ceHours": 3.45,
+            "avgBce": 6.23,
+            "pctEffortContribution": 1.56,
+            "pctAbCeHours": 8.34
+          }
+        },
+        {
+          "taskType": "Improvements",
+          "metrics": {
+            "ceHours": 5.45,
+            "avgBce": 7.23,
+            "pctEffortContribution": 2.56,
+            "pctAbCeHours": 4.34
+          }
+        },
+        {
+          "taskType": "Task",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 4.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 8.34
+          }
+        },
+        {
+          "taskType": "Bug",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 2.23,
+            "pctEffortContribution": 5.56,
+            "pctAbCeHours": 2.34
+          }
+        },
+        {
+          "taskType": "Technical debt",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 3.23,
+            "pctEffortContribution": 7.56,
+            "pctAbCeHours": 4.34
+          }
+        }
+      ]
+    },
+    {
+      "sprintId": 3,
+      "name": "Sprint 3",
+      "totalCEHours": 3.34,
+      "completionDate": 345643245,
+      "taskTypesBreakDown": [
+        {
+          "taskType": "New Feature",
+          "metrics": {
+            "ceHours": 1.45,
+            "avgBce": 4.23,
+            "pctEffortContribution": 5.56,
+            "pctAbCeHours": 4.34
+          }
+        },
+        {
+          "taskType": "Improvements",
+          "metrics": {
+            "ceHours": 2.45,
+            "avgBce": 4.23,
+            "pctEffortContribution": 9.56,
+            "pctAbCeHours": 8.34
+          }
+        },
+        {
+          "taskType": "Task",
+          "metrics": {
+            "ceHours": 4.45,
+            "avgBce": 3.23,
+            "pctEffortContribution": 2.56,
+            "pctAbCeHours": 7.34
+          }
+        },
+        {
+          "taskType": "Bug",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 4.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 8.34
+          }
+        },
+        {
+          "taskType": "Technical debt",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 3.23,
+            "pctEffortContribution": 9.56,
+            "pctAbCeHours": 4.34
+          }
+        }
+      ]
+    },
+    {
+      "sprintId": 4,
+      "name": "Sprint 4",
+      "totalCEHours": 7.34,
+      "completionDate": 345643245,
+      "taskTypesBreakDown": [
+        {
+          "taskType": "New Feature",
+          "metrics": {
+            "ceHours": 4.45,
+            "avgBce": 2.23,
+            "pctEffortContribution": 6.56,
+            "pctAbCeHours": 1.34
+          }
+        },
+        {
+          "taskType": "Improvements",
+          "metrics": {
+            "ceHours": 3.45,
+            "avgBce": 8.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 8.34
+          }
+        },
+        {
+          "taskType": "Task",
+          "metrics": {
+            "ceHours": 4.45,
+            "avgBce": 8.23,
+            "pctEffortContribution": 5.56,
+            "pctAbCeHours": 1.34
+          }
+        },
+        {
+          "taskType": "Bug",
+          "metrics": {
+            "ceHours": 3.45,
+            "avgBce": 7.23,
+            "pctEffortContribution": 4.56,
+            "pctAbCeHours": 9.34
+          }
+        },
+        {
+          "taskType": "Technical debt",
+          "metrics": {
+            "ceHours": 4.45,
+            "avgBce": 7.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 6.34
+          }
+        }
+      ]
+    },
+    {
+      "sprintId": 5,
+      "name": "Sprint 5",
+      "totalCEHours": 4.34,
+      "completionDate": 345643245,
+      "taskTypesBreakDown": [
+        {
+          "taskType": "New Feature",
+          "metrics": {
+            "ceHours": 6.45,
+            "avgBce": 1.23,
+            "pctEffortContribution": 7.56,
+            "pctAbCeHours": 4.34
+          }
+        },
+        {
+          "taskType": "Improvements",
+          "metrics": {
+            "ceHours": 2.45,
+            "avgBce": 5.23,
+            "pctEffortContribution": 6.56,
+            "pctAbCeHours": 4.34
+          }
+        },
+        {
+          "taskType": "Task",
+          "metrics": {
+            "ceHours": 5.45,
+            "avgBce": 3.23,
+            "pctEffortContribution": 4.56,
+            "pctAbCeHours": 1.34
+          }
+        },
+        {
+          "taskType": "Bug",
+          "metrics": {
+            "ceHours": 8.45,
+            "avgBce": 5.23,
+            "pctEffortContribution": 3.56,
+            "pctAbCeHours": 1.34
+          }
+        },
+        {
+          "taskType": "Technical debt",
+          "metrics": {
+            "ceHours": 3.45,
+            "avgBce": 4.23,
+            "pctEffortContribution": 1.56,
+            "pctAbCeHours": 8.34
+          }
+        }
+      ]
+    }
+  ]
+}

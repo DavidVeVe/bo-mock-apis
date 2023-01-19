@@ -1,0 +1,66 @@
+{
+  "enterpriseAvg": {
+    "avgBcePerDay": 1.1,
+    "avgAbCe": 1.2,
+    "avgCeHours": 2.3
+  },
+  "sprints": [
+    {
+      "sprintId": 1,
+      "name": "scorecard",
+      "completionDate": 12345678,
+      "metrics": {
+        "avgBce": 1.1,
+        "ceHours": 1.2,
+        "pctAbCeHours": 2.3,
+        "sprintAccuracy": 4.2,
+        "sprintDuration": 5.4,
+        "carryOvers": 2,
+        "activeDevelopers": 5
+      },
+      "entAvgMetrics": {
+        "avgBce": 1.2,
+        "ceHours": 1.5,
+        "pctAbCeHours": 1.6
+      }
+    },
+    {
+      "sprintId": 2,
+      "name": "scorecard2",
+      "completionDate": 12345678,
+      "metrics": {
+        "avgBce": 1.1,
+        "ceHours": 1.2,
+        "pctAbCeHours": 2.3,
+        "sprintAccuracy": 4.2,
+        "sprintDuration": 5.4,
+        "carryOvers": 2,
+        "activeDevelopers": 5
+      },
+      "entAvgMetrics": {
+        "avgBce": 1.2,
+        "ceHours": 1.5,
+        "pctAbCeHours": 1.6
+      }
+    },
+    {
+      "sprintId": 3,
+      "name": "scorecard3",
+      "completionDate": 12345678,
+      "metrics": {
+        "avgBce": 1.1,
+        "ceHours": 1.2,
+        "pctAbCeHours": 2.3,
+        "sprintAccuracy": 4.2,
+        "sprintDuration": 5.4,
+        "carryOvers": 2,
+        "activeDevelopers": 5
+      },
+      "entAvgMetrics": {
+        "avgBce": 1.2,
+        "ceHours": 1.5,
+        "pctAbCeHours": 1.6
+      }
+    }
+  ]
+}

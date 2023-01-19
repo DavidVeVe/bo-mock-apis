@@ -1,0 +1,3 @@
+{
+    "commitCode": "function main() {\n\tconsole.log('Hello world!');\n}\n\nfunction main() {\n\tconsole.log('Hello world!');\n}"
+}

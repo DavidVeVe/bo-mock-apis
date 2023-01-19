@@ -1,0 +1,6 @@
+{
+  "messageKey": "COLLECTION.DELETE.FAIL.HAS_DATASOURCE",
+  "reason": {
+    "infraInstanceIds": [206161, 207373]
+  }
+}

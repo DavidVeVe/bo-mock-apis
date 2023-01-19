@@ -1,0 +1,53 @@
+{
+  "496049": [
+    {
+      "langName": "css",
+      "metrics": {
+        "ce_hours": 0.19,
+        "ab_ce_hours": 0.03
+      }
+    },
+    {
+      "langName": "js",
+      "metrics": {
+        "ce_hours": 228.57,
+        "ab_ce_hours": 20.16
+      }
+    },
+    {
+      "langName": "json",
+      "metrics": {
+        "ce_hours": 27.27,
+        "ab_ce_hours": 3.34
+      }
+    },
+    {
+      "langName": "lock",
+      "metrics": {
+        "ce_hours": 33.99,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "langName": "map",
+      "metrics": {
+        "ce_hours": 0.57,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "langName": "md",
+      "metrics": {
+        "ce_hours": null,
+        "ab_ce_hours": null
+      }
+    },
+    {
+      "langName": "ts",
+      "metrics": {
+        "ce_hours": 18.08,
+        "ab_ce_hours": 3.97
+      }
+    }
+  ]
+}

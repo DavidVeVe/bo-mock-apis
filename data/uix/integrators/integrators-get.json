@@ -1,0 +1,460 @@
+[
+  {
+    "id": 49,
+    "name": "Connector-48",
+    "type": "organizational",
+    "orgId": 248,
+    "emails": [
+      "x.@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 1,
+    "dataSourcesCount": 2,
+    "license": "c9d019e930304d59841fc4bb71648ea9",
+    "version": "4.4.5b20180918"
+  },
+  {
+    "id": 277,
+    "name": "Connector-277",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 8,
+    "license": "fc3a5a2a10ec497b983d10d27400782d"
+  },
+  {
+    "id": 287,
+    "name": "checkForVersion",
+    "type": "organizational",
+    "orgId": 248,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 2,
+    "license": "f8eeb5be10354c35b5bbef2341756467",
+    "version": "4.3.6b20181127"
+  },
+  {
+    "id": 300,
+    "name": "asdad",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 11,
+    "dataSourcesCount": 1,
+    "license": "065b62987bcd423a9bedc4a1fdb731c5"
+  },
+  {
+    "id": 308,
+    "name": "dsfasfd",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 11,
+    "dataSourcesCount": 0,
+    "license": "70d56ec3c48f4b30accb682f370610b3"
+  },
+  {
+    "id": 309,
+    "name": "w_kjmib",
+    "type": "organizational",
+    "orgId": 65,
+    "emails": [
+      "varun.arora@blueoptima.com",
+      "entEdit@blueoptima.com",
+      "orgEdit@blueoptima.com"
+    ],
+    "obliteration": true,
+    "threads": 3,
+    "dataSourcesCount": 2,
+    "license": "254e988f1795423bb508ccc833704e94",
+    "version": "4.4.7b20181127"
+  },
+  {
+    "id": 313,
+    "name": "asddddddddddddd",
+    "type": "enterprise",
+    "emails": [
+      "varun.arora@blueoptima.com",
+      "varun@blueoptima.com"
+    ],
+    "obliteration": true,
+    "threads": 11,
+    "dataSourcesCount": 0,
+    "license": "a12e7bbb85544707b2b95dd705dca090"
+  },
+  {
+    "id": 318,
+    "name": "sdfqw",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": true,
+    "threads": 15,
+    "dataSourcesCount": 0,
+    "license": "512fb18b5ffb4dd6aeca24aebf154df9"
+  },
+  {
+    "id": 322,
+    "name": "enee",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "37d9bee9fcef4f759e7542b247aafc17"
+  },
+  {
+    "id": 323,
+    "name": "Attri_test_01",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1998,
+    "license": "aa8343d2ec5e41858932aacc72787851",
+    "version": "4.5.2b20190617"
+  },
+  {
+    "id": 350,
+    "name": "ewf",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 11,
+    "dataSourcesCount": 1,
+    "license": "46dbb04ccb794ad694687182f6256f1e"
+  },
+  {
+    "id": 368,
+    "name": "W_w_W",
+    "type": "enterprise",
+    "emails": [
+      "varun.arora@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 14,
+    "dataSourcesCount": 1,
+    "license": "3352394c58a641e383133bd54eaeba8a",
+    "version": "4.4.7b20190222"
+  },
+  {
+    "id": 411,
+    "name": "w_pgcxt",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 11,
+    "dataSourcesCount": 0,
+    "license": "868dca983d4e4ccda66f7060c577efd9"
+  },
+  {
+    "id": 439,
+    "name": "w_clwnu",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 11,
+    "dataSourcesCount": 0,
+    "license": "b30dc9e2028d4b63bf4595f97b640516"
+  },
+  {
+    "id": 444,
+    "name": "2",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "ead7dfa1003c4c748fc68f62cd7f7e15"
+  },
+  {
+    "id": 445,
+    "name": "3",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "5db6e4b2a56449e1aa3eaf399fb28cc8"
+  },
+  {
+    "id": 448,
+    "name": "CG-01",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 2,
+    "license": "6ab33c559d8e428e883c57b0405cf698",
+    "version": "4.5.5b20190704"
+  },
+  {
+    "id": 449,
+    "name": "saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "type": "organizational",
+    "orgId": 248,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1,
+    "license": "f4cb0de09f594d678994d924954bb3f0"
+  },
+  {
+    "id": 450,
+    "name": "tata",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 12,
+    "dataSourcesCount": 2,
+    "license": "62790028fbf04febbfeada12c709adf3"
+  },
+  {
+    "id": 452,
+    "name": "AnoopDev5",
+    "type": "enterprise",
+    "emails": [
+      "anoop.chaudhary@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "d645f262245244fc8aad834c876fba1a",
+    "version": "4.5.0b20190219"
+  },
+  {
+    "id": 460,
+    "name": "Attri-Test_02",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1033,
+    "license": "e1470a7c85b2482eb6793bff93f32cf3",
+    "version": "4.5.2b20190403"
+  },
+  {
+    "id": 461,
+    "name": "Attri-master",
+    "type": "enterprise",
+    "emails": [
+      "melani.alvarez@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 2154,
+    "license": "c701021bc5864a218ada7d4ed2385fd8",
+    "version": "4.5.2b20190403"
+  },
+  {
+    "id": 462,
+    "name": "Kuldeep-Integrator-Dev05",
+    "type": "enterprise",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 5,
+    "dataSourcesCount": 4,
+    "license": "e0c66aaf9bbb4cabbd76927ca6a2c4fc",
+    "version": "4.5.5b20190804"
+  },
+  {
+    "id": 464,
+    "name": "AnoopDev5_2",
+    "type": "organizational",
+    "orgId": 65,
+    "emails": [
+      "anoop.chaudhary@blueoptima.com",
+      "melani.alvarez@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1,
+    "license": "8c0172a9d51d4fa9b099bbe36662888d",
+    "version": "4.5.5b20190711"
+  },
+  {
+    "id": 465,
+    "name": "AD",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 986,
+    "license": "3031bdfc625b4be0b47e105c1ebe2a07",
+    "version": "4.5.2b20190702"
+  },
+  {
+    "id": 466,
+    "name": "test",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1,
+    "license": "4a301ff975764c57b02402e3eb138e97"
+  },
+  {
+    "id": 467,
+    "name": "aashish-test",
+    "type": "enterprise",
+    "emails": [
+      "aashish.goyal@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "79bab4b836644d36807438d6206601fa",
+    "version": "4.5.2b20190403"
+  },
+  {
+    "id": 468,
+    "name": "KuldeepIntegratorDev05-II",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 20,
+    "dataSourcesCount": 2,
+    "license": "2ad715f26ba948c5ad1f1db6e5798c6c",
+    "version": "4.5.2b20190403"
+  },
+  {
+    "id": 469,
+    "name": "Attri-01",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "f13b1d8e4b2c4fb7b39b0268fb7743ff",
+    "version": "4.5.2b20190403"
+  },
+  {
+    "id": 470,
+    "name": "khhkj",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "cf2edb9d10df406fb381cd95e0dcc090"
+  },
+  {
+    "id": 471,
+    "name": "Attri-AD-Int",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "81383b4ed5034a049940ce28c1dd5cfc"
+  },
+  {
+    "id": 472,
+    "name": "QA01",
+    "type": "enterprise",
+    "emails": [
+      "qa@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 5,
+    "dataSourcesCount": 65,
+    "license": "28d0648be916451e8c0987c413f877d3",
+    "version": "4.5.5b20190704"
+  },
+  {
+    "id": 473,
+    "name": "QA02",
+    "type": "enterprise",
+    "emails": [
+      "qa@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 5,
+    "dataSourcesCount": 25,
+    "license": "4cb56ff224b84eae9772048f39824563",
+    "version": "4.5.5b20190704"
+  },
+  {
+    "id": 474,
+    "name": "yash-int-05",
+    "type": "organizational",
+    "orgId": 65,
+    "emails": [
+      "yash.sukhwani@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 4,
+    "license": "2218612b806b4acdb4be221dd4e567c7",
+    "version": "4.5.5b20190820"
+  },
+  {
+    "id": 475,
+    "name": "Attri-int-05",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "c7d59efdda2946b38a319eaa8590115d",
+    "version": "4.5.2b20190617"
+  },
+  {
+    "id": 476,
+    "name": "AnoopDebianIntDev5",
+    "type": "enterprise",
+    "emails": [
+      "anoop.chaudhary@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 1,
+    "license": "5726741838ba4ebab14990eab5cad562",
+    "version": "4.5.5b20190822"
+  },
+  {
+    "id": 477,
+    "name": "dfsdfsdfdf dfsdfsdfdf dfsdfsdfdf dfsdfsdfdf dfsdfsdfdf ",
+    "type": "enterprise",
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "bc78deddaab148ab88633f768d102cea"
+  },
+  {
+    "id": 478,
+    "name": "qefqfqf",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "075016231a094606b438adffe95d226f"
+  },
+  {
+    "id": 479,
+    "name": "jagga-int-dev-5-1",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 4,
+    "license": "dc3e9e855cd94a58827969405e3d61d7",
+    "version": "4.5.5b20190703"
+  },
+  {
+    "id": 480,
+    "name": "yash-int-05-2",
+    "type": "organizational",
+    "orgId": 65,
+    "emails": [
+      "yash.sukhwani@blueoptima.com"
+    ],
+    "obliteration": false,
+    "threads": 10,
+    "dataSourcesCount": 0,
+    "license": "9580daa105e54d06a0f9e8ea81b12715",
+    "version": "4.5.6b20190805"
+  },
+  {
+    "id": 481,
+    "name": "ddsdsdss",
+    "type": "organizational",
+    "orgId": 65,
+    "obliteration": false,
+    "threads": 20,
+    "dataSourcesCount": 0,
+    "license": "010d9b81725e46d09e31034798c5673e"
+  }
+]

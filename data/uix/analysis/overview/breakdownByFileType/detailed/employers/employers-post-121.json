@@ -1,0 +1,78 @@
+{
+  "2517": {
+    "fileTypes": {
+      "cc": {
+        "metrics": {
+          "bce": 6.5
+        },
+        "totalDevelopers": 1
+      },
+      "rb": {
+        "metrics": {
+          "bce": 0.05
+        },
+        "totalDevelopers": 1
+      },
+      "css": {
+        "metrics": {
+          "bce": 1.75
+        },
+        "totalDevelopers": 2
+      },
+      "js": {
+        "metrics": {
+          "bce": 68.13
+        },
+        "totalDevelopers": 5
+      },
+      "json": {
+        "metrics": {
+          "bce": 13.32
+        },
+        "totalDevelopers": 3
+      },
+      "php": {
+        "metrics": {
+          "bce": 146.91
+        },
+        "totalDevelopers": 1
+      },
+      "py": {
+        "metrics": {
+          "bce": 23.69
+        },
+        "totalDevelopers": 2
+      },
+      "html": {
+        "metrics": {
+          "bce": 18.91
+        },
+        "totalDevelopers": 4
+      },
+      "eslintignore": {
+        "metrics": {
+          "bce": 2.24
+        },
+        "totalDevelopers": 1
+      },
+      "ts": {
+        "metrics": {
+          "bce": 4.58
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 10
+  },
+  "1595": {
+    "fileTypes": {
+      "scala": {
+        "metrics": {
+          "bce": 3.54
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 1
+  }
+}

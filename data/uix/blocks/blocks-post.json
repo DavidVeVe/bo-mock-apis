@@ -1,0 +1,22 @@
+[
+  {
+    "name": "benchmark",
+    "visibility": "hide",
+    "position": 0
+  },
+  {
+    "name": "codingEffortReport",
+    "visibility": "visible",
+    "position": 1
+  },
+  {
+    "name": "predictiveAssessment",
+    "visibility": "visible",
+    "position": 2
+  },
+  {
+    "name": "favorites",
+    "visibility": "visible",
+    "position": 3
+  }
+]

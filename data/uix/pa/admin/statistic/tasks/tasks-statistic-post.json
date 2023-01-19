@@ -1,0 +1,3252 @@
+[
+  {
+    "id": 3,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "rate": 0.0,
+    "numberOfCandidates": 1,
+    "assignedPaJobRoleIds": [
+      7
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 100.0,
+        "yourPopulationPercentage": 100.0,
+        "globalPopulationPercentage": 100.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "rate": 0.63,
+    "numberOfCandidates": 3,
+    "assignedPaJobRoleIds": [
+      19
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "testResult": 33.33,
+        "yourPopulationPercentage": 33.33,
+        "globalPopulationPercentage": 33.33
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 33.33,
+        "globalPopulationPercentage": 33.33
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 33.33,
+        "globalPopulationPercentage": 33.33
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "rate": 0.37,
+    "numberOfCandidates": 19,
+    "assignedPaJobRoleIds": [
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      19,
+      20,
+      29
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 36.84,
+        "yourPopulationPercentage": 36.84,
+        "globalPopulationPercentage": 36.84
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 10.53,
+        "globalPopulationPercentage": 10.53
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 10.53,
+        "globalPopulationPercentage": 10.53
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 21.05,
+        "globalPopulationPercentage": 21.05
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 15.79,
+        "globalPopulationPercentage": 15.79
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 5.26,
+        "globalPopulationPercentage": 5.26
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "rate": 0.1,
+    "numberOfCandidates": 9,
+    "assignedPaJobRoleIds": [
+      5,
+      8,
+      11,
+      19,
+      22,
+      29
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 66.67,
+        "yourPopulationPercentage": 66.67,
+        "globalPopulationPercentage": 66.67
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 22.22,
+        "globalPopulationPercentage": 22.22
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 11.11,
+        "globalPopulationPercentage": 11.11
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "rate": 0.49,
+    "numberOfCandidates": 1,
+    "assignedPaJobRoleIds": [
+      4
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "testResult": 100.0,
+        "yourPopulationPercentage": 100.0,
+        "globalPopulationPercentage": 100.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "rate": 0.24,
+    "numberOfCandidates": 1,
+    "assignedPaJobRoleIds": [
+      19,
+      24
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "testResult": 100.0,
+        "yourPopulationPercentage": 100.0,
+        "globalPopulationPercentage": 100.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "rate": 0.4,
+    "numberOfCandidates": 2,
+    "assignedPaJobRoleIds": [
+      19
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "testResult": 50.0,
+        "yourPopulationPercentage": 50.0,
+        "globalPopulationPercentage": 50.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 50.0,
+        "globalPopulationPercentage": 50.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      21
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "rate": 0.57,
+    "numberOfCandidates": 2,
+    "assignedPaJobRoleIds": [
+      10,
+      19
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "testResult": 50.0,
+        "yourPopulationPercentage": 50.0,
+        "globalPopulationPercentage": 50.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 50.0,
+        "globalPopulationPercentage": 50.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18,
+      27,
+      28
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "rate": 0.96,
+    "numberOfCandidates": 1,
+    "assignedPaJobRoleIds": [
+      3,
+      4,
+      21
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "testResult": 100.0,
+        "yourPopulationPercentage": 100.0,
+        "globalPopulationPercentage": 100.0
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [
+      18
+    ],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "numberOfCandidates": 0,
+    "assignedPaJobRoleIds": [],
+    "candidatePassRates": [
+      {
+        "decile": 0.1,
+        "testResult": 0.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.2,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.3,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.4,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.5,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.6,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.7,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.8,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 0.9,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      },
+      {
+        "decile": 1.0,
+        "yourPopulationPercentage": 0.0,
+        "globalPopulationPercentage": 0.0
+      }
+    ]
+  }
+]

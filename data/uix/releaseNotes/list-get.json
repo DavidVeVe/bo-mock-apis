@@ -1,0 +1,11 @@
+[
+  {
+    "date": "01-01-2019",
+    "id": 0,
+    "isReleased": false,
+    "name": "string",
+    "type": "userInterface",
+    "version": "string"
+  }
+]
+

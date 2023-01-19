@@ -1,0 +1,1448 @@
+[
+  {
+    "name": "Sanity",
+    "description": "460",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 395,
+    "dataAccess": {
+      "numberOfCollections": 2
+    }
+  },
+  {
+    "name": "partialdata",
+    "description": "",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 332,
+    "dataAccess": {
+      "numberOfCollections": 2
+    }
+  },
+  {
+    "name": "SysGen-Team lead Role",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 345,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "partialOrgRole",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 312,
+    "dataAccess": {
+      "numberOfCollections": 13
+    }
+  },
+  {
+    "name": "testDontDeleteThisRole",
+    "description": "dont delete this role",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 337,
+    "dataAccess": {
+      "numberOfCollections": 1
+    }
+  },
+  {
+    "name": "la",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 392,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "No Data Access",
+    "description": "No Data",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 334,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "cdspageaccess1",
+    "description": "cdspageaccess1",
+    "pages": [
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 374,
+    "dataAccess": {
+      "numberOfCollections": 1
+    }
+  },
+  {
+    "name": "adsanity",
+    "description": "",
+    "pages": [
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 573,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "PartialCDSaccess",
+    "description": "PartialCDSaccess",
+    "pages": [
+      "configureDataSources",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 333,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "partialTest1",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "manageCustomDeliverables",
+      "manageIntegrators",
+      "manageDevelopers",
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 391,
+    "dataAccess": {
+      "numberOfCollections": 620
+    }
+  },
+  {
+    "name": "No PA",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 434,
+    "dataAccess": {
+      "numberOfCollections": 2756
+    }
+  },
+  {
+    "name": "v v",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 414,
+    "dataAccess": {
+      "numberOfCollections": 2749
+    }
+  },
+  {
+    "name": "PA_AccessEnterpriselevel",
+    "description": "PA_AccessEnterpriselevel",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 435,
+    "dataAccess": {
+      "numberOfCollections": 2756
+    }
+  },
+  {
+    "name": "pcrole",
+    "description": "",
+    "pages": [
+      "manageProjectsAndCollections",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 396,
+    "dataAccess": {
+      "numberOfCollections": 17
+    }
+  },
+  {
+    "name": "sumit_test_2_admin",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 442,
+    "dataAccess": {
+      "numberOfCollections": 2756
+    }
+  },
+  {
+    "name": "PA-1org",
+    "description": "",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 436,
+    "dataAccess": {
+      "numberOfCollections": 620
+    }
+  },
+  {
+    "name": "DCHPartialAccess",
+    "description": "",
+    "pages": [
+      "biDatasets",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 393,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "NoAccessPA",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 431,
+    "dataAccess": {
+      "numberOfCollections": 2756
+    }
+  },
+  {
+    "name": "test12345",
+    "description": "",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 443,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "test_sumit",
+    "description": "test_sumit",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 437,
+    "dataAccess": {
+      "numberOfCollections": 54
+    }
+  },
+  {
+    "name": "pa_access02",
+    "description": "pa_access02",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 438,
+    "dataAccess": {
+      "numberOfCollections": 2123
+    }
+  },
+  {
+    "name": "PA_access01",
+    "description": "PA_access01",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 433,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "pa_access03",
+    "description": "pa_access03",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 439,
+    "dataAccess": {
+      "numberOfCollections": 11
+    }
+  },
+  {
+    "name": "pa_access04",
+    "description": "pa_access04",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 440,
+    "dataAccess": {
+      "numberOfCollections": 12
+    }
+  },
+  {
+    "name": "PA Access",
+    "description": "Predictive Assessment",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 432,
+    "dataAccess": {
+      "numberOfCollections": 2027
+    }
+  },
+  {
+    "name": "PA-1org_sumit",
+    "description": "1_org_by_sumit",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 441,
+    "dataAccess": {
+      "numberOfCollections": 2027
+    }
+  },
+  {
+    "name": "introle",
+    "description": "",
+    "pages": [
+      "manageProjectsAndCollections",
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 394,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "over",
+    "description": "over",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 459,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "all",
+    "description": "all",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 462,
+    "dataAccess": {
+      "numberOfCollections": 2756
+    }
+  },
+  {
+    "name": "rbacforint",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 449,
+    "dataAccess": {
+      "numberOfCollections": 622
+    }
+  },
+  {
+    "name": "sad",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 464,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "roleFromGroup",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 466,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "Part Data",
+    "description": "",
+    "pages": [
+      "manageProjectsAndCollections",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 484,
+    "dataAccess": {
+      "numberOfCollections": 2
+    }
+  },
+  {
+    "name": "onlyoverviewpageaccess",
+    "description": "onlyoverviewpageaccess",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 485,
+    "dataAccess": {
+      "numberOfCollections": 163
+    }
+  },
+  {
+    "name": "king",
+    "description": "",
+    "pages": [
+      "manageCustomDeliverables",
+      "manageProjectsAndCollections",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 514,
+    "dataAccess": {
+      "numberOfCollections": 616
+    }
+  },
+  {
+    "name": "Only Benchmark",
+    "description": "",
+    "pages": [
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 479,
+    "dataAccess": {
+      "numberOfCollections": 5
+    }
+  },
+  {
+    "name": "onlyDch",
+    "description": "",
+    "pages": [
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 480,
+    "dataAccess": {
+      "numberOfCollections": 7
+    }
+  },
+  {
+    "name": "Only Manage Deliverables",
+    "description": "",
+    "pages": [
+      "manageCustomDeliverables",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 481,
+    "dataAccess": {
+      "numberOfCollections": 2755
+    }
+  },
+  {
+    "name": "new",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 482,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "BIRole",
+    "description": "",
+    "pages": [
+      "biDatasets",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 510,
+    "dataAccess": {
+      "numberOfCollections": 2033
+    }
+  },
+  {
+    "name": "Overviewpageaccess1",
+    "description": "Overviewpageaccess1",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 517,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "releasetesting1",
+    "description": "releasetesting1",
+    "pages": [
+      "manageProjectsAndCollections",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 519,
+    "dataAccess": {
+      "numberOfCollections": 12
+    }
+  },
+  {
+    "name": "role",
+    "description": "",
+    "pages": [
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 513,
+    "dataAccess": {
+      "numberOfCollections": 1
+    }
+  },
+  {
+    "name": "AD",
+    "description": "",
+    "pages": [
+      "manageIntegrators",
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 540,
+    "dataAccess": {
+      "numberOfCollections": 2641
+    }
+  },
+  {
+    "name": "ADaccesstest",
+    "description": "ADaccesstest",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 535,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "Only Active Alerts Page",
+    "description": "",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 487,
+    "dataAccess": {
+      "numberOfCollections": 126
+    }
+  },
+  {
+    "name": "Partial_Deliverable",
+    "description": "",
+    "pages": [
+      "manageCustomDeliverables",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 518,
+    "dataAccess": {
+      "numberOfCollections": 5
+    }
+  },
+  {
+    "name": "ADCDSRole",
+    "description": "",
+    "pages": [
+      "configureDataSources",
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 550,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "OneOrgAcces",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 553,
+    "dataAccess": {
+      "numberOfCollections": 621
+    }
+  },
+  {
+    "name": "adtesting",
+    "description": "adtesting",
+    "pages": [
+      "configureDataSources",
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 541,
+    "dataAccess": {
+      "numberOfCollections": 2025
+    }
+  },
+  {
+    "name": "No Page Partial Data",
+    "description": "",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 566,
+    "dataAccess": {
+      "numberOfCollections": 2044
+    }
+  },
+  {
+    "name": "Sanit",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 567,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "san",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 568,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "DCHOnly",
+    "description": "",
+    "pages": [
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 569,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "Ad_Partial",
+    "description": "Auto Discovery",
+    "pages": [
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 571,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "AD_part",
+    "description": "Auto Discovery Partial Access",
+    "pages": [
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 572,
+    "dataAccess": {
+      "numberOfCollections": 5
+    }
+  },
+  {
+    "name": "overviewpageaccess1",
+    "description": "overviewpageaccess1",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 574,
+    "dataAccess": {
+      "numberOfCollections": 2752
+    }
+  },
+  {
+    "name": "A Partial Project From An Org",
+    "description": "A Partial Organization and Partial Project",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 604,
+    "dataAccess": {
+      "numberOfCollections": 2358
+    }
+  },
+  {
+    "name": "No AD page ",
+    "description": "No Auto Discovery page access",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 605,
+    "dataAccess": {
+      "numberOfCollections": 2759
+    }
+  },
+  {
+    "name": "RoleSmoke",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 616,
+    "dataAccess": {
+      "numberOfCollections": 44
+    }
+  },
+  {
+    "name": "PARole01",
+    "description": "PARole01",
+    "pages": [
+      "overview",
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 689,
+    "dataAccess": {
+      "numberOfCollections": 446
+    }
+  },
+  {
+    "name": "repro",
+    "description": "reproducing Bug",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 686,
+    "dataAccess": {
+      "numberOfCollections": 2
+    }
+  },
+  {
+    "name": "op",
+    "description": "",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 695,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "Worksample01",
+    "description": "Worksample01",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 693,
+    "dataAccess": {
+      "numberOfCollections": 2861
+    }
+  },
+  {
+    "name": "PA_only_access_role",
+    "description": "",
+    "pages": [
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 687,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "OverviewPagetesting123",
+    "description": "OverviewPagetesting123",
+    "pages": [
+      "overview",
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 668,
+    "dataAccess": {
+      "numberOfCollections": 2073
+    }
+  },
+  {
+    "name": "Role for Automation",
+    "description": "Dont delete",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery",
+      "benchmark",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 692,
+    "dataAccess": {
+      "numberOfCollections": 8
+    }
+  },
+  {
+    "name": "newtagtest01",
+    "description": "newtagtest01",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 688,
+    "dataAccess": {
+      "numberOfCollections": 2132
+    }
+  },
+  {
+    "name": "Bank65",
+    "description": "",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 694,
+    "dataAccess": {
+      "numberOfCollections": 2164
+    }
+  },
+  {
+    "name": "testtest",
+    "description": "",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 696,
+    "dataAccess": {
+      "numberOfCollections": 7
+    }
+  },
+  {
+    "name": "PARole02",
+    "description": "PARole02",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs",
+      "predictiveAssessment"
+    ],
+    "costData": false,
+    "id": 690,
+    "dataAccess": {
+      "numberOfCollections": 2804
+    }
+  },
+  {
+    "name": "aceaccess",
+    "description": "",
+    "pages": [
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 733,
+    "dataAccess": {
+      "numberOfCollections": 692
+    }
+  },
+  {
+    "name": "FavSharing_ACEpageaccess01",
+    "description": "FavSharing_ACEpageaccess01",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 749,
+    "dataAccess": {
+      "numberOfCollections": 2142
+    }
+  },
+  {
+    "name": "activealertpage01",
+    "description": "activealertpage01",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 719,
+    "dataAccess": {
+      "numberOfCollections": 2951
+    }
+  },
+  {
+    "name": "AAemailcheck1",
+    "description": "AAemailcheck1",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 750,
+    "dataAccess": {
+      "numberOfCollections": 691
+    }
+  },
+  {
+    "name": "managealertfullorgaccess01",
+    "description": "managealertfullorgaccess01",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 751,
+    "dataAccess": {
+      "numberOfCollections": 692
+    }
+  },
+  {
+    "name": "managealertpartialorgaccess01",
+    "description": "managealertpartialorgaccess01",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 752,
+    "dataAccess": {
+      "numberOfCollections": 333
+    }
+  },
+  {
+    "name": "overviewpageaccess01",
+    "description": "overviewpageaccess01",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 753,
+    "dataAccess": {
+      "numberOfCollections": 340
+    }
+  },
+  {
+    "name": "aceaccessonly1",
+    "description": "aceaccessonly1",
+    "pages": [
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 738,
+    "dataAccess": {
+      "numberOfCollections": 2165
+    }
+  },
+  {
+    "name": "user02",
+    "description": "user02",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 798,
+    "dataAccess": {
+      "numberOfCollections": 417
+    }
+  },
+  {
+    "name": "user03_aatesting",
+    "description": "user03_aatesting",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 804,
+    "dataAccess": {
+      "numberOfCollections": 6
+    }
+  },
+  {
+    "name": "user05",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 806,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "user04",
+    "description": "user04",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 805,
+    "dataAccess": {
+      "numberOfCollections": 297
+    }
+  },
+  {
+    "name": "activealertemailtest",
+    "description": "activealertemailtest",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 807,
+    "dataAccess": {
+      "numberOfCollections": 5
+    }
+  },
+  {
+    "name": "1960",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 808,
+    "dataAccess": {
+      "numberOfCollections": 2136
+    }
+  },
+  {
+    "name": "PartialAA",
+    "description": "Partial access to collections ",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 809,
+    "dataAccess": {
+      "numberOfCollections": 3
+    }
+  },
+  {
+    "name": "FavSharing_Overviewpageaccess01",
+    "description": "FavSharing_Overviewpageaccess01",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 748,
+    "dataAccess": {
+      "numberOfCollections": 103
+    }
+  },
+  {
+    "name": "Role for Automation WS",
+    "description": "asd",
+    "pages": [
+      "analyseCodingEffort",
+      "manageDevelopers",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 811,
+    "dataAccess": {
+      "numberOfCollections": 2255
+    }
+  },
+  {
+    "name": "timezometest1",
+    "description": "timezometest1",
+    "pages": [
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 812,
+    "dataAccess": {
+      "numberOfCollections": 12
+    }
+  },
+  {
+    "name": "Only Admin Page",
+    "description": "Only Admin Page Access",
+    "pages": [
+      "manageCustomDeliverables",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery"
+    ],
+    "costData": false,
+    "id": 817,
+    "dataAccess": {
+      "numberOfCollections": 2257
+    }
+  },
+  {
+    "name": "dch only 5.6",
+    "description": "",
+    "pages": [
+      "dataCollectionHistory",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 819,
+    "dataAccess": {
+      "numberOfCollections": 693
+    }
+  },
+  {
+    "name": "alerts ",
+    "description": "",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "autoDiscovery",
+      "benchmark"
+    ],
+    "costData": false,
+    "id": 818,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "aa only",
+    "description": "",
+    "pages": [
+      "analyseCodingEffort",
+      "activeAlerts",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 820,
+    "dataAccess": {
+      "numberOfCollections": 693
+    }
+  },
+  {
+    "name": "overview",
+    "description": "",
+    "pages": [
+      "overview",
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 821,
+    "dataAccess": {
+      "numberOfCollections": 2
+    }
+  },
+  {
+    "name": "0_Automationblcv",
+    "description": "description",
+    "pages": [
+      "apiDocs"
+    ],
+    "costData": false,
+    "id": 849,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "0_Automationqtxj",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 850,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "0_Automationcfnr",
+    "description": null,
+    "pages": [],
+    "costData": false,
+    "id": 851,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  },
+  {
+    "name": "cost-data-access",
+    "description": "Cost Data Access",
+    "pages": [
+      "overview",
+      "analyseCodingEffort",
+      "reviewDeliverables",
+      "manageCustomDeliverables",
+      "activeAlerts",
+      "manageIntegrators",
+      "manageDevelopers",
+      "biDatasets",
+      "manageProjectsAndCollections",
+      "configureDataSources",
+      "dataCollectionHistory",
+      "apiDocs",
+      "benchmark"
+    ],
+    "costData": true,
+    "id": 852,
+    "dataAccess": {
+      "numberOfCollections": 0
+    }
+  }
+]

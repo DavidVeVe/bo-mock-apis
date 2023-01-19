@@ -1,0 +1,662 @@
+{
+  "336": {
+    "fileTypes": {
+      "css": {
+        "metrics": {
+          "bce": 11.0053
+        },
+        "totalDevelopers": 33
+      },
+      "gsp": {
+        "metrics": {
+          "bce": 255.7301
+        },
+        "totalDevelopers": 2
+      },
+      "scss": {
+        "metrics": {
+          "bce": 283.7703
+        },
+        "totalDevelopers": 16
+      },
+      "dist": {
+        "metrics": {
+          "bce": 5.27
+        },
+        "totalDevelopers": 1
+      },
+      "py": {
+        "metrics": {
+          "bce": 3259.2489
+        },
+        "totalDevelopers": 40
+      },
+      "ps1": {
+        "metrics": {
+          "bce": 22.7962
+        },
+        "totalDevelopers": 1
+      },
+      "*build*.properties": {
+        "metrics": {
+          "bce": 0.9061
+        },
+        "totalDevelopers": 2
+      },
+      "java": {
+        "metrics": {
+          "bce": 46367.2058
+        },
+        "totalDevelopers": 234
+      },
+      "jmx": {
+        "metrics": {
+          "bce": 47.7488
+        },
+        "totalDevelopers": 2
+      },
+      "handlebars": {
+        "metrics": {
+          "bce": 6.7623
+        },
+        "totalDevelopers": 1
+      },
+      "xml": {
+        "metrics": {
+          "bce": 784.216
+        },
+        "totalDevelopers": 95
+      },
+      "*pom*.xml": {
+        "metrics": {
+          "bce": 899.0946
+        },
+        "totalDevelopers": 82
+      },
+      "lock": {
+        "metrics": {
+          "bce": 205.3021
+        },
+        "totalDevelopers": 13
+      },
+      "pem": {
+        "metrics": {
+          "bce": 10.2844
+        },
+        "totalDevelopers": 2
+      },
+      "html": {
+        "metrics": {
+          "bce": 309.9934
+        },
+        "totalDevelopers": 50
+      },
+      "yaml": {
+        "metrics": {
+          "bce": 947.8012
+        },
+        "totalDevelopers": 22
+      },
+      "clj": {
+        "metrics": {
+          "bce": 26.7368
+        },
+        "totalDevelopers": 1
+      },
+      "mm": {
+        "metrics": {
+          "bce": 3.9465
+        },
+        "totalDevelopers": 2
+      },
+      "cpp": {
+        "metrics": {
+          "bce": 348.1429
+        },
+        "totalDevelopers": 24
+      },
+      "in": {
+        "metrics": {
+          "bce": 15.9396
+        },
+        "totalDevelopers": 3
+      },
+      "crontab": {
+        "metrics": {
+          "bce": 5.4541
+        },
+        "totalDevelopers": 2
+      },
+      "eslintrc": {
+        "metrics": {
+          "bce": 1.2188
+        },
+        "totalDevelopers": 1
+      },
+      "less": {
+        "metrics": {
+          "bce": 6.8243
+        },
+        "totalDevelopers": 1
+      },
+      "groovy": {
+        "metrics": {
+          "bce": 127.0515
+        },
+        "totalDevelopers": 5
+      },
+      "proto": {
+        "metrics": {
+          "bce": 625.9835
+        },
+        "totalDevelopers": 42
+      },
+      "vm": {
+        "metrics": {
+          "bce": 72.7458
+        },
+        "totalDevelopers": 11
+      },
+      "hbs": {
+        "metrics": {
+          "bce": 283.2218
+        },
+        "totalDevelopers": 7
+      },
+      "*config*.properties": {
+        "metrics": {
+          "bce": 27.9862
+        },
+        "totalDevelopers": 9
+      },
+      "cmd": {
+        "metrics": {
+          "bce": 24.7766
+        },
+        "totalDevelopers": 4
+      },
+      "eslintignore": {
+        "metrics": {
+          "bce": 5.8602
+        },
+        "totalDevelopers": 2
+      },
+      "*build*.xml": {
+        "metrics": {
+          "bce": 9.7482
+        },
+        "totalDevelopers": 10
+      },
+      "*config*.xml": {
+        "metrics": {
+          "bce": 37.3107
+        },
+        "totalDevelopers": 16
+      },
+      "xsd": {
+        "metrics": {
+          "bce": 6.5261
+        },
+        "totalDevelopers": 1
+      },
+      "js": {
+        "metrics": {
+          "bce": 1813.335
+        },
+        "totalDevelopers": 68
+      },
+      "targets": {
+        "metrics": {
+          "bce": 4.9608
+        },
+        "totalDevelopers": 1
+      },
+      "jsx": {
+        "metrics": {
+          "bce": 66.5698
+        },
+        "totalDevelopers": 1
+      },
+      "pom": {
+        "metrics": {
+          "bce": 1.0466
+        },
+        "totalDevelopers": 1
+      },
+      "sql": {
+        "metrics": {
+          "bce": 1904.0802
+        },
+        "totalDevelopers": 32
+      },
+      "xsl": {
+        "metrics": {
+          "bce": 0.241
+        },
+        "totalDevelopers": 1
+      },
+      "*app*.config": {
+        "metrics": {
+          "bce": 0.7962
+        },
+        "totalDevelopers": 1
+      },
+      "wsdl": {
+        "metrics": {
+          "bce": 101.3501
+        },
+        "totalDevelopers": 7
+      },
+      "sh": {
+        "metrics": {
+          "bce": 588.2306
+        },
+        "totalDevelopers": 54
+      },
+      "json": {
+        "metrics": {
+          "bce": 1800.6978
+        },
+        "totalDevelopers": 69
+      },
+      "yml": {
+        "metrics": {
+          "bce": 82.2179
+        },
+        "totalDevelopers": 11
+      },
+      "map": {
+        "metrics": {
+          "bce": 213.1826
+        },
+        "totalDevelopers": 17
+      },
+      "ftl": {
+        "metrics": {
+          "bce": 247.5933
+        },
+        "totalDevelopers": 8
+      },
+      "cc": {
+        "metrics": {
+          "bce": 64.2549
+        },
+        "totalDevelopers": 6
+      },
+      "htm": {
+        "metrics": {
+          "bce": 0.6131
+        },
+        "totalDevelopers": 1
+      },
+      "c": {
+        "metrics": {
+          "bce": 580.5697
+        },
+        "totalDevelopers": 22
+      },
+      "ini": {
+        "metrics": {
+          "bce": 10.1982
+        },
+        "totalDevelopers": 3
+      },
+      "dockerfile": {
+        "metrics": {
+          "bce": 131.2492
+        },
+        "totalDevelopers": 18
+      },
+      "go": {
+        "metrics": {
+          "bce": 29.9656
+        },
+        "totalDevelopers": 1
+      },
+      "h": {
+        "metrics": {
+          "bce": 108.8822
+        },
+        "totalDevelopers": 19
+      },
+      "hpp": {
+        "metrics": {
+          "bce": 69.7427
+        },
+        "totalDevelopers": 18
+      },
+      "jenkinsfile": {
+        "metrics": {
+          "bce": 577.5031
+        },
+        "totalDevelopers": 17
+      },
+      "prefs": {
+        "metrics": {
+          "bce": 5.3879
+        },
+        "totalDevelopers": 1
+      },
+      "cs": {
+        "metrics": {
+          "bce": 74.501
+        },
+        "totalDevelopers": 10
+      },
+      "gradle": {
+        "metrics": {
+          "bce": 3.3792
+        },
+        "totalDevelopers": 2
+      },
+      "*settings*.xml": {
+        "metrics": {
+          "bce": 8.7455
+        },
+        "totalDevelopers": 1
+      },
+      "q": {
+        "metrics": {
+          "bce": 7.1271
+        },
+        "totalDevelopers": 1
+      },
+      "r": {
+        "metrics": {
+          "bce": 22.0458
+        },
+        "totalDevelopers": 1
+      },
+      "cmake": {
+        "metrics": {
+          "bce": 79.6616
+        },
+        "totalDevelopers": 12
+      },
+      "coffee": {
+        "metrics": {
+          "bce": 68.0365
+        },
+        "totalDevelopers": 1
+      },
+      "php": {
+        "metrics": {
+          "bce": 534.4087
+        },
+        "totalDevelopers": 27
+      },
+      "bash": {
+        "metrics": {
+          "bce": 61.2912
+        },
+        "totalDevelopers": 8
+      },
+      "*deploy*.xml": {
+        "metrics": {
+          "bce": 2.1583
+        },
+        "totalDevelopers": 2
+      },
+      "pl": {
+        "metrics": {
+          "bce": 7.4159
+        },
+        "totalDevelopers": 1
+      },
+      "config": {
+        "metrics": {
+          "bce": 0.1716
+        },
+        "totalDevelopers": 1
+      },
+      "pm": {
+        "metrics": {
+          "bce": 9.2368
+        },
+        "totalDevelopers": 1
+      },
+      "*log4*.properties": {
+        "metrics": {
+          "bce": 69.725
+        },
+        "totalDevelopers": 14
+      },
+      "properties": {
+        "metrics": {
+          "bce": 193.2766
+        },
+        "totalDevelopers": 32
+      },
+      "*properties*.properties": {
+        "metrics": {
+          "bce": 1.5812
+        },
+        "totalDevelopers": 6
+      },
+      "ts": {
+        "metrics": {
+          "bce": 352.9939
+        },
+        "totalDevelopers": 12
+      }
+    },
+    "totalDevelopers": 382
+  },
+  "488": {
+    "fileTypes": {
+      "java": {
+        "metrics": {
+          "bce": 83.9167
+        },
+        "totalDevelopers": 1
+      },
+      "proto": {
+        "metrics": {
+          "bce": 4.5019
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 1
+  },
+  "490": {
+    "fileTypes": {
+      "java": {
+        "metrics": {
+          "bce": 472.6713
+        },
+        "totalDevelopers": 1
+      },
+      "xml": {
+        "metrics": {
+          "bce": 0.4234
+        },
+        "totalDevelopers": 1
+      },
+      "dockerfile": {
+        "metrics": {
+          "bce": 12.1181
+        },
+        "totalDevelopers": 1
+      },
+      "*pom*.xml": {
+        "metrics": {
+          "bce": 20.4092
+        },
+        "totalDevelopers": 1
+      },
+      "js": {
+        "metrics": {
+          "bce": 4.9327
+        },
+        "totalDevelopers": 1
+      },
+      "html": {
+        "metrics": {
+          "bce": 1.6436
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 1
+  },
+  "475": {
+    "fileTypes": {
+      "java": {
+        "metrics": {
+          "bce": 318.3054
+        },
+        "totalDevelopers": 1
+      },
+      "xml": {
+        "metrics": {
+          "bce": 1.1403
+        },
+        "totalDevelopers": 1
+      },
+      "*pom*.xml": {
+        "metrics": {
+          "bce": 1.9825
+        },
+        "totalDevelopers": 1
+      },
+      "proto": {
+        "metrics": {
+          "bce": 16.869
+        },
+        "totalDevelopers": 1
+      },
+      "cmd": {
+        "metrics": {
+          "bce": 2.9352
+        },
+        "totalDevelopers": 1
+      },
+      "yaml": {
+        "metrics": {
+          "bce": 12.2317
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 1
+  },
+  "523": {
+    "fileTypes": {
+      "css": {
+        "metrics": {
+          "bce": 0.6369
+        },
+        "totalDevelopers": 1
+      },
+      "scss": {
+        "metrics": {
+          "bce": 15.3393
+        },
+        "totalDevelopers": 1
+      },
+      "js": {
+        "metrics": {
+          "bce": 218.3643
+        },
+        "totalDevelopers": 1
+      },
+      "json": {
+        "metrics": {
+          "bce": 111.9489
+        },
+        "totalDevelopers": 1
+      },
+      "html": {
+        "metrics": {
+          "bce": 16.1226
+        },
+        "totalDevelopers": 1
+      },
+      "map": {
+        "metrics": {
+          "bce": 10.4354
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 1
+  },
+  "478": {
+    "fileTypes": {
+      "css": {
+        "metrics": {
+          "bce": 0.4487
+        },
+        "totalDevelopers": 1
+      },
+      "java": {
+        "metrics": {
+          "bce": 1216.8658
+        },
+        "totalDevelopers": 3
+      },
+      "sh": {
+        "metrics": {
+          "bce": 2.2574
+        },
+        "totalDevelopers": 2
+      },
+      "xml": {
+        "metrics": {
+          "bce": 3.9469
+        },
+        "totalDevelopers": 3
+      },
+      "*pom*.xml": {
+        "metrics": {
+          "bce": 40.8639
+        },
+        "totalDevelopers": 3
+      },
+      "vm": {
+        "metrics": {
+          "bce": 7.3707
+        },
+        "totalDevelopers": 1
+      },
+      "json": {
+        "metrics": {
+          "bce": 68.9737
+        },
+        "totalDevelopers": 1
+      },
+      "py": {
+        "metrics": {
+          "bce": 1.3104
+        },
+        "totalDevelopers": 1
+      },
+      "*log4*.properties": {
+        "metrics": {
+          "bce": 9.306
+        },
+        "totalDevelopers": 1
+      },
+      "ftl": {
+        "metrics": {
+          "bce": 14.1705
+        },
+        "totalDevelopers": 1
+      },
+      "sql": {
+        "metrics": {
+          "bce": 31.876
+        },
+        "totalDevelopers": 1
+      },
+      "yaml": {
+        "metrics": {
+          "bce": 0.893
+        },
+        "totalDevelopers": 1
+      }
+    },
+    "totalDevelopers": 3
+  }
+}

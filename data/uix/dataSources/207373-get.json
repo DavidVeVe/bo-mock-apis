@@ -1,0 +1,33 @@
+{
+  "dataSourceId": 207373,
+  "infraType": {
+    "name": "Rally",
+    "type": "taskTracker",
+    "details": {
+      "workspace": "test005",
+      "serverURL": "https://rally.sdk004.com",
+      "project": "*"
+    },
+    "repositoryUserDetails": {
+      "overrideAtIntegrator": false,
+      "user": "ansh123"
+    }
+  },
+  "collectionId": 126598,
+  "integratorId": 449,
+  "schedule": null,
+  "clientInfraInstanId": null,
+  "instance": {
+    "url": "https://rally.sdk004.com",
+    "name": "test005"
+  },
+  "componentName": "*",
+  "lastUpdate": {
+    "user": "anshika singh",
+    "date": "2019-04-09 08:23"
+  },
+  "created": {
+    "user": "BlueOptima Support",
+    "date": "2019-03-22 08:31"
+  }
+}

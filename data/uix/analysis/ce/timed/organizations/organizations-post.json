@@ -1,0 +1,150 @@
+{
+    "65": [
+        {
+            "startDate": "2018-07-29",
+            "endDate": "2018-08-27",
+            "metrics": {
+                "ab_bce": 0.0,
+                "bce": 0.82
+            }
+        },
+        {
+            "startDate": "2018-08-28",
+            "endDate": "2018-09-26",
+            "metrics": {
+                "ab_bce": 0.15,
+                "bce": 1.35
+            }
+        },
+        {
+            "startDate": "2018-03-01",
+            "endDate": "2018-03-30",
+            "metrics": {
+                "ab_bce": 0.5,
+                "bce": 4.66
+            }
+        },
+        {
+            "startDate": "2018-03-31",
+            "endDate": "2018-04-29",
+            "metrics": {
+                "ab_bce": 1.4,
+                "bce": 7.87
+            }
+        }
+    ],
+    "248": [
+        {
+            "startDate": "2018-10-27",
+            "endDate": "2018-11-25",
+            "metrics": {
+                "ab_bce": 1.0,
+                "bce": 10.44
+            }
+        },
+        {
+            "startDate": "2018-11-26",
+            "endDate": "2018-12-25",
+            "metrics": {
+                "ab_bce": 0.56,
+                "bce": 7.54
+            }
+        },
+        {
+            "startDate": "2018-04-30",
+            "endDate": "2018-05-29",
+            "metrics": {
+                "ab_bce": 4.51,
+                "bce": 67.77
+            }
+        },
+        {
+            "startDate": "2018-05-30",
+            "endDate": "2018-06-28",
+            "metrics": {
+                "ab_bce": 2.83,
+                "bce": 47.11
+            }
+        },
+        {
+            "startDate": "2018-06-29",
+            "endDate": "2018-07-28",
+            "metrics": {
+                "ab_bce": 2.4,
+                "bce": 30.31
+            }
+        },
+        {
+            "startDate": "2018-07-29",
+            "endDate": "2018-08-27",
+            "metrics": {
+                "ab_bce": 9.07,
+                "bce": 76.32
+            }
+        },
+        {
+            "startDate": "2018-08-28",
+            "endDate": "2018-09-26",
+            "metrics": {
+                "ab_bce": 9.54,
+                "bce": 85.37
+            }
+        },
+        {
+            "startDate": "2018-09-27",
+            "endDate": "2018-10-26",
+            "metrics": {
+                "ab_bce": 6.6,
+                "bce": 57.85
+            }
+        },
+        {
+            "startDate": "2017-11-01",
+            "endDate": "2017-11-30",
+            "metrics": {
+                "ab_bce": 0.06,
+                "bce": 0.73
+            }
+        },
+        {
+            "startDate": "2017-12-01",
+            "endDate": "2017-12-30",
+            "metrics": {
+                "ab_bce": 5.55,
+                "bce": 41.91
+            }
+        },
+        {
+            "startDate": "2017-12-31",
+            "endDate": "2018-01-29",
+            "metrics": {
+                "ab_bce": 7.48,
+                "bce": 69.52
+            }
+        },
+        {
+            "startDate": "2018-01-30",
+            "endDate": "2018-02-28",
+            "metrics": {
+                "ab_bce": 2.34,
+                "bce": 67.8
+            }
+        },
+        {
+            "startDate": "2018-03-01",
+            "endDate": "2018-03-30",
+            "metrics": {
+                "ab_bce": 6.24,
+                "bce": 54.97
+            }
+        },
+        {
+            "startDate": "2018-03-31",
+            "endDate": "2018-04-29",
+            "metrics": {
+                "ab_bce": 0.74,
+                "bce": 10.35
+            }
+        }
+    ]
+}

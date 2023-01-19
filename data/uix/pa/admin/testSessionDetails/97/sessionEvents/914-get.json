@@ -1,0 +1,3 @@
+{
+  "unidiffString": "Index: average.js\n===================================================================\n--- average.js\n+++ average.js\n@@ -1,7 +1,7 @@\nvar total = 0;\nvar limit = values.length;\n-var instant =1584831992;\n+var instant =1584832082;\nvalues.map(function (val) {\nreturn total += val/limit;\n});\nreturn total;\n\\ No newline at end of file"
+}

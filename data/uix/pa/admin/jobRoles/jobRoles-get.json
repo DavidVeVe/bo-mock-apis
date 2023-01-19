@@ -1,0 +1,1359 @@
+[
+  {
+    "id": 2,
+    "name": "Test Java Developer",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "projectId": 16438,
+    "organizationName": "Bank-65",
+    "projectName": "00_testAutomationyyixyi",
+    "state": "opened",
+    "employeeTypeId": 451,
+    "created": {
+      "by": "sumit.super@blueoptima.com",
+      "on": 1561705504
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [2],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": [3]
+    },
+    "description": {
+      "short": "Java Developer Profile"
+    },
+    "jobRoleClosingDate": 1564597799,
+    "payRange": {
+      "from": 12.0,
+      "to": 18.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Test-PA-1274",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        },
+        {
+          "id": 76,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "sumit.super@blueoptima.com",
+      "on": 1562243253
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1577816999
+  },
+  {
+    "id": 4,
+    "name": "Test-PA-1274-continued",
+    "test": {
+      "tasks": [
+        {
+          "id": 57,
+          "time": 600
+        },
+        {
+          "id": 76,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "sumit.super@blueoptima.com",
+      "on": 1562244606
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 5,
+    "name": "Onfido Consider Testing",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        },
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "theja.varikuti@blueoptima.com",
+      "on": 1562322376
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1577816999
+  },
+  {
+    "id": 6,
+    "name": "New JR",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "theja.varikuti@blueoptima.com",
+      "on": 1562333126
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1577816999
+  },
+  {
+    "id": 7,
+    "name": "Test more than 10mins",
+    "test": {
+      "tasks": [
+        {
+          "id": 15,
+          "time": 1200
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "susovan.sahoo@blueoptima.com",
+      "on": 1562589969
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 8,
+    "name": "First JR",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        },
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1562746210
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [
+        17
+      ],
+      "hiredIdsOutOfJobRole": [
+        13,
+        2
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 9,
+    "name": "New JR-2",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "theja.varikuti@blueoptima.com",
+      "on": 1562827539
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1577816999
+  },
+  {
+    "id": 10,
+    "name": "TestModified-1",
+    "test": {
+      "tasks": [
+        {
+          "id": 67,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "siddalingaprasad.raju@blueoptima.com",
+      "on": 1562830104
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1580495399
+  },
+  {
+    "id": 11,
+    "name": "Software Engineer",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "theja.varikuti@blueoptima.com",
+      "on": 1564044747
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {
+      "short": "lkndclknsd"
+    },
+    "jobRoleClosingDate": 1575138599,
+    "payRange": {
+      "from": 234.0,
+      "to": 3434.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 12,
+    "name": "dsdddcx",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564054511
+    },
+    "candidates": {
+      "numberOfRequired": 2,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        2,
+        3,
+        4
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 13,
+    "name": "аавававі",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564054850
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        2,
+        3
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 14,
+    "name": "віваівсвс",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564054917
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        2,
+        3
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 15,
+    "name": "аіаі",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564054977
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        2
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 16,
+    "name": "аіаі",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564055186
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        8
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 17,
+    "name": "аіаі",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1564055210
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [
+        2,
+        4
+      ],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 18,
+    "name": "Test role",
+    "test": {
+      "tasks": [
+        {
+          "id": 3,
+          "time": 1200
+        },
+        {
+          "id": 6,
+          "time": 900
+        },
+        {
+          "id": 72,
+          "time": 600
+        },
+        {
+          "id": 77,
+          "time": 1800
+        },
+        {
+          "id": 75,
+          "time": 1200
+        },
+        {
+          "id": 40,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "david.mathew@blueoptima.com",
+      "on": 1564386172
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 19,
+    "name": "Big Role TEST",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        },
+        {
+          "id": 51,
+          "time": 600
+        },
+        {
+          "id": 64,
+          "time": 1200
+        },
+        {
+          "id": 49,
+          "time": 1800
+        },
+        {
+          "id": 67,
+          "time": 1800
+        },
+        {
+          "id": 58,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "projectId": 16991,
+    "organizationName": "Bank-65",
+    "projectName": "UIX-UI",
+    "state": "opened",
+    "employeeTypeId": 478,
+    "created": {
+      "by": "david.mathew@blueoptima.com",
+      "on": 1564492119
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": [
+        40
+      ]
+    },
+    "description": {
+      "short": "A short description"
+    },
+    "payRange": {
+      "from": 577.0,
+      "to": 800.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 20,
+    "name": "JR-1 Test",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "projectId": 16438,
+    "organizationName": "Bank-65",
+    "projectName": "00_testAutomationyyixyi",
+    "state": "opened",
+    "created": {
+      "by": "rahul.kumar@blueoptima.com",
+      "on": 1564492797
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1569887999
+  },
+  {
+    "id": 21,
+    "name": "blabla",
+    "test": {
+      "tasks": [
+        {
+          "id": 76,
+          "time": 600
+        },
+        {
+          "id": 66,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1565179033
+    },
+    "candidates": {
+      "numberOfRequired": 1,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 22,
+    "name": "dscdc",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1565295156
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [2],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 23,
+    "name": "t1",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "di05.test.andriy.m@blueoptima.com",
+      "on": 1565887266
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 24,
+    "name": "T1",
+    "test": {
+      "tasks": [
+        {
+          "id": 58,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.andriy.m@blueoptima.com",
+      "on": 1565956099
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [2],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 25,
+    "name": "tasks testing",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1566224555
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 26,
+    "name": "1",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1566228102
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 27,
+    "name": "Test JR",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "enrique.ulloa@blueoptima.com",
+      "on": 1566833219
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 28,
+    "name": "Role test 1890",
+    "test": {
+      "tasks": [
+        {
+          "id": 72,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "luis.estrada@blueoptima.com",
+      "on": 1566835332
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 29,
+    "name": "PA-1333 test",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        },
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "employeeTypeId": 454,
+    "departmentId": 1,
+    "organizationId": 248,
+    "organizationName": "Demo-New",
+    "state": "opened",
+    "created": {
+      "by": "test@uix.com",
+      "on": 1569594294
+    },
+    "candidates": {
+      "numberOfRequired": 4,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [76],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {
+      "short": "description",
+      "full": "description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full description full"
+    },
+    "jobRoleClosingDate": 1622494799,
+    "payRange": {
+      "currency": "USD",
+      "from": 10,
+      "to": 30
+    },
+    "reportsViaEmails" : [
+      "administrator_Stefani@gmail.com", "administrator_John@gmail.com", "administrator_Roger@gmail.com"
+    ],
+    "introductoryMessage": "Here we have prepared a test for you. Try your skills and show us how good you are in programming."
+  },
+  {
+    "id": 30,
+    "name": "Template Test 1",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "rahul.kumar@blueoptima.com",
+      "on": 1567596195
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1575138599
+  },
+  {
+    "id": 31,
+    "name": "test jr-4",
+    "test": {
+      "tasks": [
+        {
+          "id": 72,
+          "time": 600
+        },
+        {
+          "id": 45,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "theja.varikuti@blueoptima.com",
+      "on": 1568641022
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "jobRoleClosingDate": 1569868199
+  },
+  {
+    "id": 32,
+    "name": "111111",
+    "test": {
+      "tasks": [
+        {
+          "id": 51,
+          "time": 600
+        },
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1568882661
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 33,
+    "name": "DOn Omar JR",
+    "test": {
+      "tasks": [
+        {
+          "id": 77,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 6
+    },
+    "state": "opened",
+    "created": {
+      "by": "luis.estrada@blueoptima.com",
+      "on": 1569453494
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 34,
+    "name": "test a",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "luis.estrada@blueoptima.com",
+      "on": 1569480447
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 35,
+    "name": "test a",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "luis.estrada@blueoptima.com",
+      "on": 1569480865
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 36,
+    "name": "ssdsdccx",
+    "test": {
+      "tasks": [
+        {
+          "id": 76,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1569570189
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 37,
+    "name": "JobRole-TEST01",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "projectId": 17059,
+    "organizationName": "Bank-65",
+    "projectName": "TestTeamforAD",
+    "state": "opened",
+    "employeeTypeId": 478,
+    "created": {
+      "by": "anshika.singh@blueoptima.com",
+      "on": 1569578934
+    },
+    "candidates": {
+      "numberOfRequired": 2,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {
+      "short": "JobRole-TEST01"
+    },
+    "payRange": {
+      "from": 10.0,
+      "to": 20.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 38,
+    "name": "JobRole-TEST02",
+    "test": {
+      "tasks": [
+        {
+          "id": 15,
+          "time": 1200
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "projectId": 17059,
+    "organizationName": "Bank-65",
+    "projectName": "TestTeamforAD",
+    "state": "opened",
+    "employeeTypeId": 478,
+    "created": {
+      "by": "anshika.singh@blueoptima.com",
+      "on": 1569578962
+    },
+    "candidates": {
+      "numberOfRequired": 2,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {
+      "short": "JobRole-TEST02"
+    },
+    "payRange": {
+      "from": 10.0,
+      "to": 20.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 39,
+    "name": "sanity test for last minute high priority tasks",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        },
+        {
+          "id": 66,
+          "time": 600
+        },
+        {
+          "id": 76,
+          "time": 600
+        },
+        {
+          "id": 15,
+          "time": 1200
+        },
+        {
+          "id": 40,
+          "time": 1800
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "varun.arora@blueoptima.com",
+      "on": 1569580686
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 40,
+    "name": "iuijij",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "organizationId": 65,
+    "organizationName": "Bank-65",
+    "state": "opened",
+    "created": {
+      "by": "di05.test.jaroslava@blueoptima.com",
+      "on": 1569582704
+    },
+    "candidates": {
+      "numberOfRequired": 0,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 41,
+    "name": "sanity test for IE",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "varun.arora@blueoptima.com",
+      "on": 1569584294
+    },
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 42,
+    "name": "My job role 1",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "employeeTypeId": 454,
+    "departmentId": 1,
+    "organizationId": 248,
+    "organizationName": "Demo-New",
+    "state": "opened",
+    "created": {
+      "by": "test@uix.com",
+      "on": 1569584294
+    },
+    "candidates": {
+      "numberOfRequired": 4,
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {
+      "short": "description",
+      "full": "lorem ipsum dolor amet"
+    },
+    "jobRoleClosingDate": 1622494799,
+    "payRange": {
+      "currency": "USD",
+      "from": 10,
+      "to": 30
+    },
+    "reportsViaEmails" : [],
+    "introductoryMessage": "Test Message"
+  },
+  {
+    "id": 111142,
+    "name": "My job role 2",
+    "test": {
+      "tasks": [],
+      "defaultTestPeriod": 3
+    },
+    "state": "closed",
+    "created": {
+      "by": "test@uix.com",
+      "on": 1569584294
+    },
+    "payRange": {
+      "currency": "USD",
+      "from": 10,
+      "to": 30
+    },
+    "jobRoleClosingDate": 1622494799,
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {}
+  },
+  {
+    "id": 698,
+    "name": "Testing JOB ROLE Victor Avalos",
+    "test": {
+      "tasks": [
+        {
+          "id": 50,
+          "time": 600
+        },
+        {
+          "id": 72,
+          "time": 600
+        }
+      ],
+      "defaultTestPeriod": 3
+    },
+    "state": "opened",
+    "created": {
+      "by": "john.snow@uix.com",
+      "on": 1569584294
+    },
+    "payRange": {
+      "currency": "USD",
+      "from": 10,
+      "to": 30
+    },
+    "jobRoleClosingDate": 1622494799,
+    "candidates": {
+      "hiredOutOfTheSystem": [],
+      "hiredIds": [],
+      "hiredIdsOutOfJobRole": [],
+      "withdrawnIds": [],
+      "offeredIds": [],
+      "rejectedIds": []
+    },
+    "description": {},
+    "paSetId": 7
+  }
+]

@@ -1,0 +1,1 @@
+{"average": {"avg_bce": 0.9156, "ab_bce": 10.2881, "cost_per_avg_bce": 65574.0168},"metrics":{"cost_per_avg_bce":54370.8753,"bottom_up_cost":1.2630803806758E9,"avg_bce":0.9024},"costPct":{"clientProvided":6.0714,"boCalculated":93.2143,"notAvailableOrInvalid":0.7143}}

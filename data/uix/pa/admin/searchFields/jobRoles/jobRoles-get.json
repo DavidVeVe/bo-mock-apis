@@ -1,0 +1,125 @@
+[
+  {
+    "key": "jobRoleName",
+    "name": "Job Role Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "jobRoleClosingDate",
+    "name": "Job Role Closing Date",
+    "operators": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "type": "date"
+  },
+  {
+    "key": "jobRoleCreatedOn",
+    "name": "Job Role Creation Date",
+    "operators": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "type": "date"
+  },
+  {
+    "key": "jobRoleCreatedBy",
+    "name": "Job Role Creator",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "jobRoleLanguage",
+    "name": "Job Role Language",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "jobRoleDepartment",
+    "name": "Job Role Department",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "organizationName",
+    "name": "Job Role Organization",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "jobRoleReportsViaEmail",
+    "name": "Send Reports to Emails",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "candidateName",
+    "name": "Candidate Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  },
+  {
+    "key": "candidateType",
+    "name": "Candidate Type",
+    "operators": [
+      "=",
+      "!="
+    ],
+    "type": "string",
+    "values": [
+      "my",
+      "other"
+    ]
+  },
+  {
+    "key": "taskName",
+    "name": "Task Name",
+    "operators": [
+      "=",
+      "!=",
+      "in",
+      "not in"
+    ],
+    "type": "string"
+  }
+]

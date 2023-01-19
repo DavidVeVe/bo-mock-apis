@@ -1,0 +1,747 @@
+{
+  "247": {
+    "developers": {
+      "546312": {
+        "metrics": {
+          "cost_per_avg_bce": 1240.8988,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.2579
+        },
+        "tenure": 20
+      },
+      "546313": {
+        "metrics": {
+          "cost_per_avg_bce": 1758.5068,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.182
+        },
+        "tenure": 97
+      },
+      "546314": {
+        "metrics": {
+          "cost_per_avg_bce": 477.9702,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.6695
+        },
+        "tenure": 162
+      },
+      "546315": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 20
+      },
+      "546316": {
+        "metrics": {
+          "cost_per_avg_bce": 3773.7158,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0848
+        },
+        "tenure": 290
+      },
+      "546317": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 21
+      },
+      "546318": {
+        "metrics": {
+          "cost_per_avg_bce": 357.263,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.8957
+        },
+        "tenure": 319
+      },
+      "546319": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 375
+      },
+      "546304": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 88
+      },
+      "546049": {
+        "metrics": {
+          "cost_per_avg_bce": 1105.9682,
+          "bottom_up_cost": 12792.0,
+          "avg_bce": 0.8897
+        },
+        "tenure": 370
+      },
+      "546305": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 122
+      },
+      "546050": {
+        "metrics": {
+          "cost_per_avg_bce": 126.7115,
+          "bottom_up_cost": 960.0,
+          "avg_bce": 2.5254
+        },
+        "tenure": 377
+      },
+      "546306": {
+        "metrics": {
+          "cost_per_avg_bce": 105.924,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.021
+        },
+        "tenure": 91
+      },
+      "546051": {
+        "metrics": {
+          "cost_per_avg_bce": 212.1838,
+          "bottom_up_cost": 3520.0,
+          "avg_bce": 1.5081
+        },
+        "tenure": 249
+      },
+      "546307": {
+        "metrics": {
+          "cost_per_avg_bce": 337.0001,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.9496
+        },
+        "tenure": 92
+      },
+      "546308": {
+        "metrics": {
+          "cost_per_avg_bce": 514.7384,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.6217
+        },
+        "tenure": 62
+      },
+      "546310": {
+        "metrics": {
+          "cost_per_avg_bce": 96.0291,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.3323
+        },
+        "tenure": 21
+      },
+      "546311": {
+        "metrics": {
+          "cost_per_avg_bce": 2372.1818,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.1349
+        },
+        "tenure": 20
+      },
+      "546320": {
+        "metrics": {
+          "cost_per_avg_bce": 89.9701,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.5567
+        },
+        "tenure": 347
+      },
+      "546321": {
+        "metrics": {
+          "cost_per_avg_bce": 873.4646,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.3664
+        },
+        "tenure": 366
+      },
+      "546322": {
+        "metrics": {
+          "cost_per_avg_bce": 91.966,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.4795
+        },
+        "tenure": 65
+      },
+      "546236": {
+        "metrics": {
+          "cost_per_avg_bce": 105.6549,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.0287
+        },
+        "tenure": 270
+      },
+      "546238": {
+        "metrics": {
+          "cost_per_avg_bce": 89.895,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.5597
+        },
+        "tenure": 382
+      },
+      "546239": {
+        "metrics": {
+          "cost_per_avg_bce": 118.4348,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.7019
+        },
+        "tenure": 350
+      },
+      "546248": {
+        "metrics": {
+          "cost_per_avg_bce": 171.3544,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 1.8675
+        },
+        "tenure": 229
+      },
+      "546249": {
+        "metrics": {
+          "cost_per_avg_bce": 194.1514,
+          "bottom_up_cost": 3083.0933,
+          "avg_bce": 3.97
+        },
+        "tenure": 377
+      },
+      "546250": {
+        "metrics": {
+          "cost_per_avg_bce": 67.34,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 4.752
+        },
+        "tenure": 302
+      },
+      "546251": {
+        "metrics": {
+          "cost_per_avg_bce": 94.0654,
+          "bottom_up_cost": 1600.0,
+          "avg_bce": 3.4019
+        },
+        "tenure": 163
+      },
+      "546252": {
+        "metrics": {
+          "cost_per_avg_bce": 4616.3687,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0693
+        },
+        "tenure": 39
+      },
+      "546253": {
+        "metrics": {
+          "cost_per_avg_bce": 80.4358,
+          "bottom_up_cost": 640.0,
+          "avg_bce": 3.9783
+        },
+        "tenure": 366
+      },
+      "546254": {
+        "metrics": {
+          "cost_per_avg_bce": 791.6279,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.4042
+        },
+        "tenure": 154
+      },
+      "546255": {
+        "metrics": {
+          "cost_per_avg_bce": 128.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.5
+        },
+        "tenure": 184
+      },
+      "546240": {
+        "metrics": {
+          "cost_per_avg_bce": 99.3794,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.22
+        },
+        "tenure": 390
+      },
+      "546241": {
+        "metrics": {
+          "cost_per_avg_bce": 86.6796,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.6918
+        },
+        "tenure": 366
+      },
+      "546242": {
+        "metrics": {
+          "cost_per_avg_bce": 88.5024,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.6157
+        },
+        "tenure": 282
+      },
+      "546243": {
+        "metrics": {
+          "cost_per_avg_bce": 75.5503,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 4.2356
+        },
+        "tenure": 275
+      },
+      "546244": {
+        "metrics": {
+          "cost_per_avg_bce": 121.8144,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.6269
+        },
+        "tenure": 185
+      },
+      "546245": {
+        "metrics": {
+          "cost_per_avg_bce": 95.1037,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.3647
+        },
+        "tenure": 384
+      },
+      "546246": {
+        "metrics": {
+          "cost_per_avg_bce": 121.6312,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.6309
+        },
+        "tenure": 234
+      },
+      "546247": {
+        "metrics": {
+          "cost_per_avg_bce": 1055.5038,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.3032
+        },
+        "tenure": 192
+      },
+      "546264": {
+        "metrics": {
+          "cost_per_avg_bce": 2669.1501,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.1199
+        },
+        "tenure": 56
+      },
+      "546265": {
+        "metrics": {
+          "cost_per_avg_bce": 4069.4995,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0786
+        },
+        "tenure": 32
+      },
+      "546266": {
+        "metrics": {
+          "cost_per_avg_bce": 94.738,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.3777
+        },
+        "tenure": 186
+      },
+      "546267": {
+        "metrics": {
+          "cost_per_avg_bce": 128.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.5
+        },
+        "tenure": 106
+      },
+      "546268": {
+        "metrics": {
+          "cost_per_avg_bce": 2496.6013,
+          "bottom_up_cost": 28800.0,
+          "avg_bce": 2.8839
+        },
+        "tenure": 67
+      },
+      "546269": {
+        "metrics": {
+          "cost_per_avg_bce": null,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0
+        },
+        "tenure": 6
+      },
+      "546270": {
+        "metrics": {
+          "cost_per_avg_bce": 348.5931,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.918
+        },
+        "tenure": 28
+      },
+      "546271": {
+        "metrics": {
+          "cost_per_avg_bce": 89.8629,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.561
+        },
+        "tenure": 270
+      },
+      "546256": {
+        "metrics": {
+          "cost_per_avg_bce": 76.228,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 4.1979
+        },
+        "tenure": 381
+      },
+      "546257": {
+        "metrics": {
+          "cost_per_avg_bce": 263.421,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 1.2148
+        },
+        "tenure": 53
+      },
+      "546259": {
+        "metrics": {
+          "cost_per_avg_bce": 113.5174,
+          "bottom_up_cost": 960.0,
+          "avg_bce": 2.819
+        },
+        "tenure": 287
+      },
+      "546260": {
+        "metrics": {
+          "cost_per_avg_bce": 4617.8884,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0693
+        },
+        "tenure": 9
+      },
+      "546262": {
+        "metrics": {
+          "cost_per_avg_bce": 107.1295,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.987
+        },
+        "tenure": 385
+      },
+      "546263": {
+        "metrics": {
+          "cost_per_avg_bce": 749.4029,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.427
+        },
+        "tenure": 181
+      },
+      "546280": {
+        "metrics": {
+          "cost_per_avg_bce": 640.2009,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.4998
+        },
+        "tenure": 305
+      },
+      "546281": {
+        "metrics": {
+          "cost_per_avg_bce": 157.6064,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.0304
+        },
+        "tenure": 53
+      },
+      "546282": {
+        "metrics": {
+          "cost_per_avg_bce": 150.0178,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.1331
+        },
+        "tenure": 65
+      },
+      "546283": {
+        "metrics": {
+          "cost_per_avg_bce": 13207.9932,
+          "bottom_up_cost": 261747.2,
+          "avg_bce": 4.9543
+        },
+        "tenure": 380
+      },
+      "546284": {
+        "metrics": {
+          "cost_per_avg_bce": null,
+          "bottom_up_cost": null,
+          "avg_bce": 3.8027
+        },
+        "tenure": 128
+      },
+      "546285": {
+        "metrics": {
+          "cost_per_avg_bce": 287.9749,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 1.1112
+        },
+        "tenure": 386
+      },
+      "546286": {
+        "metrics": {
+          "cost_per_avg_bce": 83.8852,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.8147
+        },
+        "tenure": 193
+      },
+      "546287": {
+        "metrics": {
+          "cost_per_avg_bce": 1601.7291,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.1998
+        },
+        "tenure": 35
+      },
+      "546272": {
+        "metrics": {
+          "cost_per_avg_bce": 103.4126,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.0944
+        },
+        "tenure": 377
+      },
+      "546273": {
+        "metrics": {
+          "cost_per_avg_bce": 121.1183,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 2.642
+        },
+        "tenure": 63
+      },
+      "546274": {
+        "metrics": {
+          "cost_per_avg_bce": null,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0
+        },
+        "tenure": 32
+      },
+      "546276": {
+        "metrics": {
+          "cost_per_avg_bce": 13643.8529,
+          "bottom_up_cost": 261747.2,
+          "avg_bce": 4.7961
+        },
+        "tenure": 199
+      },
+      "546277": {
+        "metrics": {
+          "cost_per_avg_bce": 3166.5115,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.1011
+        },
+        "tenure": 6
+      },
+      "546278": {
+        "metrics": {
+          "cost_per_avg_bce": 179.5338,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 1.7824
+        },
+        "tenure": 391
+      },
+      "546279": {
+        "metrics": {
+          "cost_per_avg_bce": 13389.831,
+          "bottom_up_cost": 28800.0,
+          "avg_bce": 0.5377
+        },
+        "tenure": 43
+      },
+      "546040": {
+        "metrics": {
+          "cost_per_avg_bce": 212.3811,
+          "bottom_up_cost": 2560.0,
+          "avg_bce": 1.5067
+        },
+        "tenure": 159
+      },
+      "546296": {
+        "metrics": {
+          "cost_per_avg_bce": 778.255,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.4112
+        },
+        "tenure": 61
+      },
+      "546041": {
+        "metrics": {
+          "cost_per_avg_bce": 89.8314,
+          "bottom_up_cost": 320.0,
+          "avg_bce": 3.5622
+        },
+        "tenure": 384
+      },
+      "546042": {
+        "metrics": {
+          "cost_per_avg_bce": 49028.6186,
+          "bottom_up_cost": 785241.6,
+          "avg_bce": 1.3347
+        },
+        "tenure": 122
+      },
+      "546298": {
+        "metrics": {
+          "cost_per_avg_bce": 71.5711,
+          "bottom_up_cost": 640.0,
+          "avg_bce": 4.4711
+        },
+        "tenure": 375
+      },
+      "546043": {
+        "metrics": {
+          "cost_per_avg_bce": 951.0389,
+          "bottom_up_cost": 3499.2,
+          "avg_bce": 0.6132
+        },
+        "tenure": 1734
+      },
+      "546299": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 366
+      },
+      "546044": {
+        "metrics": {
+          "cost_per_avg_bce": 492.8456,
+          "bottom_up_cost": 320.0,
+          "avg_bce": 0.6493
+        },
+        "tenure": 387
+      },
+      "546300": {
+        "metrics": {
+          "cost_per_avg_bce": 101.5451,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.1513
+        },
+        "tenure": 21
+      },
+      "546045": {
+        "metrics": {
+          "cost_per_avg_bce": 133.5997,
+          "bottom_up_cost": 2240.0,
+          "avg_bce": 2.3952
+        },
+        "tenure": 86
+      },
+      "546301": {
+        "metrics": {
+          "cost_per_avg_bce": 96.9955,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 3.2991
+        },
+        "tenure": 79
+      },
+      "546046": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 376
+      },
+      "546302": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 276
+      },
+      "546047": {
+        "metrics": {
+          "cost_per_avg_bce": 929.5327,
+          "bottom_up_cost": 12792.0,
+          "avg_bce": 1.0586
+        },
+        "tenure": 378
+      },
+      "546303": {
+        "metrics": {
+          "cost_per_avg_bce": null,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0
+        },
+        "tenure": 63
+      },
+      "546288": {
+        "metrics": {
+          "cost_per_avg_bce": 64.0,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 5.0
+        },
+        "tenure": 337
+      },
+      "546289": {
+        "metrics": {
+          "cost_per_avg_bce": 64.545,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 4.9578
+        },
+        "tenure": 381
+      },
+      "546290": {
+        "metrics": {
+          "cost_per_avg_bce": 364.7668,
+          "bottom_up_cost": 960.0,
+          "avg_bce": 0.8773
+        },
+        "tenure": 82
+      },
+      "546291": {
+        "metrics": {
+          "cost_per_avg_bce": 76.8996,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 4.1613
+        },
+        "tenure": 369
+      },
+      "546292": {
+        "metrics": {
+          "cost_per_avg_bce": 4649.7714,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.0688
+        },
+        "tenure": 38
+      },
+      "546294": {
+        "metrics": {
+          "cost_per_avg_bce": 778.3061,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 0.4111
+        },
+        "tenure": 85
+      },
+      "546039": {
+        "metrics": {
+          "cost_per_avg_bce": 150.0191,
+          "bottom_up_cost": 2560.0,
+          "avg_bce": 2.1331
+        },
+        "tenure": 385
+      },
+      "546295": {
+        "metrics": {
+          "cost_per_avg_bce": 183.0373,
+          "bottom_up_cost": 1280.0,
+          "avg_bce": 1.7483
+        },
+        "tenure": 263
+      }
+    },
+    "costPct": {
+      "clientProvided": 7.6087,
+      "boCalculated": 91.3043,
+      "notAvailableOrInvalid": 1.087
+    }
+  }
+}

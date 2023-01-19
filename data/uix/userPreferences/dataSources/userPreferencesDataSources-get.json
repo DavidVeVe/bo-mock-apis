@@ -1,0 +1,45 @@
+{
+  "table": {
+    "userModeConfig": {
+      "organization": true,
+      "projectName": true,
+      "collectionName": true,
+      "infraTypeName": true,
+      "instanceUrl": true,
+      "instanceName": true,
+      "componentName": true,
+      "integratorName": true,
+      "scheduleIntervalPeriod": true,
+      "scheduleStartDate": true,
+      "createdBy": true,
+      "createdOn": true,
+      "lastUpdateBy": true,
+      "updatedOn": true,
+      "status": true,
+      "requestsCount": true,
+      "healthIndicator": true,
+      "firstExtractionDate": true,
+      "lastExtractionDate": true,
+      "lastValidationDate": true,
+      "errorCode": true
+    },
+    "mode": "userMode",
+    "activeFilters": {
+      "organizationIds": [
+        65
+      ]
+    },
+    "sorting": {
+      "column": "errorCode",
+      "mode": "descend"
+    }
+  },
+  "facet": {
+    "configuration": {
+      "organizationIds": [
+        65,
+        248
+      ]
+    }
+  }
+}

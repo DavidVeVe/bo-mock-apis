@@ -1,0 +1,24 @@
+{
+  "notifications":[
+    {
+      "notificationKey": "HTF.SHARE.NOTIFICATION",
+      "featureType": "bigFeature",
+      "page": "overview"
+    },
+    {
+      "notificationKey": "HTF.NOTIFICATION",
+      "featureType": "smallFeature",
+      "page": "autoDiscovery"
+    },
+    {
+      "notificationKey": "DDS.PAGE.REDO",
+      "featureType": "smallFeature",
+      "page": "serviceAccountExclusion"
+    },
+    {
+      "notificationKey": "AD.ADVANCE.CONFIGRATIONS",
+      "featureType": "bigFeature",
+      "page": "autoDiscovery"
+    }
+  ]
+}

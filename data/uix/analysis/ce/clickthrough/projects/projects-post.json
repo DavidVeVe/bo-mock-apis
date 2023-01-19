@@ -1,0 +1,13 @@
+{
+    "10251": {
+        "metrics": {
+            "bce": 14.7,
+            "pct_ab_ce": 13.95
+        },
+        "metricsSummary": {
+            "volume": 71.66,
+            "complexity": 28.14,
+            "interrelatedness": 0.2
+        }
+    }
+}

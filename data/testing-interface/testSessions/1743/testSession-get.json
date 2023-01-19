@@ -1,0 +1,49 @@
+{
+  "userDetails": {
+    "firstName": "John",
+    "secondName": "Wick",
+    "experience": 101,
+    "jobTitle": "Unknown",
+    "languages": [
+      "JavaScript"
+    ],
+    "linkedInLink": "",
+    "githubLink": "",
+    "stackoverflowLink": null
+  },
+  "sessionDetails": {
+    "cameraOption": "disable",
+    "expirationDate": "2021-01-07 11-59",
+    "tasksCount": 4,
+    "languages": [
+      "JavaScript"
+    ],
+    "criteria": [
+      {
+        "name": "Robustness",
+        "description": "The tolerance of a solution to corner cases that may lead to unstable solutions or failure to complete a calculation. One example might be to consider whether it works well for pathological inputs (e.g. sorted arrays for quicksort, or really large floating point numbers)."
+      },
+      {
+        "name": "Correctness",
+        "description": "Does the implementation produce the correct output for a range of carefully selected inputs."
+      }
+    ],
+    "checkedOutTask": null,
+    "other": {
+      "availableLanguages": [
+        "Java",
+        "JavaScript",
+        "C#",
+        "Python"
+      ],
+      "introductoryMessage": null
+    },
+    "timeLimits": [
+      300,
+      300,
+      300,
+      300
+    ]
+  },
+  "sessionStatus": "ready"
+}

@@ -1,0 +1,16 @@
+{
+  "taskId": 2499,
+  "active": true,
+  "name": "Add to array",
+  "language": "JavaScript",
+  "description": "<p>Use the correct Array method to add item to the fruits array.</p><pre>var fruits = [\"Banana\", \"Orange\", \"Apple\"]; var item=\"kiwi\"</pre>",
+  "openedFilesList": [
+    "word_connecting_medium.js"
+  ],
+  "allowedFileExtensions": [
+    "js"
+  ],
+  "spentTime": 3,
+  "timeLimit": 3000,
+  "requiresCompilation": false
+}

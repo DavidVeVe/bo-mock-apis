@@ -1,0 +1,3 @@
+{
+  "commitCode": "function main(user) {\n\tif(user){\n\treturn 'hello ' + user\n\t}\n\telse {function main(user) {\n\tif(user){\n\t}}"
+}

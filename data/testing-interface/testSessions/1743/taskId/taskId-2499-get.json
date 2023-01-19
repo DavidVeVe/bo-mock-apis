@@ -1,0 +1,16 @@
+{
+  "taskId": 2499,
+  "active": false,
+  "name": "Remove from array",
+  "language": "JavaScript",
+  "description": "<p>Use the correct Array method to remove the last item of the fruits array.</p><pre>var fruits = [\"Banana\", \"Orange\", \"Apple\"];</pre>",
+  "openedFilesList": [
+    "word_search.js"
+  ],
+  "allowedFileExtensions": [
+    "js"
+  ],
+  "spentTime": 3,
+  "timeLimit": 300,
+  "requiresCompilation": false
+}

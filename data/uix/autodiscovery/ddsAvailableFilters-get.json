@@ -1,0 +1,22 @@
+{
+  "organizationIds": [
+    65,
+    248
+  ],
+  "infraTypeIds": [ 18, 19, 21, 22, 23, 24, 9, 25, 15 ],
+  "infraType": [
+    "TeamFoundationServer_tt",
+    "Stash",
+    "RationalTeamConcert_vc",
+    "GitHub",
+    "TeamFoundationServer_vc",
+    "Jira",
+    "GitLab",
+    "TeamFoundationServer_vc_git"
+  ],
+  "status": [
+    "ONBOARDED",
+    "DISCOVERED",
+    "IGNORED"
+  ]
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "paJobRoleId":698,
+    "tests":[
+      {
+        "testId":4392,
+        "paJobRoleId":698,
+        "candidateId":3589,
+        "identityValidationStatus":"validation_withdrawn",
+        "sessionStatus":"expired",
+        "testStatus":"extraTimeGranted",
+        "invitedOn":1580382503,
+        "testClosingDate":1580927399,
+        "summary": {
+          "predictivePerformanceQuartile": "Q1",
+          "originalScore": 99.7,
+          "timeRemaining": 0,
+          "criteria": {
+            "1": 1.27
+          },
+          "testExtraTime": {
+            "totalExtraTime": 600,
+            "taskLevelExtraTimes": [
+              {
+                "taskId": 50,
+                "timeLost": 300,
+                "allowed": true
+              },
+              {
+                "taskId": 72,
+                "timeLost": 300,
+                "allowed": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "testId":4393,
+        "paJobRoleId":698,
+        "candidateId":3590,
+        "identityValidationStatus":"validation_pending",
+        "sessionStatus":"expired",
+        "testStatus":"untested",
+        "invitedOn":1580382581,
+        "testClosingDate":1580927399,
+        "summary": {
+          "predictivePerformanceQuartile": "Q1",
+          "originalScore": 90.7,
+          "timeRemaining": 0,
+          "criteria": {
+            "2": 1.27
+          },
+          "testExtraTime": {
+            "totalExtraTime": 720,
+            "taskLevelExtraTimes": [
+              {
+                "taskId": 50,
+                "timeLost": 400,
+                "allowed": true
+              },
+              {
+                "taskId": 72,
+                "timeLost": 320,
+                "allowed": true
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+]

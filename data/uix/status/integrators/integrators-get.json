@@ -1,0 +1,330 @@
+[
+  {
+    "id": 49,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2018-12-04 22:59:15",
+    "messageFrom3dParty": "failed : INTEGRATOR_UPDATE : Update failed - Something went wrong, restored original version. Service started successfully after restore. Please check logs for details about update failure.",
+    "errorCode": null
+  },
+  {
+    "id": 277,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 287,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-01-23 11:22:45",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 300,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 308,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 309,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-02-09 00:59:29",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 313,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 318,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 322,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 323,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-06-17 09:35:29",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 350,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 368,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-02-25 00:59:16",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 411,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 439,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 444,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 445,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 448,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-11 16:00:05",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 449,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 450,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 452,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-05-22 14:29:11",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 460,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-06-20 06:11:58",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 461,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-06-20 06:09:14",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 462,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-08-04 19:23:40",
+    "messageFrom3dParty": "success : INTEGRATOR_UPDATE : Integrator updated offline successfully",
+    "errorCode": null
+  },
+  {
+    "id": 464,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-11 14:20:50",
+    "messageFrom3dParty": "success : INTEGRATOR_UPDATE : Integrator updated offline successfully",
+    "errorCode": null
+  },
+  {
+    "id": 465,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-06 00:55:26",
+    "messageFrom3dParty": "success : Integrator is already updated.. Data : File Name : update.zip, Update Metadata : update-metadata.cfg.xml, Connection Timeout : 30000, Read Timeout : 60000, Update Count : 0",
+    "errorCode": null
+  },
+  {
+    "id": 466,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 467,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-08-21 05:32:58",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 468,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-05-23 00:57:14",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 469,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-06-12 12:59:52",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 470,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 471,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 472,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-11 16:00:47",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 473,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-11 16:00:19",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 474,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-09-02 06:30:47",
+    "messageFrom3dParty": "success : INTEGRATOR_UPDATE : Update successful, please check if extractions are also successful post update.",
+    "errorCode": null
+  },
+  {
+    "id": 475,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-06-24 11:57:04",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 476,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-08-29 09:24:17",
+    "messageFrom3dParty": "failed : Update package data is null.. Data : File Name : update.zip, Update Metadata : update-metadata.cfg.xml, Connection Timeout : 30000, Read Timeout : 60000, Update Count : 1",
+    "errorCode": null
+  },
+  {
+    "id": 477,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 478,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 479,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-07-17 14:07:00",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  },
+  {
+    "id": 480,
+    "color": "red",
+    "messageKey": "INT.DOWN",
+    "dateTime": "2019-08-06 00:53:54",
+    "messageFrom3dParty": "success : INTEGRATOR_UPDATE : Update successful, please check if extractions are also successful post update.",
+    "errorCode": null
+  },
+  {
+    "id": 481,
+    "color": "amber",
+    "messageKey": "INT.LICENCE_NOT_USED",
+    "dateTime": "",
+    "messageFrom3dParty": null,
+    "errorCode": null
+  }
+]

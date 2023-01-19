@@ -1,0 +1,45 @@
+[
+  {
+    "taskId": 2497,
+    "active": true,
+    "name": "Remove from array",
+    "language": "JavaScript",
+    "description": "<p>Use the correct Array method to remove the last item of the fruits array.</p><pre>var fruits = [\"Banana\", \"Orange\", \"Apple\"];</pre>",
+    "openedFilesList": [
+      "word_search.js"
+    ],
+    "allowedFileExtensions": [
+      "js"
+    ],
+    "spentTime": 3,
+    "timeLimit": 1200,
+    "taskQuestions": [
+      "Describe how this is better than a for method",
+      "Describe how you would make it reusable to extract any given index on the array"
+    ],
+    "requiresCompilation": false,
+    "lastSubmission": {
+      "id": 6579,
+      "status": "in progress"
+    }
+  },
+  {
+    "taskId": 2499,
+    "active": false,
+    "name": "Add to array",
+    "language": "JavaScript",
+    "description": "<p>Use the correct Array method to add item to the fruits array.</p><pre>var fruits = [\"Banana\", \"Orange\", \"Apple\"]; var item=\"kiwi\"</pre>",
+    "openedFilesList": [
+      "word_connecting_medium.js"
+    ],
+    "allowedFileExtensions": [
+      "js"
+    ],
+    "spentTime": 3,
+    "timeLimit": 3000,
+    "taskQuestions": [
+      "Describe how this is better than a for method"
+    ],
+    "requiresCompilation": false
+  }
+]

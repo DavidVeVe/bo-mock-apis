@@ -1,0 +1,6603 @@
+[
+  {
+    "adDatasourceId": 6784,
+    "datasourceId": 377742,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "CS",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "CS",
+    "projectId": 22081,
+    "collectionName": "CS",
+    "collectionId": 132465,
+    "integratorId": 756,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-03-24 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7321,
+    "datasourceId": null,
+    "adConfigId": 247,
+    "adRequestId": "65373939-3131-3362-2d66-6636322d3430",
+    "infraType": {
+      "infraTypeId": 22,
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.bop-tdt.com/scm/dummy",
+      "name": "integrator-test-cases",
+      "infraWebUrl": "https://git.bop-tdt.com/projects/dummy/repos/integrator-test-cases"
+    },
+    "projectName": "BlueOptima Test",
+    "projectId": null,
+    "collectionName": "BlueOptima Test",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-06 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://git.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7552,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CS",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Central Server",
+    "projectId": null,
+    "collectionName": "Central Server",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9470,
+    "datasourceId": 378140,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CS",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": "CS",
+    "projectId": 22081,
+    "collectionName": "CS",
+    "collectionId": 132465,
+    "integratorId": 1766,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 9462,
+    "datasourceId": null,
+    "adConfigId": 345,
+    "adRequestId": "35626239-6435-3635-2d63-3139392d3465",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "abhishek.attri@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Project3_new",
+      "infraWebUrl": "https://blueoptima-tfvc.visualstudio.com/"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://blueoptima-tfvc.visualstudio.com/"
+  },
+  {
+    "adDatasourceId": 9108,
+    "datasourceId": 378588,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project76",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project76",
+    "projectId": 22279,
+    "collectionName": "Project76",
+    "collectionId": 132696,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 6038,
+    "datasourceId": null,
+    "adConfigId": 284,
+    "adRequestId": "39626335-3661-3637-2d31-3661652d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root",
+      "name": "awesome-courses",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/awesome-courses"
+    },
+    "projectName": "Administrator",
+    "projectId": null,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 665,
+    "organizationId": 248,
+    "totalLogins": 97,
+    "totalCommits": 404,
+    "discoveredOn": "2020-02-21 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/12321"
+  },
+  {
+    "adDatasourceId": 9456,
+    "datasourceId": 378889,
+    "adConfigId": 345,
+    "adRequestId": "35626239-6435-3635-2d63-3139392d3465",
+    "infraType": {
+      "infraTypeId": 18,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "abhishek.attri@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-tfvc.visualstudio.com",
+      "name": "Project3_new",
+      "infraWebUrl": "https://blueoptima-tfvc.visualstudio.com/Project3_new"
+    },
+    "projectName": "Project3_new",
+    "projectId": 22169,
+    "collectionName": "Project3_new",
+    "collectionId": 132562,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 22,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://blueoptima-tfvc.visualstudio.com/"
+  },
+  {
+    "adDatasourceId": 9028,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/DefaultCollection/_git",
+      "name": "TFSGitProject",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/DefaultCollection/_git/TFSGitProject"
+    },
+    "projectName": "TFSGitProject",
+    "projectId": null,
+    "collectionName": "TFSGitProject",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 9043,
+    "datasourceId": 378567,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project52",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project52",
+    "projectId": 22257,
+    "collectionName": "Project52",
+    "collectionId": 132674,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 8965,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project41",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project41"
+    },
+    "projectName": "Project41",
+    "projectId": null,
+    "collectionName": "Project41",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 9051,
+    "datasourceId": 378547,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project33",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project33",
+    "projectId": 22237,
+    "collectionName": "Project33",
+    "collectionId": 132654,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 8956,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project17",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project17"
+    },
+    "projectName": "Project17",
+    "projectId": null,
+    "collectionName": "Project17",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 8974,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project63",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project63"
+    },
+    "projectName": "Project63",
+    "projectId": null,
+    "collectionName": "Project63",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 8966,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project22",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project22"
+    },
+    "projectName": "Project22",
+    "projectId": null,
+    "collectionName": "Project22",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 9124,
+    "datasourceId": 378583,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project71",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project71",
+    "projectId": 22274,
+    "collectionName": "Project71",
+    "collectionId": 132691,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 5937,
+    "datasourceId": null,
+    "adConfigId": 284,
+    "adRequestId": "39626335-3661-3637-2d31-3661652d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root",
+      "name": "creatingARepoinOrganizationtoTest",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/creatingARepoinOrganizationtoTest"
+    },
+    "projectName": "Administrator",
+    "projectId": null,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 665,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 2,
+    "discoveredOn": "2020-02-21 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/12321"
+  },
+  {
+    "adDatasourceId": 9012,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project54",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project54"
+    },
+    "projectName": "Project54",
+    "projectId": null,
+    "collectionName": "Project54",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 5946,
+    "datasourceId": 373913,
+    "adConfigId": 284,
+    "adRequestId": "39626335-3661-3637-2d31-3661652d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root",
+      "name": "free-programming-books",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/free-programming-books"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 665,
+    "organizationId": 248,
+    "totalLogins": 1149,
+    "totalCommits": 4732,
+    "discoveredOn": "2020-02-21 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/12321"
+  },
+  {
+    "adDatasourceId": 9043,
+    "datasourceId": 378567,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project52",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project52",
+    "projectId": 22257,
+    "collectionName": "Project52",
+    "collectionId": 132674,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 6036,
+    "datasourceId": 373891,
+    "adConfigId": 284,
+    "adRequestId": "39626335-3661-3637-2d31-3661652d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root",
+      "name": "antlrv4_groovy_grammar",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/antlrv4_groovy_grammar"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 665,
+    "organizationId": 248,
+    "totalLogins": 1,
+    "totalCommits": 103,
+    "discoveredOn": "2020-02-21 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/12321"
+  },
+  {
+    "adDatasourceId": 9356,
+    "datasourceId": null,
+    "adConfigId": 350,
+    "adRequestId": "32613934-3965-6236-2d35-3934662d3462",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "nikita.awasthi@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-test.atlassian.net",
+      "name": "INT",
+      "infraWebUrl": "https://blueoptima-test.atlassian.net"
+    },
+    "projectName": "INT",
+    "projectId": null,
+    "collectionName": "INT",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-15 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://blueoptima-test.atlassian.net"
+  },
+  {
+    "adDatasourceId": 7551,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CEE",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "CE Engine",
+    "projectId": null,
+    "collectionName": "CE Engine",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9051,
+    "datasourceId": 378547,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5",
+      "name": "Project33",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "Project33",
+    "projectId": 22237,
+    "collectionName": "Project33",
+    "collectionId": 132654,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 9355,
+    "datasourceId": null,
+    "adConfigId": 350,
+    "adRequestId": "32613934-3965-6236-2d35-3934662d3462",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "nikita.awasthi@blueoptima.com",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://blueoptima-test.atlassian.net",
+      "name": "DESK",
+      "infraWebUrl": "https://blueoptima-test.atlassian.net"
+    },
+    "projectName": "Demo service desk",
+    "projectId": null,
+    "collectionName": "Demo service desk",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-15 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://blueoptima-test.atlassian.net"
+  },
+  {
+    "adDatasourceId": 6783,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "CEE",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "CE Engine",
+    "projectId": null,
+    "collectionName": "CE Engine",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7554,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CORPSITE",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Corporate Site",
+    "projectId": null,
+    "collectionName": "Corporate Site",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9472,
+    "datasourceId": 378677,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CORPSITE",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": "CORPSITE",
+    "projectId": 22080,
+    "collectionName": "CORPSITE",
+    "collectionId": 132464,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 6786,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "CORPSITE",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "Corporate Site",
+    "projectId": null,
+    "collectionName": "Corporate Site",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 6786,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "CORPSITE",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "Corporate Site",
+    "projectId": null,
+    "collectionName": "Corporate Site",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 9007,
+    "datasourceId": null,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 23,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/Collection5/_git",
+      "name": "Project33",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/Collection5/_git/Project33"
+    },
+    "projectName": "Project33",
+    "projectId": null,
+    "collectionName": "Project33",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "AUTO_ONBOARDING",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 6037,
+    "datasourceId": 373978,
+    "adConfigId": 284,
+    "adRequestId": "39626335-3661-3637-2d31-3661652d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root",
+      "name": "angular-registration-login-example",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/angular-registration-login-example"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 665,
+    "organizationId": 248,
+    "totalLogins": 2,
+    "totalCommits": 4,
+    "discoveredOn": "2020-02-21 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/12321"
+  },
+  {
+    "adDatasourceId": 9050,
+    "datasourceId": 378595,
+    "adConfigId": 344,
+    "adRequestId": "37363634-3836-3964-2d66-6161612d3466",
+    "infraType": {
+      "infraTypeId": 19,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "Administrator",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "http://10.0.23.233:8080/tfs/DefaultCollection",
+      "name": "TFSGitProject_DefaultCollection",
+      "infraWebUrl": "http://10.0.23.233:8080/tfs/"
+    },
+    "projectName": "TFSGitProject_DefaultCollection",
+    "projectId": 22286,
+    "collectionName": "TFSGitProject_DefaultCollection",
+    "collectionId": 132703,
+    "integratorId": 1185,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "http://10.0.23.233:8080/tfs/"
+  },
+  {
+    "adDatasourceId": 7561,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "MARK",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Marketing",
+    "projectId": null,
+    "collectionName": "Marketing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 7561,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "MARK",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Marketing",
+    "projectId": null,
+    "collectionName": "Marketing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9479,
+    "datasourceId": 378679,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "MARK",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": "MARK",
+    "projectId": 18898,
+    "collectionName": "MARK",
+    "collectionId": 128938,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 6791,
+    "datasourceId": 377741,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "MARK",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "MARK",
+    "projectId": 18898,
+    "collectionName": "MARK",
+    "collectionId": 128938,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-03-24 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7556,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "INT",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Data Acquisition & Processing",
+    "projectId": null,
+    "collectionName": "Data Acquisition & Processing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 7556,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "INT",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "Data Acquisition & Processing",
+    "projectId": null,
+    "collectionName": "Data Acquisition & Processing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9474,
+    "datasourceId": 378678,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "INT",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": "INT",
+    "projectId": 18896,
+    "collectionName": "INT",
+    "collectionId": 128936,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 6787,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "INT",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "Data Acquisition & Processing",
+    "projectId": null,
+    "collectionName": "Data Acquisition & Processing",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 6787,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "INT",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "Data Acquisition & Processing",
+    "projectId": null,
+    "collectionName": "Data Acquisition & Processing",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7575,
+    "datasourceId": null,
+    "adConfigId": 341,
+    "adRequestId": "31663066-3563-6135-2d39-3136392d3430",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UIX",
+      "infraWebUrl": "https://jira.blueoptima.com/12321"
+    },
+    "projectName": "User Interface & Experience",
+    "projectId": null,
+    "collectionName": "User Interface & Experience",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-08 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/12321"
+  },
+  {
+    "adDatasourceId": 9493,
+    "datasourceId": null,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "UIX",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": null,
+    "projectId": null,
+    "collectionName": null,
+    "collectionId": null,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 6803,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "UIX",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "User Interface & Experience",
+    "projectId": null,
+    "collectionName": "User Interface & Experience",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 6803,
+    "datasourceId": null,
+    "adConfigId": 251,
+    "adRequestId": "33663637-3333-6435-2d66-3066342d3437",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.bop-tdt.com",
+      "name": "UIX",
+      "infraWebUrl": "https://jira.bop-tdt.com"
+    },
+    "projectName": "User Interface & Experience",
+    "projectId": null,
+    "collectionName": "User Interface & Experience",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-24 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7336,
+    "datasourceId": null,
+    "adConfigId": 247,
+    "adRequestId": "65373939-3131-3362-2d66-6636322d3430",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.bop-tdt.com/scm/karmis",
+      "name": "db-jobs",
+      "infraWebUrl": "https://git.bop-tdt.com/projects/karmis/repos/db-jobs"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-06 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://git.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 7336,
+    "datasourceId": null,
+    "adConfigId": 247,
+    "adRequestId": "65373939-3131-3362-2d66-6636322d3430",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.bop-tdt.com/scm/karmis",
+      "name": "db-jobs",
+      "infraWebUrl": "https://git.bop-tdt.com/projects/karmis/repos/db-jobs"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-06 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://git.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 9469,
+    "datasourceId": 378137,
+    "adConfigId": 346,
+    "adRequestId": "62373562-6637-3232-2d36-6262632d3436",
+    "infraType": {
+      "infraTypeId": 9,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "singhan",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://jira.blueoptima.com/",
+      "name": "CEE",
+      "infraWebUrl": "https://jira.blueoptima.com/"
+    },
+    "projectName": "CEE",
+    "projectId": 22077,
+    "collectionName": "CEE",
+    "collectionId": 132461,
+    "integratorId": 1766,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-23 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://jira.blueoptima.com/"
+  },
+  {
+    "adDatasourceId": 7321,
+    "datasourceId": null,
+    "adConfigId": 247,
+    "adRequestId": "65373939-3131-3362-2d66-6636322d3430",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "singhas",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://git.bop-tdt.com/scm/dummy",
+      "name": "integrator-test-cases",
+      "infraWebUrl": "https://git.bop-tdt.com/projects/dummy/repos/integrator-test-cases"
+    },
+    "projectName": "BlueOptima Test",
+    "projectId": null,
+    "collectionName": "BlueOptima Test",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 248,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-06 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://git.bop-tdt.com"
+  },
+  {
+    "adDatasourceId": 4199,
+    "datasourceId": 373630,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "angular_bootstrap_spring",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/angular_bootstrap_spring"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 61,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4172,
+    "datasourceId": 373699,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "lizard",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/lizard"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 600,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 9298,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/dummy",
+      "name": "cs-test",
+      "infraWebUrl": "https://git.blueoptima.com/projects/DUMMY/repos/cs-test"
+    },
+    "projectName": "BlueOptima Test",
+    "projectId": null,
+    "collectionName": "BlueOptima Test",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9311,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "nvd-cpe-details-identification",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/nvd-cpe-details-identification"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9317,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "sca-vulnerabilities-db-manager",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/sca-vulnerabilities-db-manager"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 8939,
+    "datasourceId": null,
+    "adConfigId": 347,
+    "adRequestId": "35663462-3235-3338-2d66-6330342d3432",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sachapki",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@bitbucket.org:testteamforad",
+      "name": "TestTeamRepo",
+      "infraWebUrl": "https://bitbucket.org/testteamforad/testteamrepo"
+    },
+    "projectName": "TestTeamforAD",
+    "projectId": null,
+    "collectionName": "TestTeamforAD",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://api.bitbucket.org"
+  },
+  {
+    "adDatasourceId": 9318,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/com",
+      "name": "bo-parent",
+      "infraWebUrl": "https://git.blueoptima.com/projects/COM/repos/bo-parent"
+    },
+    "projectName": "Commons",
+    "projectId": null,
+    "collectionName": "Commons",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 1,
+    "totalCommits": 15,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9337,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "gatling-perfromance",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/gatling-perfromance"
+    },
+    "projectName": "Testing",
+    "projectId": null,
+    "collectionName": "Testing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9320,
+    "datasourceId": 378801,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/com",
+      "name": "e2e",
+      "infraWebUrl": "https://git.blueoptima.com/projects/COM/repos/e2e"
+    },
+    "projectName": "Commons",
+    "projectId": 22570,
+    "collectionName": "Commons",
+    "collectionId": 133027,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9351,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/uf",
+      "name": "project-guidelines",
+      "infraWebUrl": "https://git.blueoptima.com/projects/UF/repos/project-guidelines"
+    },
+    "projectName": "UI FrontEnd",
+    "projectId": null,
+    "collectionName": "UI FrontEnd",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9333,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "testing",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/testing"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9316,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "sca-data-manager",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/sca-data-manager"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9299,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/dummy",
+      "name": "GitBranchingScenarios",
+      "infraWebUrl": "https://git.blueoptima.com/projects/DUMMY/repos/gitbranchingscenarios"
+    },
+    "projectName": "BlueOptima Test",
+    "projectId": null,
+    "collectionName": "BlueOptima Test",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9339,
+    "datasourceId": 378623,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "locust-performance",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/locust-performance"
+    },
+    "projectName": "Testing",
+    "projectId": 18926,
+    "collectionName": "Testing",
+    "collectionId": 128976,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9305,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "ci-snyk-vulnerabilties",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/ci-snyk-vulnerabilties"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9310,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "maven-cases",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/maven-cases"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 8938,
+    "datasourceId": null,
+    "adConfigId": 347,
+    "adRequestId": "35663462-3235-3338-2d66-6330342d3432",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sachapki",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@bitbucket.org:shivaji785",
+      "name": "TestRepoDelete",
+      "infraWebUrl": "https://bitbucket.org/shivaji785/testrepodelete"
+    },
+    "projectName": "shivaji785",
+    "projectId": null,
+    "collectionName": "shivaji785",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": 0,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://api.bitbucket.org"
+  },
+  {
+    "adDatasourceId": 9347,
+    "datasourceId": 378629,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "uix-testing",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/uix-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 18926,
+    "collectionName": "Testing",
+    "collectionId": 128976,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9287,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "internal-support-portal",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/internal-support-portal"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9350,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/uf",
+      "name": "pa-api-revision",
+      "infraWebUrl": "https://git.blueoptima.com/projects/UF/repos/pa-api-revision"
+    },
+    "projectName": "UI FrontEnd",
+    "projectId": null,
+    "collectionName": "UI FrontEnd",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9352,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/uf",
+      "name": "uix-api-revisions",
+      "infraWebUrl": "https://git.blueoptima.com/projects/UF/repos/uix-api-revisions"
+    },
+    "projectName": "UI FrontEnd",
+    "projectId": null,
+    "collectionName": "UI FrontEnd",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9325,
+    "datasourceId": 378620,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "db-jobs",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/db-jobs"
+    },
+    "projectName": "Karmis",
+    "projectId": 18925,
+    "collectionName": "Karmis",
+    "collectionId": 128975,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9334,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "uix",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/uix"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9329,
+    "datasourceId": 378603,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "integrator-deployment-automation",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/integrator-deployment-automation"
+    },
+    "projectName": "Karmis",
+    "projectId": 22468,
+    "collectionName": "Karmis",
+    "collectionId": 132918,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9319,
+    "datasourceId": 378914,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/com",
+      "name": "db-upgrades",
+      "infraWebUrl": "https://git.blueoptima.com/projects/COM/repos/db-upgrades"
+    },
+    "projectName": "Administrator",
+    "projectId": 19574,
+    "collectionName": "Administrator",
+    "collectionId": 129641,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9294,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "SQLLoadTester",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/sqlloadtester"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9338,
+    "datasourceId": 378622,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "integrator-testing",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/integrator-testing"
+    },
+    "projectName": "Testing",
+    "projectId": 18926,
+    "collectionName": "Testing",
+    "collectionId": 128976,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9331,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "security",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/security"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9292,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "Python-Package",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/python-package"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9302,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "ci-maven-fetched-gavs",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/ci-maven-fetched-gavs"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9304,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "ci-mvn-sca-client",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/ci-mvn-sca-client"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9315,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "sca-analyser",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/sca-analyser"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9345,
+    "datasourceId": 378627,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "uix-automation",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/uix-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 18926,
+    "collectionName": "Testing",
+    "collectionId": 128976,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9344,
+    "datasourceId": 378626,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "ti-automation",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/ti-automation"
+    },
+    "projectName": "Testing",
+    "projectId": 18926,
+    "collectionName": "Testing",
+    "collectionId": 128976,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9297,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/dummy",
+      "name": "branch-name-test",
+      "infraWebUrl": "https://git.blueoptima.com/projects/DUMMY/repos/branch-name-test"
+    },
+    "projectName": "BlueOptima Test",
+    "projectId": null,
+    "collectionName": "BlueOptima Test",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9312,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "nvd-repo-identification-google",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/nvd-repo-identification-google"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9328,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "integrator",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/integrator"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9336,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/test",
+      "name": "central-server-automation",
+      "infraWebUrl": "https://git.blueoptima.com/projects/TEST/repos/central-server-automation"
+    },
+    "projectName": "Testing",
+    "projectId": null,
+    "collectionName": "Testing",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9307,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "labs",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/labs"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9327,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "exclusion-service",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/exclusion-service"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9296,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "wildfly-clustering",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/wildfly-clustering"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 8937,
+    "datasourceId": 378527,
+    "adConfigId": 347,
+    "adRequestId": "35663462-3235-3338-2d66-6330342d3432",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "sachapki",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@bitbucket.org:shivaji785",
+      "name": "checkstyle-1",
+      "infraWebUrl": "https://bitbucket.org/shivaji785/checkstyle-1"
+    },
+    "projectName": "shivaji785",
+    "projectId": 18913,
+    "collectionName": "shivaji785",
+    "collectionId": 128953,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 1,
+    "totalCommits": 9162,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://api.bitbucket.org"
+  },
+  {
+    "adDatasourceId": 9326,
+    "datasourceId": 378621,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "ddl",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/ddl"
+    },
+    "projectName": "GitProject3",
+    "projectId": 22210,
+    "collectionName": "GitProject3",
+    "collectionId": 132627,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9295,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "ubs-integration",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/ubs-integration"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9321,
+    "datasourceId": 378601,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/dt",
+      "name": "testing-administration",
+      "infraWebUrl": "https://git.blueoptima.com/projects/DT/repos/testing-administration"
+    },
+    "projectName": "Developer Testing",
+    "projectId": 22469,
+    "collectionName": "Developer Testing",
+    "collectionId": 132919,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9323,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "central-server",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/central-server"
+    },
+    "projectName": "Karmis",
+    "projectId": null,
+    "collectionName": "Karmis",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9309,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/ci",
+      "name": "lgtm-vulnerability-checker",
+      "infraWebUrl": "https://git.blueoptima.com/projects/CI/repos/lgtm-vulnerability-checker"
+    },
+    "projectName": "Code Insight",
+    "projectId": null,
+    "collectionName": "Code Insight",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9322,
+    "datasourceId": 378617,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/karmis",
+      "name": "adjustment-service",
+      "infraWebUrl": "https://git.blueoptima.com/projects/KARMIS/repos/adjustment-service"
+    },
+    "projectName": "Karmis",
+    "projectId": 18925,
+    "collectionName": "Karmis",
+    "collectionId": 128975,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9349,
+    "datasourceId": 378802,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/uf",
+      "name": "mock-apis",
+      "infraWebUrl": "https://git.blueoptima.com/projects/UF/repos/mock-apis"
+    },
+    "projectName": "UI FrontEnd",
+    "projectId": 22571,
+    "collectionName": "UI FrontEnd",
+    "collectionId": 133028,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "onboardedOn": "2020-04-13 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 9286,
+    "datasourceId": null,
+    "adConfigId": 340,
+    "adRequestId": "32643532-3930-3337-2d61-3236632d3461",
+    "infraType": {
+      "infraTypeId": 22,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "gargch",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "ssh://git@atlassian.tools.bo.local:7999/lab",
+      "name": "impact-analysis",
+      "infraWebUrl": "https://git.blueoptima.com/projects/LAB/repos/impact-analysis"
+    },
+    "projectName": "BlueOptima Lab",
+    "projectId": null,
+    "collectionName": "BlueOptima Lab",
+    "collectionId": null,
+    "integratorId": 1755,
+    "organizationId": 249,
+    "totalLogins": 0,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-13 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://git.blueoptima.com"
+  },
+  {
+    "adDatasourceId": 4289,
+    "datasourceId": 373777,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-data-mongodb",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spring-data-mongodb"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 886,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2214,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_-lYOYePhEee3G6rNK5dJ_g",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 3,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4243,
+    "datasourceId": 373695,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "learnantlr",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/learnantlr"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 12,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4195,
+    "datasourceId": 373629,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "angular-app",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/angular-app"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 392,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4290,
+    "datasourceId": 373778,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-framework",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spring-framework"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 10000,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4291,
+    "datasourceId": 373779,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "Spring-Hibernate-Bootstrap-Pagination",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/Spring-Hibernate-Bootstrap-Pagination"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4244,
+    "datasourceId": 373696,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "LearningNodeJS",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/LearningNodeJS"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 8,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4292,
+    "datasourceId": 373725,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "Angular-11",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/Angular-11"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 2,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2158,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_mLVqkbOBEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": null,
+    "collectionName": "NewProj",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 2172,
+    "datasourceId": 372203,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_Mr9zoCwlEeinhMDp22uVSw",
+      "infraWebUrl": null
+    },
+    "projectName": "Shiva Tiwari",
+    "projectId": 18884,
+    "collectionName": "Shiva Tiwari",
+    "collectionId": 128924,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 7,
+    "onboardedOn": "2019-10-01 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4293,
+    "datasourceId": 373726,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "Angular-Docker-Microservices1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/Angular-Docker-Microservices1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 10,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4245,
+    "datasourceId": 373697,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "LetMeTravel",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/LetMeTravel"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 56,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2170,
+    "datasourceId": 372201,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_ne-d8Sw3EeinhMDp22uVSw",
+      "infraWebUrl": null
+    },
+    "projectName": "AD",
+    "projectId": 18420,
+    "collectionName": "AD",
+    "collectionId": 128432,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 8,
+    "onboardedOn": "2019-10-01 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4294,
+    "datasourceId": 373728,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "api-management-policy-snippets1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/api-management-policy-snippets1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 69,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4295,
+    "datasourceId": 373730,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "awesome-react-native1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/awesome-react-native1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1567,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2213,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_-oa7UOPhEee3G6rNK5dJ_g",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 5,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 2217,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "Integrator_Exception_Test_Repo",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/123"
+    },
+    "projectName": "Integrator_Exception_Test_Repo",
+    "projectId": null,
+    "collectionName": "Integrator_Exception_Test_Repo",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4170,
+    "datasourceId": 373672,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "ID101",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/ID101"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 22,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4296,
+    "datasourceId": 373731,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "azure-functions-cli1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/azure-functions-cli1"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 247,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4160,
+    "datasourceId": 373644,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "azure-functions-cli",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/azure-functions-cli"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 247,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2162,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_OnXPwLIJEem2EqQOGzstXw",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4297,
+    "datasourceId": 373732,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "azure-rest-api-specs1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/azure-rest-api-specs1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 3501,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4196,
+    "datasourceId": 373635,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "AngularJS-SpringMVC-example",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/AngularJS-SpringMVC-example"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 8,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4298,
+    "datasourceId": 373733,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "checkstyle-11",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/checkstyle-11"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 7285,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4299,
+    "datasourceId": 373734,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "cosmosdb-func-thing1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/cosmosdb-func-thing1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2157,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8KBfsLOSEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": null,
+    "collectionName": "NewProj",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4300,
+    "datasourceId": 373735,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "free-programming-books1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/free-programming-books1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 4732,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4197,
+    "datasourceId": 373636,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "angularjs-springmvc-sample",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/angularjs-springmvc-sample"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 70,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4301,
+    "datasourceId": 373736,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "gravity1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/gravity1"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 490,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4302,
+    "datasourceId": 373737,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "ibm-react-oct1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/ibm-react-oct1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 6,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4303,
+    "datasourceId": 373738,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "ID1011",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/ID1011"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 27,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2174,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8kDYoAWHEeidy8hcVQUyYg",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": null,
+    "collectionName": "RTCDEVProject",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 10,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4304,
+    "datasourceId": 373739,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "java1021",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/java1021"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 30,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4305,
+    "datasourceId": 373749,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "openj91",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/openj91"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 740,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2156,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8UMIUbOSEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": null,
+    "collectionName": "NewProj",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4171,
+    "datasourceId": 373679,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "java102",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/java102"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 30,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4198,
+    "datasourceId": 373633,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "AngularJSAuthentication",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/AngularJSAuthentication"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 16,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4306,
+    "datasourceId": 373751,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "Perl-Metrics-Simple1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/Perl-Metrics-Simple1"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 114,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4307,
+    "datasourceId": 373724,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "1PyMetrics",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/1PyMetrics"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 3,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4308,
+    "datasourceId": 373763,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "saliengame_idler1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/saliengame_idler1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 132,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2155,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "65646464-3565-3636-2d30-3562662d3433",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8WICAbOSEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": null,
+    "collectionName": "NewProj",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4309,
+    "datasourceId": 373765,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "sonar-checkstyle1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/sonar-checkstyle1"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 147,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4310,
+    "datasourceId": 373769,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spark1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spark1"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 10000,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4311,
+    "datasourceId": 373770,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "SpecFlow.NetCore1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/SpecFlow.NetCore1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 129,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4312,
+    "datasourceId": 373775,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-boot1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spring-boot1"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 10000,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4165,
+    "datasourceId": 373654,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "cosmosdb-func-thing",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/cosmosdb-func-thing"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4313,
+    "datasourceId": 373780,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "Spring-Hibernate-MVC-Part21",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/Spring-Hibernate-MVC-Part21"
+    },
+    "projectName": "P0_Automationodfiov",
+    "projectId": 20177,
+    "collectionName": "C0_Automationsvxplu",
+    "collectionId": 130173,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 2,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4314,
+    "datasourceId": 373782,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-rest-template1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spring-rest-template1"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 62,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4246,
+    "datasourceId": 373698,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "limdu",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/limdu"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 437,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4315,
+    "datasourceId": 373783,
+    "adConfigId": 256,
+    "adRequestId": "65366636-3431-6138-2d31-3261392d3439",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "spring-security1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/spring-security1"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 4,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 8557,
+    "datasourceId": 378729,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_1JLrIun_EeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": 22527,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": 132980,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 3,
+    "totalCommits": 40,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8566,
+    "datasourceId": 378734,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kZd_0unvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 22399,
+    "collectionName": "Apache_Python",
+    "collectionId": 132837,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8582,
+    "datasourceId": 378750,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BAFiwOlzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8603,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "RtcFile",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/"
+    },
+    "projectName": "RtcFile",
+    "projectId": null,
+    "collectionName": "RtcFile",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8588,
+    "datasourceId": 378756,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_-lYOYePhEee3G6rNK5dJ_g",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCProject",
+    "projectId": 22523,
+    "collectionName": "RTCProject",
+    "collectionId": 132975,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8523,
+    "datasourceId": 378392,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_6Bbi8WnmEeqyKrWHAOl-Zw",
+      "infraWebUrl": null
+    },
+    "projectName": "Shiva Tiwari",
+    "projectId": 22405,
+    "collectionName": "Shiva Tiwari",
+    "collectionId": 132843,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 8,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8537,
+    "datasourceId": 378394,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_7Xmk0I8JEeiFduvzPd-LuQ",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_Exception_Test_Repo",
+    "projectId": 22403,
+    "collectionName": "Integrator_Exception_Test_Repo",
+    "collectionId": 132841,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8573,
+    "datasourceId": 378741,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_j3q6UOnvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 22399,
+    "collectionName": "Apache_Python",
+    "collectionId": 132837,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8534,
+    "datasourceId": 378390,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_Dq7B0LKBEem2EqQOGzstXw",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": 22404,
+    "collectionName": "NewProj",
+    "collectionId": 132842,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8581,
+    "datasourceId": 378749,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BB4SgulzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8596,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "EJBCA_SVNtoRTC",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/"
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": null,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8558,
+    "datasourceId": 378730,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_H4iisOn_EeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": 22527,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": 132980,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 3,
+    "totalCommits": 38,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8553,
+    "datasourceId": 378725,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_CTIOwerCEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": 22400,
+    "collectionName": "Apache_XIPH",
+    "collectionId": 132838,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 2,
+    "totalCommits": 14288,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8569,
+    "datasourceId": 378737,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kK1G4OnvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 22399,
+    "collectionName": "Apache_Python",
+    "collectionId": 132837,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8560,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_k1J2QunvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8535,
+    "datasourceId": 378391,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_XaCYILJ-Eem2EqQOGzstXw",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": 22404,
+    "collectionName": "NewProj",
+    "collectionId": 132842,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 4,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8572,
+    "datasourceId": 378740,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_j8WmAunvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 22399,
+    "collectionName": "Apache_Python",
+    "collectionId": 132837,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8527,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_afXvkbUqEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProjectTest",
+    "projectId": null,
+    "collectionName": "NewProjectTest",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8552,
+    "datasourceId": 378724,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_35qnUO2EEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": 22525,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": 132977,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 42,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8580,
+    "datasourceId": 378748,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BD5EselzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8555,
+    "datasourceId": 378727,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_pHcrceqrEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_test_cases",
+    "projectId": 22527,
+    "collectionName": "Integrator_test_cases",
+    "collectionId": 132980,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 3,
+    "totalCommits": 30,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8599,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "RTCProject",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/"
+    },
+    "projectName": "RTCProject",
+    "projectId": null,
+    "collectionName": "RTCProject",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 7138,
+    "datasourceId": null,
+    "adConfigId": 329,
+    "adRequestId": "b64e8218-c795-47b5-a82d-5966094f4ab7",
+    "infraType": {
+      "infraTypeId": 15,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "BOTestUser",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://github.com/BOTestUser",
+      "name": "emptyRepoForTest",
+      "infraWebUrl": "https://github.com/BOTestUser/emptyRepoForTest"
+    },
+    "projectName": "BOTestUser",
+    "projectId": null,
+    "collectionName": "BOTestUser",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-31 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://github.com"
+  },
+  {
+    "adDatasourceId": 8542,
+    "datasourceId": 378712,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_jgJC4izREeinhMDp22uVSw",
+      "infraWebUrl": null
+    },
+    "projectName": "Integrator_SCR_Test_Cases",
+    "projectId": 22525,
+    "collectionName": "Integrator_SCR_Test_Cases",
+    "collectionId": 132977,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 4,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8597,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "Apache_Python",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/"
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8539,
+    "datasourceId": 378709,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_GIrxkTZREeinhMDp22uVSw",
+      "infraWebUrl": null
+    },
+    "projectName": "Chunky Garg",
+    "projectId": 22524,
+    "collectionName": "Chunky Garg",
+    "collectionId": 132976,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8528,
+    "datasourceId": 378702,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_VmcdcbOYEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": 22404,
+    "collectionName": "NewProj",
+    "collectionId": 132842,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8579,
+    "datasourceId": 378747,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BFr0celzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8598,
+    "datasourceId": null,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "NewProjectTest",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/"
+    },
+    "projectName": "NewProjectTest",
+    "projectId": null,
+    "collectionName": "NewProjectTest",
+    "collectionId": null,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-04-11 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8525,
+    "datasourceId": 378393,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_Oz-KwGIFEeq85uKRkpVdsQ",
+      "infraWebUrl": null
+    },
+    "projectName": "RTC_File_Id",
+    "projectId": 22406,
+    "collectionName": "RTC_File_Id",
+    "collectionId": 132844,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8556,
+    "datasourceId": 378728,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_LS_3kOokEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": 22400,
+    "collectionName": "Apache_XIPH",
+    "collectionId": 132838,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8524,
+    "datasourceId": 378395,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_VewXkGnjEeqyKrWHAOl-Zw",
+      "infraWebUrl": null
+    },
+    "projectName": "RtcFile",
+    "projectId": 22407,
+    "collectionName": "RtcFile",
+    "collectionId": 132845,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8529,
+    "datasourceId": 378703,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8WICAbOSEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": 22404,
+    "collectionName": "NewProj",
+    "collectionId": 132842,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8549,
+    "datasourceId": 378721,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_LkWWAQTuEeidy8hcVQUyYg",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": 22526,
+    "collectionName": "RTCDEVProject",
+    "collectionId": 132979,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8578,
+    "datasourceId": 378746,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BHd9IulzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8576,
+    "datasourceId": 378744,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_TrHBkOnuEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 22399,
+    "collectionName": "Apache_Python",
+    "collectionId": 132837,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8589,
+    "datasourceId": 378757,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_HWl24OOWEee3G6rNK5dJ_g",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCDEVProject",
+    "projectId": 22526,
+    "collectionName": "RTCDEVProject",
+    "collectionId": 132979,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 2,
+    "totalCommits": 23,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8547,
+    "datasourceId": 378719,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_AgaSke9lEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "RTCProject",
+    "projectId": 22523,
+    "collectionName": "RTCProject",
+    "collectionId": 132975,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 3,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8530,
+    "datasourceId": 378704,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_8UMIUbOSEemsgOBT1z4Pgg",
+      "infraWebUrl": null
+    },
+    "projectName": "NewProj",
+    "projectId": 22404,
+    "collectionName": "NewProj",
+    "collectionId": 132842,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 1,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 8577,
+    "datasourceId": 378745,
+    "adConfigId": 349,
+    "adRequestId": "1523aea5-c689-4c68-9587-14263f30eadc",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_BJc6IulzEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "EJBCA_SVNtoRTC",
+    "projectId": 22401,
+    "collectionName": "EJBCA_SVNtoRTC",
+    "collectionId": 132839,
+    "integratorId": 1185,
+    "organizationId": 251,
+    "totalLogins": 1,
+    "totalCommits": 2,
+    "onboardedOn": "2020-04-11 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": false,
+    "hostUrl": "https://10.0.23.233:9443/ccm/"
+  },
+  {
+    "adDatasourceId": 2219,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "eddd5e66-05bf-43fe-8c88-d1e035b3ba33",
+    "infraType": {
+      "infraTypeId": 25,
+      "type": "taskTracker",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "Apache_XIPH",
+      "infraWebUrl": "https://10.0.23.233:9443/ccm/123"
+    },
+    "projectName": "Apache_XIPH",
+    "projectId": null,
+    "collectionName": "Apache_XIPH",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 2193,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "eddd5e66-05bf-43fe-8c88-d1e035b3ba33",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kUmt8OnvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123"
+  },
+  {
+    "adDatasourceId": 4167,
+    "datasourceId": 373665,
+    "adConfigId": 256,
+    "adRequestId": "e6f641a8-12a9-4995-9597-53fc1408d768",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "gravity",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/gravity"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 490,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 6921,
+    "datasourceId": null,
+    "adConfigId": 261,
+    "adRequestId": "ed0ef53f-fde8-48f3-b09d-473162a985a4",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": true,
+        "user": "shiva10162",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@gitlab.com/vvvvd:root",
+      "name": "EmptyBareRepository",
+      "infraWebUrl": "http://gitlab.com/vvvvd/root/EmptyBareRepository"
+    },
+    "projectName": "Administrator",
+    "projectId": null,
+    "collectionName": "Administrator",
+    "collectionId": null,
+    "integratorId": 756,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": null,
+    "discoveredOn": "2020-03-26 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://gitlab.com/vvvvd"
+  },
+  {
+    "adDatasourceId": 4266,
+    "datasourceId": 373745,
+    "adConfigId": 256,
+    "adRequestId": "e6f641a8-12a9-4995-9597-53fc1408d768",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "node.js-1",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/node.js-1"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4235,
+    "datasourceId": 373687,
+    "adConfigId": 256,
+    "adRequestId": "e6f641a8-12a9-4995-9597-53fc1408d768",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "javascript",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/javascript"
+    },
+    "projectName": "Administrator",
+    "projectId": 18419,
+    "collectionName": "Administrator",
+    "collectionId": 128431,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 643,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4190,
+    "datasourceId": 373625,
+    "adConfigId": 256,
+    "adRequestId": "e6f641a8-12a9-4995-9597-53fc1408d768",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "3dsim",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/3dsim"
+    },
+    "projectName": "Project1666",
+    "projectId": 17699,
+    "collectionName": "Collection101",
+    "collectionId": 127630,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 3,
+    "discoveredOn": "2020-01-15 00:00:00",
+    "status": "DISCOVERED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 4267,
+    "datasourceId": 373746,
+    "adConfigId": 256,
+    "adRequestId": "e6f641a8-12a9-4995-9597-53fc1408d768",
+    "infraType": {
+      "infraTypeId": 21,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "root",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "git@ec2-54-217-146-7.eu-west-1.compute.amazonaws.com:root",
+      "name": "node.js-2",
+      "infraWebUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com/root/node.js-2"
+    },
+    "projectName": "TeamFoundationServer_tt Data",
+    "projectId": 19038,
+    "collectionName": "",
+    "collectionId": 129115,
+    "integratorId": 749,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 4,
+    "onboardedOn": "2020-01-15 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "http://ec2-54-217-146-7.eu-west-1.compute.amazonaws.com//123123"
+  },
+  {
+    "adDatasourceId": 2187,
+    "datasourceId": 372204,
+    "adConfigId": 188,
+    "adRequestId": "eddd5e66-05bf-43fe-8c88-d1e035b3ba33",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kwcVYenvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": 18882,
+    "collectionName": "Apache_Python",
+    "collectionId": 128922,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "onboardedOn": "2019-10-01 00:00:00",
+    "status": "ONBOARDED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123",
+    "lastActive": null
+  },
+  {
+    "adDatasourceId": 2192,
+    "datasourceId": null,
+    "adConfigId": 188,
+    "adRequestId": "eddd5e66-05bf-43fe-8c88-d1e035b3ba33",
+    "infraType": {
+      "infraTypeId": 24,
+      "type": "versionControl",
+      "repositoryUserDetails": {
+        "overrideAtIntegrator": false,
+        "user": "tiwarish",
+        "password": null,
+        "pat": null
+      }
+    },
+    "instance": {
+      "url": "https://10.0.23.233:9443/ccm/",
+      "name": "_kZd_0unvEeeGieDJM4rdRg",
+      "infraWebUrl": null
+    },
+    "projectName": "Apache_Python",
+    "projectId": null,
+    "collectionName": "Apache_Python",
+    "collectionId": null,
+    "integratorId": 283,
+    "organizationId": 247,
+    "totalLogins": null,
+    "totalCommits": 1,
+    "discoveredOn": "2019-10-01 00:00:00",
+    "status": "IGNORED",
+    "isExtractionInProgress": true,
+    "hostUrl": "https://10.0.23.233:9443/ccm/123",
+    "lastActive": null,
+    "onboardedOn": null
+  }
+]

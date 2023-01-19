@@ -1,0 +1,21 @@
+[
+  {
+    "anonymizationType": "string",
+    "fromDate": "string",
+    "generatedBy": {
+      "userId": 0,
+      "userName": "string"
+    },
+    "generatedFor": [
+      0
+    ],
+    "generationDate": "string",
+    "id": 0,
+    "organizationIds": [
+      0
+    ],
+    "partialData": false,
+    "status": "string",
+    "type": "string"
+  }
+]

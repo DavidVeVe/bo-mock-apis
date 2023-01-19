@@ -1,0 +1,81 @@
+{
+  "userInfo": {
+    "title": null,
+    "firstname": "test",
+    "surname": "121",
+    "e-mail": "test-121@blueoptima.com"
+  },
+  "tours": {
+    "isTourForSlideoverEnabled": false,
+    "isSmallTourForOpenClickthroughEnabled": false,
+    "isTourForFacetEnabled": false,
+    "isTourForChartsEnabled": false,
+    "isTourForOverviewEnabled": false,
+    "isTourForDraggableEnabled": false
+  },
+  "timeZone": "GMT+00:00",
+  "lastLogin": "2019-08-25 23:25:03",
+  "currency": {
+    "code": "USD",
+    "symbol": "US$"
+  },
+  "blocks": [
+    {
+      "name": "favorites",
+      "visibility": "",
+      "position": 3
+    },
+    {
+      "name": "benchmark",
+      "visibility": "",
+      "position": 0
+    },
+    {
+      "name": "predictiveAssessment",
+      "visibility": "",
+      "position": 1
+    },
+    {
+      "name": "codingEffortReport",
+      "visibility": "",
+      "position": 2
+    }
+  ],
+  "subscriptions": {
+    "predictiveAssessment": true,
+    "benchmarks": false
+  },
+  "enterpriseName": "Enterprise-121",
+  "newOptionNotification": [],
+  "promotion": {
+    "overview": false,
+    "predictiveAssessment": false,
+    "reviewDeliverables": false,
+    "analyseCodingEffort": false,
+    "benchmark": false
+  },
+  "pageAccess": [
+    "overview",
+    "analyseCodingEffort",
+    "reviewDeliverables",
+    "manageCustomDeliverables",
+    "manageSystemDeliverables",
+    "activeAlerts",
+    "manageIntegrators",
+    "manageDevelopers",
+    "biDatasets",
+    "manageProjectsAndCollections",
+    "dataCollectionHistory",
+    "accessManagement",
+    "configureDataSources",
+    "apiDocs",
+    "benchmark",
+    "autoDiscovery",
+    "predictiveAssessment"
+  ],
+  "costData": false,
+  "fullEnterpriseAccess": true,
+  "isSAML": false,
+  "isNewUser": false,
+  "isEnterpriseSAML": false
+}

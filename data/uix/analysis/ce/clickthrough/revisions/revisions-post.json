@@ -1,0 +1,1313 @@
+{
+  "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5": {
+    "commitComment": "[xxxxx-25736][xxx][xxxx] xxx xxxxx xx xxxxxx xxx xxxxxxxx xx xxxxx-xxxxxx xxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx-xxxxxx xxxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxxx(xxxxxxxx xxxxx'x xxxxxxx), xxx xxx xxx xxxxxxxx xxxxx'x xxxxxx xx xxxxxxx, xx xxxx xx x xxx xxxx.xxxxxxx xxxxx xxxxxxxx xx, xx xxxxxx xxxxxxx xxxxxxxx xxx xxxxxxx xxxxxxxx xxx xxx xxxxx xx xxxxxx xx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22728 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2018-10-16",
+    "revisionId": "e028fd3aed9e5e4c478f307f0a467b54b73ff0d5",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      },
+      {
+        "fileType": "out",
+        "count": 1
+      },
+      {
+        "fileType": "sql",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 85.41,
+      "complexity": 14.59,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.78
+  },
+  "72a23a6c43fe1b5a6583ea6b35b4fbb08474abbe": {
+    "commitComment": "[xxxxx-25772][xxx][xxxxxxxx] xxxxxx xxxxxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22745 xx xxxxxxxxxx xxx `xxxxxxxxxxxxxxx` xxxxxxxxxx. xxxxx xx x xxxxxxxx xxxx xx xxxxxxxxxx xx xx xxxxxxx xxxx `xxxxxxx` xxx `xxxxxxxxx`.xxxxxx xx xxxxxxx `xxxxxxxxxxxxxxx`xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #22825 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-26",
+    "revisionId": "72a23a6c43fe1b5a6583ea6b35b4fbb08474abbe",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      }
+    ],
+    "metricsSummary": {
+      "volume": 68.39,
+      "complexity": 31.61,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 2.53
+  },
+  "16986b29e22553797e0e78df445eac94a44285c7": {
+    "commitComment": "[xxxxx-26382][xxxx] xxxxxx xxxxxxxxxx xxxxxx xxxxxx -0.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx xxxx xx x xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23239xxxxx `xxxxxxxxxxxxx` xxxx xxxxxxxxx xxxxxxx xxxxx/xxxxxx xxxxxx(xxx xxx -0.0), xx xxx xxxxxx xxxxx'x xxxx xx xxxxxx xx.xxxxxxxxx, xxx xxxxxxxxxxx xxx xxxxxx-xxxxx, xxxx xx xxxxxxxx xx xxxxxxxxx `-0.0` xx xxx xxxxxx xxxxxxxxxx, xx xxxx xx'x xxxx xxxx xxx xxxxxx xxxxxxxx. xxxx xxxx xxxxxx xxxxxxxxxx xxxxxxx xxx xx xxxx.xxxxxx xx xxx x xxx xxx, xxx x xxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23334 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx xxxxx983x2xx4x7828xx7x7xx7345x17x4x291xx)xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-18",
+    "revisionId": "16986b29e22553797e0e78df445eac94a44285c7",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.13,
+      "complexity": 19.36,
+      "interrelatedness": 8.51
+    },
+    "percentOfAberrantCE": 10.49
+  },
+  "1757a603fa123e3a81a7bfc06f9b58ee328f11b0": {
+    "commitComment": "xxx-xxx xxxxxxx xxxxxxx",
+    "commitDateTime": "2018-10-26",
+    "revisionId": "1757a603fa123e3a81a7bfc06f9b58ee328f11b0",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 78.22,
+      "complexity": 21.78,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "33460c58a9274e22bd662858c71292275ae4aa24": {
+    "commitComment": "[xxxxx-26021][2.4][xxx][xxxxxxxx] xxxx xxxx xxxx xxx xxx -0.0 xx xxxxxxxxxxxxxxxxxxxxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23239 xx 2.4xx---------xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23043xxxxxxx xxx 4 xxxxxx xx xxxx xx xxxx xxxx xxx xxx -0.0:x1. xxxxxxxxxx xxxxxxxxxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.x2. xxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.x3. xxxxxxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxxx xx xxx xxxx xxxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxxx xx xxx xxxx xxxxx.x4. xxxxxx xxxxxxxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.xxxxx xxxx 1 xx xx. xxx xxxxxxxxxx xxxxxxx xxxxxxx xxx xxx -0.0, xxx xxx xxxxxx/xxxxx/xxx, xx xxxx xxxxxxxxxxx xxxxxxx xxx xxxxxx/xxxxxxxx.xxxxxx 2, 3 xxx 4 xxx xxxxxxxxxxx, xx xxxx xxxxxxx `xxxxxxxxx` xxxxxx xxxxxxxx, xxx xxxxxxxxx xxxx xxxx xxxxxxxxx xxxxxx xxxxxxxxxxxxxx, xxx xxx xxxx xxxxx xxxxxxx xxx -0.0 xxx 0.0.xxxx xxx xx, x xxxxxx xxxxxxxx xx: xxxxxxxxx xxxxx/xxxxxx xxxx xxxxxxxx xxxxxx xxxx (`xxxxxxxxx`, `xxxxxxxxxxxxxxx`, `xxxxxxxxxxxxx`). xxxx xx xxx'x xxxx xx xxxxx xxxxx xx xxxxxxx.xxxxxxxxxxx xxxx xxxxxxxxx, xxxx xx xxxxx xxx xxxxxxxx xx xxx xxx -0.0 xxxx `xxxxxxxx` xx `xxxxxxxxxxxx`, xx xxxx xxxxxx xxxx `xxxxxxxxx.xxxxxxxx` xxxx xxx xxxxxx xxxx, xxxxx xxxxxxx xxx xxxx xxxxxxxx. xx'x xxxx xxxxxx xx xxx xxxxxxxx xxxxxxxxxx xxx xx xx xx xx `xxxxxxxxxxxx`.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23265 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-09",
+    "revisionId": "33460c58a9274e22bd662858c71292275ae4aa24",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 3
+      },
+      {
+        "fileType": "scala",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.15,
+      "complexity": 20.85,
+      "interrelatedness": 4.0
+    },
+    "percentOfAberrantCE": 7.42
+  },
+  "973f7c01df0788b6f5d21224d96c33f14c5b8c64": {
+    "commitComment": "[xxxxx] xxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx xxxx 2.4.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx 2.4.0 xx xxxxxxxx, xx xxxxxx xxxx xx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22984 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-11-08",
+    "revisionId": "973f7c01df0788b6f5d21224d96c33f14c5b8c64",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 61.29,
+      "complexity": 38.71,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "a241a150d52b24ce952efab0830af4c0c9343c1b": {
+    "commitComment": "[xxxxx] xxxxxx xxxxx_xxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxx xxxxx_xxxxxxxxxxxx xxxxx xxxxxxx `xxxxxxxxx-xxxxxxxxxxxx.xx` xxxxxx 2.4.0 xxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22949 xxxx xxxxx-xxx/xxxxxxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-11-06",
+    "revisionId": "a241a150d52b24ce952efab0830af4c0c9343c1b",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "known_translations",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "219b037f05636a3a7c8116987c319773f4145b63": {
+    "commitComment": "[xxxxx-26071][xxx] xxxxxxxx xxx xx xxx xxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxx xx xxxxxxxxxxxxxx xxxxxxxxxx, xxxxxxxxx xxxxx xxx'x xxxxxxx xx xx xxxxxxxx xxxxx xxxxxxx xxx xxxxx. xx x xxxxxx, xxx xxxxxx xxx'x xxxxxx xx xxxxx xx xxxxxxxxxx xxxxxxxxxxx, xxx'x xx xxxxxxxx xxx, xxx.xxxxx xxxx xxxxxxxxx xxxxx xx, xxx xxxx xx xxxxx xx xx xxxxxxxx xxxxx xx xxx xxx xxx, xxx xxxx xxx'x xxxxxxx xxx xx xxx xxx xxxx xxxxxxx xx xxxxxx xxxx x xxx. xxxx xx'x xxx xxxxxx xx xxxx xxx xx xxx xxx.xxxxxx xx xxxxxxxx xx xxxx xxxxx xxxx xxxxxxxx xxxx xxxxx xxx xxxx xx xxx. xxx xxxx xx xxxxxxxxxxx xxxx xxx xxxxxxx: `xxxxxxxxx`, `xxxxxxxxxxxxx`, `xxxxxxxxxxxxxx`, `xxxxxxxxx`, `xxxxxxxxxxxxx`. x xxxxxxxx xxxxxxx xxx xxx xxxxxx xxxx xxxxxx `xxxxxxx`, xxx xxxx xx xxxx xxxx xxxx.xxxxxx xxxx, xxxx xxxx xxx xxxx xxx xxxxx xxxxx, xxx xxxxxxx xxxx xxxxxxx xxxxx, xxxxxxxxxx xxxx xxxxx/xxxx xxx, xxx. xxxx xx xx xxx xx xxxxxxxxxx xxxxxx xxx xx xxx xxx, xxx xx xxxxx xxxxxxxx xx xx xxxxx xxxxxx.xxxxxxxxxxxx: xxxx x xxx xxxxxx xx xxx xxx xxxxxxxxx xxx xxxxxxx, x xxxxx xx'x xxxxxxxxxx xx xx xx xxxx xxx xxxx xxx xxx. x xxxxx xx'x xxxxxxxxxx xx xxxxx xxx xxxx xxx xxx xxx xxxxxxx xxxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxx xxxxxxxxxxxx #23045 xxxx xxxxx-xxx/xxx-xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-19",
+    "revisionId": "219b037f05636a3a7c8116987c319773f4145b63",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 8
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      },
+      {
+        "fileType": "out",
+        "count": 1
+      },
+      {
+        "fileType": "sql",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.92,
+      "complexity": 24.08,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 15.4
+  },
+  "bba506f8f454c7a8fa82e93a1728e02428fe0d35": {
+    "commitComment": "[xxxxx-26216][xxx][xxxxxxxx] xxx xxxxxxxx xxxxx xxxxxxx xx xxxxx xxx xxxxxxxxxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23178 , xx xxxx xxxxxx xxxxxxxxxxx xx xxxxx xxxxxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxx xxxx. x xxxxxxx x xxxxxx xxx xxxx xxxxx 2.4x```xxxxxxx xxxxxx {x  xxx xxxx(xxxx: xxxxx[xxxxxx]): xxxx = {x    xxx xxxxx = xxxxxxxxxxxx.xxxxxxx().xxxxxxx(\"xxxx\").xxxxxx(\"xxxxx[*]\").xxxxxxxxxxx()x    xxxxxx xxxxx.xxxxxxxxx._x    xxx x1 = xxx((x: xxx) => x + 1)x    xxxxxxx(x1.xxxxxxxxxxxxx)x    xxxxx.xxxxx(10).xxxxxx(x1.xxxxxxxxxxxxx().xxxxx($\"xx\")).xxxx()x    xxxxx.xxxx()x  }x}x```xxxxxx x xxx xx xxxx xxxxxxx xxxxxx, xx xxxxx xxxxx```xxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx: xxxxx xxxxxxxxx xxx.xxxxxx.xxxxx.xxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx, xxx xxxxx xxx xxxxxxxxx```xxxxxx x xxx xx xxxx xxxx xx, xx xxxxxxxxxxxxx #23351 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-12-22",
+    "revisionId": "bba506f8f454c7a8fa82e93a1728e02428fe0d35",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 76.53,
+      "complexity": 23.47,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.42
+  },
+  "05b68d5cc92e46bd701cd01b4179cd13397eaf90": {
+    "commitComment": "[xxxxx-26297][xxx] xxxxxxx xxx xxx xx xxxxxxxxxxxx/xxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xxxxxxxxx xx `xxxxxxxxxxxx/xxxxxxxxxxxx` xxx xxxxx xxx xxxxxxxxxx, xxxx xx xxxxx xxxx:x1. `xxxxxxxxxxxx` xxxxx xxxx xxxxx-xxxxxxxxx xxxxxxxxxxxx2. `xxxxxxxxxxxxxxxxxxx` xxxx xxx xxxxxxx xxxxxx xxxx xxxxx xxx xxxx xxxxx xxxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx.x3. `xxxxxxxxxxxxxxxxx` xxx xxxxxxx x xxxxxx xxxxxxxxx xxx x xxxxxx xx xxx `xxxxxxxx` xxxxxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxx-xxxx xx.xxxxxxxx #23249 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-12-13",
+    "revisionId": "05b68d5cc92e46bd701cd01b4179cd13397eaf90",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 73.84,
+      "complexity": 26.16,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.34
+  },
+  "4c91b224a42863bab599d0aba4cf1b75da60a4ee": {
+    "commitComment": "[xxxxx] xxxxxx xxxxx_xxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxx xxxxx_xxxxxxxxxxxx xxxxx xxxxxxx `xxxxxxxxx-xxxxxxxxxxxx.xx` xxxxxx 2.4.0 xxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22949 xxxx xxxxx-xxx/xxxxxxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx x241x150x52x24xx952xxxx0830xx4x0x9343x1x)xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-11-06",
+    "revisionId": "4c91b224a42863bab599d0aba4cf1b75da60a4ee",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "known_translations",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "affe80958d366f399466a9dba8e03da7f3b7b9bf": {
+    "commitComment": "[xxxxx-26147][xxx] xxxx xxxx xxx xxxxxxxxxxx xxxxxx xxx xxxx xxxx xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22326 xxxx x xxxxxxx xxxx, xxx xxx xxxxxx xxxx xxx xxxxxxxxxxx xx xxxx xxxxxxxxx. xxxx xxxxxx xxxx xxxx xxxxx xx xxxxxxxxxx xxxx xxxx xxxx xxxx xxx xxxxxxxxxxx.xxxxxx xx xxxxx xxxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxxxxxxxxxx #23153 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-28",
+    "revisionId": "affe80958d366f399466a9dba8e03da7f3b7b9bf",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 79.86,
+      "complexity": 20.14,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 14.52
+  },
+  "327456b482dec38a19bdc65061b3c2271f86819a": {
+    "commitComment": "[xxxxx][xxxxx] xxxxxxx xxxxxx xxxxxx xxx xxxxxxxxx xx xxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xxxxxxx xxx xxxxxxx xxxxxx, xxx xxxx xx xxxxxxxxxxx xxxxxxxxxxxxx```xxxxxxxxxx!  xxxx xxxxxxxx xxx xxxxxxxxxxxxxx xxxxx:xx   <xxxxx://xxxx.xxxxxx.xxx:443> xxx xxxxxxxxxxxxxxx xxxx xx xxxxxx xx xxxx xxxxxxxxxxx!  xxx xxx xxxxxxx xx xxxxxxxxxxxxxx xxxxxx xx xxxx xxxxxxxxxx xxx xxxxx xxxxxxxxx xxxxxxxxx, xxxxxxxxxxx.  xxx xxx xxxxxxxxxxxxx xxx xxxxxxx.xxxxx xxx xxxxx xxxxxx xxxxxxxxxxx xx xxxx xxxxxxx xx xxxxxxx xxx xxxxxxxx xxx 'xxxxx-xxxxxxxxx-xxxxxxxxx' xxxxxx xx xxxxxx 'xxx' xx 'xx' xxx'/xxxx/xxxxx-xx/.xxxxxxxxxx/xxxxxxx'.x-----------------------------------------------------------------------xxxxxx xxxxxxxx xxxxxxxxxxx (xxx/xx)?x```xxxx xxx xxxxx xx xx xxxxxx `--xx-xxxx-xxxxx` xxxx xxxxxxx xxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxx xxxx 2.4.0 xx5xxxxxxxx #22885 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-30",
+    "revisionId": "327456b482dec38a19bdc65061b3c2271f86819a",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "sh",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 79.58,
+      "complexity": 20.42,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "0f74bac647c9f8fce112eada7913504b2c6d08fa": {
+    "commitComment": "[xxxxx-24709][xxx][2.4] xxx xxx xxxxxxx xx xxxxxxxxxx xx xxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxxxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22775 xx 2.4, xxx 2.4 xxx xxxxxxx xx xxx xx xxxxxx, xxx xxxxx://xxxxxx.xx.xxxxxxxx.xxx/xxxxxxx/xxxx/xxxxx%20xx%20xxxx/xxx/xxxxx-xxxxxx-2.4-xxxx-xxx-xxxxxx-2.7/147/xxxxxxxxxxxxx xx xxxx `xx xxx.xxxxxxx >= '3': xxxxxxxxxx = xxx` xxxxx xxxxx xxxxxx xx xxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxx #22858 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2018-10-28",
+    "revisionId": "0f74bac647c9f8fce112eada7913504b2c6d08fa",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.91,
+      "complexity": 27.09,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 13.47
+  },
+  "3dba5d41f1a66ae5eb08404d103284110c45a351": {
+    "commitComment": "[xxxxx-25708][xxx] xxxxxx xxxxxxx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxxxxxxxxxx xx xxx xxx xxxxxxxx, xxxx x xxxxx xxxxxxxx `xxxxxx`, xx xxxxxxxxx xx xxxxxxxxx xxxxxxxx. xxx xxxx xxxxxxx xxxxxx xxxxx xx xxxxx://xxxx.xxxx.xxx/2014/12/04/xx-xxx-xxxxxx-xxxxxxxxxx-xxxx-xxxxx-xx-xxx-xxxxxx-xxxxxxx/xxxxxxxxx, xx xxxxx xxx xxxxxx, xx xxxxx xxxxxx xx x xxxxxx xxxxxx xxxx xxxxx xx xx xxxxx xx, xxxxx xxxxxx xxx xxxxxxxx xxx xxxx xx xxxxx xxxxxx. xxxx xx xxxxx xxx xxxxxx.xxxxx xxxxxxxxxxxx #22696 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx 78x133141xx8131x60181x947346802864x0951x)xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-10-12",
+    "revisionId": "3dba5d41f1a66ae5eb08404d103284110c45a351",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 4
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      },
+      {
+        "fileType": "out",
+        "count": 1
+      },
+      {
+        "fileType": "sql",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.36,
+      "complexity": 25.64,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 16.51
+  },
+  "5cef11acc0770ca49a0487d6543eb81022b7415d": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxxx",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "5cef11acc0770ca49a0487d6543eb81022b7415d",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "mvn",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "c21d7e1bb958a0cfa4cba34a688d594466088c9e": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxx(xxxxxxxx xxxxxxx)x",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "c21d7e1bb958a0cfa4cba34a688d594466088c9e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "mvn",
+        "count": 1
+      },
+      {
+        "fileType": "sh",
+        "count": 1
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.94,
+      "complexity": 24.06,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 1.95
+  },
+  "d6be46eb9c68e48f6c0ed1e461649ee9575b2426": {
+    "commitComment": "[xxxxx-24530][xxxxxxxx] xxx xxxxxx xxxx xxxxxx 3 xx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx-24530 xxxxxxxxxx x xxxxxxx xx xxxxxxxxxx xxxxxx xxx, xxx xxxxxxxx x xxx: xxxxxxx xxxxxxxxxxxx xx xxxxxx 3.xxxxxx xx xxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxx xxxxx xxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xx xxx 2.4.0 xx2xxxxxxxx #22607 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxxxx <xxxxxx@xxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-02",
+    "revisionId": "d6be46eb9c68e48f6c0ed1e461649ee9575b2426",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "sh",
+        "count": 1
+      },
+      {
+        "fileType": "dockerfile",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 90.14,
+      "complexity": 9.86,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 3.33
+  },
+  "72a572ffd6e156243b13f9243ed296f6d77b4241": {
+    "commitComment": "[xxxxx-26323][xxx] xxxxx xxx xxxxxx xxxxx xxxxx xxxxx xxxxx xxxx xx xxxx xxxxxx xxx xx xxxx xxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxx xxxxx xxx, xxxx xxxxxxxx xxxxx xxxxxxxxxxx, xx xxxx xxxx xxxxxx xxxx xxxx `xxx`, xxx xxxx xxxxx xxx xxxxxx xxxx xxxxxxx xxxxxxxxxxx xxxx.xxxx xxxxxx xx xxx xxxx xxx xxxxxxxx xxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxx xxxxxxxxxxxxx #23275 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2019-01-08",
+    "revisionId": "72a572ffd6e156243b13f9243ed296f6d77b4241",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 7
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.82,
+      "complexity": 24.18,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 11.96
+  },
+  "130121711c3258cc5cb6123379f2b4b419851c6e": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxx(xxxxxx xxx-xxxxx.xx)x",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "130121711c3258cc5cb6123379f2b4b419851c6e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 71.09,
+      "complexity": 28.91,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 1.51
+  },
+  "2b2c94a3ee89630047bcdd416a977e0d1cdb1926": {
+    "commitComment": "[xxxxx-25528][xxx] xxxx xxxxxx x2 xxx xxxxxxxx (xxxxx xxxx)xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx xxx xxxxx xxxx xx xxx xxxx xxxxxx x2 xxx xxxxxxxx [xxxxxxxx](xxxxx://xxxx.xxxxxx.xxx/xxxxxxxx/x/1xxxxxxxxxx9xxxx7xxx9xxxxx_x6x3xxxxxxxxxxxxx/xxxx?xxx=xxxxxxx)xxxx xxxx xxx xxx xxx xxx xxxxx xxxx, xxxxxxx xxxxxxxx xxx xxx xxxx, xx xxxx xxx xxxxx xxxxxx xxx xxxxxxxxx xxxxxxx.xxxxxx xxxxxxxxxx, xx xxxxx1. `xxxxxxxxxxxxx`, xxxxx xxxx xx xxxxxxxxx xxxxxxxx2. `xxxxx`, xxxxxxxxxx x xxxxxxxxxx xxxx xxx.x3. `xxxxxxxxxxx` xxx `xxxx`, x xxxxxxx xxxxxxxxxx xx xxxx xxxxxx xxxxx4. `xxxxx`, x xxxxxxxx xxxxxxxxxxxxxx xx xxxx xxxxxx xxxxx xxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23086 xxxx xxxxx-xxx/xxxxxxxx-xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-11-30",
+    "revisionId": "2b2c94a3ee89630047bcdd416a977e0d1cdb1926",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 21
+      },
+      {
+        "fileType": "scala",
+        "count": 14
+      }
+    ],
+    "metricsSummary": {
+      "volume": 69.86,
+      "complexity": 19.27,
+      "interrelatedness": 10.87
+    },
+    "percentOfAberrantCE": 7.55
+  },
+  "77156f8c81720ec7364b386a95ef1b30713fe55c": {
+    "commitComment": "[xxxxx-25736][xxx][xxxx] xxx xxxxx xx xxxxxx xxx xxxxxxxx xx xxxxx-xxxxxx xxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx-xxxxxx xxxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxxx(xxxxxxxx xxxxx'x xxxxxxx), xxx xxx xxx xxxxxxxx xxxxx'x xxxxxx xx xxxxxxx, xx xxxx xx x xxx xxxx.xxxxxxx xxxxx xxxxxxxx xx, xx xxxxxx xxxxxxx xxxxxxxx xxx xxxxxxx xxxxxxxx xxx xxx xxxxx xx xxxxxx xx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22728 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxxx <xxxxxx223@xxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx x028xx3xxx9x5x4x478x307x0x467x54x73xx0x5)xxxxxxx-xxx-xx: xxxxxxxxxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2018-10-16",
+    "revisionId": "77156f8c81720ec7364b386a95ef1b30713fe55c",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      },
+      {
+        "fileType": "out",
+        "count": 1
+      },
+      {
+        "fileType": "sql",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 85.41,
+      "complexity": 14.59,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.78
+  },
+  "7d5f6e8c493b96898ba01edede1522121fe945fc": {
+    "commitComment": "[xxxxx-26293][xxx] xxxx xxxxxxxxx xxxx xxxxxx xxxxxx xxx xx xxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx x xxxxxxxxxx xxxxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22104 xx xxxxx 2.4.0.xxxxxx xx xxxx xxxxxx xxx xx xxxxxxxx, xx xxxx xxx xx xxxxxxxxxx```xxxxxxx xx: xxxx.xxxx.xxxxxxxxxxxxxxxxxx: xxx.xxxxxx.xxxxx.xxx.xxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxx xxxxxx xx xxxx xx xxx.xxxxxx.xxxxx.xxx.xxxxxxxx.xxxxxxxxxxx.xxxxxxxxxx\txx xxxxx.xxxxxxxxxx.xxxxxxxxx.xxxxxx.xxx(xxxxxx.xxxxx:414)x\txx xxx.xxxxxx.xxxxx.xxx.xxxxxxxxx.xxxxxx.xxxxxxxxxxxxxx.$xxxxxxx$xxxxxxxxx$2(xxxxxxxxxxxxxx.xxxxx:98)x\txx xxx.xxxxxx.xxxxx.xxx.xxx.$xxxxxxx$xxxxxxxxxxxxx$2(xxx.xxxxx:815)x...x```xxxxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22104 xxxxxx `xxxxxxxxxxxxxxxxx` xxxx x xxxxxxxx xxxx xx xxxxxxxxx xxxx. xxxxxxx, xxxxx xx x xxxxxxxxxx xxxxxxx x xxxxxxxx xxxx xxx xxxxxxxxx xxxx. x xxxxxxxx xxxx xxxxxx xxxx xxxx, xx xxxxxxxxx xxxx xxx xx xxxxxxx xxxxx xx x xxxxx xxxx xxxx xxx xxxx xx xxxxxxx xx x xxxxx xxxx xxxx xxxx xxxx.xxxxx x xxxxxxxx, xxx `xxxxxxxxxxxxxxxxxx` xxxx xxxx xxxxxxx xxx xxxxxx xxxxxxxxx xx xxx xxxxx xxxx xxxxxx xxxxxxxx. xxxxx xx xxxxxxxx xxxx xx xxxxxx xx xxxxx, xxx xxx xxxxxxxxx xxxxx xxxx xx xxxxxxx xx xx xxxxx.xxxxxxxxxxxxxxx, xxx `xxxxxxxxxxxxxxxxx` xxxx xx xxx xxxxxxxxxx. xxxx xx'x xxxxxxx xxxxx xx x xxxxx xxxx xxxxxx xxxxxxxx, xx xxxx xxxxxxx x xxxxxxxxx xxxx. xx xxxxxxxx xxxxxx xxx xxxx xxxxxx xxxx xxxxx.xxxxxx xx xxxxxxxx 2 xxxxxxx xx xx xxxxxx xxxx:x1. `xxxxxxxxxxxxxxxxx` xxxxxx xxxx xxxxxx xxxx xxxxx, xx xxxx xxx xxxx xxxxxxxxxxx2. `xxxxxxxxxxxxxxxxx` xxxxxx xxxx xxxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxx.xxxxxxxx #23248 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-12-11",
+    "revisionId": "7d5f6e8c493b96898ba01edede1522121fe945fc",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 3
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.18,
+      "complexity": 25.82,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 16.96
+  },
+  "bdf32847b1ffcb3aa4d0bef058f86e65656e99fb": {
+    "commitComment": "[xxxxx-26021][xxx][xxxxxxxx] xxxx xxxx xxxx xxx xxx -0.0 xx xxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23043xxxxxxx xxx 4 xxxxxx xx xxxx xx xxxx xxxx xxx xxx -0.0:x1. xxxxxxxxxx xxxxxxxxxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.x2. xxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.x3. xxxxxxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxxx xx xxx xxxx xxxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxxx xx xxx xxxx xxxxx.x4. xxxxxx xxxxxxxxx xxxx. `-0.0` xxx `0.0` xxxxxx xx xxxxxxx xx xxxx. xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxxx.xxxxx xxxx 1 xx xx. xxx xxxxxxxxxx xxxxxxx xxxxxxx xxx xxx -0.0, xxx xxx xxxxxx/xxxxx/xxx, xx xxxx xxxxxxxxxxx xxxxxxx xxx xxxxxx/xxxxxxxx.xxxxxx 2, 3 xxx 4 xxx xxxxxxxxxxx, xx xxxx xxxxxxx `xxxxxxxxx` xxxxxx xxxxxxxx, xxx xxxxxxxxx xxxx xxxx xxxxxxxxx xxxxxx xxxxxxxxxxxxxx, xxx xxx xxxx xxxxx xxxxxxx xxx -0.0 xxx 0.0.xxxx xxx xx, x xxxxxx xxxxxxxx xx: xxxxxxxxx xxxxx/xxxxxx xxxx xxxxxxxx xxxxxx xxxx (`xxxxxxxxx`, `xxxxxxxxxxxxxxx`, `xxxxxxxxxxxxx`). xxxx xx xxx'x xxxx xx xxxxx xxxxx xx xxxxxxx.xxxxxxxxxxx xxxx xxxxxxxxx, xxxx xx xxxxx xxx xxxxxxxx xx xxx xxx -0.0 xxxx `xxxxxxxx` xx `xxxxxxxxxxxx`, xx xxxx xxxxxx xxxx `xxxxxxxxx.xxxxxxxx` xxxx xxx xxxxxx xxxx, xxxxx xxxxxxx xxx xxxx xxxxxxxx. xx'x xxxx xxxxxx xx xxx xxxxxxxx xxxxxxxxxx xxx xx xx xx xx `xxxxxxxxxxxx`.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23239 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-08",
+    "revisionId": "bdf32847b1ffcb3aa4d0bef058f86e65656e99fb",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 3
+      },
+      {
+        "fileType": "scala",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.25,
+      "complexity": 20.77,
+      "interrelatedness": 3.98
+    },
+    "percentOfAberrantCE": 7.24
+  },
+  "8926c4a6237ab059875aa7502d6417317d58381a": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxxx",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "8926c4a6237ab059875aa7502d6417317d58381a",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "mvn",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "ff4bb836aa768082df9227628dfd5a837f8e4f4e": {
+    "commitComment": "[xxxxx-25817][xxx] xxxxxxx xxxxxxx xxxxxx xxxxxxx xxxxxxxxxxx xx xxx xxx xxxxxxx xxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22745 , xxxxxxx xxxxxxx xxxxxxxx xxx xxxxxxxxxxx xx xxxx xxxx xxx xxx xxxx. xxxx xx xx xx xxx xxx xxxxx xxxx.xxxxx xxxxxx xxx xx xxxx'x xxxx xxxxxx xx, `xxxxxxxxxxxxxxxxxxxxx` xxxxx xx xxx xxx xxxx xxxx xx xxx xxxxx xxx xxxxxxxxxx, xxxxx xx xxx xx xxxxxxxxxx xxx xxx xxxx xxxx xx xxxxx. xx xxx xx, xx xxx xxxxxx `xxxxxxxxxxxxxxxxxxxx`, xx xxxxxx x `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`, xxx xxxx xxxxxx `xxxxxxxxxxxxxxxxxxxxx` xxxx xxx xxxxx xxx xxxxxxxxxx xx xxxxxxxx xxx xxx xxxx xxxx xx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxx x xxx xxxx xxxxxxxxxxxx #22812 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-28",
+    "revisionId": "ff4bb836aa768082df9227628dfd5a837f8e4f4e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 6
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.02,
+      "complexity": 27.98,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 11.01
+  },
+  "3238e3d1c0d9be5c43a72705e18afbbb4c512e15": {
+    "commitComment": "[xxxxx-26348][xxx][xxxx] xxxx xxxx xxxxxxxxxx xx xxxxxxxx xxxxxx xxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxx xxxx xxxxx xx xxxx xxxx xxxxxxxxxx xx xxxxxxxx xxxxxx xxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxx-xxxx xxxxxxxxxx #23297 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-12-13",
+    "revisionId": "3238e3d1c0d9be5c43a72705e18afbbb4c512e15",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 5
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.15,
+      "complexity": 24.85,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 1.66
+  },
+  "ac586bbb016d70c60b1bd2ea5320fd56c3a8eead": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxx(xxxxxxxx xxxxxxx)x",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "ac586bbb016d70c60b1bd2ea5320fd56c3a8eead",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "mvn",
+        "count": 1
+      },
+      {
+        "fileType": "sh",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 81.11,
+      "complexity": 18.89,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 1.32
+  },
+  "c4efcf1ddde9478bf9d62f63aada3dcfce07c66c": {
+    "commitComment": "[xxxxx-25714][xxx][xxxxxxxx] xxxxxxx xxx xxxxxxx xxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxx xxx xxxx xxxxxxx xxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22702/xxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22711 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx x73x76xxx3x33xxxx0xx451726xx50740xxxx689)xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-10-13",
+    "revisionId": "c4efcf1ddde9478bf9d62f63aada3dcfce07c66c",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 77.95,
+      "complexity": 22.05,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.34
+  },
+  "e853afb416cdbfa3078c00295b0b3da4bcaed62e": {
+    "commitComment": "[xxxxx-26448][xxx] xxxxxx xxx xxxxxxxxxx xxxxxxx 0.0 xxx -0.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23043 , xx xxxxxxxxxx x xxxxxxxx xxxxxx: xxxxx xxxxx xxx xxx xxxx xx xxxxxxxxxxx 0.0 xxx -0.0 xxxxxxx.xxxxxx xx xxxxxxxx xx xxxxxxxxxxx xxx xx xxx xxxxxxxx xxx, xx xxxxxx xxx xxxxxxxxxx xxxxxxx 0.0 xxx -0.0 xxxxxx xxxxx.xxxxx xxxx xx, xx xxx xxxxxxx xxx xxxxxx xxxxxxxxx xxx, xxxx xxx xxx xxxxxxxx xxx xxxxxx xxxxxxx xxxxx, xx xxxxxxxxx xxx xxxxxxx xxxxxxxx xxxxxxx. xxxx xxxx xxxxxxxxx xxxx xxxxx xxxxxxx xxxxxxxx xxxxxxx xxxx xx xxx xxx xxxx xxxxxxxx, xxx xxx xxxxx xxx xxxxxxxxxxx -0.0.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxx #23388 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2019-01-09",
+    "revisionId": "e853afb416cdbfa3078c00295b0b3da4bcaed62e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 13
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.03,
+      "complexity": 27.65,
+      "interrelatedness": 0.32
+    },
+    "percentOfAberrantCE": 12.44
+  },
+  "08f74ada3656af401099aa79471ef8a1155a3f07": {
+    "commitComment": "[xxxxx-26390][xxx] xxxxxxxxxxxxx xxxx xxxxxx xxxx xx xxxxxx xxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx x xxxxx xxxxx xx.xxxx xxxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxxxxxx: xxxx xxxx xxxxxx xxxx xxx xxx xxxxxxxxxxxxxx. xxxxxxx, xxx `xxxxxxxxxxxxx` xxxx xxxx xxx xxxx xx xxxxxx xxxxxxx, xxx xxxx xxxxxx xx-xx xxxxxxx xxx xxxxxx.xxxxxx xx xxxxxxx xxx `xxxxxxxxxxxxxxxxxxxxxx` xxxx xx xxxxxx xx-xx xxxxxx xx xxxx, xxx xxxxx xx xxx `xxxxxxxxxxxxx` xxxx xx xxxx xx xxxxxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23343 xxxx xxxxx-xxx/xxxxxx-xxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-19",
+    "revisionId": "08f74ada3656af401099aa79471ef8a1155a3f07",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 7
+      }
+    ],
+    "metricsSummary": {
+      "volume": 67.76,
+      "complexity": 32.24,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 3.73
+  },
+  "befca983d2da4f7828aa7a7cd7345d17c4f291dd": {
+    "commitComment": "[xxxxx-26382][xxxx] xxxxxx xxxxxxxxxx xxxxxx xxxxxx -0.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx xxxx xx x xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23239xxxxx `xxxxxxxxxxxxx` xxxx xxxxxxxxx xxxxxxx xxxxx/xxxxxx xxxxxx(xxx xxx -0.0), xx xxx xxxxxx xxxxx'x xxxx xx xxxxxx xx.xxxxxxxxx, xxx xxxxxxxxxxx xxx xxxxxx-xxxxx, xxxx xx xxxxxxxx xx xxxxxxxxx `-0.0` xx xxx xxxxxx xxxxxxxxxx, xx xxxx xx'x xxxx xxxx xxx xxxxxx xxxxxxxx. xxxx xxxx xxxxxx xxxxxxxxxx xxxxxxx xxx xx xxxx.xxxxxx xx xxx x xxx xxx, xxx x xxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23334 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-18",
+    "revisionId": "befca983d2da4f7828aa7a7cd7345d17c4f291dd",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.13,
+      "complexity": 19.36,
+      "interrelatedness": 8.51
+    },
+    "percentOfAberrantCE": 10.49
+  },
+  "c9bb83a7d66f52f1b9d95257f11f24fe72546e29": {
+    "commitComment": "[xxxxx-25602][xxx] xxxxxxxxx.xxxxxxxxxxxxxxx xxxxxx xxx xxxxxxx xxx xxxxx xxxx xxx xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx `xxxxxxxxx.xxxxxxxxxxxxxxx`, xx xxxxxx xxxx xxxx `xx.xxxxxxx` xxxx xxx xxxxx xx xxx xxx, xx `xxxx.xxxxxxx` xxx xxxxxxx xxx xxx xxx xxxxxx xx, xxx xxxxx xxxxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxx xxxxxxxxxxxxx #22621 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx 71x24xxx36xx6x3x50447x019xx893490xxx1xx4)xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-04",
+    "revisionId": "c9bb83a7d66f52f1b9d95257f11f24fe72546e29",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      }
+    ],
+    "metricsSummary": {
+      "volume": 69.08,
+      "complexity": 30.92,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 10.43
+  },
+  "6c1f7ba8f627a69cac74f11400066dd9871d9102": {
+    "commitComment": "[xxxxx-26313][xxx] xxxx `xxxxxxxxxxxxxx` xxxx xxxxx xx xxxx xxxxxxx xxx-xx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23208/xxxxx#x239684490 , xx xxxxxx xxx `xxxxxxxxxxxxxx` xx xxxx xxxxxxx xxx-xx xxxxxx xxxx `xxxxxxxxxxxxxxxxx`, xx xxxxxxx xxxxx-xxxx xxxxx.xxxx xxx `xxxxxx` xxxxxxxx, xx xxxxxx xxxx xxxxxx xxxxxxxxxx xx xxx xxxxxxxxx. xx xxx xxxxxx xx xxxxx xxxxxxxxx x xxxxxxxxxx xxx, xx xxxx xxxx xxxxxx xxx xxxx xxxxx xxxx xx xxxxx'x xxxx xx xx xxxxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxx.xxxxxxxx #23266 xxxx xxxxx-xxx/xx-xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-13",
+    "revisionId": "6c1f7ba8f627a69cac74f11400066dd9871d9102",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 60.19,
+      "complexity": 16.62,
+      "interrelatedness": 23.19
+    },
+    "percentOfAberrantCE": 9.44
+  },
+  "34f229bc2116e443fa7f4e20d5277c4a27d02c47": {
+    "commitComment": "[xxxxx-25710][xxx] xxxxx xxxxxx xxxxxx xxxxxxx xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxxxx `xxxxx` xxxxxxx xxxxxxx xx xxxxx xxxxxxxxxxx. xxxx xx xxxxxxxxxx, xxx xx'x xxxxxx xx xx xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxx xxxxxxx.xxxxxxxx xxxx xx,  xxx xxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xxx xxxxx, xxxxx xx xxxxxx xx xxxxxxxx xxxxxxx xxxx. xx xxxx xx, xxx xxxxxxx xxx xxxxxxx xxxxx xxx xxxx xxx xxxxxxxx. xxxxx xxx 2 xxxxxxxxx xxxxx:x1. xxx xxxx xxxxxxxxxx xxxx xxx x xxxx xxxxx. xxx xxxxxxx xxx xxxxxxx xxxx xx xxxx xx xxxx.x2. xx xxxx xxxxx. xxx xxxxxxx xxx xxxxxxx xxxxx xxx xxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxx xxx x xxx xxxxxxxxxxxxxxxxx #22698 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-13",
+    "revisionId": "34f229bc2116e443fa7f4e20d5277c4a27d02c47",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "txt",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 76.75,
+      "complexity": 23.25,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 9.02
+  },
+  "9610efc252c94f93689d45e320df1c5815d97b25": {
+    "commitComment": "[xxxxx-26055][xxxx] xxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxx xx xxxxxxxx xx xxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx'x xxxx xx xxxx xxxxxxxxxxx xxxxxxxxx xx xxxxxxx, xx xxxx xxxxx xxxx xxxx xxx xxxxxx xxxx xxx xxxx xxxx xxxx xxxxxxxxx. x.x. xx xxx'x xxxx xx xxxxx xxxxxxxxxxxxx xxx xxxxxxxx xxxxxxx.xxxxxx xx xxxxx `xxxxxxxxxxxxxxxxxx` xxxxxxxxxxx xx xx xxxxxxxx xx xxxxxxx, xx xx xxxxxxxxxx xxxx `xxxxxxxxxxxx` xxx `xxxxxxxxxxxx`xx## xxx xxx xxxx xxxxx xxxxxx?xx/xxxxxxxxx #23029 xxxx xxxxx-xxx/xxxxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-15",
+    "revisionId": "9610efc252c94f93689d45e320df1c5815d97b25",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 4
+      }
+    ],
+    "metricsSummary": {
+      "volume": 86.92,
+      "complexity": 13.08,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 4.07
+  },
+  "9690eba16efe6d25261934d8b73a221972b684f3": {
+    "commitComment": "[xxxxx-25680][xxx] xxx xxxxxxxxx xxxxxxxx xxxxxxx'x xxxxxx xx xxxxxxxxx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxx xxx xxxxxxxxx xxxxxxxx xxxxxxxxx xxx xxxxxxx xxxx xxxxxxx(xxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/9078). xx xxxx'x xxxxxxxx xxxx xx xxxxxxx xxxx xx xxx xxxxx xxxxxxxx xxxxxxxxx, xxx xxx xxxxx xxxxxxx xx, xxx xxxxxxxx xxxx xx xxx xxxxx xxxxxxxxx xxxxxx, xxxxx xxxxx x xxx xxxxxxxx xxx xxxxx xxxxx'x xxxxx xxxxxxxxxx.xxxxxx xx xx-xxxxxxxxxx xxx xxx xxxxxxxxx xxxxxxxx xxxxxxxxx. xxx `xxxxxxxxxxxxxxxxxxxxxxxx` xx xxxx x xxxxxx xxxxx xxxxxxxx, xxxxx xxxxxxx xxx `xxxxxxxxxxxxxxxxxxxxxxxxxxxx` xxxxxx xxx xxxx xxxxxx xx xxxxxxxx-xxxxxxxx xxx xxxxxxxxx xxxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxx.xxxxxxxx #22674 xxxx xxxxx-xxx/xxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-17",
+    "revisionId": "9690eba16efe6d25261934d8b73a221972b684f3",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 13
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.54,
+      "complexity": 25.46,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 9.3
+  },
+  "78e133141ce8131c60181f947346802864b0951a": {
+    "commitComment": "[xxxxx-25708][xxx] xxxxxx xxxxxxx xxxxx xx xxxxx xxxxxx xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxxxx xx xxx xxx xxxxxxxx, xxxx x xxxxx xxxxxxxx `xxxxxx`, xx xxxxxxxxx xx xxxxxxxxx xxxxxxxx. xxx xxxx xxxxxxx xxxxxx xxxxx xx xxxxx://xxxx.xxxx.xxx/2014/12/04/xx-xxx-xxxxxx-xxxxxxxxxx-xxxx-xxxxx-xx-xxx-xxxxxx-xxxxxxx/xxxxxxxxx, xx xxxxx xxx xxxxxx, xx xxxxx xxxxxx xx x xxxxxx xxxxxx xxxx xxxxx xx xx xxxxx xx, xxxxx xxxxxx xxx xxxxxxxx xxx xxxx xx xxxxx xxxxxx. xxxx xx xxxxx xxx xxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxx xxxxxxxxxxxx #22696 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-10-12",
+    "revisionId": "78e133141ce8131c60181f947346802864b0951a",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 4
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      },
+      {
+        "fileType": "out",
+        "count": 1
+      },
+      {
+        "fileType": "sql",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.36,
+      "complexity": 25.64,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 16.51
+  },
+  "d4b1da839e16c2a1752d6020f3470b4fbe94843b": {
+    "commitComment": "xxx xxx: xxx xxxxxxx xxxxxxx",
+    "commitDateTime": "2018-11-08",
+    "revisionId": "d4b1da839e16c2a1752d6020f3470b4fbe94843b",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 68.69,
+      "complexity": 31.31,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 7.91
+  },
+  "954ef96c495268e3a22b7b661ce45c558b532c65": {
+    "commitComment": "[xxxxx-25530][xxx] xxxx xxxxxx x2 xxx xxxxxxxx (xxxxx xxxxx)xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxx xxx xxxxx xxxxx xxx xx xxxxx xxx xxxx xxx xxxxxxxx xxxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23086xxxxx xxx xxxx xxxx-xxxxx xxxxx:xxxxxx://xxxx.xxxxxx.xxx/xxxxxxxx/x/1xx26xxxxxxxxxxx4xxxx2x6x8xxxxxxx7xxxxxxxxx4/xxxx?xxx=xxxxxxxxxxxxxxxxxx xx xxxxxxx `xxxxxxxxxxxxxxxxxxxxxxxxx` xx `xxxxxxxxxxxxxxxxxx`, xxx xxxx xx xxxxxx `xxxxx`. xxxxxxx `xxxxxxxxxxxx` xx `xxxxx`. xx xxxx xxxxxx xx xxxx xxxx xx xxxxx xxx xx xxxxxxxxx.xxxxxx xx xxxx xxxxxxx xxx xxxx xxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22688 . xxx xxxx xxxxxx xxxx xxxxxx x xxxxx xxx xxxx/xxxxx.xxx xxx xxxxx xxxxx xxxxxx xxxxxxx:x1. xx xxxx xxxxxx `xxxxxxxxxxxxxxxxxxxxxx` xxxxx xxx xxxxxxxxx xxxxx2. xx xxxx xxxxxx `xxxxxxxxxxxxxxxxxxxxxxxxx`, `xxxxxxxxxxxxxxxxxxx`, xxx. xxx xxx xxx xxx-xxxx xxxxx xxxx. x xxxxx xxxxxxxxx xxxx xxxxx xxxxxx xx xxx `xxxxxxxxxx`, xxx xxx xxx-xxxx xxxxx xxxx xxxx xxxxx xx xxxxx xxxx, xx xxxxx xx xxx xxxx xxxxxx.x3. xx xxxx xxxxxx `xxxxxxxx` xxxx xxxx xxxxxx xxx: xxxxx://xxxxxx.xxxxxx.xxx/xxxx/xxxxxx/xxxxx-26356xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23208 xxxx xxxxx-xxx/xxxxxxxx-xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2019-01-15",
+    "revisionId": "954ef96c495268e3a22b7b661ce45c558b532c65",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 10
+      },
+      {
+        "fileType": "scala",
+        "count": 10
+      }
+    ],
+    "metricsSummary": {
+      "volume": 75.16,
+      "complexity": 21.02,
+      "interrelatedness": 3.82
+    },
+    "percentOfAberrantCE": 12.25
+  },
+  "6955638eae99cbe0a890a50e0c61c17641e7269f": {
+    "commitComment": "[xxxxx-26459][xxx] xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxx xxxxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx x xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/18576xxxxx xxxxx xxxxx xxxx `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx` xxxx xxx xxxx xxxxx xxx `xxxxxxxxxxxxxx` xxxx, xx xxxx xxxx xx xxxx xxx xx xxxx.xxxxxx xx xxxxxxx `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`, xxx xxx `xxxxxxxxxxxxxx` xx xxxxxxx xx. xxxx xxxxxx xx xx `xxxxxxxxxxxxxxxxxxxxxxxxxx`xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23390 xxxx xxxxx-xxx/xxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxxxxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2019-01-10",
+    "revisionId": "6955638eae99cbe0a890a50e0c61c17641e7269f",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 4
+      }
+    ],
+    "metricsSummary": {
+      "volume": 69.29,
+      "complexity": 30.71,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 6.74
+  },
+  "8b18dc00725c19cd7d3cdc6752f4a4137d5af350": {
+    "commitComment": "[xxxxx] xxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx xxxx 2.4.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx 2.4.0 xx xxxxxxxx, xx xxxxxx xxxx xx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22984 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx 973x7x01xx0788x6x5x21224x96x33x14x5x8x64)xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-11-08",
+    "revisionId": "8b18dc00725c19cd7d3cdc6752f4a4137d5af350",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 61.29,
+      "complexity": 38.71,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "12640d674b0af6716023fad30fe12cee728bfe34": {
+    "commitComment": "[xxxxx-26243][xxx][xxxxxxxx] xxx xxxx xxxxx xxxxxx xx xxxxxxxxxxxxxxxxxx.xxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xx1. xxxxxx `xxxxxxxxxxxxxx` xx `xxxxxxxxxxxxxxxxxxxxxxx`, xxx xxxx xx xx x xxxxxxxxx xxxxx2. xxxx `xxxxxxxxxxxxx` xxx xxx xxxxxxxxxxxxxx xx x xxxxxxxxx xxxxx3. xxxx xxxx xxxxxxx xx xxxxxxxx4. xxx `xxxxxxxx` xx xxxx xxxxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #23329 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxx <xxxxxx223@xxxxxx.xxx>x",
+    "commitDateTime": "2018-12-17",
+    "revisionId": "12640d674b0af6716023fad30fe12cee728bfe34",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 5
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.04,
+      "complexity": 25.96,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 7.51
+  },
+  "ac26a1dd550b17b9ef8e4b1732e44528365a0395": {
+    "commitComment": "[xxxxx-26147][xxx] xxxx xxxx xxx xxxxxxxxxxx xxxxxx xxx xxxx xxxx xxxxxxxxxxxxxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22326 xxxx x xxxxxxx xxxx, xxx xxx xxxxxx xxxx xxx xxxxxxxxxxx xx xxxx xxxxxxxxx. xxxx xxxxxx xxxx xxxx xxxxx xx xxxxxxxxxx xxxx xxxx xxxx xxxx xxx xxxxxxxxxxx.xxxxxx xx xxxxx xxxx xxxxxxx.xxx xxx xxxxxxxxxxxx #23153 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx xxxx80958x366x399466x9xxx8x03xx7x3x7x9xx)xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-28",
+    "revisionId": "ac26a1dd550b17b9ef8e4b1732e44528365a0395",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 80.26,
+      "complexity": 19.74,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 15.11
+  },
+  "ec1fafe3e78a40372975dfacb2516fe24bdfa2d2": {
+    "commitComment": "xxx xxxxxxxx xxxxx xx xxxxx",
+    "commitDateTime": "2018-10-19",
+    "revisionId": "ec1fafe3e78a40372975dfacb2516fe24bdfa2d2",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "mvn",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 0.0,
+      "complexity": 0.0,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 0.0
+  },
+  "ab5752cb952e6536a68a988289e57100fdbba142": {
+    "commitComment": "[xxxxx-25747][xxx] xxxxxx xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xx`xxxxxxxxxxxxxxxxxxxxxxxx` xx xxxx xx 2 xxxxxx:x1. `xxxxxxxxxxxxxxxxx.xxxxxxxxxxx`x2. `xxxxxxxxxxxxxxxxxx.xxxxxxxxx`xxxxxx xx xxx `xxxxxxxxxxxxxxxxx.xxxxxxxxxxx`, xx xxxxx xxxxx xxxxx xxxxxxx xx xx xxx xxx xxxxxxxxxx xxxxxx xx xxx. xxx xxxxxxxxxx xxxxxx xxx xx xxx xxx xxxxxxx xxxxxxx:x1. xxx xxxx xxxxxx xxxxx'x xxxx x xxxxxxxxxx xxxxxx(xxxx, xxx, xxx.)x2. xxx xxxxxxxxxx xxxxxx xxxxxx xx xxxx3. xxx xxxxxx xx xxx xxxxxxxxxxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxx xx xxx, xxxx xxxxxx xxxxxx xxxx xxxxxx xxxxxx xxxxxx xxxx, xxx xxxxx `xxxxxxxxxxxxxxxxx` xxxxxxxxxxxxxxx xxxx xxxxxx xxxxxx xxxxxx xxxx, xx `xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx` xx xxx xxxxxx.xxxxxx xx xxx `xxxxxxxxxxxxxxxxxx.xxxxxxxxx`, xx xxxxx xxxxx xxxxx xxxxxxx xx xxx. xxx xxxx xxxx, xx xxxx xxx `xxxxxxxxxxxxxxxxxxxxxxxx` xx xxxxxxx `xxxxxxxxxxx` xx `xxxxxxxxx`, xx xxx xxxx xxxxxx xxxxxx xxxxxxx xxxxx.xxxxxx xx xxxxxxx `xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx`, xxx xxxx xxxx xxxx xxxx xx `xxxxxxxxxxxxxxxxxx`xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #22750 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxx xxxx <xxxxxxxx@xxxxxx.xxx>x",
+    "commitDateTime": "2018-10-21",
+    "revisionId": "ab5752cb952e6536a68a988289e57100fdbba142",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 4
+      }
+    ],
+    "metricsSummary": {
+      "volume": 70.31,
+      "complexity": 29.69,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 2.35
+  },
+  "2ff91f213d1312357d36fa2012387a131389077e": {
+    "commitComment": "[xxxxx-25454][xxx] xxx x xxx xxxxxx xxx xxxxxxx xxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/20023 xxxxxxxx xx xxxxx xxxxxxxxx xxxx xxxxxx xxxxxxx xxxxxxxxxx, xx xxxxxx xxx xxxxxxxxxxxxx xx xxxxxxxx. xxxx xx x xxxxxxxx xxxxxx xxx xx xxxxxxxxx xx xxx xxxxxxx_xxxxxxxxxx_xxxxx_xxxx_xxxx xxxxxx. xxxxxxx, xxxx xx xxxxxxxxxx xxxxxxx xxxxxxxx xxxxxx: xxxx x xxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxxxxx, xxxxx xx xxx xxxxxxxxx xx x xxxxxx. xxxx xx xxx x xxx xxxxxx xxx xx: `xxxxx.xxx.xxxxxxx.xxxxxxxxxxxxxxxxxxxx`.xxxxxx xxx xxxxx xxxxx xx xxxx xxxxxx xxxxx xx xxxxx-25454, xxxxx xx xxxxxx xx x xxxx-xxxxxxxx xxx xx xxxxxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxxxxxxxxxx #22494 xxxx xxxxx-xxx/xxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx x0990x3xxxx752x6460x6360x1x773138364x774)xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-09-27",
+    "revisionId": "2ff91f213d1312357d36fa2012387a131389077e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 76.5,
+      "complexity": 23.5,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 12.2
+  },
+  "cd92f25be5a221e0d4618925f7bc9dfd3bb8cb59": {
+    "commitComment": "[xxxxx-25746][xxx][xxxxxxxx] xx xxx xxx xxxxxxxxxxx xx xxxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22749.xxxxxx xx xxxxxxxxx xxx xxx xxxxxxxxxx xx `xxxxxxxxxxxxxxxxx.xxxxx`, xx xxx'x xxxx xx xxx `xx(xxxxxx ...)` xxxxx xxx xxxx xxxxx. xxxx xxx xxxxxx xxxxxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxx xxxxxxxxx(x.x. `xxxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxx(0, xxxxxx), xxxxx)`), xx xxxxxxx xxxxxxxxxx xxxx xxxxxxx xxxx xxx xxxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #22898 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-01",
+    "revisionId": "cd92f25be5a221e0d4618925f7bc9dfd3bb8cb59",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.32,
+      "complexity": 27.68,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 4.32
+  },
+  "a1adde54086469b45950946d9143d17daab01f18": {
+    "commitComment": "[xxxxx-24341][xxx][xxxxxxxx] xxxxxx xxxxxxxxxx xxxxx xxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxx 2 xxxxxx xx xxxxx xxx xxxxxxxxxxx `xxxxxxxxxx`: xxx xxxx `xxxxxxxxxxxxxxx` xxx `xxxxxxxxxx.xxxxxxxxxxxxxxxxxxx`. xx xxxxxx xxxxx xxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxxxxxxxxxx #22563 xxxx xxxxx-xxx/xxxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-09-27",
+    "revisionId": "a1adde54086469b45950946d9143d17daab01f18",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      },
+      {
+        "fileType": "out",
+        "count": 4
+      }
+    ],
+    "metricsSummary": {
+      "volume": 78.15,
+      "complexity": 21.85,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.75
+  },
+  "71c24aad36ae6b3f50447a019bf893490dcf1cf4": {
+    "commitComment": "[xxxxx-25602][xxx] xxxxxxxxx.xxxxxxxxxxxxxxx xxxxxx xxx xxxxxxx xxx xxxxx xxxx xxx xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx `xxxxxxxxx.xxxxxxxxxxxxxxx`, xx xxxxxx xxxx xxxx `xx.xxxxxxx` xxxx xxx xxxxx xx xxx xxx, xx `xxxx.xxxxxxx` xxx xxxxxxx xxx xxx xxx xxxxxx xx, xxx xxxxx xxxxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxx xxxxxxxxxxxxx #22621 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-10-04",
+    "revisionId": "71c24aad36ae6b3f50447a019bf893490dcf1cf4",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      }
+    ],
+    "metricsSummary": {
+      "volume": 69.08,
+      "complexity": 30.92,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 10.43
+  },
+  "e25bce5cc78ec6a6c123dd87025e3d8392b0f70e": {
+    "commitComment": "[xxxxx-26030][xxxxx] xxxx xxxxxxxxxxxxxxxxxxxx xx xxxxxxxxx.xxxxx xx xx 2.4.0xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx xxxxx 2.4.0 xx xxxxxxx xx xxxxx xxxx, xx xxx xxxx xxxxxxxxxxxxxxxxxxxx xx xxxxxxxxx.xxxxx xx xx 2.4.0.xxxxxx xxxx, xxxxx xx xxxxxx xx xx xx xxx xxxxxx 2.4, xx xxxx xx xxxx xxxxxxx xxxxxxxxxxxx.xxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22977 xxxx xxxxx-xxx/xxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-13",
+    "revisionId": "e25bce5cc78ec6a6c123dd87025e3d8392b0f70e",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 2
+      }
+    ],
+    "metricsSummary": {
+      "volume": 77.62,
+      "complexity": 22.38,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 8.31
+  },
+  "39617cb2c0c433494e9f17fcd4e49c6300a9c4b0": {
+    "commitComment": "[xxxxx-26216][xxx] xx xxx xxx xxxx xxxxx xx xxxxxx xxx (xxxxxxxxxxxxxxxxxxx)xx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx'x x xxx xxxx xx xxx xxxx xxxxx xx xxxxxx xxx, xx xx xxx x xxxx xxxx xxxxxxx. xxx xxxxxxx, xxx `xxxx` xxxxxx, xxx xxxxxx, xxx xxxxxxxxx xxxxxx, xxx.xxxxx x xxxxxxxxxx xxxx, `xxxxxxxxxxxxxxxxxxx`. xx xxx x xxxxxxx xxxxxxxxxxx, xxx x xxxxxxx xx xxxx xxxx xxxxx xx xxxxxx x xxx xxxxxxx:`xxxxx`, `xxxxxxxx`, `xxxxxxxxxxxxx`, xxx.xxxxxxxxx, xxx xxx xxxxxx, xxx `xxxx` xxxxxx, xxx xxx xxxxxxxxx xxxxxx xxx xxxxxx xxxxxxxxxxxx. xx x xxxxxx, xx xxxx xxxx xxxxxx xx xxxx xxxxxx xxx xxxxxx xxxxxxxxxxxxx xxxxxx.xxxxxx xx xxxxxxxx xx xxxx xxxx xxxxxxxxxx xxxxxx, xxx xxxx xxxxxxxxxxxxxxx xxxxxx xxxx x xxxxxxx xxxxx. xxx `xxxxxxxxxxxxxxxxxxx` xx x xxxx xxxxx, xxx xxx xxxxxxxx xxxxxxxxxxxxxx xx `xxxxxxxxxxxxxxxxxxxxxxxx`, xxxxx xx xxxxxxx.xxxxxxxxxx xxxxx xx xxxxxxxxx xx xxx xxxxxx xxxxxxxxxx(xxx xxxxxx xxxxxxxxxx), xx 3.0 xx x xxxx xxxxxx xx xx xx.xxxxxx xx xxx xxxxx xx xx xx xxxx xxxx xxxxxxxxx. xx xx'x xxxxxxxx, x'xx xxxxxx x xxxxxxxx xxxx xxx xxx xxx xxx xxxxxx xxxx xxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxx.xxxxxxxx #23178 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-12-02",
+    "revisionId": "39617cb2c0c433494e9f17fcd4e49c6300a9c4b0",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 3
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.04,
+      "complexity": 27.96,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 10.77
+  },
+  "1f1d98c6facd556b70f457184231b5af78de8d53": {
+    "commitComment": "[xxxxx-26580][xxx] xxxxxx xxxxx 2.11 xxxx xxx xxxxx xxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22732 , xx xxxxx xxx xxxx xx xxxx xxx xxxxxxxx xx xxxxx xxx xxxxxxxxx xx xxxxx 2.4.xxxxxxxxx, xxxxx xxxxx 3.0, xxxxx 2.12 xx xxx xxxxxxx. xxx xxxxx xxxx xxx xxxx xx xxxx xxx xxxxxxxx xxxxxxxxx xxxxx'x xxxx xxxx xxxxx 2.12.xxxxxx xx xxxxxxxx xx xxxxxx xxx xxxxx 2.11 xxxx, xx xx'x xxx xxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxxx xxxxx.xxxxxxxx #23498 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2019-01-11",
+    "revisionId": "1f1d98c6facd556b70f457184231b5af78de8d53",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 5
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 73.67,
+      "complexity": 26.33,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 9.13
+  },
+  "b73f76beb3c33feef0cb451726da50740ffed689": {
+    "commitComment": "[xxxxx-25714][xxx][xxxxxxxx] xxxxxxx xxx xxxxxxx xxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxx xxx xxxx xxxxxxx xxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22702/xxxxxxx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22711 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-10-13",
+    "revisionId": "b73f76beb3c33feef0cb451726da50740ffed689",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 77.95,
+      "complexity": 22.05,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 5.34
+  },
+  "09a91d98bdecb86ecad4647b7ef5fb3f69bdc671": {
+    "commitComment": "[xxxxx-26021][xxx][xxxxxxxx] xxx xxxx xxx xxxxxxx xxxxxxxx xxxxx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/23043 . xxx x xxxx xx xxxx xxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxx xx #23043 , xxx xxx xxxxxxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxxxxxxxxxx #23141 xxxx xxxxx-xxx/xxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-28",
+    "revisionId": "09a91d98bdecb86ecad4647b7ef5fb3f69bdc671",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 2
+      },
+      {
+        "fileType": "scala",
+        "count": 2
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 72.71,
+      "complexity": 19.54,
+      "interrelatedness": 7.75
+    },
+    "percentOfAberrantCE": 11.49
+  },
+  "ff876137faba1802b66ecd483ba15f6ccd83ffc5": {
+    "commitComment": "[xxxxx-23715][xxx][xxx] xxxxxxx xxxxxxxx xxx xxxx/xx_xxx_xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxx xx xxxxxxxxx xxxx xxx xxxxxxxx xx `xxxx/xx_xxx_xxxxxxxxx` xx xxxxxxxxx, xxxxxxxx xxx xxxxxxxx xxxxxx xxxxx'x xxxx xxxx xxxxx xx xxxxx: xxxxx://xxxxxx.xxxxxx.xxx/xxxx/xxxxxx/xxxxx-23715xxxxxx xx xxxxxxxx xxx xxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22543 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-09-27",
+    "revisionId": "ff876137faba1802b66ecd483ba15f6ccd83ffc5",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "r",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 1
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 87.2,
+      "complexity": 12.8,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 27.91
+  },
+  "d0990e3dfee752a6460a6360e1a773138364d774": {
+    "commitComment": "[xxxxx-25454][xxx] xxx x xxx xxxxxx xxx xxxxxxx xxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/20023 xxxxxxxx xx xxxxx xxxxxxxxx xxxx xxxxxx xxxxxxx xxxxxxxxxx, xx xxxxxx xxx xxxxxxxxxxxxx xx xxxxxxxx. xxxx xx x xxxxxxxx xxxxxx xxx xx xxxxxxxxx xx xxx xxxxxxx_xxxxxxxxxx_xxxxx_xxxx_xxxx xxxxxx. xxxxxxx, xxxx xx xxxxxxxxxx xxxxxxx xxxxxxxx xxxxxx: xxxx x xxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxxxxx, xxxxx xx xxx xxxxxxxxx xx x xxxxxx. xxxx xx xxx x xxx xxxxxx xxx xx: `xxxxx.xxx.xxxxxxx.xxxxxxxxxxxxxxxxxxxx`.xxxxxx xxx xxxxx xxxxx xx xxxx xxxxxx xxxxx xx xxxxx-25454, xxxxx xx xxxxxx xx x xxxx-xxxxxxxx xxx xx xxxxxxxx xxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxxxxxxxxxx #22494 xxxx xxxxx-xxx/xxxxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxxxxx <xxxxxxxxxx@xxxxx.xxx>x",
+    "commitDateTime": "2018-09-27",
+    "revisionId": "d0990e3dfee752a6460a6360e1a773138364d774",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "scala",
+        "count": 3
+      }
+    ],
+    "metricsSummary": {
+      "volume": 76.5,
+      "complexity": 23.5,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 12.2
+  },
+  "e3133f4abf1cd5667abe5f0d05fa0af0df3033ae": {
+    "commitComment": "[xxxxx-25497][xxx] xxxxx xxxxxxxxx xxxxxx xxxxx xxxxx xxxxxxx xxxxxx xxx xxxxxxx xxx xxx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxx xx xx xxxxxxxx xx xxxxx://xxxxxx.xxx/xxxxxx/xxxxx/xxxx/22524, xxx xxxxxxxx x xxxxx xxx.xxxxx xxxxxxx xxxxx xxxxx xxxxx xxxxxxx xxx 2 xxxxxxxx:x1. xx'x xxxx xxxxxxx xx `xxxxxxxxxxxx`, xxxx xxxx xxxxx xxx'x xxxx xxxxxxx x.x.x. xxxxx.x2. xx xxxxx xx xxxxxxxx x xxxxxx, xxxxx xxxx xxxxx xx xx xxxx xxxx xxxx xxx xxxxx xx xxx xxxxx-xxxxx.xxxxx xxxxx xxxxxxx xx xxxx xx xxx, xxxx xxxxxx xxx xxxxx xxxxx xxx xxxx xxxxxxx x.x.x. xxxxx, xxx xxxxxx xxxx. xxxx xx xxxxxxx `xxxxxxxxx`, `xxxxxxxxxxxxxxxxx`, `xxxxxxxx`, `xxxxxxxxxxxxxxxxx`.xxxxx xxxxxx xxxxxxx xx xxxx xx xxx. xxxx xx xxxxxxxx xx xxxxxxxxx xxx xxxxx xxxxxxx xxxxxxxx xxxx xxxxxxxx, xx xxxx xxx xxxxxxxx xxxx/xxxxxxxx xxxxx xxx xxxxx xxx xxxxx xxxxxxx xxx xxxx xxx xxxx xxxxxxx.xxxxx xxxxxx xxxxxxxxxxx, xxx xxxxxxxxxxxxxx xxxx xxxxxxx `xxxxxxxxxxxxxx.xxxxxxxxxxxxx`, xx xxxx xx xxxx xxxxxxx xxx xxxxx xxxx xx xxxxx xx xxxxx xx xxx xxxxx. xxx xxxxxxxx xxxx xxxx xxxxx, xx xxxxx xxx xxxxx xxxxxxx xxx-xxxxx xxxxxxx xx xxx-xxx, xx xxxx xxx xxxxx xxxx xxxxx xxx xxxx.xxxxx xxxx xx xxxxx?x1. xxx xxxx/xxxxxxxx xxxxx xxx'x xxxx xx xxxxx xxx xxxxx xxxxxxx xxx xxxx xxxxxxx. xx'x xxxx xxx xxxxxxxxxxx. (xxxx xx xxxx xx xxxxxx)x2. xxx xxxxxxxx xxxxxxxxx xxx xxxx xxxxxxxxxxx xxx xxxxx xxxxxxx xxxx, xxxxxxx xxx xxxxxxx xx xxxxx xxxxx xxxxxxxx xxxxxxxxx xxxx xxxxx xxxxxxxx, xxxxxx xxxxxxxx xxxxxxxxx xxxxxxx xxx xxx xxxx xxxx xxxxxxxx xxxxxxxxx. xx xxx xxxxxxxx xxxxxxxxx xxx'x xxxx xxxxx xxxxx xxxxx xxxxxxxx xxxxxxxxx. xxxx xx xxxx xxx xxxxxxxxxxx xxxx, xx'x xx xx xx xxxxxx xx xx xx xxx xxxx xxx xxxxxxxx xxxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx xxx xxxxxxxxxxxx #22630 xxxx xxxxx-xxx/xxxxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxxxxxxx <xxxxxxxx@xx.xxx.xxx>x",
+    "commitDateTime": "2018-10-09",
+    "revisionId": "e3133f4abf1cd5667abe5f0d05fa0af0df3033ae",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 7
+      }
+    ],
+    "metricsSummary": {
+      "volume": 74.45,
+      "complexity": 23.94,
+      "interrelatedness": 1.61
+    },
+    "percentOfAberrantCE": 16.98
+  },
+  "0b4e58187b787cc7a6d57a2a9d467934ece24252": {
+    "commitComment": "[xxxxx-23715][xxx][xxx] xxxxxxx xxxxxxxx xxx xxxx/xx_xxx_xxxxxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxx xxxx xx xxxxxxxxx xxxx xxx xxxxxxxx xx `xxxx/xx_xxx_xxxxxxxxx` xx xxxxxxxxx, xxxxxxxx xxx xxxxxxxx xxxxxx xxxxx'x xxxx xxxx xxxxx xx xxxxx: xxxxx://xxxxxx.xxxxxx.xxx/xxxx/xxxxxx/xxxxx-23715xxxxxx xx xxxxxxxx xxx xxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxx/xxxxxxxxx #22543 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x(xxxxxx xxxxxx xxxx xxxxxx xx876137xxxx1802x66xxx483xx15x6xxx83xxx5)xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-09-27",
+    "revisionId": "0b4e58187b787cc7a6d57a2a9d467934ece24252",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "r",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 1
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 87.2,
+      "complexity": 12.8,
+      "interrelatedness": 0.0
+    },
+    "percentOfAberrantCE": 27.58
+  },
+  "fa0d4bf69929c5acd676d602e758a969713d19d8": {
+    "commitComment": "[xxxxx-25829][xxx] xxxxxx xxxxxxxxxx xxx xxxx xxxx xxxx xxxx xxxxxxxx## xxxx xxxxxxx xxxx xxxxxxxx xx xxxx xxxx xxxxxxx?xxxxxxxxxxx xxxxxxxxxx xxx xxxx xxx xxx xxxxxxx xxxxxxxxxxxx. xxx xxxxxxx, xxx xxxx xx xxxxxxxx xxx xxxxxxxxxx xxx xxxxxxx xxxxx, `xxxxxxx.xxxxxxx` xxxx xxxxx xxx xxxxxxxxxx xxx xxxxxxx xxxx, `xxxxxxx` xxxxxxx xxxxxxxxxx xxxx, xxx.xxxxxx xx xxxxxxxx xx xxxxxx xxxxxxxxxx xxx xxxx xxxx xxxx xxxx xxxxxx, xx xxxxxx xxxx/xxxxx xxx xxxxxx. xx xxxx xxxxxxx xx xxxxx-xx xxxxxxxxx, xx xxxxx xxx xxxxxx xxx xxxx xxxxxxxxxx xxx xxxx xxx xxxxxxx xxxx xxxxxx.xxxxxxxxx xxxxxxxxx: `xxxxxxxxx`, `xxxxxxxxxxxxx`, `xxxxxxxxxxxxxx`, `xxxxxxxxxxx`, `xxxxxxxxx`, `xxxxxxxxxxxxx`.xxxxx xxxxx xxxxxx:x1. xxxx xxxxxx x1 xxxxx'x xxxx xxxx xxxxxxx, xx xxxxx xxxx xx xxxxxxx x xxxx/xxxxx xxx, xxxxx xxx'x xxxx xxxxxxxxxx xxxx.x2. xxxx xxxxxx x2 xxx xxxx xxxx xxxxxxx. x'xx xxxxx x xxxx xx `xxxxxxxxxxxxxxxxx` xx xxx xxx xxxxxx xx xxxx xxxx xx xxxxxxxxxx xxxx. xx xxx xxxxxx xx xxxxxx xxxxxxx xx xx xxx xxxxxx xxxx xxxx xxx xxxx xxxxxx x2.x3. xxx xxxxx'x xxxx xxxx xxxxxxx, xx xxxxx xxxx xx xxxxxxx x xxxx/xxxxx xxx. xxxx xx xxxx xxxxxx x1.x4. xxxx xxxxxx. x xxxxxxx xxx xx xxxx xxx xxxx xxxxxxx xxxx xxx xxxxxxx xx. xxx xxxxxxxx xxxxxxxxxxxxx xxxxxxx x xxxxxx xxxxxxx xxx xxxxx x xxxx xxxxxx xxxx xxx xxxxxxxx xxxx xx xxxxxxxxx xx xxxxx xxxxx xxx xxxx xxxxxxxxxx xxxx xx xxxxxxx xxxxx. xxxxx xx xxx xxx x xxxxxx xxx xxxx xx xxxxxxx xx xxxxxxx xxxxx xxxx xxx xxxx xxxxxxxxxx xxxx. xxxx xxx xx xxxx xx xxxxxxxx.xx## xxx xxx xxxx xxxxx xxxxxx?xxxxxxxxx xxxxx xxx xxx xxxxxxxxxxxxx #23124 xxxx xxxxx-xxx/xxx.xxxxxxxxxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>xxxxxxx-xxx-xx: xxxxxxx xxx <xxxxxxx@xxxxxxxxxx.xxx>x",
+    "commitDateTime": "2018-11-28",
+    "revisionId": "fa0d4bf69929c5acd676d602e758a969713d19d8",
+    "revisionWebURL": "https://github.com/apache/spark/commit/24e1e41648de58d3437e008b187b84828830e238",
+    "infraId": 62178,
+    "fileTypes": [
+      {
+        "fileType": "java",
+        "count": 1
+      },
+      {
+        "fileType": "scala",
+        "count": 19
+      },
+      {
+        "fileType": "md",
+        "count": 1
+      },
+      {
+        "fileType": "py",
+        "count": 1
+      }
+    ],
+    "metricsSummary": {
+      "volume": 61.2,
+      "complexity": 38.23,
+      "interrelatedness": 0.57
+    },
+    "percentOfAberrantCE": 8.46
+  }
+}

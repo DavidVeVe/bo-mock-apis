@@ -1,0 +1,15 @@
+{
+  "messageKey": "TESTS.CREATE.SUCCESS",
+  "createdTests": [
+    {
+      "testId": 2000000,
+      "paJobRoleId": 29,
+      "candidateId": 4
+    },
+    {
+      "testId": 2000001,
+      "paJobRoleId": 29,
+      "candidateId": 3
+    }
+  ]
+}

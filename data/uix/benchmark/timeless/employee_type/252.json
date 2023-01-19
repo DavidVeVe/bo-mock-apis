@@ -1,0 +1,116 @@
+{
+  "1": {
+    "Latin American and Caribbean Group (GRULAC)": {
+      "employees": 0.0819,
+      "vendorHire": 13.8993,
+      "contractHire": 0.0,
+      "others": 0.0
+    },
+    "Western European Group": {
+      "employees": 0.0816,
+      "vendorHire": 0.0,
+      "contractHire": 0.0,
+      "others": 0.0
+    },
+    "Asia-Pacific Group": {
+      "employees": 3.3934,
+      "vendorHire": 0.0,
+      "contractHire": 1.6413,
+      "others": 0.0
+    },
+    "Eastern European Group": {
+      "employees": 0.0,
+      "vendorHire": 41.659,
+      "contractHire": 0.0,
+      "others": 0.0
+    },
+    "North American Group": {
+      "employees": 32.3787,
+      "vendorHire": 0.5681,
+      "contractHire": 6.2966,
+      "others": 0.0
+    }
+  },
+  "2": {
+    "African Group": {
+      "employees": 0.0172,
+      "vendorHire": 0.0,
+      "contractHire": 0.0268,
+      "others": 0.0
+    },
+    "Latin American and Caribbean Group (GRULAC)": {
+      "employees": 0.8865,
+      "vendorHire": 0.7743,
+      "contractHire": 0.3784,
+      "others": 0.0038
+    },
+    "Others": {
+      "employees": 0.1213,
+      "vendorHire": 0.1021,
+      "contractHire": 0.0525,
+      "others": 3.398
+    },
+    "Western European Group": {
+      "employees": 9.092,
+      "vendorHire": 2.0442,
+      "contractHire": 2.3966,
+      "others": 0.8089
+    },
+    "Asia-Pacific Group": {
+      "employees": 23.4096,
+      "vendorHire": 14.4928,
+      "contractHire": 4.0557,
+      "others": 1.6913
+    },
+    "Eastern European Group": {
+      "employees": 6.1026,
+      "vendorHire": 2.6666,
+      "contractHire": 0.959,
+      "others": 8.3223
+    },
+    "North American Group": {
+      "employees": 10.9789,
+      "vendorHire": 4.4695,
+      "contractHire": 2.3104,
+      "others": 0.439
+    }
+  },
+  "3": {
+    "Latin American and Caribbean Group (GRULAC)": {
+      "employees": 1.9048,
+      "vendorHire": 2.0657,
+      "contractHire": 0.1535,
+      "others": 0.0
+    },
+    "Others": {
+      "employees": 0.0,
+      "vendorHire": 0.0,
+      "contractHire": 0.0,
+      "others": 7.4474
+    },
+    "Western European Group": {
+      "employees": 7.6102,
+      "vendorHire": 0.0,
+      "contractHire": 1.9799,
+      "others": 9.3401
+    },
+    "Asia-Pacific Group": {
+      "employees": 12.165,
+      "vendorHire": 0.0,
+      "contractHire": 1.2483,
+      "others": 32.0535
+    },
+    "Eastern European Group": {
+      "employees": 0.0,
+      "vendorHire": 6.979,
+      "contractHire": 1.6276,
+      "others": 0.2448
+    },
+    "North American Group": {
+      "employees": 13.9572,
+      "vendorHire": 0.0844,
+      "contractHire": 0.9358,
+      "others": 0.2027
+    }
+  }
+}

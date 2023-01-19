@@ -1,0 +1,44 @@
+[
+  {
+    "productivity":1.3954,
+    "quality":96.1766,
+    "cost":493.5238,
+    "type":2,
+    "industry":"BlueOptima's Universe"
+  },
+  {
+    "productivity":1.3824,
+    "quality":95.9391,
+    "cost":376.4652,
+    "type":1,
+    "industry":"You"
+  },
+  {
+    "productivity":1.6393,
+    "quality":96.4649,
+    "cost":570.5886,
+    "type":4,
+    "industry":"Expected score",
+    "industries":  [
+      {
+        "productivity":1.3954,
+        "quality":96.1766,
+        "cost":493.5238,
+        "industry":"Industry 1"
+      },
+      {
+        "productivity":1.3824,
+        "quality":95.9391,
+        "cost":376.4652,
+        "industry":"Industry 2"
+      }
+    ]
+  },
+  {
+    "productivity":1.2634,
+    "quality":95.1278,
+    "cost":549.0083,
+    "type":3,
+    "industry":"Your Industry"
+  }
+]
